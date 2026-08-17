@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ch08_q_001",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A counselor wants to measure whether her new depression inventory consistently gives the same results when administered repeatedly to the same client over time. She is interested in:",
+    "options": [
+      "Validity",
+      "Test–retest reliability",
+      "Concurrent validity",
+      "Content validity"
+    ],
+    "correct_index": 1,
+    "rationale": "Test-retest reliability assesses stability — whether the same test yields consistent scores across two administrations (at least 7 days apart). Validity concerns whether the test measures depression at all. Concurrent validity compares the new test to an existing established measure. Content validity asks whether items sample the full domain of depression symptoms."
+  },
+  {
+    "id": "ch08_q_002",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A counselor administers a new anxiety scale to a client. The scale has a reliability coefficient of .82 and a standard error of measurement (SEM) of 4. The client scores 72. If the client retook this test many times, approximately 68% of her scores would fall between:",
+    "options": [
+      "54 and 90",
+      "64 and 80",
+      "68 and 76",
+      "70 and 74"
+    ],
+    "correct_index": 2,
+    "rationale": "The 68% confidence interval = obtained score ± 1 SEM. With a score of 72 and SEM of 4: 72 − 4 = 68, 72 + 4 = 76. The interval is 68–76. Choice B uses ±8 (2 SEM, which would be the 95% CI). Choice D (±2) reflects a different SEM calculation."
+  },
+  {
+    "id": "ch08_q_003",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "Which of the following BEST illustrates construct validity?",
+    "options": [
+      "A new IQ test correlates highly with the Wechsler Adult Intelligence Scale-IV",
+      "A depression scale correctly predicts which clients will be rehospitalized within 6 months",
+      "A self-esteem inventory measures the theoretical construct of self-worth rather than directly observable behavior",
+      "A job skills test includes all major tasks required for the target job"
+    ],
+    "correct_index": 2,
+    "rationale": "Construct validity is the extent a test measures an abstract psychological trait or theoretical construct (like self-esteem, ego strength, or intelligence) — something that cannot be directly observed. Choice A describes concurrent validity (comparing to established tests). Choice B describes predictive validity. Choice D describes content validity (sampling the behavior domain)."
+  },
+  {
+    "id": "ch08_q_004",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A supervisor tells a new counselor: 'A test can be reliable without being valid.' The new counselor is confused. Which example BEST illustrates this principle?",
+    "options": [
+      "A scale that reads 150 lbs every time for someone who actually weighs 150 lbs",
+      "A scale that consistently reads 130 lbs for someone who actually weighs 150 lbs",
+      "A depression test that produces different scores each time the same client takes it",
+      "An IQ test that measures intelligence as defined by the test's theoretical framework"
+    ],
+    "correct_index": 1,
+    "rationale": "A reliable test gives consistent results — but those consistent results may be wrong (invalid). A scale that reliably reads 130 lbs for a 150-lb person is highly reliable (consistent) but invalid (doesn't measure actual weight). Choice A describes a test that is both reliable AND valid. Choice C describes low reliability. A valid test is always reliable, but a reliable test is not always valid."
+  },
+  {
+    "id": "ch08_q_005",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A test has a reliability coefficient of .80. Using the coefficient of determination, what percentage of the obtained score reflects true variance (rather than error)?",
+    "options": [
+      "80%",
+      "20%",
+      "64%",
+      "36%"
+    ],
+    "correct_index": 2,
+    "rationale": "Coefficient of determination = r². Here, .80² = .64, meaning 64% is true variance and 36% is error variance. This is a frequently tested formula: square the reliability coefficient to get the proportion of the score that is not error. Choice A (80%) confuses the coefficient itself with the proportion of true variance."
+  },
+  {
+    "id": "ch08_q_006",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A school counselor needs to administer an IQ test to a second-grader (age 7 years, 2 months). The MOST appropriate instrument is the:",
+    "options": [
+      "WAIS-IV",
+      "WISC-IV",
+      "WPPSI-IV",
+      "Stanford-Binet 5"
+    ],
+    "correct_index": 2,
+    "rationale": "The WPPSI-IV is appropriate for ages 2 years 6 months to 7 years 7 months — this child falls within that range. The WISC-IV is for ages 6–16 years 11 months, which technically overlaps, but a second-grader at 7 years 2 months is best served by WPPSI-IV. WAIS-IV is for adults (16–90). While the Stanford-Binet 5 could be used, the question asks which is MOST appropriate, and the Wechsler series uses WPPSI-IV at this age."
+  },
+  {
+    "id": "ch08_q_007",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A counselor administers an IQ test to a population of 10,000 adults selected at random. Based on what we know about the Wechsler Adult Intelligence Scale, approximately what percentage of examinees would score between 70 and 130?",
+    "options": [
+      "68%",
+      "95%",
+      "99.7%",
+      "50%"
+    ],
+    "correct_index": 1,
+    "rationale": "The WAIS-IV has mean = 100 and SD = 15. Scores of 70 and 130 are exactly ±2 standard deviations from the mean (100 − 30 = 70; 100 + 30 = 130). In a normal distribution, approximately 95% of scores fall within ±2 SDs. 68% falls within ±1 SD (85–115 on the Wechsler). 99.7% falls within ±3 SDs (55–145)."
+  },
+  {
+    "id": "ch08_q_008",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "Alfred Binet and Theodore Simon developed the first intelligence test in 1905. The original purpose of this test was to:",
+    "options": [
+      "Measure genius-level intelligence in the college population",
+      "Select military recruits based on cognitive ability",
+      "Identify Parisian children with intellectual disabilities for separate schooling",
+      "Assess whether immigrant children could adapt to American culture"
+    ],
+    "correct_index": 2,
+    "rationale": "The French Minister of Public Instruction commissioned Binet and Simon to identify children with intellectual disabilities so they could be educated separately. The test assumed intelligence = ability to understand school-related material. WWI military testing (Army Alpha/Beta) came later. Lewis Terman Americanized it for U.S. children in 1916."
+  },
+  {
+    "id": "ch08_q_009",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A counselor assesses a client's personality using a measure that presents 10 ambiguous inkblot images and asks the client to describe what each looks like. This is BEST described as:",
+    "options": [
+      "An objective self-report inventory",
+      "A projective test using the association format",
+      "A culture-fair intelligence test",
+      "An achievement measure"
+    ],
+    "correct_index": 1,
+    "rationale": "The Rorschach Inkblot Test is a projective measure using the association format ('What does this inkblot resemble?'). Projective tests present ambiguous stimuli to elicit unconscious projection of personality. Self-report inventories like the MMPI-2 present direct questions with structured response options. Culture-fair tests attempt to minimize cultural bias in item content — they are not projective measures."
+  },
+  {
+    "id": "ch08_q_010",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A colleague wants to assess a client for possible neurological or brain damage and asks which assessment tool would be most appropriate. The counselor should recommend the:",
+    "options": [
+      "Rorschach Inkblot Test",
+      "Thematic Apperception Test (TAT)",
+      "Bender Visual Motor Gestalt Test",
+      "Minnesota Multiphasic Personality Inventory-2"
+    ],
+    "correct_index": 2,
+    "rationale": "The Bender Gestalt II (Lauretta Bender) is primarily used to detect brain damage and neurological/motoric difficulties — clients copy 16 geometric figures and distortions may indicate neurological impairment. While it is also considered an expressive projective, neurological screening is its primary use. The Rorschach and TAT assess personality; the MMPI-2 assesses psychopathology."
+  },
+  {
+    "id": "ch08_q_011",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "When describing intelligence, J.P. Guilford distinguished between two types of thinking. A client who is asked to generate as many creative uses as possible for a brick is demonstrating:",
+    "options": [
+      "Convergent thinking",
+      "Divergent thinking",
+      "Fluid intelligence",
+      "Crystallized intelligence"
+    ],
+    "correct_index": 1,
+    "rationale": "Divergent thinking (Guilford) is the ability to generate novel, multiple ideas or solutions — it is the basis of creativity. Convergent thinking combines diverse ideas into a single correct answer. Fluid intelligence (Cattell) is inherited, culture-free reasoning capacity. Crystallized intelligence is knowledge accumulated through education and experience."
+  },
+  {
+    "id": "ch08_q_012",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "An interest inventory administered to a 10-year-old client shows that he is highly interested in medicine. The counselor should interpret this finding by noting that:",
+    "options": [
+      "The result is valid because interest inventories are the least threatening type of test",
+      "The result is reliable and predicts this child will pursue a medical career",
+      "Interest inventories are most valid for high school age and above — interests are not stable before then",
+      "The result is invalid because interest and ability are highly correlated, and the child is too young"
+    ],
+    "correct_index": 2,
+    "rationale": "Interest inventories are most valid for high school age and above because interests are not stable in younger children. Interests do not become fully stable until approximately age 25. Additionally, interests and abilities are NOT highly correlated — high interest in medicine does not predict medical skill. The counselor should not make strong career predictions based on childhood interest inventories."
+  },
+  {
+    "id": "ch08_q_013",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A career counselor administers the Kuder Career Planning Inventory to a client. The scores reveal that this client's strongest interest relative to his own profile is in 'outdoor' work. The counselor CANNOT legitimately compare this client's outdoor interest score to another client's outdoor interest score because:",
+    "options": [
+      "The Kuder is a projective test and projective tests cannot be compared",
+      "The Kuder is an ipsative measure that compares traits within the same person, not between persons",
+      "The Kuder lacks predictive validity for occupational choice",
+      "Interest inventories are only reliable for those over age 25"
+    ],
+    "correct_index": 1,
+    "rationale": "The Kuder instruments are ipsative measures — they compare traits within a single individual (within-person analysis), not against a normative group. Because ipsative scoring does not reveal absolute strengths, comparing two people's ipsative scores is meaningless. This contrasts with normative tests (like the WAIS-IV), where a client's score is compared to a norm group."
+  },
+  {
+    "id": "ch08_q_014",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "The MMPI-2 contains a 'lie scale' composed of items reflecting minor human frailties that most people possess. If a client scores high on the lie scale, this most likely indicates:",
+    "options": [
+      "The client has a personality disorder involving pathological lying",
+      "The client deliberately answered all questions with unusual or extreme responses",
+      "The client responded in a socially desirable manner to appear psychologically healthy",
+      "The client did not understand the instructions and answered randomly"
+    ],
+    "correct_index": 2,
+    "rationale": "The MMPI-2 lie scale uses forced-choice items about minor universal frailties. If a client denies having these common human frailties, it suggests they are presenting themselves as more virtuous than most people actually are — the social desirability response bias. A high lie scale score indicates the client may be faking good (not pathological lying). Choice B describes the deviation response style (deliberately unusual answers)."
+  },
+  {
+    "id": "ch08_q_015",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A supervisor asks a counselor to measure the internal consistency of a new test without splitting it into halves. The counselor should use:",
+    "options": [
+      "Test–retest reliability",
+      "The Spearman-Brown formula",
+      "Cronbach's alpha or the KR-20 formula",
+      "Inter-rater reliability"
+    ],
+    "correct_index": 2,
+    "rationale": "Cronbach's alpha and the Kuder-Richardson formulas (KR-20, KR-21) measure internal consistency (inter-item homogeneity) without splitting the test in half. The split-half method does measure internal consistency but requires dividing the test. Test-retest measures stability over time. The Spearman-Brown formula estimates the effect of test length changes on reliability. Inter-rater measures scorer agreement."
+  },
+  {
+    "id": "ch08_q_016",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "Raymond B. Cattell proposed that there are two types of intelligence. A 75-year-old retired professor who still demonstrates vast knowledge of history and literature from decades of study is most clearly demonstrating:",
+    "options": [
+      "Fluid intelligence, which peaks in young adulthood and then declines",
+      "Crystallized intelligence, which reflects accumulated knowledge and experience",
+      "Convergent intelligence, which integrates diverse information into a unified concept",
+      "Galton's unitary intelligence factor"
+    ],
+    "correct_index": 1,
+    "rationale": "Crystallized intelligence (Cattell) is built through education, culture, and experience; it remains stable or increases with age. A professor's deep historical knowledge reflects crystallized intelligence. Fluid intelligence is inherited, culture-free, and decreases with age — it is measured by novel reasoning tasks like block design. Convergent thinking is Guilford's term, not Cattell's."
+  },
+  {
+    "id": "ch08_q_017",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A counselor administers an IQ test developed and normed exclusively on White, middle-class American children to a recently immigrated client from rural Mexico. According to ACA ethics, this practice is:",
+    "options": [
+      "Acceptable as long as the counselor explains the limitations of the test results",
+      "Acceptable because all IQ tests measure universal cognitive abilities",
+      "A violation of ethics because tests must be normed on the specific population being tested",
+      "Acceptable if the test has strong concurrent validity with other established IQ measures"
+    ],
+    "correct_index": 2,
+    "rationale": "ACA ethics require that counselors not administer a test to a client from a given population unless that test has been normed on that specific population. Administering a test normed only on White middle-class Americans to a Mexican immigrant violates this ethical standard — regardless of the counselor's explanations or the test's concurrent validity with other measures."
+  },
+  {
+    "id": "ch08_q_018",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "An 18-year-old college freshman asks to review her high school academic records, including IQ test scores administered when she was 14. Under the Family Educational Rights and Privacy Act (FERPA), the student:",
+    "options": [
+      "Cannot access records created before she turned 18",
+      "May review her records but cannot request corrections",
+      "Has the right to inspect her records because she is over age 18",
+      "Must obtain parental consent to access her own records"
+    ],
+    "correct_index": 2,
+    "rationale": "FERPA (Buckley Amendment, PL 93-380) grants persons 18 and older the right to inspect their own academic records — including test data — and the right to request corrections of errors they discover. Parental consent is NOT required once the student is 18. There is no restriction on records created before age 18."
+  },
+  {
+    "id": "ch08_q_019",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A test item is answered correctly by 75 out of 100 examinees. The item difficulty index is ________, and the item is considered relatively ________.",
+    "options": [
+      ".25; difficult",
+      ".75; easy",
+      "75; moderately difficult",
+      ".50; average difficulty"
+    ],
+    "correct_index": 1,
+    "rationale": "Item difficulty = # correct / total tested = 75/100 = .75. The higher the difficulty index, the MORE people passed the item — meaning the item is EASIER. A difficulty of .75 means 75% got it right, so the item is relatively easy. Ideal difficulty for most tests is .50 (half right, half wrong — maximizes discrimination). A difficulty of 0.0 = everyone failed; 1.0 = everyone passed."
+  },
+  {
+    "id": "ch08_q_020",
+    "domain": "Assessment",
+    "chapter": 8,
+    "question": "A counselor shortens a 120-item career assessment from 120 to 60 items because clients find it too long. The supervisor warns that this decision will most directly affect which psychometric property?",
+    "options": [
+      "Validity, because fewer items reduces content coverage",
+      "Reliability, because shorter tests are less reliable",
+      "Normative data, because the norm group will no longer apply",
+      "Face validity, because the test will appear less comprehensive"
+    ],
+    "correct_index": 1,
+    "rationale": "Increasing test length raises reliability; shortening it lowers reliability. The Spearman-Brown formula is used to estimate how much reliability will drop when a test is shortened. While content validity (choice A) may also suffer if items are removed, the most direct and documented psychometric effect of test shortening is reduced reliability. The norm group and face validity issues are secondary concerns."
+  }
+]

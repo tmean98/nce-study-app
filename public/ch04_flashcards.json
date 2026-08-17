@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ch04_fc_001",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Multicultural / Cross-Cultural / Intercultural Counseling",
+    "back": "All three terms are roughly synonymous — counseling a client from a different social and/or cultural background. Key facts:\n• Called the 'fourth force' of counseling theory\n• ACA division: AMCD (Association for Multicultural Counseling and Development), formed 1972\n• Minority clients tend to seek counseling less, drop out sooner (~50% quit after 1st session)\n• 'Multicultural' includes: age, sexual orientation, religion, social class, national origin, race, health status",
+    "difficulty": "basic recall",
+    "confusable_with": "Cross-cultural = multicultural = intercultural — all three are interchangeable on the exam"
+  },
+  {
+    "id": "ch04_fc_002",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Culture (definition)",
+    "back": "Customs, values, attitudes, beliefs, art, and language shared by a group — often passed from generation to generation. Key distinctions:\n• Material culture: books, paintings, tools, homes ('artifacts')\n• Nonmaterial culture: customs, values, humor, traditions\n• Statistical norm: measures ACTUAL conduct\n• Cultural norm: describes how people are SUPPOSED to act",
+    "difficulty": "basic recall",
+    "confusable_with": "Race vs culture: race = biological/physical traits; culture = shared learned customs"
+  },
+  {
+    "id": "ch04_fc_003",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Emic vs Etic Viewpoint (J.G. Draguns)",
+    "back": "Emic (culture-specific): Inside view; counselor adapts techniques to the client's specific culture; emphasizes individual differences. Each client is unique to their culture.\nEtic (universalist): All humans are more alike than different; same techniques apply to any client regardless of culture; 'phonetic' — sounds same in any language.\nMemory: 'Etic' sounds like 'etiquette' — we practice good manners with EVERYONE equally.",
+    "difficulty": "applied",
+    "confusable_with": "Emic = adapt to culture-specific needs; Etic = apply same universal principles to all — these are frequently confused and high-yield exam items"
+  },
+  {
+    "id": "ch04_fc_004",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Alloplastic vs Autoplastic Coping",
+    "back": "Alloplastic: Coping by changing the EXTERNAL environment/system ('get out there and rebel — you can change the system').\nAutoplastic: Coping by changing the SELF — thoughts, behaviors, internal reactions ('I'll help you change your thinking so this won't impact you as much').\nMemory: 'Auto' = self (autobiography, autohypnosis = self-directed). Best practice: synthesis of both, not a pure approach.",
+    "difficulty": "applied",
+    "confusable_with": "Alloplastic = external change; autoplastic = internal/self change — direction of change is the key distinction"
+  },
+  {
+    "id": "ch04_fc_005",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Ethnocentrism",
+    "back": "Using one's own culture as the standard/yardstick to measure and judge all other cultures; viewing one's own group as superior. Key facts:\n• Universal phenomenon — all cultures are ethnocentric (LeVine & Campbell)\n• Promotes patriotism and pride but creates danger (especially in nuclear age)\n• Distinguished from fact-based statements (e.g., GDP figures are facts, not ethnocentrism)",
+    "difficulty": "basic recall",
+    "confusable_with": "Cultural relativity — opposite of ethnocentrism; relativism says no culture is 'better,' only different"
+  },
+  {
+    "id": "ch04_fc_006",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Cultural Relativity / Cultural Relativism",
+    "back": "A behavior cannot be judged as good or bad EXCEPT within the context of the culture in which it occurs. Example: teen pregnancy before marriage may be viewed negatively in the U.S. but positively in some cultures where it proves fertility. Key implication: Counselors must assess client behavior based on the client's own culture — not impose their own cultural values ('culture-bound values' barrier).",
+    "difficulty": "applied",
+    "confusable_with": "Ethnocentrism — the opposite; ethnocentrism applies one culture's standards universally, relativism says standards are culture-bound"
+  },
+  {
+    "id": "ch04_fc_007",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Acculturation vs Assimilation",
+    "back": "Acculturation: Ethnic/racial minorities integrate or adopt cultural beliefs and customs from the majority/dominant culture (partial adoption).\nAssimilation: Such a high level of acculturation that the individual BECOMES part of the dominant culture (full adoption).\nCultural pluralism: Retain unique cultural values AND participate in the wider dominant culture.",
+    "difficulty": "basic recall",
+    "confusable_with": "Acculturation = partial adoption; Assimilation = complete merging into dominant culture; Pluralism = retaining identity while participating"
+  },
+  {
+    "id": "ch04_fc_008",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Melting Pot vs Salad Bowl Models",
+    "back": "Melting Pot: Different cultures assimilate and 'melt' into the dominant culture — considered a MYTH by multicultural experts. Not preferred.\nSalad Bowl: Cultures mix together but — like lettuce and tomatoes — retain their unique cultural identity. PREFERRED by multicultural counselors.\nMulticultural counselors support the salad bowl model.",
+    "difficulty": "basic recall",
+    "confusable_with": "Cultural pluralism is similar to the salad bowl concept — people cooperate socially/politically while retaining cultural distinctiveness"
+  },
+  {
+    "id": "ch04_fc_009",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Mores vs Folkways",
+    "back": "Mores: Moral beliefs about right/wrong behavior whose violation HARMS others or threatens the group — violations result in serious punishment. Memory: Mores = Morals (both start with 'm').\nFolkways: Normal/habitual behaviors whose violation results only in embarrassment (not harm). Example: drinking soup from the bowl = folkway violation; robbery = mores violation.",
+    "difficulty": "basic recall",
+    "confusable_with": "Both describe expected behavior, but folkways = social etiquette, mores = moral/safety rules"
+  },
+  {
+    "id": "ch04_fc_010",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Types of Culture (Vontress)",
+    "back": "Clemmont Vontress distinguished:\n• Universal culture: All humans share basic needs (Maslow's hierarchy, food, water, sleep) — Human Genome Project confirms we are biologically more alike than different\n• National culture: Official language, government, stated viewpoint\n• Regional culture: Subgroups within a nation\n• Racioethnic culture: Racial/ethnic group identity\n• Ecological culture: Cultural norms driven by climate/geography/survival (polar vs equatorial regions differ in dress, food, shelter)",
+    "difficulty": "basic recall",
+    "confusable_with": "Universal culture (everyone) vs national culture (one country) vs ecological culture (climate-driven)"
+  },
+  {
+    "id": "ch04_fc_011",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Cognitive Dissonance Theory (Festinger, 1957)",
+    "back": "Individuals experience tension/discomfort when their cognitions/attitudes are inconsistent (dissonance). They are motivated to reduce this tension by achieving consonance (harmony/consistency). Methods of reducing dissonance:\n• Seeking consistent information (e.g., reading positive reviews after a purchase)\n• Denial ('the research on smoking isn't accurate')\n• Rationalization ('sweet lemon' — 'my old car keeps insurance costs low')\nKey: People prefer post-decision consonance over acknowledging ambivalence.",
+    "difficulty": "applied",
+    "confusable_with": "Balance theory — closely related; balance theory = general tendency toward cognitive consistency; dissonance theory = specific tension from inconsistency"
+  },
+  {
+    "id": "ch04_fc_012",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Frustration-Aggression Theory (Dollard & Miller)",
+    "back": "Frustration (being blocked from reaching a goal) → Aggression. This is an automatic response pattern.\nNote: Albert Ellis DISAGREED with this theory — he believed that clients' irrational thinking makes them BELIEVE frustration must lead to aggression; it is not an automatic response.\nDeindividuation: Losing one's identity in a group → increased likelihood of aggressive/violent behavior.",
+    "difficulty": "basic recall",
+    "confusable_with": "Social learning theory (Bandura) — Bandura says aggression is LEARNED from models, not automatically triggered by frustration"
+  },
+  {
+    "id": "ch04_fc_013",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Social Learning Theory (Albert Bandura)",
+    "back": "Aggression and behavior are LEARNED by observing and imitating others — NOT innate. Children who view live or filmed aggression imitate the behavior. Effect is greatest when the model is admired, powerful, or well-liked. Contrasts with instinct/innate aggression theory (Freud, Lorenz, McDougall). Adolescents model aggressive parents even in homes discouraging hostility.",
+    "difficulty": "basic recall",
+    "confusable_with": "Instinct theory (Freud, Lorenz) — opposite position: aggression is innate/biological, not learned"
+  },
+  {
+    "id": "ch04_fc_014",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Milgram Obedience Experiments",
+    "back": "Landmark study on obedience to authority. Subjects told to administer increasingly powerful electric shocks (up to 450V) to 'learners' for wrong answers (shocks were fake). Key findings:\n• 65% administered the maximum ('fatal') shock level\n• Psychiatrists had predicted only 1% would comply\n• Obedience was higher when authority figure was physically present\n• Used to explain Holocaust, Abu Ghraib, Salem witch hunts\n• APA initially (1973) ruled it ethical; would not be today",
+    "difficulty": "basic recall",
+    "confusable_with": "Stanford Prison Experiment (Zimbardo) — different study; Milgram = obedience to authority, Zimbardo = conformity to social roles"
+  },
+  {
+    "id": "ch04_fc_015",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Stanford Prison Experiment (Zimbardo, 1971)",
+    "back": "Students randomly assigned as 'guards' or 'prisoners' in a mock prison (basement of Stanford Psych Building). Guards became sadistic and abusive; prisoners became passive and distressed. Experiment planned for 2 weeks — shut down after only 6 DAYS. Demonstrates: people conform to social roles, not just to direct commands. Partially explains Holocaust atrocities.",
+    "difficulty": "basic recall",
+    "confusable_with": "Milgram experiment — different focus; Stanford Prison = conformity to ROLES, Milgram = obedience to AUTHORITY COMMANDS"
+  },
+  {
+    "id": "ch04_fc_016",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Bystander Effect / Bystander Apathy",
+    "back": "As the NUMBER of bystanders increases, the LIKELIHOOD of any individual helping a victim DECREASES and the time to intervene INCREASES. Mechanism: Diffusion of responsibility — everyone assumes someone else will help.\nConverse: Altruism = unselfish concern for others; stepping in to help.\nKey: 1964 Kitty Genovese case is the quintessential example — 38 witnesses, no immediate help.",
+    "difficulty": "applied",
+    "confusable_with": "Social facilitation (Allport) — opposite effect: presence of others IMPROVES performance on tasks. Bystander = less helping; social facilitation = better performance"
+  },
+  {
+    "id": "ch04_fc_017",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Asch Conformity Experiments",
+    "back": "Solomon Asch studies on social conformity in perceptual tasks. Key findings:\n• ~35% of participants gave clearly WRONG answers to conform with the unanimous group\n• As few as 3 other people can produce conformity\n• Conformity is highest in: authoritarian personalities, external approval seekers, those with external locus of control\nSherif's studies also demonstrated group conformity in ambiguous situations.",
+    "difficulty": "basic recall",
+    "confusable_with": "Milgram obedience — both involve social pressure, but Asch = peer CONFORMITY, Milgram = obedience to AUTHORITY"
+  },
+  {
+    "id": "ch04_fc_018",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Robbers' Cave Experiment (Muzafer Sherif)",
+    "back": "Study with 11-year-old boys at a summer camp in Oklahoma. Two hostile groups were created. Key finding: The MOST effective way to reduce hostility between competing groups is to give them a SUPERORDINATE GOAL — a shared objective that requires joint effort and cannot be achieved by either group alone.",
+    "difficulty": "basic recall",
+    "confusable_with": "Asch conformity experiments — both by Sherif are related to group dynamics; Robbers' Cave = intergroup cooperation, Asch = conformity to unanimous wrong answer"
+  },
+  {
+    "id": "ch04_fc_019",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Lewin's Three Types of Conflict",
+    "back": "Approach-Approach: Two equally ATTRACTIVE options simultaneously — EASIEST to resolve; lowest anxiety.\nApproach-Avoidance: One option that is BOTH attractive AND unattractive simultaneously — HARDEST; highest frustration/anxiety.\nAvoidance-Avoidance: Two equally UNDESIRABLE options — client tends to vacillate, daydream, flee, or regress to avoid choosing.",
+    "difficulty": "applied",
+    "confusable_with": "Approach-avoidance (single object with + and -) vs avoidance-avoidance (two negative options) — commonly confused"
+  },
+  {
+    "id": "ch04_fc_020",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Social Exchange Theory",
+    "back": "A relationship will endure if REWARDS exceed COSTS. Profit = Reward − Cost. Based on behavioral psychology and economic theory. Complementarity theory is an alternative: relationships strengthen when partners' personality needs MESH (e.g., dominant + non-dominant pairing).",
+    "difficulty": "basic recall",
+    "confusable_with": "Complementarity theory — social exchange = rewards/costs calculation; complementarity = personality needs fitting together"
+  },
+  {
+    "id": "ch04_fc_021",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Social Facilitation (Floyd Henry Allport)",
+    "back": "The presence of other people IMPROVES an individual's performance on a task, even without verbal interaction. (Example: athletes perform better before a crowd.) Important note: this effect may not hold for very difficult or unfamiliar tasks — audience presence can impair performance on novel/complex tasks.",
+    "difficulty": "basic recall",
+    "confusable_with": "Bystander effect — also involves presence of others, but bystander = LESS helping; social facilitation = BETTER performance on tasks"
+  },
+  {
+    "id": "ch04_fc_022",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Sleeper Effect (Social Psychology)",
+    "back": "After a period of time, a person FORGETS the communicator (source) but REMEMBERS the message. Important counseling implication: a client may not immediately accept guidance, but attitude change or behavior change may occur AFTER some time has passed. The impact of a communication may increase with delay.",
+    "difficulty": "basic recall",
+    "confusable_with": "Incubation effect in problem-solving — both involve delayed response; sleeper effect = delayed attitude change from persuasion"
+  },
+  {
+    "id": "ch04_fc_023",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Foot-in-the-Door Compliance Technique (Freedman & Fraser, 1966)",
+    "back": "Two-step compliance technique: Step 1 = ask for a SMALL request (person agrees) → Step 2 = ask for a LARGER, more difficult request (person more likely to comply). Research: Housewives who signed a safe-driving petition (small) were more likely to allow a large lawn sign (big). 'Trivial commitments lead to a momentum of compliance.' Memory: Freedman and Fraser both start with 'F' like 'Foot.'",
+    "difficulty": "applied",
+    "confusable_with": "Door-in-the-face technique (opposite: start with a large request, then ask for a smaller one)"
+  },
+  {
+    "id": "ch04_fc_024",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Affiliation Research (Stanley Schachter)",
+    "back": "Key findings on the need to affiliate with others:\n• 'Misery loves MISERABLE company' — high-anxiety people prefer to wait with others in a similar situation, not just any others\n• Firstborns and only children have the HIGHEST need to affiliate; need decreases with later birth order\n• People compare themselves with others who are SIMILAR (social comparison theory, Festinger)",
+    "difficulty": "basic recall",
+    "confusable_with": "Social facilitation (Allport) — affiliation = being with others reduces anxiety; social facilitation = being with others improves task performance"
+  },
+  {
+    "id": "ch04_fc_025",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Propinquity and Factors in Interpersonal Attraction",
+    "back": "Three main factors in attraction: Close PROXIMITY, PHYSICAL attractiveness, SIMILAR beliefs.\nPropinquity: Proximity creates attraction — Festinger found friendship highest for people living next door.\nMatching hypothesis: We tend to choose mates at our own level of attractiveness.\nResearch: Attractive people receive inflated IQ/salary ratings, get more help, fare better legally, and sway opinions more easily.",
+    "difficulty": "basic recall",
+    "confusable_with": "Complementarity theory — complementarity = opposites attract (personalities mesh); propinquity = proximity + similarity attract"
+  },
+  {
+    "id": "ch04_fc_026",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Therapeutic Surrender",
+    "back": "When a client from a different culture psychologically trusts the counselor and becomes open with feelings and thoughts — self-disclosure across cultural lines. Factors that promote therapeutic surrender: rapport, trust, good listening, overcoming client resistance, counselor self-disclosure. Barriers: language differences, class differences, distrust from different cultural backgrounds.",
+    "difficulty": "basic recall",
+    "confusable_with": "General therapeutic alliance — therapeutic surrender specifically refers to overcoming the cultural/trust barrier in cross-cultural work"
+  },
+  {
+    "id": "ch04_fc_027",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Carol Gilligan — Critique of Kohlberg's Moral Theory",
+    "back": "Gilligan was Kohlberg's assistant but criticized his theory as more applicable to MALES than females. Her critique: Kohlberg's theory did not account for women's emphasis on CAREGIVING and personal responsibility, as opposed to men's focus on individual RIGHTS and JUSTICE. Gilligan proposed that women's moral development follows a different path centered on relationships and care.",
+    "difficulty": "basic recall",
+    "confusable_with": "Kohlberg's theory — Gilligan didn't reject moral stage theory entirely, just its male-centric framing"
+  },
+  {
+    "id": "ch04_fc_028",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "White Privilege",
+    "back": "Unearned advantages, privileges, and opportunities that white individuals have and nonwhites lack. In multicultural counseling, counselors must be aware of how privilege affects the therapeutic relationship (e.g., negative transference in cross-racial counseling may reflect historical systemic inequities, not just individual dynamics). Privilege should ideally be shared — empowering those who lack it.",
+    "difficulty": "basic recall",
+    "confusable_with": "Racism — racism = active belief in racial superiority; white privilege = structural/systemic unearned advantages (more passive/systemic)"
+  },
+  {
+    "id": "ch04_fc_029",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Monolithic vs Individualistic Perspective",
+    "back": "Monolithic perspective: Viewing all members of a cultural group as identical ('All Asian Americans are the same'). This is an INEFFECTIVE counseling approach.\nIndividualistic perspective: Treating each client as a unique individual within their cultural group. Preferred approach. Note: There are 560+ federally recognized Native American tribes — they are NOT all the same.",
+    "difficulty": "applied",
+    "confusable_with": "Etic viewpoint — etic applies same techniques universally but doesn't necessarily assume sameness within groups; monolithic = assuming group homogeneity"
+  },
+  {
+    "id": "ch04_fc_030",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Key Historical Events in Multicultural Counseling",
+    "back": "• 1895: Durkheim's Rules of Sociological Method — founded modern sociology\n• 1908: McDougall's Introduction to Social Psychology; Ross's Social Psychology — introduced social psych in America\n• 1954: Brown v. Board of Education — outlawed school segregation; created diverse school populations for counselors\n• 1964: Civil Rights Act (P.L. 88-352) — banned discrimination by gender, race, religion, national origin\n• 1972: APGA formed Association for Non-White Concerns (later AMCD)\n• Civil rights movement = prime factor in multicultural counseling growth",
+    "difficulty": "basic recall",
+    "confusable_with": "AMCD formed 1972 (NOT the 1964 Civil Rights Act, which just set the stage)"
+  },
+  {
+    "id": "ch04_fc_031",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Emile Durkheim — Sociology and Suicide",
+    "back": "French sociologist; founder of modern sociology. Key works:\n• Rules of Sociological Method (1895) — founded formal sociological research\n• Suicide (1897) — classic sociological study of suicide rates across groups\nTook group phenomena from armchair speculation to formal research. NOT a pioneer in early multicultural counseling per se, but a foundational figure in social science.",
+    "difficulty": "basic recall",
+    "confusable_with": "Durkheim ≠ founder of multicultural counseling; he's the founder of modern SOCIOLOGY; Frank Parsons = first social reformer in guidance/counseling"
+  },
+  {
+    "id": "ch04_fc_032",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Racial vs Ethnic Identity",
+    "back": "Race: Identification via distinct BIOLOGICAL/PHYSICAL characteristics (skin color, facial features) — genetic origin; observable.\nEthnicity: Group categorized by NATIONAL, RELIGIOUS, LINGUISTIC, or CULTURAL attributes — not necessarily visible.\nKey: You can often SEE racial differences; ethnic identity may not be visible.\nEthnocentrism: Using your own ethnic group as the standard of reference.",
+    "difficulty": "basic recall",
+    "confusable_with": "Race and ethnicity are often conflated; race = physical/biological, ethnicity = cultural/national/linguistic identity"
+  },
+  {
+    "id": "ch04_fc_033",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Structuring in Cross-Cultural Counseling",
+    "back": "Explaining to the client the ROLES of counselor and client and the nature of the counseling process during the INITIAL session. More critical when there is a large social/cultural gap between counselor and client. Clients from different cultures may have gross misconceptions about what helping involves. Greater cultural gap = greater need for explicit structuring.",
+    "difficulty": "applied",
+    "confusable_with": "Active-directive approach — structuring is about role clarification, not just being directive"
+  },
+  {
+    "id": "ch04_fc_034",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Preferences for Counseling Style by Culture/Class",
+    "back": "• Middle/upper-class U.S. clients: Prefer working things out independently; value autonomy; DON'T want authoritarian/advice-giving counselors\n• Traditional cultures valuing authority: Expect structure, advice, homework, teaching; passive counselor = disappointing\n• Low-income clients: Often view helper as advice-giver; less comfortable with non-directive approach\n• Asian Americans (Sue & Sue): Respond best to BRIEF, DIRECTIVE, STRUCTURED therapy with specific problem-solving goals",
+    "difficulty": "applied",
+    "confusable_with": "Rogerian person-centered — person-centered is nonjudgmental and culturally flexible BUT can fail when structure/authority is culturally expected"
+  },
+  {
+    "id": "ch04_fc_035",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Three Barriers to Intercultural Counseling",
+    "back": "1. Culture-bound values: Counselor is 'bound' to their own values and tries to impose them on clients\n2. Class-bound values: Different expectations based on socioeconomic class\n3. Language differences: Words may have different connotations across cultures (connotative error; semantic differential)\nExample of connotative error: African American client says a party was 'bad' meaning it was great; white counselor misunderstands.",
+    "difficulty": "applied",
+    "confusable_with": "Connotative error vs denotative meaning — denotation = dictionary definition; connotation = emotional/cultural meaning"
+  },
+  {
+    "id": "ch04_fc_036",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Conversion Disorder and La Belle Indifference",
+    "back": "Conversion disorder: Neurological symptoms (blindness, paralysis, deafness) with NO physical/medical cause. The person is NOT intentionally producing symptoms (vs. malingering = intentional faking).\nLa belle indifference: Client shows surprising lack of concern about their physical symptom.\nPsychodynamic interpretation: The symptom serves a purpose (e.g., person saw something frightening, now 'can't see').\nTreatment: Counseling, biofeedback, relaxation therapy.",
+    "difficulty": "applied",
+    "confusable_with": "Malingering — malingering = INTENTIONAL faking of symptoms to avoid work/prison; conversion disorder = UNINTENTIONAL, driven by stress/emotion"
+  },
+  {
+    "id": "ch04_fc_037",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Bogardus Social Distance Scale",
+    "back": "Developed by Emory Bogardus in the 1920s. Measured attitudes toward other ethnic groups — how comfortable a person felt about social closeness with members of different groups. Original data showed negative attitudes toward African Americans, Jews, Mexicans, and Turks. A 1947 replication showed the negative attitudes persisted. Wanting social distance from a group = a form of prejudice.",
+    "difficulty": "basic recall",
+    "confusable_with": "Propinquity research (Festinger) — both about social distance, but Bogardus = measuring prejudice/attitudes, Festinger = studying how proximity creates attraction"
+  },
+  {
+    "id": "ch04_fc_038",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Arthur Jensen / Jensenism",
+    "back": "Arthur Jensen attempted to prove that African Americans had lower IQs due to GENETIC factors. This is known as Jensenism. The view is widely criticized and is considered an example of 'scientific racism.' The civil rights movement (NOT Jensen) helped to popularize the multicultural counseling movement. The Human Genome Project confirmed that humans are biologically more alike than different.",
+    "difficulty": "basic recall",
+    "confusable_with": "DSM bias — the DSM is also considered most applicable to those of European descent; both represent cultural bias in assessment"
+  },
+  {
+    "id": "ch04_fc_039",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Color Blindness in Counseling",
+    "back": "Occurs when a counselor IGNORES a client's race, culture, or color. This is NOT necessarily a good thing in counseling — it is often viewed as the DIRECT OPPOSITE of good multicultural helping. Ignoring cultural differences can result in missed understanding, misdiagnosis, and ineffective treatment.",
+    "difficulty": "applied",
+    "confusable_with": "Etic viewpoint — etic applies same techniques universally, but that's different from ignoring culture entirely; color blindness denies cultural identity"
+  },
+  {
+    "id": "ch04_fc_040",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Contextualism",
+    "back": "The principle that behavior must be assessed in the context of the CULTURE in which it occurs. A behavior viewed as normal in one culture may be viewed as bizarre or disturbed in another. Closely related to cultural relativism. Counselors should strive for cultural awareness (vs. 'cultural tunnel vision' — viewing everything through one's own cultural lens).",
+    "difficulty": "basic recall",
+    "confusable_with": "Cultural relativism — both assert culture determines meaning of behavior; contextualism is the broader principle, relativism is the value judgment"
+  },
+  {
+    "id": "ch04_fc_041",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Personalism (Multicultural Counseling)",
+    "back": "Seeing the client primarily as a PERSON who has learned survival skills, rather than as a diseased patient. Particularly important in impoverished or extreme environments where people cooperate closely. Communities in poverty/harsh conditions often stick together and may view a 'professional' counselor as an outsider — keeping professional distance can make the counselor seem superficial or uncaring.",
+    "difficulty": "applied",
+    "confusable_with": "Person-centered therapy — both value the person, but personalism is specifically about overcoming class/cultural barriers to therapeutic connection"
+  },
+  {
+    "id": "ch04_fc_042",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Aging and Counseling — Key Facts",
+    "back": "• In 1900: only 4% of U.S. population was over 65; now >13% and growing\n• Best predictors of retirement adjustment: FINANCIAL SECURITY and HEALTH (not attractiveness)\n• IQ scores remain fairly STABLE over the life span (myth that they drop markedly)\n• Terminal drop/decline: Dramatic intellectual decline occurs only in FINAL 5 YEARS of life, centering on verbal skills\n• Counseling older adults called 'gerontological counseling' or 'gero'\n• Number one psychiatric problem in geriatric years: FEAR OF DEATH",
+    "difficulty": "applied",
+    "confusable_with": "Terminal drop = only in final 5 years (not gradual decline throughout aging)"
+  },
+  {
+    "id": "ch04_fc_043",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Privilege and Discrimination — Key Terms",
+    "back": "Privilege: Unearned advantage giving dominance, access to resources, and power.\nRacism: Assumption that some races are superior; denying rights/respect to 'inferior' races.\nSexism: Analogous to racism; one sex assumes the other is inherently inferior.\nPrejudice: Rigid, negative attitudes toward a group, often without evidence; includes 'prejudging.'\nCaste system: Fixed layers of superiority/inferiority that one is born into and cannot escape.",
+    "difficulty": "basic recall",
+    "confusable_with": "Racism vs prejudice — racism = systematic belief in racial hierarchy + acting on it; prejudice = attitudinal bias (can exist without acting on it)"
+  },
+  {
+    "id": "ch04_fc_044",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Ambivalent Transference (Multicultural Counseling)",
+    "back": "Transference in which the client RAPIDLY SHIFTS emotional attitude toward the counselor based on past experiences with authority figures. Common in multicultural settings where the client's past included negative experiences with authority figures from the dominant culture. Types: Positive (love/affection), Negative (hostility), Ambivalent (rapid shifting/uncertainty).",
+    "difficulty": "applied",
+    "confusable_with": "Standard transference — in multicultural work, negative transference may be misinterpreted as 'therapeutic resistance' when it is actually a cultural/historical response"
+  },
+  {
+    "id": "ch04_fc_045",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Sex-Role Stereotyping in Counseling",
+    "back": "Studies (Schlossberg & Pietrofesa, 1970; Broverman et al., 1970) found:\n• Counselor trainees steered female clients AWAY from traditionally male careers (e.g., engineering) even without prompting\n• Female counselors were as biased as male counselors\n• Therapists used DIFFERENT mental health standards for men vs. women (double standard)\nKey point: Both male AND female counselors can exhibit sexist bias toward female clients.",
+    "difficulty": "applied",
+    "confusable_with": "Gender bias in assessment — both exist in counseling; stereotyping = behavioral guidance bias, assessment bias = different diagnostic criteria by gender"
+  },
+  {
+    "id": "ch04_fc_046",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "People of Color — Demographics",
+    "back": "People of color includes: Asian Americans/Asian Pacific Americans, Latino/a Americans, African Americans, Native Americans, and multiracial individuals. By approximately 2043, these groups will collectively outnumber whites of European descent in the U.S. Latinos/as: ~65% are of Mexican heritage (2014 Census). Approximately 65% of minority clients quit counseling after the first session.",
+    "difficulty": "basic recall",
+    "confusable_with": "Ethnicity vs race — people of color is primarily a racial categorization, though it encompasses diverse ethnicities"
+  },
+  {
+    "id": "ch04_fc_047",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Person-Centered Counseling in Cross-Cultural Contexts",
+    "back": "Carl Rogers conducted workshops in the 1970s to enhance cross-cultural communication. Person-centered therapy is:\n• Nonjudgmental → considered suitable for multicultural work\n• Popular in Japan\n• EXCEPTION: May fall short when the client's culture expects AUTHORITY and STRUCTURE from a helper\nLow-income and many minority clients view the helper as an advice-giver; purely nondirective approach may not meet their expectations.",
+    "difficulty": "applied",
+    "confusable_with": "Person-centered = best for multicultural work — this is PARTIALLY true; it's preferred for nonjudgmental approach but NOT when authority/structure is culturally expected"
+  },
+  {
+    "id": "ch04_fc_048",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Derald Wing Sue & David Sue — Asian American Clients",
+    "back": "Sue and Sue's guidance for counseling Asian Americans:\n• Brief therapy that is DIRECTIVE and STRUCTURED\n• Specific problem-solving goals\n• Avoid expecting high verbal self-disclosure (culturally, expressing strong feelings or desires may be seen as shameful)\n• Avoid eye contact expectations (in some Asian cultures, avoiding eye contact = sign of RESPECT to authority)\n• Mental illness may be viewed as a genetic flaw and a family secret\n• Self-control is highly valued",
+    "difficulty": "applied",
+    "confusable_with": "Person-centered approach — person-centered is nonjudgmental but nondirective; Asian American clients often prefer more directive/structured approaches"
+  },
+  {
+    "id": "ch04_fc_049",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Bicultural / Bilingual Counselors",
+    "back": "Bilingual counselor: Speaks both the counselor's and client's language — reduces language barriers and connotative errors. BICULTURAL: Familiar with BOTH cultures — ideal for bridging cultural gaps. A monolingual counselor speaks only one language. Avoidance of slang and complex jargon is recommended when there is a language gap.",
+    "difficulty": "basic recall",
+    "confusable_with": "Acculturation vs biculturalism — acculturation = minority adopts majority norms; biculturalism = fluent in BOTH cultures simultaneously"
+  },
+  {
+    "id": "ch04_fc_050",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "front": "Third Culture Kid (TCK)",
+    "back": "A child raised primarily in a culture different from their parents' culture during the formative years. As a result, they may not fully identify with the culture of their parents OR the host culture — forming a 'third' blended cultural identity. Relevant for understanding acculturation challenges and identity development in globally mobile families.",
+    "difficulty": "basic recall",
+    "confusable_with": "Acculturation — TCK is a specific case of someone navigating between cultures from childhood; acculturation is a broader process for anyone adapting to a new culture"
+  }
+]

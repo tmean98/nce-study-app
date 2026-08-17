@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ch09_fc_001",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Experimental vs. quasi-experimental research",
+    "back": "Experiment (most valuable): researcher manipulates IV, uses random assignment, eliminates extraneous variables → can establish cause and effect. Quasi-experiment: uses preexisting groups (cannot randomly assign); IV cannot be altered (e.g., gender, ethnicity) → CANNOT establish causation. Ex post facto = type of quasi-experiment; IV was administered before research began. All correlational research is also quasi-experimental.",
+    "difficulty": "medium",
+    "confusable_with": "Causal comparative design = like a true experiment but without random assignment — still quasi-experimental despite using t tests or ANOVA"
+  },
+  {
+    "id": "ch09_fc_002",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Parsimony / Occam's Razor / Morgan's Canon",
+    "back": "All three terms mean: the simplest explanation of findings is always preferred (principle of economy). Occam's Razor: William of Occam (14th-century philosopher). Lloyd Morgan's 1894 Canon: equivalent principle from psychology. Early behaviorists (Watson) strongly adhered to parsimony. In statistics, factor analysis is parsimonious (data reduction: explains many variables with a few factors).",
+    "difficulty": "easy",
+    "confusable_with": "Parsimony is about explanatory simplicity — not about minimizing the number of research participants or variables studied"
+  },
+  {
+    "id": "ch09_fc_003",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Independent variable (IV) vs. dependent variable (DV)",
+    "back": "IV: the variable the researcher manipulates, controls, or experiments with. Memory device: 'I manipulate the IV.' DV: the outcome — expresses the data/results. Memory device: 'D for data.' Variables can be discrete (e.g., brand of therapy, occupation) or continuous (e.g., height, weight). Organismic IV: a variable that exists but cannot be controlled (e.g., gender, height).",
+    "difficulty": "easy",
+    "confusable_with": "In complex scenarios, DV can look like it causes change — remember: IV is what's manipulated, DV is what's measured"
+  },
+  {
+    "id": "ch09_fc_004",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Null hypothesis vs. alternative/experimental hypothesis",
+    "back": "Null hypothesis: asserts NO significant difference between groups; IV does not affect DV. 'Null' = nothing/nil. Pioneered by R.A. Fisher. Alternative/experimental/affirmative hypothesis: asserts a difference WILL be evident — the IV DOES cause a change. The significance level must be set BEFORE the experiment begins.",
+    "difficulty": "easy",
+    "confusable_with": "Rejecting null is NOT the same as proving the alternative — rejecting null just means results are unlikely due to chance alone"
+  },
+  {
+    "id": "ch09_fc_005",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Significance level (P value) — what it means",
+    "back": "P = .05: only 5% chance results are due to chance; 95 times out of 100 the results would hold. Social science standard: P ≤ .05. More stringent levels: P = .01 (1 in 100 chance), P = .001 (1 in 1,000 chance). The lower the P value, the more stringent — .001 best rules out chance. Also called level of confidence or confidence level. Must be set before experiment.",
+    "difficulty": "medium",
+    "confusable_with": "P = .05 means a 5% chance of TYPE I error — it does NOT mean 5% of scores were chance or 5 subjects were excluded"
+  },
+  {
+    "id": "ch09_fc_006",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Type I error (alpha) vs. Type II error (beta)",
+    "back": "Type I (alpha error): Reject null when it is TRUE. Memory device: 'RA' — Reject when Applicable/true; this is error #1 = alpha. Type II (beta error): Accept null when it is FALSE. Memory device: after R (reject) comes A (accept) = accept when false. Probability of Type I error = alpha level. 1 − beta = power of the test.",
+    "difficulty": "hard",
+    "confusable_with": "Type I = false positive (seeing an effect that isn't there); Type II = false negative (missing an effect that is there)"
+  },
+  {
+    "id": "ch09_fc_007",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Type I / Type II error trade-off and sample size",
+    "back": "Type I and Type II errors are inversely related — like a seesaw. Lowering alpha (.05 → .001) DECREASES Type I errors but INCREASES Type II errors. To minimize both simultaneously: use a LARGE sample size. Parametric tests have more power (ability to correctly reject false null) than nonparametric tests. Minimum: ≥15 per group for an experiment; ≥30 for true experiment; ≥30 per variable for correlation; ≥100 for survey.",
+    "difficulty": "hard",
+    "confusable_with": "Making alpha more stringent (.001) does NOT reduce all errors — it specifically trades lower Type I for higher Type II"
+  },
+  {
+    "id": "ch09_fc_008",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "t test — when and how to use",
+    "back": "t test: used to determine if two sample means are significantly different (two-group comparison). Yields a t value; compare to critical t in a table. If obtained t exceeds critical t → reject null. Parametric — requires interval/ratio data. Independent group comparison design = different subjects in each group. Repeated measures comparison = same group tested twice. One-tailed test: directional hypothesis; two-tailed: nondirectional. One-tailed has more power.",
+    "difficulty": "medium",
+    "confusable_with": "t test = two groups; ANOVA = three or more groups — if scenario has more than two groups, t test alone is insufficient"
+  },
+  {
+    "id": "ch09_fc_009",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "ANOVA, MANOVA, and the F statistic",
+    "back": "One-way ANOVA: tests one IV with 3+ groups; yields F statistic; compare to critical F table. If obtained F > critical F → reject null. Two-way ANOVA: tests two IVs. Three-way: three IVs. MANOVA: multiple DVs. Post hoc tests (Tukey's, Duncan's multiple range, Scheffe's): used AFTER a significant F to determine WHICH specific groups differ. Factorial design: experiment with 2+ IVs.",
+    "difficulty": "hard",
+    "confusable_with": "One-way ANOVA = one IV with multiple groups; two-way ANOVA = two IVs — 'one-way' refers to IVs, not number of groups"
+  },
+  {
+    "id": "ch09_fc_010",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "ANCOVA (Analysis of Covariance)",
+    "back": "ANCOVA: like ANOVA but more powerful — statistically controls for extraneous variables (covariates) that could confound group comparisons. A covariate correlates with the DV but is not the primary IV. Makes random groups more alike upfront by eliminating average differences due to covariates. Also called 'adjusted average' statistical procedure. Referred to as ANCOVA or ANACOVA.",
+    "difficulty": "hard",
+    "confusable_with": "ANCOVA controls for covariates STATISTICALLY before analysis; ANOVA does not — ANCOVA is more powerful"
+  },
+  {
+    "id": "ch09_fc_011",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Nonparametric statistical tests — key alternatives",
+    "back": "Used when data are NOT normally distributed (nominal/ordinal). Chi-square: most popular; tests if obtained frequencies differ from expected frequencies; requires mutually exclusive categories. Mann-Whitney U: alternative to t test for two UNCORRELATED (independent) groups ('U = uncorrelated'). Wilcoxon signed-rank: alternative to t test for two CORRELATED/matched groups ('co' = correlated). Kruskal-Wallis H: alternative to one-way ANOVA for 3+ groups. Spearman rho: nonparametric correlation.",
+    "difficulty": "hard",
+    "confusable_with": "Mann-Whitney U = uncorrelated/independent groups; Wilcoxon = correlated/matched groups — the U reminds you of 'uncorrelated'"
+  },
+  {
+    "id": "ch09_fc_012",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Correlation coefficient — key rules",
+    "back": "Pearson r: parametric; interval/ratio data ('I and R = information and referral'). Spearman rho: nonparametric; ordinal data ('rho ends in O = ordinal'). Range: -1.0 to +1.0. 0 = no relationship; ±1 = perfect relationship. Positive: both variables move same direction. Negative: inversely related — one up, one down. KEY: a negative correlation of -.70 is STRONGER than a positive correlation of +.60. Correlation NEVER implies causation. Bivariate = 2 variables; multivariate = 3+.",
+    "difficulty": "medium",
+    "confusable_with": "Negative correlation is NOT weaker — only the direction differs; -.90 is a stronger relationship than +.60"
+  },
+  {
+    "id": "ch09_fc_013",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Normal (Gaussian) distribution — key properties",
+    "back": "Bell-shaped, symmetrical curve; named after K.F. Gauss. In a normal distribution: mean = median = mode at the same central point. 68-95-99.7 empirical rule: 68% of scores within ±1 SD; 95% within ±2 SD; 99.7% within ±3 SD. Almost all scores fall within 3 SDs. Used as the basis for interpreting IQ scores, z-scores, t-scores, and stanines.",
+    "difficulty": "medium",
+    "confusable_with": "68% = ±1 SD; 95% = ±2 SD — students commonly confuse these two figures on calculation questions"
+  },
+  {
+    "id": "ch09_fc_014",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Skewed distributions — positive vs. negative",
+    "back": "Skewed = asymmetrical; mean, median, and mode fall at DIFFERENT points. Positive skew: most scores are LOW (clustered left); tail points RIGHT (positive side). Example: very difficult exam — everyone scores low. Negative skew: most scores are HIGH (clustered right); tail points LEFT (negative side). Example: easy exam — everyone scores high. Memory device: THE TAIL TELLS YOU THE DIRECTION OF THE SKEW. Median is best statistic for skewed distributions.",
+    "difficulty": "medium",
+    "confusable_with": "Positive skew ≠ positive (high) scores — positive skew means the TAIL points right, meaning MOST scores are LOW"
+  },
+  {
+    "id": "ch09_fc_015",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Mean, median, and mode — definitions and best uses",
+    "back": "Mean (X̄): arithmetic average (sum of scores ÷ N); most useful; affected by extreme scores. Median (Md): exact middle score; best for SKEWED distributions or extreme scores; resistant to outliers. Mode (Mo): most frequently occurring score; highest point on any distribution curve; least important measure of central tendency; bimodal = 2 peaks; multimodal = 3+. In a normal curve all three coincide.",
+    "difficulty": "easy",
+    "confusable_with": "Mode = highest FREQUENCY point (most common score), not highest VALUE; the curve's peak shows the mode regardless of skew"
+  },
+  {
+    "id": "ch09_fc_016",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Kurtosis — platykurtic, leptokurtic, mesokurtic",
+    "back": "Kurtosis: the peakedness of a frequency distribution. Mesokurtic: normal bell-shaped curve (middle kurtosis; 'meso' = middle). Platykurtic: flatter and more spread out than normal ('plat' = flat). Leptokurtic: very tall, thin, and peaked ('leaps tall buildings'). Bimodal curve: two peaks (camel's back) — suggests two distinct populations in the data.",
+    "difficulty": "medium",
+    "confusable_with": "Kurtosis describes PEAKEDNESS (height of the peak); skew describes SYMMETRY (direction of tail) — two different distribution characteristics"
+  },
+  {
+    "id": "ch09_fc_017",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Range, variance, standard deviation, interquartile range",
+    "back": "Range: highest score − lowest score (simplest variability measure; increases with sample size). Variance: average of squared deviations from mean (SD²). Standard deviation (SD): square root of variance; most stable measure. Interquartile range: distance between 25th and 75th percentile. Quartiles: divide distribution into fourths — Q1 = 25th percentile, Q2 = median = 50th, Q3 = 75th percentile.",
+    "difficulty": "medium",
+    "confusable_with": "Standard deviation and standard error of measurement are different — SD describes score spread in a population; SEM estimates error in an individual's score"
+  },
+  {
+    "id": "ch09_fc_018",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Z-score and T-score (standard scores)",
+    "back": "Z-score = standard score = SD unit. z = +1 means 1 SD above mean. Z-scores can be negative. T-score: mean = 50, each SD = 10 points; no negatives. t = 60 is +1 SD; t = 40 is -1 SD; t = 70 is +2 SD; t = 30 is -2 SD. Raw score: unmodified original score — tells you little without context. Standard scores allow comparison to the normal distribution's properties.",
+    "difficulty": "medium",
+    "confusable_with": "t-score (testing standard score) is completely different from the t-statistic used in the t test — same letter, different concepts"
+  },
+  {
+    "id": "ch09_fc_019",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "CEEB score and stanine",
+    "back": "CEEB (College Entrance Examination Board): mean = 500, SD = 100; range 200–800; used for GRE, SAT; also called ETS scores; created to eliminate negative scores. Stanine: WWII Air Force; divides distribution into 9 equal intervals; 1 = lowest, 5 = mean, 9 = highest; contraction of 'standard nine.' Percentile rank: percentage of scores at or below a given point; graphically always appears as a flat rectangle.",
+    "difficulty": "medium",
+    "confusable_with": "CEEB SD = 100 (not 15 or 16); a CEEB score of 500 = z-score of 0 = mean; CEEB of 600 = +1 SD = z of +1"
+  },
+  {
+    "id": "ch09_fc_020",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Four measurement scales — NOIR",
+    "back": "Memory device: NOIR (French for 'black'). Nominal: names/labels only; no order, no zero; DSM diagnosis, phone number, player uniform numbers. Ordinal: rank orders; no equal intervals; horse race place, Likert scale ranks. Interval: equal intervals; no true zero; IQ scores; can add/subtract only. Ratio: equal intervals + true zero; weight, height, time, distance; all operations allowed. Parametric tests: interval/ratio only. Nonparametric: nominal/ordinal.",
+    "difficulty": "hard",
+    "confusable_with": "IQ scores are INTERVAL (not ratio) — IQ of 0 does not mean zero intelligence, so there's no true zero point"
+  },
+  {
+    "id": "ch09_fc_021",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Parametric vs. nonparametric statistical tests",
+    "back": "Parametric tests: assume scores are normally distributed; require interval or ratio data; more statistical POWER (better ability to reject false null). Examples: t test, ANOVA, Pearson r. Nonparametric tests (distribution-free): used when normality cannot be assumed; for nominal or ordinal data. Examples: chi-square, Mann-Whitney U, Wilcoxon, Kruskal-Wallis, Spearman rho. Statisticians created nonparametric parallels for each major parametric test.",
+    "difficulty": "medium",
+    "confusable_with": "Nonparametric tests are not 'worse' — they are simply appropriate when parametric assumptions (normality, interval/ratio data) cannot be met"
+  },
+  {
+    "id": "ch09_fc_022",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Sampling methods — random, stratified, cluster, systematic",
+    "back": "Random: each person has equal chance of selection; eliminates researcher bias; most accurate. Stratified: ensures representation of specific subgroup (stratum) proportional to population; quota sampling = stratified with specific required numbers. Cluster: uses existing groups when full population list is unavailable; less accurate. Systematic: every nth person; increasingly accepted. Snowball/chain-referral: subjects recruit other subjects (useful for hard-to-reach populations). Horizontal: single socioeconomic group; vertical: 2+ socioeconomic groups.",
+    "difficulty": "medium",
+    "confusable_with": "Stratified sampling is not the same as cluster sampling — stratified ensures proportional subgroup representation; cluster uses convenient existing groups"
+  },
+  {
+    "id": "ch09_fc_023",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Internal vs. external validity in research",
+    "back": "Internal validity: were changes in the DV truly caused by the IV (not by extraneous variables)? Threats: maturation, mortality/attrition (subjects withdrawing), instrumentation, statistical regression, Hawthorne effect, John Henry effect. External (population) validity: can results be generalized to other people, settings, or conditions? Low external validity = results only apply to the study sample.",
+    "difficulty": "medium",
+    "confusable_with": "Internal validity = did the IV really cause the DV? External validity = can results generalize? These are separate threats requiring different controls"
+  },
+  {
+    "id": "ch09_fc_024",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Statistical regression toward the mean",
+    "back": "Extreme scores (very high or very low) will move toward the population mean if the test is administered again. Based on Galton's 'law of filial regression' (genetic principle). Results from measurement error/lack of reliability. Threat to internal validity. Example: someone who scores extremely low on a test the first time will likely score higher the second time — but NOT because of treatment.",
+    "difficulty": "medium",
+    "confusable_with": "Statistical regression is a threat to internal validity — when very low scores improve after treatment, it might be regression, not treatment effect"
+  },
+  {
+    "id": "ch09_fc_025",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Hawthorne effect",
+    "back": "Research subjects improve simply because they know they are being observed or are receiving extra attention — not because of the treatment itself. Named after the 1924–1932 Western Electric/Hawthorne Works study by Elton Mayo and Roethlisberger. Subjects' behavior is influenced by the presence of the investigation. Also called observer effect or reactive effect/reactivity. Threat to internal validity.",
+    "difficulty": "easy",
+    "confusable_with": "Hawthorne effect = improvement from being observed/getting attention; Rosenthal effect = improvement from experimenter's expectations — different sources of confound"
+  },
+  {
+    "id": "ch09_fc_026",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Rosenthal effect (Pygmalion effect / experimenter expectancy effect)",
+    "back": "Researcher's beliefs about subjects cause those subjects to be treated in ways that fulfill the researcher's expectations — a self-fulfilling prophecy. Named after psychologist Robert Rosenthal. Also called experimenter expectancy effect or Pygmalion effect. Example: A teacher told certain students would excel (without basis) — those students did excel by year's end. Subjects do NOT need to know they are being observed.",
+    "difficulty": "medium",
+    "confusable_with": "Hawthorne = subjects know they're observed and change behavior; Rosenthal = experimenter's unconscious expectations change how they treat subjects"
+  },
+  {
+    "id": "ch09_fc_027",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Halo effect, John Henry effect, and resentful demoralization",
+    "back": "Halo effect: one trait (e.g., attractiveness) unconsciously influences rating of another unrelated trait (e.g., counseling skill). John Henry effect (compensatory rivalry): control group works harder to outperform the experimental treatment — inflates control group performance. Resentful demoralization: control group performs worse because they feel denied the experimental treatment — makes experimental group look better than warranted. Both are threats to internal validity.",
+    "difficulty": "hard",
+    "confusable_with": "John Henry effect = control group overperforms (to prove treatment unnecessary); resentful demoralization = control group underperforms (resentful of denial)"
+  },
+  {
+    "id": "ch09_fc_028",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Placebo effect vs. nocebo effect",
+    "back": "Placebo: improvement from an inert/fake treatment due to the subject's belief that it will work (e.g., sugar pill relieves depression). Researchers use placebos to compare to real treatments in controlled studies. Nocebo: negative effect from a negative suggestion (e.g., doctor predicts 6 weeks to live and patient deteriorates from the belief). Both demonstrate the power of expectation on outcomes.",
+    "difficulty": "easy",
+    "confusable_with": "Placebo effect ≠ Hawthorne effect — placebo is specifically from belief in a fake treatment; Hawthorne is from attention/observation"
+  },
+  {
+    "id": "ch09_fc_029",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Single-blind vs. double-blind study",
+    "back": "Single-blind: subjects do not know if they are in experimental or control group; researcher does know. Eliminates demand characteristics (subjects alter behavior based on knowledge of experiment). Double-blind: NEITHER subjects NOR researchers/raters know group assignment. Eliminates experimenter effects (researcher's unconscious expectations influencing results). Double-blind is more rigorous.",
+    "difficulty": "medium",
+    "confusable_with": "'Blind' refers to who has information — single-blind = subjects blind; double-blind = both subjects AND researchers blind"
+  },
+  {
+    "id": "ch09_fc_030",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "N=1 / single-subject / intensive experimental design",
+    "back": "A = baseline measurement; B = intervention; ABA = baseline-treatment-new baseline; ABAB = withdrawal/reversal design (most rigorous; controls for extraneous variables). Multiple-baseline: more than one target behavior tracked. Idiographic = single-subject study; nomothetic = group studies. Freud used case study method (N=1) but without numerical baselines. Ethically must NOT use withdrawal design if removing treatment could harm the client.",
+    "difficulty": "hard",
+    "confusable_with": "ABA = baseline-treatment-baseline (three phases); ABAB = baseline-treatment-baseline-treatment (four phases and more rigorous for ruling out extraneous variables)"
+  },
+  {
+    "id": "ch09_fc_031",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Solomon four-group design",
+    "back": "Created by psychologist Richard L. Solomon. Uses FOUR groups: two experimental groups + two control groups. Only one experimental group and one control group are pretested; the other two are only posttested. Purpose: determines whether pretesting itself influences the results (controls for pretest effects/sensitization). More complex but more rigorous than the standard two-group design.",
+    "difficulty": "hard",
+    "confusable_with": "Solomon four-group has 4 groups, not 4 IVs — the 'four' refers to number of groups needed to control for pretest effects"
+  },
+  {
+    "id": "ch09_fc_032",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Factorial design and factorial notation",
+    "back": "Factorial design: investigates the effects of TWO OR MORE IVs and their interactions simultaneously. The IVs in factorial designs are often called 'levels.' Factorial notation: a 2×3 design means 2 levels of one IV × 3 levels of a second IV. Levels do NOT indicate hierarchy. Example: male/female (2 levels) × individual/group/family therapy (3 levels) = 2×3 factorial.",
+    "difficulty": "medium",
+    "confusable_with": "Factorial design (multiple IVs) ≠ factor analysis (data reduction technique) — despite similar names, these are completely different procedures"
+  },
+  {
+    "id": "ch09_fc_033",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Longitudinal vs. cross-sectional research",
+    "back": "Longitudinal (diachronic): same people studied repeatedly over time; age can be used as IV; more informative for development but takes longer; subject to attrition. Cross-sectional (synchronic): different groups assessed at ONE point in time; faster; cannot track individual change. Cohort study: examines people who share an event or birth period (e.g., Vietnam veterans, born during Great Depression) regarding a specific characteristic.",
+    "difficulty": "easy",
+    "confusable_with": "Longitudinal = same people over time; cross-sectional = different people at one time — remember: 'longitudinal' sounds like 'long' period of time"
+  },
+  {
+    "id": "ch09_fc_034",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Survey research — requirements and limitations",
+    "back": "Simplest form of descriptive research. Requires 50–75% questionnaire return/completion rate to be accurate; typical actual return rate hovers around 40%. Ideal sample size: ≥100. Uses questionnaires or interviews to generate generalizations about populations. Problems: poor instrument construction, low return rate, nonrandom sampling. Gallup poll is a classic example.",
+    "difficulty": "easy",
+    "confusable_with": "Survey return rate needed = 50-75%; this is the GOAL, not what typically happens (actual ~40%) — frequently tested statistic"
+  },
+  {
+    "id": "ch09_fc_035",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Summative vs. formative evaluation",
+    "back": "Summative evaluation: assesses the FINAL product/outcome of a program after it is complete (e.g., 'How many students stopped using drugs after the year-long program?'). Formative evaluation: ONGOING process evaluation while the program is still in progress (e.g., 'How many are using drugs after week 3 of the program?'). Both are types of program evaluation used in counseling research.",
+    "difficulty": "easy",
+    "confusable_with": "Summative = FINAL outcome (comes at the END); formative = ONGOING process (occurs DURING) — think 'summative = summary at the end'"
+  },
+  {
+    "id": "ch09_fc_036",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Inductive vs. deductive reasoning",
+    "back": "Inductive: reasoning from SPECIFIC to GENERAL (generalizing from a single case or a few cases to a broad rule). Example: treating one phobic client successfully → concluding paradox works for all phobics. Deductive: reasoning from GENERAL to SPECIFIC ('reductive' = reduces the general to the specific). Example: knowing paradox generally works → predicting it will work for this specific client. Most qualitative research is inductive.",
+    "difficulty": "medium",
+    "confusable_with": "Inductive = specific to general; deductive = general to specific — memory: 'deductive = reductive' (reduces to specific)"
+  },
+  {
+    "id": "ch09_fc_037",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Basic vs. applied research",
+    "back": "Basic research: conducted to advance theoretical understanding; may have no immediate practical application. Applied research (also called action research or experience-near research): conducted to advance practical application of theories, skills, and techniques. Kurt Lewin's action research: intended to improve the situation with local people who will be better off at the end; bridges research and practice.",
+    "difficulty": "easy",
+    "confusable_with": "Action research = applied research aimed at improving a situation; NOT the same as qualitative research, though both can be used together"
+  },
+  {
+    "id": "ch09_fc_038",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Demand characteristics and counterbalancing",
+    "back": "Demand characteristics: cues or knowledge about the experiment that subjects are aware of, causing them to intentionally confirm or disconfirm the hypothesis — confounds results. Controls include blinding and deception. Counterbalancing: switching the order of stimuli/conditions to control for order effects (practice, fatigue). Multiple treatment interference: when multiple treatments are given, hard to determine which caused the change.",
+    "difficulty": "medium",
+    "confusable_with": "Demand characteristics involve subjects' knowledge affecting behavior; Hawthorne effect involves attention improving behavior — both are subject-based confounds but differ in mechanism"
+  },
+  {
+    "id": "ch09_fc_039",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Naturalistic observation and ethnographic research",
+    "back": "Naturalistic observation: researcher observes in a NATURAL setting without manipulating variables; oldest method of research; used in ethological studies (animal observation) and children's studies. Participant observer: researcher actively participates while making observations — risk of observer effect (presence alters situation). Ethnographic research: data collected via interviews, observations, and document inspection.",
+    "difficulty": "easy",
+    "confusable_with": "Naturalistic observation = no IV manipulation (researcher is passive); participant observation = researcher actively participates — both are field-based but differ in researcher's role"
+  },
+  {
+    "id": "ch09_fc_040",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Likert Scale",
+    "back": "Created by Rensis Likert in the early 1930s. Rating scale with ordered response categories such as: strongly agree, agree, neutral/undecided, disagree, strongly disagree. Improves overall degree of measurement over simple yes/no. A summated or linear rating scale — the client's score is the sum of all items. Technically ordinal data, though often treated as interval in social science research.",
+    "difficulty": "easy",
+    "confusable_with": "Likert scale is NOT a projective test — it is a structured self-report rating scale with ordered categories"
+  },
+  {
+    "id": "ch09_fc_041",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "ERIC and SPSS — research tools",
+    "back": "ERIC (Educational Resources Information Center): online resource bank (eric.ed.gov) for scholarly literature; used for literature searches before beginning thesis/dissertation. Primary source: you cite the original author's own work (e.g., Ellis's own book). Secondary source: you cite someone else's description of the original work (e.g., citing Ellis's ideas from a general counseling text). SPSS (Statistical Package for Social Sciences): computer software for statistical computation (t tests, ANOVA, correlation).",
+    "difficulty": "easy",
+    "confusable_with": "ERIC = literature search tool; SPSS = statistical analysis software — completely different tools for different parts of the research process"
+  },
+  {
+    "id": "ch09_fc_042",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Operational definition and replication",
+    "back": "Operational definition: specific, concrete description of a procedure or variable so that another researcher can REPLICATE the study exactly. Replication: repeating an experiment under the same conditions; a finding is not broadly accepted as scientific until replicated. Axiom: a universally accepted idea needing no additional proof (contrast with theory, which requires evidence). Example operational def: 'reinforced with 25¢ within 30 seconds after correctly answering five addition problems.'",
+    "difficulty": "easy",
+    "confusable_with": "Operational definition defines HOW something is measured/implemented — not just what the concept is (that would be a conceptual or theoretical definition)"
+  },
+  {
+    "id": "ch09_fc_043",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Meta-analysis and qualitative research trends",
+    "back": "Meta-analysis: a study that statistically analyzes the results of many prior studies on the same topic (e.g., reviewing 20 reality therapy studies at once). Cohen's d effect size: small = 0.2, medium = 0.5, large = 0.8. Qualitative research: non-numerical; focused on meaning and process (Freud and Piaget used qualitative methods). Trending: more qualitative research, more multicultural focus, N=1 designs, action research, Internet-based research.",
+    "difficulty": "medium",
+    "confusable_with": "Meta-analysis is quantitative (uses statistics to combine results); qualitative is non-numerical — meta-analysis is the opposite of qualitative"
+  },
+  {
+    "id": "ch09_fc_044",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Scattergram and graphical displays",
+    "back": "Scattergram (scatterplot): pictorial diagram/graph of two variables being correlated; shows direction and strength of relationship. Histogram: bar graph displaying a frequency distribution with class intervals; bars are vertical. x axis (abscissa): horizontal axis; plots IV scores. y axis (ordinate): vertical axis; plots frequency of DVs. Mesokurtic: normal curve peak in middle.",
+    "difficulty": "easy",
+    "confusable_with": "Scattergram = correlation graph (two variables plotted against each other); histogram = frequency distribution bar graph (one variable's frequency)"
+  },
+  {
+    "id": "ch09_fc_045",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Confounding variables and contaminating variables",
+    "back": "Confounding variable: an undesirable extraneous variable NOT controlled by the researcher that introduces error into an experiment. Makes it impossible to attribute changes in DV solely to the IV. Also called contaminating variable. All correlational research is said to be confounded because there is no experimental control of the IV. Properly controlled experiments attempt to eliminate all confounding variables through random assignment and standardized procedures.",
+    "difficulty": "medium",
+    "confusable_with": "Confounding variable ≠ covariate — covariate is controlled STATISTICALLY via ANCOVA; confounding variable is an uncontrolled threat that invalidates the experiment"
+  },
+  {
+    "id": "ch09_fc_046",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Control group vs. experimental group",
+    "back": "Control group: same characteristics as experimental group EXCEPT does NOT receive the IV (experimental treatment). Experimental group: receives the IV. Both groups should have equivalent baseline means at the start. The control group provides a comparison to determine if the IV caused any changes. Random assignment (randomization) to groups is what distinguishes a true experiment from a quasi-experiment.",
+    "difficulty": "easy",
+    "confusable_with": "Control group = no IV; experimental group = receives IV — 'control' means the researcher controls what it DOES NOT receive"
+  },
+  {
+    "id": "ch09_fc_047",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Between-subjects vs. within-subjects design",
+    "back": "Between-subjects design: different subjects in each condition/group; each subject receives only one level of the IV. Within-subjects design (repeated measures): SAME subjects experience multiple conditions; uses counterbalancing to control for order effects. Matched design: subjects matched on a variable (like IQ) that might correlate with the DV; controls for that variable's influence.",
+    "difficulty": "medium",
+    "confusable_with": "Between-subjects compares DIFFERENT people across conditions; within-subjects compares the SAME person across conditions — both are valid experimental designs"
+  },
+  {
+    "id": "ch09_fc_048",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Sampling error and population parameter",
+    "back": "Population parameter: a value derived from the entire population (e.g., the true average IQ is 100). Statistic: a value drawn from a sample (may differ from the parameter). Sampling error: the discrepancy between a sample statistic and the true population parameter; occurs because small samples may not perfectly represent the population. Margin of error in political polls is based on sampling error.",
+    "difficulty": "medium",
+    "confusable_with": "Sampling error ≠ research error or mistake — it is an expected, quantifiable discrepancy between sample results and population reality"
+  },
+  {
+    "id": "ch09_fc_049",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "Research ethics guidelines",
+    "back": "Six ethical guidelines for researchers: (1) inform subjects of any risks; (2) remove negative after-effects; (3) allow subjects to withdraw at any time; (4) protect subjects' confidentiality; (5) present research results accurately and without misleading; (6) use only techniques you are trained in. Ethical concern with withdrawal/reversal design: do NOT remove treatment if doing so could harm the subject.",
+    "difficulty": "easy",
+    "confusable_with": "Research ethics ≠ counseling ethics — overlap exists (confidentiality, informed consent) but research ethics specifically address experimental manipulation and subject protection"
+  },
+  {
+    "id": "ch09_fc_050",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "front": "One-tailed vs. two-tailed tests; power of a test",
+    "back": "One-tailed (directional): hypothesis specifies direction of difference (e.g., 'Group A will score HIGHER than Group B'); rejection region at one end of distribution; MORE POWER. Two-tailed (nondirectional): hypothesis only predicts a difference (e.g., 'Groups will differ'); rejection regions at BOTH ends. Power of a test = 1 − beta (ability to correctly reject a false null). Parametric tests > nonparametric tests in power. Larger N increases power.",
+    "difficulty": "hard",
+    "confusable_with": "One-tailed is MORE powerful (requires smaller effect to reach significance) but can only be used when the direction of the effect is predicted in advance"
+  }
+]

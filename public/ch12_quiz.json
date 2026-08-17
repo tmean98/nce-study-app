@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ch12_q_001",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "question": "A school counselor is studying how a student's family, classroom, teachers, neighborhood, and national education policy all interact to influence the child's development. The theoretical framework BEST guiding this analysis is:",
+    "options": [
+      "Piaget's constructivist stage theory — the child's cognitive development determines how environments are interpreted",
+      "Bronfenbrenner's ecological systems theory — development is shaped by nested environmental systems",
+      "Erikson's psychosocial stage theory — the child's crisis resolution at each stage determines outcomes",
+      "Vygotsky's zone of proximal development — social interaction with more competent others drives growth"
+    ],
+    "correct_index": 1,
+    "rationale": "Bronfenbrenner's ecological systems theory (theory of human ecology) is specifically designed to capture how MULTIPLE NESTED SYSTEMS simultaneously influence development. The family/classroom = microsystem; how family and school interact = mesosystem; neighborhood/policy = exosystem/macrosystem. Critical exam facts: Bronfenbrenner's theory is NOT a stage theory; he co-developed Head Start; he was born in Russia. Piaget focuses on cognitive stages within the child; Erikson on psychosocial crises; Vygotsky on scaffolded social learning — none captures the full ecosystem model."
+  },
+  {
+    "id": "ch12_q_002",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "question": "A 13-year-old tries to speak in a family session and her mother says, 'I told you not to say anything — because I'm the parent, end of discussion.' According to Diana Baumrind's parenting typology, this mother BEST exemplifies:",
+    "options": [
+      "Authoritative parenting — maintaining clear limits in a session is appropriate",
+      "Authoritarian parenting — expects obedience without explanation or discussion",
+      "Permissive parenting — allowing the child to be present is itself permissive",
+      "Nonpunitive parenting — the mother is not using punishment, just setting limits"
+    ],
+    "correct_index": 1,
+    "rationale": "AUTHORITARIAN parenting: expects unquestioning obedience, no verbal give-and-take, no explanations — 'Because I said so.' Correlates with alcoholism, drug abuse, and antisocial behavior in children. AUTHORITATIVE parenting: also firm, but allows discussion and explanations — produces happy children with good social skills. The critical distinction: authoritative = conversation; authoritarian = no conversation. Permissive parenting is nonpunitive and makes few demands — nearly the opposite of this mother's behavior."
+  },
+  {
+    "id": "ch12_q_003",
+    "domain": "Assessment",
+    "chapter": 12,
+    "question": "A school psychometrician tells you that a student's IQ score falls at the 84th percentile. Without any other information, you can estimate the student's IQ is MOST likely:",
+    "options": [
+      "Approximately 130 — gifted range",
+      "Approximately 115 — one standard deviation above the mean",
+      "Approximately 105 — slightly above average",
+      "Approximately 100 — exactly at the mean"
+    ],
+    "correct_index": 1,
+    "rationale": "The normal curve: the 84th percentile falls approximately ONE STANDARD DEVIATION above the mean. With a mean IQ of 100 and SD of 15 (WAIS/WISC standard): 100 + 15 = 115. The 50th percentile = IQ 100 (exactly at the mean). The 98th percentile ≈ two SDs above mean = IQ 130 (gifted). T-score of 80 (on a t-score scale with mean=50, SD=10) = 3 SDs above mean, translating to approximately IQ 145 — near gifted on Otis-Lennon. Knowing the normal curve cold is critical for the exam."
+  },
+  {
+    "id": "ch12_q_004",
+    "domain": "Assessment",
+    "chapter": 12,
+    "question": "A counselor administers a personality inventory to a client. The counselor accidentally reads a different client's results but shares the interpretation with this client anyway. The client responds, 'This is amazingly accurate — it describes me perfectly!' This phenomenon is BEST explained by:",
+    "options": [
+      "Positive transference — the client idealizes the counselor's assessment skills",
+      "The placebo effect — the client expected the assessment to be accurate",
+      "The Barnum (Forer) effect — clients accept generic descriptions as uniquely applicable to them",
+      "Social desirability — the client agreed to avoid seeming difficult"
+    ],
+    "correct_index": 2,
+    "rationale": "The Barnum effect (also called the Forer effect, after psychologist Bertram R. Forer who discovered it): clients readily accept general psychological descriptions, horoscopes, or personality reports and believe they apply specifically to them. Named after P.T. Barnum ('there's a sucker born every minute'). This is not psychosis, positive transference, or social desirability — it's a normal cognitive bias where people find personal meaning in vague, generalized statements. Implication: clients may accept inaccurate assessments without questioning them."
+  },
+  {
+    "id": "ch12_q_005",
+    "domain": "Research & Program Evaluation",
+    "chapter": 12,
+    "question": "A researcher conducts a study and finds a statistically significant difference (p < .01) between two therapy modalities. A colleague says the result alone doesn't tell us how meaningful the finding is. The colleague is asking for:",
+    "options": [
+      "The coefficient of determination (r²) to calculate shared variance",
+      "The effect size (ES), which quantifies the magnitude of the difference",
+      "A meta-analysis to replicate the findings across multiple studies",
+      "A lower alpha level to confirm the result is not a Type I error"
+    ],
+    "correct_index": 1,
+    "rationale": "Effect size (ES) measures the MAGNITUDE of a result — not just whether it reached statistical significance. ES must be reported even when results ARE statistically significant. Cohen's d benchmarks: small = .20 or less; medium = .50; large/big/strong = .80 or higher. ES can exceed 1.00 (unlike r). The landmark Smith, Glass, Miller (1980) meta-analysis found psychotherapy ES = .85 (large), while antidepressant ES ≈ .24–.31 (small). Statistical significance tells us the result likely didn't occur by chance; ES tells us how important the difference actually is."
+  },
+  {
+    "id": "ch12_q_006",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "question": "A counselor at an addiction agency is paid every Friday regardless of how many clients she sees. A client gambles on slot machines every day despite losing money. Both behaviors involve reinforcement schedules. Which CORRECTLY matches each to its schedule?",
+    "options": [
+      "Counselor = variable ratio; client = fixed interval",
+      "Counselor = fixed ratio; client = variable interval",
+      "Counselor = fixed interval; client = variable ratio",
+      "Both are on variable interval schedules"
+    ],
+    "correct_index": 2,
+    "rationale": "FIXED INTERVAL (FI): reinforcement on a fixed TIME schedule — the counselor receives a paycheck every 7 days. Memory: 'interval = time interval.' VARIABLE RATIO (VR): reinforcement after an unpredictable NUMBER of responses — slot machines pay out after a variable number of plays. VR schedules are the most resistant to extinction (you can never predict when the next reward comes). The slot machine doesn't operate on time (ruling out interval schedules) and the payout varies (ruling out fixed ratio). These are classic exam examples repeated across counseling exams."
+  },
+  {
+    "id": "ch12_q_007",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "question": "A client with a gambling addiction always blows on his dice before rolling, believing it improves his luck. He started this behavior after a big win that occurred immediately after blowing on the dice. B.F. Skinner would MOST likely explain this as:",
+    "options": [
+      "Contingent reinforcement — the big win was contingent on blowing the dice",
+      "Accidental (superstitious) reinforcement — the win occurred independently of the behavior",
+      "A fixed ratio schedule — the win came after a fixed number of attempts",
+      "Shaping with successive approximations — the behavior was gradually reinforced"
+    ],
+    "correct_index": 1,
+    "rationale": "Accidental (superstitious) reinforcement: the reinforcer (big win) occurred INDEPENDENTLY of the specific behavior (blowing on dice) — the behavior had nothing to do with the outcome, but the temporal coincidence created a behavioral superstition. Skinner discovered this feeding pigeons randomly — they repeated whatever they happened to be doing when food appeared (spinning, pecking). Contingent reinforcement requires that the reinforcer is DEPENDENT on the behavior — not the case with a random casino win. This is the behavioral explanation for most superstitions."
+  },
+  {
+    "id": "ch12_q_008",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "question": "A counseling supervisor observes a trainee using OARS skills and focusing on the client's ambivalence about quitting alcohol. The supervisor is training the intern in:",
+    "options": [
+      "DBT — focusing on emotional regulation and distress tolerance",
+      "Motivational interviewing (MI) — a Rogerian-based, non-confrontational approach to change",
+      "ACT — using acceptance and mindfulness to address the client's avoidance",
+      "Solution-focused brief therapy — using the miracle question to envision a sober future"
+    ],
+    "correct_index": 1,
+    "rationale": "OARS is the skill set specific to MOTIVATIONAL INTERVIEWING (Miller and Rollnick): Open questions, Affirmations, Reflection, Summaries. MI was initially developed for problem drinkers, is rooted in Rogerian counseling, and is non-confrontational. The 4 MI processes in order: Engaging → Focusing → Evoking → Planning. Change comes from the CLIENT. MI should not be confused with traditional brief therapy. DBT uses diary cards and 4 modes. ACT uses mindfulness/acceptance. SFBT uses the miracle question."
+  },
+  {
+    "id": "ch12_q_009",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "question": "A counselor is using CBT with a client who is upset about forgetting his partner's birthday. The counselor repeatedly asks, 'And what is the worst thing that could happen if that is true?' — drilling deeper until the client reveals he fears his partner will eventually leave him. This technique is BEST called:",
+    "options": [
+      "Cognitive restructuring — replacing the irrational thought with a rational alternative",
+      "The downward arrow technique — uncovering the client's underlying core belief",
+      "Behavioral disputation — having the client behave counter to the feared outcome",
+      "Thought stopping — interrupting the cognitive chain before it reaches the core belief"
+    ],
+    "correct_index": 1,
+    "rationale": "The DOWNWARD ARROW technique, created by David D. Burns, M.D.: the therapist repeatedly asks 'What is the worst thing that could happen?' to dig beneath the surface automatic thought to the deeper CORE BELIEF (schema-level cognition). In this case: 'I forgot the gift' → 'She'll be upset' → 'She'll leave' → core belief: 'I am unlovable/inadequate.' This is different from cognitive restructuring (which challenges the thought after identifying it) and behavioral disputation (which has the client act differently). Thought stopping INTERRUPTS thoughts rather than following them downward."
+  },
+  {
+    "id": "ch12_q_010",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "question": "A counselor is incorporating DBT with a suicidal client. She is using diary cards, a weekly skills training group, individual therapy, AND telephone coaching. This represents:",
+    "options": [
+      "DBT-informed — using fewer than all DBT modes",
+      "Standard DBT — all four modes are being implemented",
+      "Third-wave CBT but not standard DBT, since telephone coaching is not part of the model",
+      "MI-informed DBT — the OARS framework has been integrated into the DBT structure"
+    ],
+    "correct_index": 1,
+    "rationale": "Standard DBT (Marsha Linehan) uses all FOUR modes: (1) individual therapy, (2) skills training group, (3) phone coaching, (4) therapist consultation team. This counselor is using diary cards (prioritizing treatment targets), skills training, individual therapy, AND phone coaching — all four modes are represented. DBT-INFORMED is used when fewer than all four modes are implemented (e.g., only phone coaching due to cost constraints). DBT was initially designed for suicidal clients and borderline personality disorder and is classified as a type of CBT."
+  },
+  {
+    "id": "ch12_q_011",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "question": "According to neurocounseling research, which of the following MOST accurately describes the therapeutic effect of cognitive therapy on brain chemistry?",
+    "options": [
+      "Cognitive therapy raises cortisol, which reduces anxiety symptoms",
+      "Cognitive therapy raises serotonin levels similarly to antidepressant medication, without the side effects",
+      "Cognitive therapy does not impact brain chemistry — only medication affects neurochemistry",
+      "Cognitive therapy lowers dopamine, which is responsible for obsessive thought patterns"
+    ],
+    "correct_index": 1,
+    "rationale": "Neuroscience research shows that COGNITIVE THERAPY (Ellis/Beck) raises SEROTONIN to levels comparable to antidepressant medication — without the medication's side effects. Serotonin deficits are associated with depression. Tryptophan (an amino acid) is related to serotonin production — removing it from the diet causes memory impairment, anxiety, mood problems, and increased aggression. CORTISOL is the stress hormone — cognitive therapy should NOT raise cortisol. Neuroplasticity confirms that therapeutic interventions literally change brain structure and chemistry."
+  },
+  {
+    "id": "ch12_q_012",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "question": "A supervisee is crying uncontrollably in her supervision session because her boyfriend broke up with her. She asks her supervisor to counsel her. The supervisor should:",
+    "options": [
+      "Provide counseling immediately since the supervisee is in crisis and delaying would be harmful",
+      "Begin counseling but simultaneously refer to another supervisor so the supervisory relationship can continue",
+      "Provide appropriate crisis stabilization, then assist the supervisee in finding a separate counselor",
+      "Refer her to a psychiatrist since the emotional intensity suggests medication may be needed"
+    ],
+    "correct_index": 2,
+    "rationale": "Ethical guidelines are unambiguous: SUPERVISORS DO NOT PROVIDE COUNSELING SERVICES TO THEIR OWN SUPERVISEES. The power differential of the supervisory relationship would compromise the therapeutic relationship. The ethical response: (1) provide appropriate crisis support if needed, (2) assist in finding a DIFFERENT counselor for ongoing therapy. The supervisor does NOT begin counseling and does NOT merely give a referral without crisis support. Beginning counseling while simultaneously referring to another supervisor does not resolve the dual relationship problem."
+  },
+  {
+    "id": "ch12_q_013",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "question": "A gay male client tells his counselor he is unhappy with his sexual orientation and wants to become heterosexual. Under current ACA ethics, the counselor should:",
+    "options": [
+      "Refer the client to a reparative therapy specialist, since the client has autonomy to choose his treatment",
+      "Provide reparative therapy if the counselor has training in the modality",
+      "Explain that homosexuality is not a mental disorder requiring change; refuse to refer for conversion therapy",
+      "Use DBT to help the client tolerate distress about his sexual orientation without attempting to change it"
+    ],
+    "correct_index": 2,
+    "rationale": "ACA (1998 Governing Council resolution, confirmed in 2014 ethics): homosexuality is NOT a mental illness; sexual orientation does not require treatment. ACA explicitly prohibits conversion/reparative therapy — peer-reviewed research shows it HARMS clients and does NOT change sexual orientation. ACA defines it as outside the scope of professional counseling. Counselors should NOT refer for conversion therapy. The counselor should explain these realities and NOT fulfill a referral for harmful, ineffective treatment. Approximately 4% of the US population is gay/lesbian; homosexuality removed from DSM in 1973."
+  },
+  {
+    "id": "ch12_q_014",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "question": "A counselor learns that a 9-year-old boy referred for ADHD evaluation has had only one session and the data are insufficient for a diagnosis. The counselor believes a premature ADHD diagnosis could cause the child longstanding identity problems and lead to inappropriate medication. Under ACA ethics, the counselor may:",
+    "options": [
+      "Diagnose Adjustment Disorder as a benign placeholder to satisfy insurance requirements",
+      "Refrain from making a diagnosis since a premature diagnosis could harm the child",
+      "Defer all diagnostic decisions to the referring physician",
+      "Diagnose the child based on teacher report alone, since parent-teacher collateral is sufficient"
+    ],
+    "correct_index": 1,
+    "rationale": "ACA ethics explicitly state counselors MAY REFRAIN from making a diagnosis when they believe the diagnosis could harm the client. Valid reasons include: insufficient data, cultural contexts where symptoms have different meaning, risk of the client self-stigmatizing based on the label, or loss of security clearance. Decision should be collaborative with the client when possible. Intentionally misdiagnosing as Adjustment Disorder for insurance reimbursement is INSURANCE FRAUD — an ethics violation regardless of the counselor's intent to help. Deference to a physician does not eliminate the counselor's own ethical obligation."
+  },
+  {
+    "id": "ch12_q_015",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "question": "A counselor runs a private practice and assigns new client referrals to whichever associate pays the highest percentage of the session fee for office use. According to ACA ethics, this practice is:",
+    "options": [
+      "Ethical — charging rent as a percentage of session fees is standard private practice business",
+      "Ethical only if the percentage does not exceed one-third of the session fee",
+      "Unethical — charging a percentage of the client fee per referral is essentially a kickback scheme",
+      "Ethical if the client consents to the arrangement in the informed consent document"
+    ],
+    "correct_index": 2,
+    "rationale": "ACA has ruled that charging associates a PERCENTAGE of client fees for office use constitutes an unethical FEE-SPLITTING/KICKBACK scheme — because it creates a financial incentive to refer clients to higher-paying associates rather than based on clinical competence or client fit. Making referral decisions based on financial outcomes is explicitly unethical. The ethical alternative: charge a FLAT SET AMOUNT for office use (not a percentage of client fees), and assign clients based on clinical appropriateness or a rotation system. Client consent does not make fee-splitting ethical."
+  },
+  {
+    "id": "ch12_q_016",
+    "domain": "Research & Program Evaluation",
+    "chapter": 12,
+    "question": "A large comprehensive exam question asks what the BEST first step is when a counselor wants to conduct a program evaluation at her nonprofit counseling agency. The MOST appropriate answer is:",
+    "options": [
+      "Write a grant proposal to fund the evaluation",
+      "Contact United Way for evaluation assistance and financial support",
+      "Gain support from staff, administration, clients, and board of directors",
+      "Begin collecting data immediately to capture a natural baseline before the agency is aware of the study"
+    ],
+    "correct_index": 2,
+    "rationale": "Program evaluation (PE) begins by securing STAKEHOLDER SUPPORT — staff, administration, clients, and the board of directors. Without buy-in, the evaluation will face resistance and may not produce actionable results. Grants (choice A) may be needed but come later. Assuming United Way involvement (choice B) adds information not in the question — not all nonprofits are United Way members. Covert data collection (choice D) would be an ethics violation — stakeholders must be aware. Key PE principles: uses natural settings, answers questions the PROGRAM poses (not a researcher's hypothesis), use existing data when possible to reduce cost."
+  },
+  {
+    "id": "ch12_q_017",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "question": "A supervisee is describing a rape victim and says she was 'probably asking for it' based on her clothing. According to Fritz Heider's attribution theory, the supervisee is engaging in:",
+    "options": [
+      "Situational attribution — attributing the rape to external environmental factors",
+      "The self-serving bias — protecting her own self-esteem by blaming the victim",
+      "Dispositional attribution — attributing the assault to the victim's personal characteristics/choices",
+      "The fundamental attribution error applied to herself, not to the victim"
+    ],
+    "correct_index": 2,
+    "rationale": "DISPOSITIONAL (internal) attribution: attributing an outcome to the PERSON'S character, judgment, or behavior — here, the victim's choice of clothing. This is an example of victim-blaming through dispositional attribution. The FUNDAMENTAL ATTRIBUTION ERROR is related: when explaining ANOTHER person's negative outcome, people overweight dispositional causes and underweight situational ones. The supervisee is attributing the rape to the victim's characteristics rather than to the perpetrator's actions (situational/external). The self-serving bias applies to one's OWN outcomes, not someone else's."
+  },
+  {
+    "id": "ch12_q_018",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "question": "A depressed client fails a job interview. Unlike a non-depressed person, this client would MOST likely explain the failure by saying:",
+    "options": [
+      "'The interviewer was a jerk and the questions were unfair' — situational attribution",
+      "'I was underprepared and I performed poorly' — dispositional attribution",
+      "'I got unlucky today — it happens to everyone sometimes' — normalizing attribution",
+      "'The economy made hiring difficult this quarter' — external attribution"
+    ],
+    "correct_index": 1,
+    "rationale": "Non-depressed people typically use the SELF-SERVING BIAS — attributing failures to external/situational factors ('the interviewer was unfair'). DEPRESSED individuals do the OPPOSITE — they attribute failures to internal/dispositional factors ('I performed poorly; it's my fault'). This is the depressive attribution style: internal, stable, global. Research finding: depressed individuals often have a more ACCURATE view of reality than non-depressed people — they just don't use the self-serving bias that buffers most people from negative self-evaluation. This makes them more susceptible to rumination and hopelessness."
+  },
+  {
+    "id": "ch12_q_019",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "question": "A child client is 9 years old and presents with significant behavioral issues. Her counselor takes a nondirective stance, following the child's lead in play, does not direct conversation topics, and uses acceptance and warmth without rushing the process. This approach MOST reflects:",
+    "options": [
+      "Gestalt child therapy (Violet Oaklander) — using empty chair and creative art with children",
+      "Child-centered play therapy (CCPT) — based on Virginia Axline's application of Rogers's principles",
+      "Anna Freud's psychoanalytic play therapy — using play to access the child's unconscious",
+      "Structured play therapy — using therapist-directed activities to address specific presenting problems"
+    ],
+    "correct_index": 1,
+    "rationale": "Child-Centered Play Therapy (CCPT) was created by VIRGINIA AXLINE, who applied CARL ROGERS's person-centered principles to child therapy. Axline wrote 'Dibs In Search of Self.' Key features: nondirective (child leads, counselor follows), warm, accepting, does not rush, child sets topics. Also called NONDIRECTIVE CHILD PLAY THERAPY. Anna Freud used psychoanalytic play therapy (not nondirective). Violet Oaklander added gestalt ideas to play therapy, influenced by Axline. Structured play therapy = therapist-directed — the opposite of CCPT."
+  },
+  {
+    "id": "ch12_q_020",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "question": "A counselor supervisor tells an intern: 'Your approach of incorporating mindfulness practice, acceptance strategies, and commitment to client values into your CBT sessions represents the most contemporary evolution of behavior therapy.' The supervisor is describing:",
+    "options": [
+      "First-wave CBT — the Skinnerian behavioral tradition",
+      "Second-wave CBT — the cognitive approaches of Ellis and Beck",
+      "Third-wave CBT — contemporary approaches including ACT, DBT, and motivational interviewing",
+      "Integrative psychotherapy — combining theories across modalities without a specific wave framework"
+    ],
+    "correct_index": 2,
+    "rationale": "Steven C. Hayes categorized behavior therapies into three waves. FIRST WAVE: classical and operant conditioning — Pavlov, Watson, Skinner, Wolpe. SECOND WAVE: cognitive approaches — Ellis (REBT) and Beck (cognitive therapy), focusing on changing thoughts. THIRD WAVE (contemporary): adds mindfulness and acceptance — DBT (Linehan), Motivational Interviewing (Miller/Rollnick), and ACT (Acceptance and Commitment Therapy). ACT is pronounced like the word 'act.' Third-wave approaches do NOT fight/eliminate unwanted thoughts — they promote acceptance of thoughts while committing to values-based action."
+  }
+]

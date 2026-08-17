@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ch09_q_001",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A counselor educator randomly assigns students to either a biofeedback training group or a control group and measures their licensing exam scores afterward. In this experiment, the biofeedback training is the ________ and the exam score is the ________.",
+    "options": [
+      "DV; IV",
+      "IV; DV",
+      "control variable; IV",
+      "organismic variable; covariate"
+    ],
+    "correct_index": 1,
+    "rationale": "The IV (independent variable) is what the researcher manipulates — biofeedback training. Memory device: 'I manipulate the IV.' The DV (dependent variable) is the outcome data — the exam score. Memory device: 'D for data.' The control group does not receive the IV; the experimental group does."
+  },
+  {
+    "id": "ch09_q_002",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher sets a significance level of P = .05 before running an experiment. After data collection, the result is significant at P = .05. This means:",
+    "options": [
+      "There is a 95% chance the null hypothesis is true",
+      "There is only a 5% chance the results are due to chance factors",
+      "Five subjects in the study produced unreliable results",
+      "The level of significance should be reset to .01 before interpreting results"
+    ],
+    "correct_index": 1,
+    "rationale": "P = .05 means there is only a 5% probability that the observed difference between groups is due to chance — equivalently, the researcher can be 95% confident the results reflect a real difference. The significance level MUST be set before the experiment begins. Resetting P after seeing results is a serious research ethics violation."
+  },
+  {
+    "id": "ch09_q_003",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "An experiment concludes that a new REBT-based intervention significantly reduces client depression. In reality, the intervention made no difference. The researcher has committed a:",
+    "options": [
+      "Type II error — accepted null when it was false",
+      "Type I error — rejected null when it was true",
+      "Beta error — accepted null when it was true",
+      "Sampling error — the sample did not represent the population"
+    ],
+    "correct_index": 1,
+    "rationale": "Type I (alpha) error: the researcher rejects the null hypothesis when it is actually true. Memory device: 'RA — Reject when Applicable/true.' Here, the null hypothesis (REBT made no difference) WAS true, but was rejected because results looked significant. Type II (beta) error is the opposite: accepting null when it is false — missing a real effect."
+  },
+  {
+    "id": "ch09_q_004",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher is comparing mean test anxiety scores across THREE different treatment groups (CBT, EMDR, and a control). The MOST appropriate statistical test is:",
+    "options": [
+      "A t test",
+      "Pearson r",
+      "One-way ANOVA",
+      "Chi-square"
+    ],
+    "correct_index": 2,
+    "rationale": "The t test is used to compare exactly TWO group means. When there are three or more groups, the analysis of variance (ANOVA) is required — yielding an F statistic that is compared to a critical F table. Pearson r measures the degree of relationship between two variables, not group differences. Chi-square compares obtained frequencies to expected frequencies."
+  },
+  {
+    "id": "ch09_q_005",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A study finds a correlation of r = -.85 between therapist warmth and client dropout rates. A graduate student interprets this to mean that low warmth CAUSES clients to drop out. The supervisor should correct this by explaining:",
+    "options": [
+      "The correlation should be positive for this relationship to be meaningful",
+      "Correlation does not imply causation — only experimental research can establish cause and effect",
+      "A correlation of -.85 is weaker than a positive correlation of +.85 and cannot be trusted",
+      "The quasi-experimental design used here is sufficient to infer causality"
+    ],
+    "correct_index": 1,
+    "rationale": "Correlation NEVER implies causation. Only true experiments (with IV manipulation and random assignment) can establish cause-and-effect relationships. Correlational research is quasi-experimental. Also: a correlation of -.85 is NOT weaker than +.85 — the minus sign only indicates direction (inverse relationship), not strength. Both represent equally strong relationships."
+  },
+  {
+    "id": "ch09_q_006",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "First-year counseling interns take an exam specifically designed to be far too difficult for them. Almost all students score very low. The distribution of their scores would be:",
+    "options": [
+      "Negatively skewed, with the tail pointing left",
+      "Positively skewed, with the tail pointing right",
+      "Bimodal, showing two clusters of performance",
+      "Normal and symmetrical"
+    ],
+    "correct_index": 1,
+    "rationale": "When most scores are low (clustered on the left), the tail of the distribution extends to the RIGHT — this is a POSITIVE skew. Memory device: the tail points in the direction of the skew. Negative skew occurs when most scores are high and the tail points left. For skewed distributions, the median is the best measure of central tendency."
+  },
+  {
+    "id": "ch09_q_007",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A counselor researcher tracks the GRE scores and first-year GPA of 200 graduate students. With a Pearson r = +.68, she wants to know what percentage of the variance in GPA is accounted for by GRE scores. The answer is:",
+    "options": [
+      "68%",
+      "32%",
+      "46.24%",
+      "53.76%"
+    ],
+    "correct_index": 2,
+    "rationale": "The coefficient of determination = r². Here, (.68)² = .4624 = 46.24% of the variance in GPA is accounted for by GRE scores. The remaining 53.76% is due to other factors. This is a direct application of the shared variance concept (also tested in Chapter 8 as the reliability coefficient of determination)."
+  },
+  {
+    "id": "ch09_q_008",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A client who knows she is being observed in a research study begins asking more questions and engaging more in therapy than she normally would, even though the study is examining a different variable altogether. This is BEST explained by:",
+    "options": [
+      "The Rosenthal (Pygmalion) effect",
+      "The Hawthorne effect",
+      "The Halo effect",
+      "Statistical regression toward the mean"
+    ],
+    "correct_index": 1,
+    "rationale": "The Hawthorne effect: subjects change behavior simply because they know they are being observed or receive extra attention from being in a study — not because of any treatment. Named after the 1924–1932 Western Electric Hawthorne Works study. The Rosenthal effect involves the experimenter's expectations causing change, not the subject's awareness of being observed."
+  },
+  {
+    "id": "ch09_q_009",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A school counselor informs a teacher — without actually testing any students — that certain children are 'late bloomers' expected to show dramatic improvement this year. By year's end, those exact children show the most improvement, even though they were selected randomly. This BEST illustrates:",
+    "options": [
+      "The Hawthorne effect — children improved because they knew they were chosen",
+      "The placebo effect — children received an inert intervention",
+      "The Rosenthal (experimenter expectancy/Pygmalion) effect",
+      "Demand characteristics — children conformed to expected behavior"
+    ],
+    "correct_index": 2,
+    "rationale": "The Rosenthal effect (also called experimenter expectancy or Pygmalion effect): the researcher's/teacher's belief that certain children would excel caused them to be treated differently — a self-fulfilling prophecy. The children did NOT know they were part of an experiment, ruling out the Hawthorne effect. This is a classic replication of Rosenthal and Jacobson's original 'Pygmalion in the Classroom' study."
+  },
+  {
+    "id": "ch09_q_010",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A behaviorist counselor tracks a child's disruptive classroom behavior over two weeks (A), then introduces a token economy (B), then removes the token economy to restore baseline (A), then reintroduces it (B). This research design is called a(n):",
+    "options": [
+      "Solomon four-group design",
+      "AB single-subject design",
+      "ABAB withdrawal/reversal design",
+      "Factorial design"
+    ],
+    "correct_index": 2,
+    "rationale": "The ABAB withdrawal/reversal design: A = baseline, B = intervention, A = return to baseline (withdrawal), B = reintroduction of intervention. This four-phase design controls for extraneous variables more effectively than ABA — if the behavior pattern repeats across both AB sequences, it provides stronger evidence that B (the token economy) caused the change. An ethical concern: do NOT withdraw treatment if removal could harm the client."
+  },
+  {
+    "id": "ch09_q_011",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A counselor wants to compare two unmatched (independent) groups' anxiety scores, but the data are NOT normally distributed and appear to be on an ordinal scale. The appropriate nonparametric test is the:",
+    "options": [
+      "One-way ANOVA",
+      "Wilcoxon signed-rank test",
+      "Mann-Whitney U test",
+      "Kruskal-Wallis H test"
+    ],
+    "correct_index": 2,
+    "rationale": "Mann-Whitney U test: nonparametric alternative to the t test for two UNMATCHED/UNCORRELATED (independent) groups. Memory device: the 'U' in Mann-Whitney U reminds you of 'uncorrelated/unmatched.' The Wilcoxon signed-rank is for two CORRELATED (matched) groups. The Kruskal-Wallis H is the nonparametric alternative to one-way ANOVA for three or more groups."
+  },
+  {
+    "id": "ch09_q_012",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A counselor researcher classifies clients by their DSM-5 primary diagnosis. Which measurement scale does this exemplify?",
+    "options": [
+      "Ordinal scale — diagnoses can be rank-ordered by severity",
+      "Interval scale — equal psychological distance between diagnoses",
+      "Nominal scale — categories that classify but do not rank or measure",
+      "Ratio scale — has a true zero (no diagnosis)"
+    ],
+    "correct_index": 2,
+    "rationale": "Nominal scale: classifies, names, or labels into mutually exclusive categories without implying order or equal distances. DSM diagnostic categories are nominal — MDD is not 'more than' or 'twice as much as' GAD. Memory: NOIR (Nominal-Ordinal-Interval-Ratio). Parametric tests require interval or ratio data; nominal data requires nonparametric tests like chi-square."
+  },
+  {
+    "id": "ch09_q_013",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher needs to ensure that her sample of counselors includes exactly 25% from rural settings, 50% from suburban, and 25% from urban settings, matching the population distribution. This requires:",
+    "options": [
+      "Simple random sampling",
+      "Cluster sampling",
+      "Stratified (quota) sampling",
+      "Snowball sampling"
+    ],
+    "correct_index": 2,
+    "rationale": "Stratified sampling: ensures that specific subgroups (strata) are proportionally represented in the sample. When specific NUMBERS from each stratum are required (as here), it is called quota sampling — a type of stratified sampling. Simple random sampling may underrepresent rural settings. Cluster sampling uses existing groups for convenience when a population list is unavailable. Snowball uses subjects to recruit others."
+  },
+  {
+    "id": "ch09_q_014",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "Sam scores 2 out of 100 on a motor skills test (mean = 50). He retakes the test 3 weeks later. Based on statistical regression toward the mean, the BEST prediction is:",
+    "options": [
+      "Sam's score will remain approximately 2",
+      "Sam's score will increase, moving closer to 50",
+      "Sam's score will decrease further below 2",
+      "Sam's score will exceed 50 since regression always exceeds the mean"
+    ],
+    "correct_index": 1,
+    "rationale": "Statistical regression toward the mean: extreme scores (very high or very low) tend to move toward the population mean on retesting. Sam's extremely low score of 2 will likely increase toward 50 on retest — but probably won't reach 50. This is a threat to internal validity because a counselor could mistakenly attribute the improvement to a treatment intervention rather than to regression."
+  },
+  {
+    "id": "ch09_q_015",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "In a normal distribution of scores with a mean of 100 and standard deviation of 15, a z-score of +2 corresponds to what t-score?",
+    "options": [
+      "70",
+      "60",
+      "80",
+      "120"
+    ],
+    "correct_index": 0,
+    "rationale": "T-score conversion: t-score mean = 50, each SD = 10. A z-score of +2 means 2 SDs above the mean. On the t-score scale: 50 + (2 × 10) = 70. Conversely, z = -1 → t = 40; z = +1 → t = 60; z = +2 → t = 70; z = +3 → t = 80. T-scores eliminate negative numbers by using 50 as the mean instead of 0."
+  },
+  {
+    "id": "ch09_q_016",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher who conducts a single-blind study compared to a double-blind study has controlled for:",
+    "options": [
+      "Experimenter effects, but not demand characteristics",
+      "Demand characteristics, but not experimenter effects",
+      "Neither demand characteristics nor experimenter effects",
+      "Both demand characteristics and experimenter effects"
+    ],
+    "correct_index": 1,
+    "rationale": "Single-blind: subjects do NOT know their group assignment → controls for demand characteristics (subjects can't manipulate results to confirm or deny hypotheses). But the researcher DOES know → experimenter effects remain (the researcher may unconsciously communicate expectations). Double-blind: both subjects AND researcher are blind → controls for BOTH demand characteristics AND experimenter effects."
+  },
+  {
+    "id": "ch09_q_017",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A program evaluation is conducted halfway through a 12-month substance abuse prevention program to assess whether participants are reducing drug use. This is BEST described as:",
+    "options": [
+      "Summative evaluation — measuring the final product",
+      "Formative evaluation — ongoing process evaluation during the program",
+      "Ex post facto research — measuring after the fact",
+      "A longitudinal cohort study"
+    ],
+    "correct_index": 1,
+    "rationale": "Formative evaluation: ongoing assessment while the program is still in progress — used to make mid-course corrections. Summative evaluation measures final outcomes AFTER the program is complete. Ex post facto research uses preexisting groups after an IV has already occurred. The distinction formative (during) vs. summative (after) is a frequently tested program evaluation concept."
+  },
+  {
+    "id": "ch09_q_018",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "After an ANOVA yields a significant F value across four treatment groups, a researcher wants to determine WHICH specific groups differ from each other. The appropriate next step is to use:",
+    "options": [
+      "A series of t tests comparing each pair of groups",
+      "The Pearson r to determine inter-group correlations",
+      "Post hoc tests such as Tukey's, Duncan's, or Scheffe's test",
+      "A one-tailed chi-square test"
+    ],
+    "correct_index": 2,
+    "rationale": "After a significant ANOVA F, post hoc (a posteriori) tests like Tukey's, Duncan's multiple range, or Scheffe's test identify which SPECIFIC group means differ significantly. Running multiple t tests instead inflates Type I error (false positive rate). Chi-square is for frequencies, not means. Pearson r measures relationships, not group differences."
+  },
+  {
+    "id": "ch09_q_019",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A client mentions she has been to 12 different inpatient treatment facilities using the 12-step model. When her counselor suggests trying a new evidence-based program, she says, 'Every treatment I've ever had uses 12 steps, so this new program must too.' This client is using:",
+    "options": [
+      "Inductive reasoning — generalizing from specific experiences to a broad conclusion",
+      "Deductive reasoning — applying a general rule to a specific new situation",
+      "Cognitive distortion — catastrophizing",
+      "Anticipatory anxiety — fear of treatment failure"
+    ],
+    "correct_index": 1,
+    "rationale": "Deductive reasoning: applying a GENERAL rule to a SPECIFIC situation ('reductive' = reduces general to specific). The client has generalized her past 12-step experiences into a general rule and is now applying that rule to a new specific situation. Inductive reasoning goes the opposite direction — from specific observations to a general conclusion (e.g., 'paradox worked on one client, so it works for all phobics')."
+  },
+  {
+    "id": "ch09_q_020",
+    "domain": "Research & Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher studying a new counseling technique for teenagers lowering their alpha level from P = .05 to P = .001. This change will MOST directly result in:",
+    "options": [
+      "Decreasing both Type I and Type II errors simultaneously",
+      "Decreasing Type I errors but increasing the risk of Type II errors",
+      "Increasing Type I errors but decreasing the risk of Type II errors",
+      "No change in Type I or Type II error rates"
+    ],
+    "correct_index": 1,
+    "rationale": "Type I and Type II errors are inversely related — like a seesaw. Making alpha more stringent (.05 → .001) makes it HARDER to reject null, which: (1) DECREASES the probability of falsely rejecting a true null (lower Type I error), and (2) INCREASES the probability of failing to reject a false null (higher Type II error). To reduce both simultaneously, increase the sample size."
+  }
+]

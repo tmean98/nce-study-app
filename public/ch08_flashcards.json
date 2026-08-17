@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ch08_fc_001",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Appraisal vs. test vs. psychometrics",
+    "back": "Appraisal: broad term including surveys, interviews, observations, and tests. Test: instrument that measures a sample of behavior (assigns a number/score). Psychometrics: the branch of counseling/psychology focused on psychological measurement; practitioner = psychometrician.",
+    "difficulty": "easy",
+    "confusable_with": "Assessment and evaluation are synonyms for appraisal on the exam"
+  },
+  {
+    "id": "ch08_fc_002",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Subjective vs. objective test format",
+    "back": "Subjective: scorer's opinion/judgment heavily influences scoring (essays, projectives). Objective: rater's judgment plays little or no part (forced-choice, multiple-choice). NCE and CPCE are objective tests. Halo effect is a risk in subjective scoring.",
+    "difficulty": "easy",
+    "confusable_with": "Projective tests use free-response (subjective format) but the 'projection' refers to the client's personality, not the scoring method"
+  },
+  {
+    "id": "ch08_fc_003",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Forced choice (recognition) vs. free choice items",
+    "back": "Forced choice: examinee selects from 2+ alternatives (MCQ, true/false). Used to control social desirability (MMPI-2 lie scale). Dichotomous = 2 options (true/false); Multipoint = 3+ options (NCE). Free choice (free response): examinee responds any way; more info but harder to score, increases subjectivity.",
+    "difficulty": "easy",
+    "confusable_with": "Ipsative measures often use forced-choice format, but ipsative refers to how scores are interpreted, not format type"
+  },
+  {
+    "id": "ch08_fc_004",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Normative vs. ipsative measurement",
+    "back": "Normative: individual's score compared to a norm group (percentile rank). Ipsative: traits compared within the same individual; cannot legitimately compare two people's ipsative scores. Kuder career instruments are classic examples of ipsative measures. Within-person analysis = ipsative.",
+    "difficulty": "medium",
+    "confusable_with": "Ipsative scores look like normal scores but you CANNOT compare individuals \u2014 only compare the person to themselves"
+  },
+  {
+    "id": "ch08_fc_005",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Speed test vs. power test vs. timed test",
+    "back": "Speed test: easy items, time-limited; designed so no one finishes; difficulty from time pressure, not item difficulty. Power test: no time limit; evaluates level of mastery; ideally no one gets a perfect score. Timed test: has time limit but most finish; more difficult items (e.g., NCE, CPCE = timed test).",
+    "difficulty": "medium",
+    "confusable_with": "NCE/CPCE are timed tests, NOT speed tests \u2014 most examinees finish; speed tests are designed so no one finishes"
+  },
+  {
+    "id": "ch08_fc_006",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Spiral test vs. cyclical test",
+    "back": "Spiral: items get progressively more difficult throughout the entire test. Cyclical: multiple sections, each section is spiral (each section goes from easier to harder, then resets).",
+    "difficulty": "medium",
+    "confusable_with": "Both involve difficulty variation, but spiral is one continuous progression while cyclical resets across sections"
+  },
+  {
+    "id": "ch08_fc_007",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Test battery vs. vertical test vs. horizontal test",
+    "back": "Test battery: multiple measures combined for more accurate results than any single test alone. Vertical test: different versions for different age/education levels (e.g., math achievement for preschoolers vs. middle school). Horizontal test: measures multiple factors in a single testing session.",
+    "difficulty": "medium",
+    "confusable_with": "Group vs. individual format is not the same as horizontal vs. vertical \u2014 these describe content structure"
+  },
+  {
+    "id": "ch08_fc_008",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Validity \u2014 definition and the 5 main types",
+    "back": "Validity: does the test measure what it claims to measure? Most important test quality. Five types: (1) Content/rational/logical \u2014 samples the behavior domain; (2) Construct \u2014 measures an abstract trait; (3) Concurrent \u2014 compares to established tests; (4) Predictive/empirical \u2014 forecasts future behavior; (5) Consequential \u2014 social implications of test use. Criterion validity = concurrent + predictive combined.",
+    "difficulty": "hard",
+    "confusable_with": "Face validity (how test 'looks') is NOT one of the five main types; it is not technically valid as a validity measure"
+  },
+  {
+    "id": "ch08_fc_009",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Content validity",
+    "back": "Whether the test adequately samples the full domain of behavior being measured. Also called rational or logical validity. Example: an IQ test that only measures memory but not vocabulary, math, etc. has poor content validity \u2014 a savant might score higher than a broadly gifted person.",
+    "difficulty": "easy",
+    "confusable_with": "Content validity is about breadth of sampling; construct validity is about measuring the theoretical concept itself"
+  },
+  {
+    "id": "ch08_fc_010",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Construct validity",
+    "back": "The extent a test measures an abstract psychological trait or theoretical construct (e.g., ego strength, intelligence, self-esteem, artistic talent, mechanical ability). Any trait that cannot be directly observed/measured is a construct. Theory-based tests (e.g., MBTI based on Jungian theory) claim strong construct validity.",
+    "difficulty": "medium",
+    "confusable_with": "Content validity (sampling domain) vs. construct validity (measuring theoretical concept) \u2014 both relate to what is measured, but differently"
+  },
+  {
+    "id": "ch08_fc_011",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Concurrent vs. predictive validity (both = criterion validity)",
+    "back": "Criterion validity: the test is evaluated against an external criterion. Two subtypes: Concurrent validity \u2014 how well the test compares to other established instruments measuring the same thing NOW. Predictive validity (empirical validity) \u2014 how well the test forecasts future behavior/performance (e.g., GRE predicts grad school success). Both types use correlation coefficients; closer to 1.00 = better.",
+    "difficulty": "medium",
+    "confusable_with": "Concurrent = comparing to other tests NOW; predictive = forecasting FUTURE behavior \u2014 exam scenarios about 'predicting job performance' = predictive"
+  },
+  {
+    "id": "ch08_fc_012",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Convergent vs. discriminant validity",
+    "back": "Both are methods for assessing construct/criterion validity. Convergent validity: test correlates with related/similar measures (as expected). Discriminant validity: test does NOT correlate with unrelated variables (near-zero correlation). Example: phobia test should correlate with panic responses (convergent) but NOT with IQ (discriminant).",
+    "difficulty": "hard",
+    "confusable_with": "Convergent \u2260 concurrent \u2014 convergent compares to related variables; concurrent compares to other tests for the same thing"
+  },
+  {
+    "id": "ch08_fc_013",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Incremental validity vs. synthetic validity",
+    "back": "Incremental validity: (1) test becomes more valid as contradictory items are dropped; (2) test provides additional valid information beyond what other measures provide. Synthetic validity: I/O psychology approach for small firms \u2014 identify tests that predict each job component separately, then combine them to improve selection.",
+    "difficulty": "hard",
+    "confusable_with": "Neither is one of the main 5 types of validity but may appear on advanced questions"
+  },
+  {
+    "id": "ch08_fc_014",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Reliability \u2014 definition and key rule",
+    "back": "Reliability: consistency of measurement across repeated administrations. Second most important test quality (validity is #1). KEY RULES: A valid test is ALWAYS reliable. A reliable test is NOT always valid. Reliability places a ceiling on validity but validity does not set limits on reliability.",
+    "difficulty": "medium",
+    "confusable_with": "Students often confuse which direction the ceiling applies \u2014 reliability caps validity; high reliability doesn't guarantee validity"
+  },
+  {
+    "id": "ch08_fc_015",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Four methods of assessing reliability",
+    "back": "(1) Test-retest: same test, same group, two administrations (\u22657 days apart); measures stability; best for stable traits like IQ. (2) Equivalent/alternate forms: parallel forms given to same group; counterbalancing needed. (3) Split-half: divide test into even vs. odd items, correlate halves; corrected by Spearman-Brown formula. (4) Inter-rater/inter-observer (scorer reliability): multiple raters assess same response; used with projectives and essay tests.",
+    "difficulty": "hard",
+    "confusable_with": "Split-half is a type of internal consistency reliability, as are KR-20/KR-21 and Cronbach's alpha \u2014 but split-half divides the test in half"
+  },
+  {
+    "id": "ch08_fc_016",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "KR-20 / KR-21 and Cronbach's alpha",
+    "back": "Kuder-Richardson formulas (KR-20, KR-21): measure internal consistency (inter-item consistency/homogeneity) \u2014 whether all items measure the same construct \u2014 WITHOUT splitting the test in half. Cronbach's alpha: similar alternative statistic. Both are alternatives to the split-half method.",
+    "difficulty": "hard",
+    "confusable_with": "KR-20 does NOT split the test in half \u2014 it measures internal consistency using all items simultaneously; split-half divides the test"
+  },
+  {
+    "id": "ch08_fc_017",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Reliability coefficient benchmarks and coefficient of determination",
+    "back": "Reliability coefficients: 1.00 = perfect (only physical measurements). .90 = excellent for counseling/psychological tests. .80 = minimum for job/school selection. .70 = typical/acceptable for most personality tests. Coefficient of determination: r\u00b2 \u2014 square the correlation to get the percentage of shared variance. Example: r = .70 \u2192 .70\u00b2 = .49 = 49% true variance, 51% error.",
+    "difficulty": "medium",
+    "confusable_with": "Reliability coefficient \u2260 percentage of people who score accurately \u2014 it reflects % of score attributable to true variance vs. error"
+  },
+  {
+    "id": "ch08_fc_018",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Standard Error of Measurement (SEM)",
+    "back": "SEM: estimates how much a score fluctuates due to random error if the same person took the test repeatedly. Lower SEM = higher reliability. Formula used: X = T + E (obtained score = true score + error). SEM defines confidence intervals: 68% CI = obtained score \u00b1 1 SEM. Example: score of 106, SEM = 3 \u2192 68% CI is 103\u2013109.",
+    "difficulty": "medium",
+    "confusable_with": "SEM is NOT the same as standard deviation of a norm group \u2014 SEM reflects individual score error, not population spread"
+  },
+  {
+    "id": "ch08_fc_019",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Spearman-Brown formula and effect of test length on reliability",
+    "back": "Spearman-Brown formula: estimates the effect of lengthening or shortening a test on its reliability coefficient. Longer test = higher reliability; shorter test = lower reliability. Used to correct the split-half reliability coefficient (since splitting halves the test length).",
+    "difficulty": "medium",
+    "confusable_with": "Spearman-Brown is about test length adjustments \u2014 NOT to be confused with Spearman's two-factor theory of intelligence"
+  },
+  {
+    "id": "ch08_fc_020",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Cross-validation and shrinkage",
+    "back": "Cross-validation: administering a test to a NEW sample to confirm that the original validity coefficient holds up. Necessary when original sample is small. Shrinkage: the cross-validation coefficient is typically SMALLER than the original validity coefficient \u2014 this is expected and does not mean the test is flawed.",
+    "difficulty": "hard",
+    "confusable_with": "Cross-validation checks validity generalizability; it is NOT the same as test-retest reliability"
+  },
+  {
+    "id": "ch08_fc_021",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Francis Galton \u2014 intelligence theory",
+    "back": "Sir Francis Galton (England): intelligence is a single unitary factor, primarily genetic; exceptional ability runs in families. Book: Hereditary Genius (1869). Believed intelligence related to sensory acuity and reaction time. Half-cousin of Darwin. Associated with the eugenics movement.",
+    "difficulty": "medium",
+    "confusable_with": "Galton (unitary factor) vs. Spearman (two-factor G+S) vs. Guilford (120 factors) \u2014 all studied intelligence structure"
+  },
+  {
+    "id": "ch08_fc_022",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Spearman's two-factor theory of intelligence",
+    "back": "Charles Spearman (1904): proposed two factors \u2014 G (general intelligence, applicable to any mental task) and S (specific ability, applicable to a particular task). G is the most important and is shared across all cognitive tasks.",
+    "difficulty": "medium",
+    "confusable_with": "Spearman (G and S factors) vs. Guilford (120 factors) vs. Cattell (fluid and crystallized)"
+  },
+  {
+    "id": "ch08_fc_023",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "J.P. Guilford \u2014 intelligence theory",
+    "back": "J.P. Guilford: used factor analysis to isolate 120 factors (abilities) that comprise intelligence. Famous for distinguishing convergent thinking (combining diverse ideas into one answer) vs. divergent thinking (generating novel, multiple ideas/solutions \u2014 creativity).",
+    "difficulty": "medium",
+    "confusable_with": "Convergent and discriminant are validity terms; convergent and divergent thinking are Guilford's intelligence concepts \u2014 don't mix"
+  },
+  {
+    "id": "ch08_fc_024",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Cattell's fluid vs. crystallized intelligence",
+    "back": "Raymond B. Cattell: Fluid intelligence \u2014 inherited neurological capacity; flexible, culture-free, content-free reasoning; decreases with age (e.g., block design, pictorial analogies). Crystallized intelligence \u2014 built from education, culture, and experience; measured by content-based tests; remains stable or grows with age.",
+    "difficulty": "medium",
+    "confusable_with": "James McKeen Cattell (coined 'mental test') \u2260 Raymond B. Cattell (fluid/crystallized; 16 PF)"
+  },
+  {
+    "id": "ch08_fc_025",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Binet-Simon test \u2014 origin and purpose",
+    "back": "Alfred Binet + Theodore Simon: created first intelligence test in 1905 (Paris). Purpose: identify children with intellectual disabilities for separate schooling. 30-item test with school-related items of increasing difficulty. Based on concept that intelligence = ability to understand school-related material. A 9-year-old task = one that 50% of 9-year-olds answer correctly.",
+    "difficulty": "easy",
+    "confusable_with": "Simon-Binet created for children with ID, not for gifted assessment \u2014 Stanford-Binet is the Americanized version by Terman"
+  },
+  {
+    "id": "ch08_fc_026",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "IQ formula \u2014 ratio IQ vs. deviation IQ",
+    "back": "Original ratio IQ formula (by William Stern, German): MA/CA \u00d7 100 (mental age divided by chronological age \u00d7 100). Memory: MA is a high degree, so it goes on top. Now replaced by deviation IQ: compares individual to age-peer norm group. Stanford-Binet today uses Standard Age Score (SAS): mean = 100, SD = 16.",
+    "difficulty": "medium",
+    "confusable_with": "Binet created the test; Stern created the IQ formula; Terman Americanized it \u2014 three different people"
+  },
+  {
+    "id": "ch08_fc_027",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Lewis Terman and the Stanford-Binet",
+    "back": "Lewis Terman (Stanford University): translated and adapted the Binet for American children in 1916 after testing ~3,000 U.S. children. Named it the Stanford-Binet. Current Stanford-Binet 5 (SB5): mean = 100, SD = 16; measures IQ from very low to 180 (wider range than Wechsler); standardized/individual test.",
+    "difficulty": "easy",
+    "confusable_with": "Terman Americanized the Binet; Binet created the original; Wechsler created his own separate IQ tests"
+  },
+  {
+    "id": "ch08_fc_028",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "WAIS-IV \u2014 key facts",
+    "back": "Wechsler Adult Intelligence Scale-IV: ages 16\u201390 years; mean = 100, SD = 15; takes 60\u201390 min; 10 subtests (subtest mean = 10, SD = 3); measures IQ 40\u2013160. Four indexes: VCI (verbal comprehension), PRI (perceptual reasoning), WMI (working memory), PSI (processing speed). FSIQ = Full Scale IQ. Based on Cattell-Horn-Carroll theory. Can be administered online.",
+    "difficulty": "hard",
+    "confusable_with": "WAIS-IV no longer provides separate Verbal IQ and Performance IQ scores \u2014 it provides four index scores instead"
+  },
+  {
+    "id": "ch08_fc_029",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Wechsler age ranges: WPPSI-IV, WISC-IV, WAIS-IV",
+    "back": "WPPSI-IV (Preschool/Primary): ages 2 years 6 months to 7 years 7 months. WISC-IV (Children): ages 6 to 16 years 11 months. WAIS-IV (Adult): ages 16 to 90 years. All have mean = 100, SD = 15. Stanford-Binet is better for extremes of intellect (IQ range up to 180); Wechsler good for average range.",
+    "difficulty": "medium",
+    "confusable_with": "WPPSI vs. WISC overlap at age 6\u20137 \u2014 use WPPSI-IV below ~7.5; use WISC-IV above 6"
+  },
+  {
+    "id": "ch08_fc_030",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Army Alpha and Army Beta \u2014 WWI group testing",
+    "back": "WWI sparked the group IQ testing movement. Army Alpha: for literate English-speaking recruits. Army Beta: for illiterates and non-English speakers (nonverbal/pictorial). ~2 million men tested. Led to widespread adoption of group testing in schools, government, and industry. Group tests: cheaper and faster but less accurate and lower reliability than individual tests.",
+    "difficulty": "easy",
+    "confusable_with": "Army Alpha = literates; Army Beta = illiterates \u2014 these are verbal vs. nonverbal, not better vs. worse"
+  },
+  {
+    "id": "ch08_fc_031",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Culture-fair testing and ethics of test use with diverse populations",
+    "back": "Culture-fair test: attempts to remove items that are only known due to cultural background. Most experts believe a truly 'culture-free' test does not exist. Key ethics rule: It is unethical to administer a test to a client unless the test has been normed on that specific population. Administering an unvalidated test to a minority group = ethics violation.",
+    "difficulty": "medium",
+    "confusable_with": "Culture-fair \u2260 culture-free \u2014 culture-fair tries to reduce bias; culture-free claims no cultural influence (theoretically impossible)"
+  },
+  {
+    "id": "ch08_fc_032",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Jensen's 1969 article and IQ controversy",
+    "back": "Arthur Jensen (1969, Harvard Educational Review): article 'How Much Can We Boost IQ and Scholastic Performance?' Claimed IQ is 80% heredity, 20% environment; that White Americans score 11\u201315 IQ points higher than African Americans regardless of social class, potentially due to selective breeding during slavery. Sparked major controversy. Bronfenbrenner challenged Jensen's twin studies' internal validity.",
+    "difficulty": "medium",
+    "confusable_with": "Jensen's claim of heredity at 80% is the exam stat \u2014 contrast with others who said heredity <50%"
+  },
+  {
+    "id": "ch08_fc_033",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Robert Williams and BITCH test / Larry P. v. Wilson Riles",
+    "back": "Robert Williams: African American psychologist; created BITCH (Black Intelligence Test of Cultural Homogeneity) to demonstrate that African Americans excel on culturally relevant tests; charged Binet/Wechsler represent 'scientific racism.' Larry P. v. Wilson Riles (1979, California): court ruled IQ tests (Wechsler/Binet) were racially biased against African Americans, who were overrepresented in EMR (educable mentally retarded) classes based on IQ scores.",
+    "difficulty": "hard",
+    "confusable_with": "BITCH = cultural critique test by Williams; Larry P. = landmark legal case; both challenge bias in IQ tests but are different events"
+  },
+  {
+    "id": "ch08_fc_034",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "MMPI-2 \u2014 key facts",
+    "back": "Minnesota Multiphasic Personality Inventory-2: 567 true/false/'cannot say' items; for ages 18+; 6th grade reading level; 60\u201390 min; developed 1940, revised 1989; 'gold standard' in personality testing; most researched test in history; self-report; uses lie scale (forced-choice items) to detect social desirability/faking. MMPI-A: 478 items for ages 14\u201318.",
+    "difficulty": "medium",
+    "confusable_with": "MMPI-2 is a self-report (not projective) personality test despite being considered comprehensive \u2014 projectives use ambiguous stimuli"
+  },
+  {
+    "id": "ch08_fc_035",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "16 PF vs. MBTI \u2014 personality tests",
+    "back": "16 PF (Raymond B. Cattell): factor-analytic personality test; ages 16+; measures 16 personality factors (e.g., assertiveness, emotional maturity); can be used for marital counseling. MBTI (Isabel Briggs Myers): theory-based (Jung); 4 dichotomies: Extraversion/Introversion, Sensing/iNtuition, Thinking/Feeling, Judging/Perceiving; 16 four-letter types (e.g., ISFJ). Theory-based tests guided by a theory; factor-analytic tests derive factors from data.",
+    "difficulty": "medium",
+    "confusable_with": "Raymond B. Cattell = 16 PF and fluid/crystallized; James McKeen Cattell = coined 'mental test' \u2014 two different Cattells"
+  },
+  {
+    "id": "ch08_fc_036",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Projective tests \u2014 formats and examples",
+    "back": "Show vague/ambiguous stimuli to elicit unconscious projections. Three formats: (1) Association \u2014 'What does this inkblot resemble?' (Rorschach: 10 cards); (2) Completion \u2014 complete incomplete sentences (Rotter ISB); (3) Construction \u2014 draw a person or make up a story (TAT: 31 cards, 20 used per client; ages 4+). Favored by psychodynamic clinicians. Clinical psychologists most trained; examiner bias is common risk.",
+    "difficulty": "medium",
+    "confusable_with": "Rorschach = inkblots (association); TAT = pictures (construction/narrative); Rotter ISB = incomplete sentences (completion)"
+  },
+  {
+    "id": "ch08_fc_037",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Bender Visual Motor Gestalt Test (Bender Gestalt II)",
+    "back": "Created by psychiatrist Lauretta Bender. Client copies 16 geometric figures. Primarily used to detect brain damage, neurological impairment, or motoric difficulties (also considered an expressive projective measure). Suitable for ages 4 and above. Used when a counselor suspects organic/neurological difficulty.",
+    "difficulty": "medium",
+    "confusable_with": "Bender is best known for neurological screening, not personality \u2014 unlike TAT/Rorschach which are purely projective personality measures"
+  },
+  {
+    "id": "ch08_fc_038",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Interest inventories \u2014 age, limitations, and AARC",
+    "back": "Best for high school age and above \u2014 interests not stable before then; fully stable around age 25. Key criticism: overemphasize professional/white-collar occupations, underrepresent blue-collar jobs. Important: interests and abilities are NOT highly correlated (e.g., someone may love music but have little skill). Advantages: least threatening type of test; high reliability for adults. AARC (Association for Assessment and Research in Counseling): ACA division focused on assessment.",
+    "difficulty": "medium",
+    "confusable_with": "Interest \u2260 ability \u2014 high interest in music doesn't predict musical skill; do not confuse interest stability age (25) with Holland's theory"
+  },
+  {
+    "id": "ch08_fc_039",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Social desirability vs. acquiescence vs. deviation in self-reports",
+    "back": "Social desirability: client answers in what they believe is the socially acceptable/expected way. MMPI-2 lie scale controls for this via forced-choice items. Acquiescence: client always agrees regardless of content. Deviation: client deliberately gives unusual/extreme responses. All are response style biases that reduce validity of self-report measures.",
+    "difficulty": "medium",
+    "confusable_with": "Social desirability = wanting to look 'normal/good'; deviation = wanting to look unusual \u2014 both skew results away from truth"
+  },
+  {
+    "id": "ch08_fc_040",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Informal assessment methods",
+    "back": "Assessment techniques without standardized administration or scoring procedures. Examples: checklists, diaries/journals, case notes, sociograms, clinical interviews, professional staffings, behavioral observations. Contrast with standardized tests (WAIS-IV, MMPI-2, GRE) which have specified administration/scoring guidelines and quantitative norms.",
+    "difficulty": "easy",
+    "confusable_with": "Informal \u2260 invalid \u2014 informal assessments are ethically acceptable but cannot be compared to population norms"
+  },
+  {
+    "id": "ch08_fc_041",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Item difficulty index",
+    "back": "Proportion of test-takers who answer an item correctly: D = # correct / total tested. Range: 0.0 (nobody correct = impossible) to 1.0 (everyone correct = too easy). Ideal difficulty = .50 (50% correct, maximizes discrimination). For selective admission (e.g., top 25%), set difficulty at the selection rate (e.g., .25).",
+    "difficulty": "medium",
+    "confusable_with": "Higher difficulty INDEX = easier item (more people pass it) \u2014 counterintuitive; higher number = easier, not harder"
+  },
+  {
+    "id": "ch08_fc_042",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Oscar K. Buros and the Mental Measurements Yearbook (MMY)",
+    "back": "Oscar K. Buros: created the first major publication reviewing available psychological tests. The Mental Measurements Yearbook (MMY) contains professional reviews to help counselors select appropriate tests. After his death, the Buros Center at University of Nebraska continued this work. Counselors should consult MMY before selecting tests for clients.",
+    "difficulty": "easy",
+    "confusable_with": "Buros = test review resource; DSM = diagnostic manual; APA Ethics Code = professional guidelines \u2014 all guide practice but for different purposes"
+  },
+  {
+    "id": "ch08_fc_043",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "FERPA / Buckley Amendment (PL 93-380)",
+    "back": "Family Educational Rights and Privacy Act (FERPA): persons 18 and older can inspect their own academic records (including test data) AND records of their minor children. Can demand correction of errors. Information cannot be released without adult consent. Applies to educational institutions receiving federal funding.",
+    "difficulty": "easy",
+    "confusable_with": "HIPAA governs medical/mental health records; FERPA governs educational records \u2014 different laws for different settings"
+  },
+  {
+    "id": "ch08_fc_044",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Achievement vs. aptitude test \u2014 distinction and GRE special case",
+    "back": "Achievement test: measures what has already been learned/mastered (NCE, licensing exams, classroom tests). Aptitude test: predicts potential for future learning or performance (SAT, GRE, GATB, MCAT, LSAT). KEY: predictive validity most important for aptitude tests. GRE = aptitude-achievement test (does both). School selection tests generally = aptitude.",
+    "difficulty": "easy",
+    "confusable_with": "NCE = achievement test (tests current knowledge); GRE = aptitude-achievement hybrid; SAT is commonly called aptitude but tests learned content too"
+  },
+  {
+    "id": "ch08_fc_046",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Standardized vs. nonstandardized measures",
+    "back": "Standardized test: has formal, specific procedures for administration and scoring; includes quantitative normative data for comparison. Nonstandardized: lacks procedural guidelines; no population norms. Both Stanford-Binet and Wechsler scales are standardized, individual tests requiring specific administration training.",
+    "difficulty": "easy",
+    "confusable_with": "Standardized \u2260 objective \u2014 standardized describes administration/norming; objective describes scoring format"
+  },
+  {
+    "id": "ch08_fc_047",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Parallel (equivalent) forms of a test",
+    "back": "Two different versions of the same test that are interchangeable \u2014 each form must have the same mean, standard error, and statistical properties. Used to prevent test-retest practice effects. Counterbalancing is necessary when establishing parallel forms reliability (half get Form A first, half get Form B first).",
+    "difficulty": "medium",
+    "confusable_with": "Parallel forms reliability measures the equivalence of two versions; test-retest measures stability of one version over time"
+  },
+  {
+    "id": "ch08_fc_048",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Q-Sort technique",
+    "back": "Assessment technique in which a client sorts cards with statements into piles ranging from 'most like me' to 'least like me.' Used by Carl Rogers to investigate personality and self-esteem: client creates an 'ideal self' profile that can be compared to their current self-perception. The larger the gap between ideal self and current self, the lower the self-esteem.",
+    "difficulty": "hard",
+    "confusable_with": "Q-Sort is associated with Rogers (person-centered), not with projective testing or the MMPI"
+  },
+  {
+    "id": "ch08_fc_049",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "DSM / ICD vs. CPT codes in psychological testing context",
+    "back": "When third-party insurance payment is required, counselors may use psychological tests to support a DSM (Diagnostic and Statistical Manual) or ICD (International Classification of Diseases) diagnosis. CPT (Current Procedural Terminology) codes tell insurance companies WHICH service was provided (e.g., individual therapy, group therapy) \u2014 NOT the diagnosis.",
+    "difficulty": "medium",
+    "confusable_with": "DSM/ICD = what the client has (diagnosis); CPT = what the counselor did (service/procedure) \u2014 different classification systems"
+  },
+  {
+    "id": "ch08_fc_050",
+    "domain": "Assessment",
+    "chapter": 8,
+    "front": "Test use ethics: key principles for counselors",
+    "back": "(1) Tests are a single source of data \u2014 not infallible; always explain limitations to clients. (2) Inform clients about test limitations before administering. (3) Involve client in test selection to improve cooperation. (4) Ethics violation to administer a test not normed on client's population. (5) Consult test manual to determine target population. (6) Consult MMY for professional test reviews. (7) Clinical psychologists most qualified for projective testing; social workers least trained.",
+    "difficulty": "medium",
+    "confusable_with": "Counselors should inform clients of limitations, NOT withhold test results \u2014 transparency is ethical; withholding = paternalistic"
+  }
+]

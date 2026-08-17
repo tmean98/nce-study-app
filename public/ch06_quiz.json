@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ch06_q_001",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A counseling group at an outpatient clinic has been running for 12 weeks. Members know each other well and work cohesively on shared goals. A new counselor asks why closed groups are preferred over open groups for this type of work. The BEST explanation is:",
+    "options": [
+      "Closed groups are more cost-effective because the agency does not need to recruit new members",
+      "Closed groups foster greater cohesiveness and trust because the membership remains stable",
+      "Closed groups protect confidentiality better because no information is shared with outsiders",
+      "Closed groups always have more members than open groups over time"
+    ],
+    "correct_index": 1,
+    "rationale": "The primary advantage of a closed group is that its stable membership — no new members joining after the group begins — allows members to build stronger trust and cohesion over time. Choice A is actually incorrect; closed groups lose revenue when members drop out and cannot be replaced (open groups are more cost-effective in that regard). Choice D is also incorrect — closed groups actually risk having fewer members over time if dropouts occur. Choice C is a benefit of confidentiality norms in general, not specific to closed vs. open groups."
+  },
+  {
+    "id": "ch06_q_002",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "During the second week of a newly formed counseling group, members begin making cutting remarks to each other, openly questioning the leader's competence, and splitting into competing factions. According to group stage theory, this MOST likely indicates the group is in:",
+    "options": [
+      "The initial/forming stage, where approach-avoidance behavior is dominant",
+      "The transition/storming/power and control stage, characterized by conflict and hierarchy formation",
+      "The working/norming/cohesion stage, where members test boundaries before deeper work",
+      "The termination stage, where separation anxiety manifests as hostility"
+    ],
+    "correct_index": 1,
+    "rationale": "Conflict, attacks on the leader, rivalry between subgroups, and hierarchy/pecking order formation are all hallmarks of the second group stage — called Transition, Storming, or Power and Control by various theorists (Tuckman: Storming; Garland, Jones & Kolodny: Power and Control). Garland et al. aptly called this stage 'power and control.' The initial/forming stage (choice A) is characterized by tentative approach-avoidance behavior and efforts to fit in, not open conflict. The leader's best response is to distinguish 'challenge' from 'attack' (Corey & Corey)."
+  },
+  {
+    "id": "ch06_q_003",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group leader notices that one member, Dave, is consistently criticized and blamed by every other group member for the group's lack of progress. The leader recognizes this pattern and stops it by intervening directly. The leader is using which group technique?",
+    "options": [
+      "Linking, to connect Dave's experience with other members' common concerns",
+      "Summarization, to consolidate the group's feedback to Dave",
+      "Blocking, to stop the counterproductive behavior that is harming a group member",
+      "Clarification, to help the group articulate what it really needs from Dave"
+    ],
+    "correct_index": 2,
+    "rationale": "Blocking is the leader's intervention to stop a negative or counterproductive behavior that could harm another group member. The pattern described — all members ganging up on one person — is scapegoating, which is precisely the type of behavior that requires blocking. Linking (choice A) connects one person's predicament to another's to promote cohesion — it would not be used to stop an attack. Summarization (choice B) brings together ideas from a session — not an intervention to stop harm. Clarification (choice D) is about understanding a message, not stopping scapegoating."
+  },
+  {
+    "id": "ch06_q_004",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group leader is planning a new group and deliberately chooses a leadership style that allows members to set their own agenda and direct the discussion with minimal interference. This describes which leadership style, and in what situation is it MOST appropriate?",
+    "options": [
+      "Autocratic leadership; most appropriate when members are in acute crisis",
+      "Democratic leadership; most appropriate for most group situations",
+      "Laissez faire leadership; most appropriate when the group is already committed to a plan and is functioning well",
+      "Laissez faire leadership; most appropriate in the initial stage when trust is being built"
+    ],
+    "correct_index": 2,
+    "rationale": "Laissez faire leadership (from the French meaning 'let do') is a hands-off style in which the leader participates minimally and the group takes responsibility for its direction. Research by Lewin, Lippitt & White (1939) found it works best when a group is already committed to a decision. Autocratic leadership (choice A) is best for emergencies requiring immediate decisions. Democratic leadership (choice B) is most appropriate for most situations — not laissez faire. Choice D is incorrect: the initial stage is exactly when trust is being built and members need more leader guidance, making laissez faire inappropriate there."
+  },
+  {
+    "id": "ch06_q_005",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A school counselor is forming a new group for 8th graders (ages 13–14) dealing with academic stress. She wants to run it well. Based on best-practice guidelines, which group composition and logistical choices are MOST appropriate?",
+    "options": [
+      "12 members, 2-hour sessions, only students aged 11–16",
+      "5–6 members, 1.5–2 hour sessions, students within a 2-year age range",
+      "8 members, 3-hour sessions to allow depth work, mixed ages acceptable",
+      "5–6 members, short frequent sessions, heterogeneous age range preferred"
+    ],
+    "correct_index": 1,
+    "rationale": "Adolescent groups should be slightly smaller than adult groups — about 5–6 members. Sessions of 1.5–2 hours are appropriate for adolescents (adults also use this range). Children's groups in particular benefit from an age span of no more than 2 years (so adolescent groups should keep ages fairly close as well for developmental appropriateness). Choice A is too large (12) and has too wide an age span. Choice C has an inappropriately long session. Choice D correctly mentions smaller size and short sessions, but 'heterogeneous age range preferred' is the opposite of what is recommended."
+  },
+  {
+    "id": "ch06_q_006",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group member named Ken consistently tells long, rambling, tangential stories that consume the group's time. Members are growing frustrated. Which role is Ken playing, and what is the BEST leader response?",
+    "options": [
+      "Ken is playing the scapegoat role; the leader should use blocking to stop other members from attacking him",
+      "Ken is playing the storyteller role; the leader should help him get to the point or ask how the story serves the group",
+      "Ken is playing the gatekeeper role; the leader should invite him to facilitate the group for a session",
+      "Ken is playing the isolate role; the leader should use linking to connect his stories to other members"
+    ],
+    "correct_index": 1,
+    "rationale": "The storyteller is a named group role in which a member monopolizes time with often irrelevant tales. The appropriate leader response is to redirect the storyteller — help the person get to the point or ask explicitly how the story is productive in the group context. The scapegoat (choice A) is a person everyone attacks — Ken is doing the talking, not being attacked. The gatekeeper (choice C) tries to get others to participate. The isolate (choice D) is ignored and receives no attention — the opposite of Ken, who is taking up too much space."
+  },
+  {
+    "id": "ch06_q_007",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A researcher studying group counseling measures outcomes before and after a 12-week anger management group using an outside observer who rates behavioral changes in each member. This measurement approach is BEST described as:",
+    "options": [
+      "A global measure, because standardized instruments are being used across all members",
+      "A group-specific measure, because all members are assessed as a group",
+      "A member-specific measure, because it assesses change in individual group members",
+      "A process measure, because it evaluates the mechanism by which the group achieved change"
+    ],
+    "correct_index": 2,
+    "rationale": "Member-specific measures are designed to assess change (or lack of it) in an INDIVIDUAL group member — which is exactly what an outside observer rating each member's behavior does. Notably, an outside observer rating is considered superior to self-ratings for member-specific measurement. Group-specific measures (choice B) measure change in ALL participants as a whole. Global measures (choice A) use standardized tests that may assess traits beyond the group's specific goals (e.g., giving the MMPI-2 to a weight loss group). Process measures (choice D) address HOW the group works, not outcome."
+  },
+  {
+    "id": "ch06_q_008",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "In a therapy group, a member named Linda rarely speaks, never initiates, and is never addressed by other members. Meanwhile, another member, Tom, receives constant criticism and blame from peers. Which role distinction is MOST accurate?",
+    "options": [
+      "Both Linda and Tom are isolates — both are marginalized within the group",
+      "Linda is the scapegoat; Tom is the isolate",
+      "Linda is the isolate (silent one); Tom is the scapegoat — they differ because the scapegoat receives negative attention while the isolate receives none",
+      "Linda is the follower; Tom is the gatekeeper — both contribute to group dysfunction"
+    ],
+    "correct_index": 2,
+    "rationale": "The critical distinction: the isolate (also called 'the silent one') receives NO attention from other group members — she is ignored. The scapegoat, in contrast, receives significant attention — but it is hostile and negative. Tom (receiving constant criticism and blame) is the scapegoat; Linda (never addressed) is the isolate. Both are marginalized, but in fundamentally different ways. Choice A incorrectly merges both into the 'isolate' category. Choice B reverses the roles. Choice D misidentifies both with incorrect roles."
+  },
+  {
+    "id": "ch06_q_009",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Before a new group session begins, Irvin Yalom's position on what a group leader needs in terms of personal preparation is BEST summarized as:",
+    "options": [
+      "Only a doctoral degree and advanced theoretical training are sufficient preparation",
+      "A group leader needs self-exploration through personal therapy to manage countertransference",
+      "Detailed knowledge of group stage theories is the single most critical preparation",
+      "Group leaders need primarily extensive experience with individual counseling before running groups"
+    ],
+    "correct_index": 1,
+    "rationale": "Yalom explicitly stated that self-exploration — including personal therapy — is generally necessary for group leaders to deal with personal issues that could cause countertransference. Gerald Corey also recommends personal participation in a therapeutic group (as a member) as essential training. Degrees alone (choice A) are insufficient — specific group training is required (CACREP mandates 10+ clock hours in small group activity). Theoretical knowledge (choice C) and individual counseling experience (choice D) are helpful but not Yalom's central recommendation."
+  },
+  {
+    "id": "ch06_q_010",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group leader is debating between using many structured exercises versus a more unstructured approach. Research (Lieberman, Yalom & Miles) on this question found that:",
+    "options": [
+      "Leaders who used many structured exercises had lower popularity ratings but superior client outcomes",
+      "Leaders who used many structured exercises were more popular AND had superior client outcomes",
+      "Leaders who used many structured exercises were more popular, but participants had LOWER outcomes than with less-structured leaders",
+      "Structured and unstructured approaches produced identical outcomes, so popularity is the only differentiating factor"
+    ],
+    "correct_index": 2,
+    "rationale": "The Lieberman, Yalom & Miles study found the counterintuitive result: structured-exercise leaders were more POPULAR with group members, but their participants showed LOWER outcome compared to less-structured leaders. This is a critical research finding — popularity does not equal effectiveness in group leadership. Structured exercises can cause members to rely too heavily on the leader, skip natural group stage development, and purge feelings before members are ready to process them. Choice B (more popular AND better outcomes) is the incorrect popular assumption the research dispels."
+  },
+  {
+    "id": "ch06_q_011",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A counselor is planning a group in a community mental health center for recently diagnosed cancer patients who want emotional support and coping skills. Which type of group is MOST appropriate?",
+    "options": [
+      "A T-group (training group), focused on improving interpersonal communication in professional settings",
+      "A psychotherapy/personality reconstruction group for in-depth exploration of unconscious conflicts",
+      "A secondary-level counseling group, addressing a present difficulty that is moderate in severity",
+      "A primary/psychoeducational group, because cancer diagnosis is a preventive health concern"
+    ],
+    "correct_index": 2,
+    "rationale": "A counseling group (Gazda's typology) / secondary-level group (Caplan's typology) is appropriate for a problem that is present but not severe, and focuses on coping and interpersonal problem-solving with conscious concerns. Cancer patients with support/coping needs fit this level — they have a real problem but are generally functioning and not in need of intensive personality reconstruction. A T-group (choice A) is for industrial/organizational settings. A psychotherapy group (choice B) deals with severe pathology, unconscious material, and long-term work. A primary/psychoeducational group (choice D) would be prevention — but the problem already exists here."
+  },
+  {
+    "id": "ch06_q_012",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group leader notices that during the transition/storming stage, one faction of members is in conflict with another. The MOST effective leader strategy is to:",
+    "options": [
+      "Adopt an autocratic style to end the conflict immediately and restore order",
+      "Remain laissez faire and allow the group to resolve the conflict independently",
+      "Assign a shared task that requires all members to work together to accomplish it",
+      "Remove the most hostile member from the group to protect cohesiveness"
+    ],
+    "correct_index": 2,
+    "rationale": "Research on group dynamics suggests that conflict between member factions can be reduced when the leader prescribes a shared task that requires collaborative effort. This shifts the group's energy from conflict to cooperation. An autocratic style (choice A) is appropriate for emergencies but not for managing group stage conflict — it would likely increase resentment. A laissez faire approach (choice B) during a high-conflict stage leaves members without needed guidance. Removing a member (choice D) is an extreme intervention that skips less intrusive options."
+  },
+  {
+    "id": "ch06_q_013",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Which of the following would MOST likely be an INAPPROPRIATE candidate for a standard outpatient counseling group, based on selection criteria?",
+    "options": [
+      "A shy, anxious 28-year-old who has never been in a group before",
+      "A verbose professional who tends to dominate conversations",
+      "A paranoid, actively suicidal client who is hostile to others",
+      "A client with obsessive-compulsive tendencies who is functioning in the community"
+    ],
+    "correct_index": 2,
+    "rationale": "Poor candidates for most counseling groups include: actively suicidal or homicidal individuals, paranoid clients, those who are extremely hostile, psychotic individuals, and the totally self-centered. This client combines multiple contraindications: paranoia, active suicidal ideation, and hostility. Choice A (shy and anxious) is actually a GOOD candidate — group exposure helps social anxiety. Choice B (dominant) is a management challenge but not an exclusion criterion. Choice D (OCD, community-functioning) can benefit from a counseling group. Note: some psychotherapy groups specifically serve these high-risk populations, but a standard outpatient counseling group is not appropriate."
+  },
+  {
+    "id": "ch06_q_014",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A counselor is running a coleadership group. Her coleader has unresolved issues with authoritarian figures, and a highly directive group member keeps triggering his countertransference. The MOST appropriate use of coleadership in this situation is:",
+    "options": [
+      "Terminate the coleader's involvement to protect the group from countertransference contamination",
+      "Allow the countertransference-affected coleader to process the feelings with the group openly",
+      "Have the unaffected coleader take the lead with that particular member while the affected coleader seeks supervision",
+      "Reassign the triggering member to a different group facilitated by another counselor"
+    ],
+    "correct_index": 2,
+    "rationale": "One key advantage of coleadership is exactly this: when one leader is experiencing countertransference toward a specific member, the co-leader can step in and work with that member, while the affected leader seeks supervision outside the session. This protects the client and the group while allowing the affected leader to address the countertransference. Terminating the coleader (choice A) is disproportionate. Processing countertransference publicly in the group (choice B) could harm the client. Reassigning the member (choice D) denies the member their group experience unnecessarily."
+  },
+  {
+    "id": "ch06_q_015",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group therapist tells members during the first session: 'Our group focuses on improving interpersonal relationships. Participation is voluntary. However, I want you to know that I cannot promise that everything said here will remain private — I have no control over what other members share outside this room.' This statement is BEST described as:",
+    "options": [
+      "A violation of ethics, because the therapist is undermining group trust before it develops",
+      "Informed consent, specifically disclosing a known risk of group participation",
+      "Blocking, to prevent confidentiality breaches from occurring in future sessions",
+      "Norm-setting, which should be deferred to the second or third session"
+    ],
+    "correct_index": 1,
+    "rationale": "Informed consent requires the leader to disclose the group's purpose, risks, and the leader's qualifications. Inability to guarantee confidentiality is a specific, known risk of group intervention that ethical standards require leaders to disclose. This is a model of proper informed consent. Choice A is incorrect — this disclosure is ethically required, not undermining. Blocking (choice C) is a real-time intervention to stop harmful behavior, not a pre-session disclosure. Norm-setting (choice D) is related but different from the broader informed consent requirement, and ethical standards don't defer it."
+  },
+  {
+    "id": "ch06_q_016",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group leader connects the struggles of one member who feels unlovable with a similar theme expressed by two other members earlier in the session. This is an example of:",
+    "options": [
+      "Blocking, because the leader is interfering with individual member work",
+      "Clarification, because the leader is seeking to understand each member's message better",
+      "Linking, because the leader is connecting common patterns across members to promote cohesion",
+      "Horizontal intervention, because the leader is addressing all members simultaneously"
+    ],
+    "correct_index": 2,
+    "rationale": "Linking is the technique of connecting one person's experience/predicament to another's, illuminating areas of mutual concern. When done well, it enhances group interaction and promotes cohesion and universality. Blocking (choice A) stops harmful behavior — that is the opposite of what's happening here. Clarification (choice B) makes a vague message more understandable — not the same as drawing cross-member connections. Horizontal intervention (choice D) addresses the group as a whole — but that is the broader category; 'linking' is the specific technique being used."
+  },
+  {
+    "id": "ch06_q_017",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Irvin Yalom identified several curative factors in group therapy. Which of the following is NOT one of Yalom's curative factors?",
+    "options": [
+      "Altruism — helping other group members produces therapeutic benefit",
+      "Instillation of hope — observing others improve gives members hope",
+      "Interpretation of manifest dream content and insight into the unconscious mind",
+      "Imitative behavior — modeling the behavior of the therapist or successful members"
+    ],
+    "correct_index": 2,
+    "rationale": "Yalom is an existential-humanistic therapist, and his curative factors reflect that orientation: altruism, universality, catharsis, cohesiveness, instillation of hope, imitative behavior, interpersonal learning, reenactment of family experiences, existential factors, and socialization. Interpretation of manifest dream content and insight into the unconscious (choice C) are PSYCHOANALYTIC curative factors — not Yalom's. This distinction is commonly tested. The other choices (A, B, D) are genuine Yalom curative factors."
+  },
+  {
+    "id": "ch06_q_018",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The 'risky shift phenomenon' refers to which tendency in group decision-making?",
+    "options": [
+      "Groups tend to make more conservative decisions than individuals acting alone",
+      "Group decisions tend to be less conservative (more risky) than individual decisions made before group discussion",
+      "Groups tend to avoid any decision that could create conflict among members",
+      "Groups become increasingly risk-averse as cohesiveness increases"
+    ],
+    "correct_index": 1,
+    "rationale": "The risky shift phenomenon challenges the common belief that groups are conservative. Research shows that group decisions tend to be LESS conservative — more risky — than the average member's pre-group individual decision. Group polarization is a related concept: after group discussion, individuals' views may actually become MORE extreme and aligned with their initial positions. Choice A is the incorrect popular assumption (that groups are conservative). Choice D is the opposite — cohesiveness does not necessarily increase risk-aversion."
+  },
+  {
+    "id": "ch06_q_019",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Which of the following is MOST accurate about when group therapy is NOT the recommended treatment modality?",
+    "options": [
+      "Group therapy is not appropriate for clients with depression under any circumstances",
+      "Group therapy is contraindicated for clients who are in crisis, need test interpretation, or have extreme confidentiality needs",
+      "Group therapy is contraindicated for all clients with Axis I diagnoses",
+      "Group therapy should never be used as an adjunct to individual therapy"
+    ],
+    "correct_index": 1,
+    "rationale": "Group therapy is NOT the treatment of choice when: the client is in a crisis state (individual intervention is preferred), the client needs an interpretation of psychological test results, the client requires maximum confidentiality for protection, or the client has a phobia of public speaking. Choice A is too broad — depression does not automatically preclude group work (though meta-analysis suggests individual may be superior for depression). Choice C (Axis I) is incorrect — many Axis I diagnoses are treated in groups. Choice D is incorrect — group can be an excellent adjunct to individual therapy (with the individual therapist's knowledge)."
+  },
+  {
+    "id": "ch06_q_020",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group leader focuses predominantly on the communication patterns, transactional dynamics, and interactions between members — using the here and now — rather than doing individual work with each member in turn. This leadership style is described as:",
+    "options": [
+      "Vertical intervention (intrapersonal) because the leader is facilitating psychological depth",
+      "Horizontal intervention (interpersonal) because the leader addresses the group as a whole and its interactions",
+      "Autocratic leadership because the leader controls what the group discusses",
+      "Laissez faire leadership because the leader is not directing individual members"
+    ],
+    "correct_index": 1,
+    "rationale": "Horizontal intervention targets the group as a whole — focusing on group relationships, processes, tasks, and interactions in the here and now. This is called the 'interpersonal' approach. Vertical intervention (choice A) targets an individual member within the group — like doing individual counseling in a group setting — and is more likely to explore the past using psychodynamic notions. The autocratic/laissez faire distinction (choices C, D) refers to leadership style, not the intervention level (horizontal vs. vertical)."
+  }
+]

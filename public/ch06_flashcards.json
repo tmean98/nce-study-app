@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ch06_fc_001",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Who coined the term 'group therapy' and when?",
+    "back": "Jacob L. Moreno coined 'group therapy' in 1931. He was also the father of psychodrama. Before that, his Theatre of Spontaneity (Vienna, 1920s) used improvisation/role-play. Joseph Pratt (1905–1923) ran the first counseling groups (for tuberculosis). Moreno brought group therapy to the US in 1925. Group therapy flourished after WWII due to a shortage of individual therapists.",
+    "difficulty": "medium",
+    "confusable_with": "Frank Parsons (pioneered groups for career guidance, not therapy per se)"
+  },
+  {
+    "id": "ch06_fc_002",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "AA (Alcoholics Anonymous) — key facts",
+    "back": "Founded in 1935 by Bill Wilson (Bill W.) and Dr. Bob Smith (Dr. Bob) in Akron, Ohio. First mutual aid/self-help support group. Worldwide membership estimated at 2+ million. Classified as a 12-step group. 'Thirteenth stepping' = exploitation of new members by established members for sexual purposes.",
+    "difficulty": "medium",
+    "confusable_with": "Weight Watchers (also self-help but food-focused; AA is specifically 12-step)"
+  },
+  {
+    "id": "ch06_fc_003",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Primary, secondary, and tertiary groups (Caplan's typology)",
+    "back": "Primary (P = Prevention): prevents problems before they occur; healthy lifestyle/coping. Secondary: problem is present but not severe; reduces severity/duration. Tertiary: serious, longstanding individual difficulties; more individual focus; may address unconscious and childhood; most pathological. This typology also applies to community prevention programs.",
+    "difficulty": "hard",
+    "confusable_with": "Guidance/counseling/psychotherapy typology (different but related classification)"
+  },
+  {
+    "id": "ch06_fc_004",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Guidance/psychoeducational groups vs. counseling groups vs. psychotherapy groups (Gazda)",
+    "back": "Guidance/psychoeducational (= primary): preventive, educational, structured, time-limited; no severe pathology. Term replaced 'guidance group' to avoid association with advice-giving. Counseling (= secondary): interpersonal problem-solving; conscious concerns; moderate structure. Psychotherapy (= tertiary): personality reconstruction; longest duration; most pathology; may use unconscious/childhood; inpatient settings.",
+    "difficulty": "hard",
+    "confusable_with": "Primary/secondary/tertiary typology (Caplan's framework for the same groups)"
+  },
+  {
+    "id": "ch06_fc_005",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Self-help / mutual aid groups",
+    "back": "Composed of people sharing a common problem; no professional leader (though may consult a professional). 500,000+ groups in US serving ~15 million members. Voluntary; excellent adjunct to professional counseling. Many follow AA's 12 steps = '12-step groups.' Distinction: support group = run by an organization, may charge fees; self-help group = informal, no fees.",
+    "difficulty": "easy",
+    "confusable_with": "Counseling groups (which have a professional leader)"
+  },
+  {
+    "id": "ch06_fc_006",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Marathon group",
+    "back": "A very long group session (minimum 24 hours, often a weekend). Rationale: extended time causes defenses to drop, allowing genuine and authentic interaction. Created by Frederick Stoller and George Bach in the 1960s. Not the same as a self-help group or sensitivity group.",
+    "difficulty": "medium",
+    "confusable_with": "Sensitivity groups/encounter groups (shorter; focus on human relations, not extended marathon format)"
+  },
+  {
+    "id": "ch06_fc_007",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "T-group (training group)",
+    "back": "'T' stands for Training. First T-group was in 1946. Used in industrial/organizational settings to improve human relations and efficiency. Not a mental health group. National Training Laboratories (NTL) in Bethel, Maine, created by Leland Bradford, Kenneth Benne, and Ronald Lippitt. Also called sensitivity groups or laboratory training groups. 'Microlab' = short encounter/sensitivity group.",
+    "difficulty": "medium",
+    "confusable_with": "Encounter group (related but more experiential/personal growth focused)"
+  },
+  {
+    "id": "ch06_fc_008",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Ideal group size and session length",
+    "back": "Adults: 5–8 members (ideally about 8; can go to 10 for long-term groups). Adolescents: 5–6 members. Children: 3–4 members. Session length: 1.5–2 hours for adults (2 hours is optimal). Children's sessions should be shorter but more frequent. CACREP requires minimum 10 clock hours of small group activity per academic term for counseling students.",
+    "difficulty": "medium",
+    "confusable_with": "Confusion between adult and child group sizes (children need smaller groups)"
+  },
+  {
+    "id": "ch06_fc_009",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Open group vs. closed group",
+    "back": "Open group: 'open door' — new members can join at any time; maintains stable number of members over time. Closed group: 'closed door' — no new members after the group begins; promotes greater cohesiveness/trust; risk = if all members drop out, group dissolves; disadvantage = missed experiences for any late joiners (moot since no one joins late).",
+    "difficulty": "medium",
+    "confusable_with": "Open vs. closed AA meetings (different usage: open AA = anyone welcome, closed = alcoholics only)"
+  },
+  {
+    "id": "ch06_fc_010",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group cohesiveness (Kurt Lewin)",
+    "back": "Binding force that holds group members together; sense of 'we-ness.' Associated with Kurt Lewin's field theory; he called it 'positive valence.' High cohesiveness → lower absenteeism, higher commitment and productivity. Closed groups tend to have more cohesiveness. Negative side: can stunt creativity and boost conformity (group think). Fragmented group = low cohesiveness.",
+    "difficulty": "medium",
+    "confusable_with": "Group norms (rules governing behavior, distinct from the binding feeling of cohesiveness)"
+  },
+  {
+    "id": "ch06_fc_011",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group content vs. group process",
+    "back": "Content: WHAT is being discussed (the material, topics, information). Process: HOW discussions and transactions occur (communication style, patterns, interactions between members). Group specialists analyze process; a process-focused leader may focus so much on dynamics that individual issues are neglected. Process research asks how groups work; outcome research asks whether groups worked.",
+    "difficulty": "easy",
+    "confusable_with": "Group stages (a different aspect of group dynamics, not content/process distinction)"
+  },
+  {
+    "id": "ch06_fc_012",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Three leadership styles (Lewin, Lippitt & White, 1939)",
+    "back": "Study of 10–11-year-olds with adult leaders. Autocratic (authoritarian): most disliked; hostility 30× greater; BEST when immediate decision needed. Democratic (participative): best behavior; most appropriate for most situations; Sam Gladding called it 'facilitator'; not always highest productivity (Stogdill). Laissez faire: hands-off, group self-directs; BEST when group is already committed to a decision.",
+    "difficulty": "hard",
+    "confusable_with": "Situational leadership (Hersey & Blanchard) which also considers group maturity"
+  },
+  {
+    "id": "ch06_fc_013",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Situational leadership (Hersey & Blanchard)",
+    "back": "Most effective leadership depends on member maturity (achievement motivation for a specific task). Low maturity: high task, low relationship (tell members what to do). Medium maturity: high task, high relationship. High maturity: low task, low relationship. Task action = one-way communication; relationship behavior = two-way communication. Maturity may vary by task within the same member.",
+    "difficulty": "hard",
+    "confusable_with": "Lewin's three leadership styles (which are fixed styles, not situation-dependent)"
+  },
+  {
+    "id": "ch06_fc_014",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Coleadership (cofacilitation) — advantages and disadvantages",
+    "back": "Advantages: group continues if one leader absent, better observational coverage, leaders process feelings between sessions, multiple feedback, models communication, helps manage countertransference (other leader handles triggering member). Best when coleaders share similar philosophy. Sit on opposite sides of group. Disadvantage: if leaders work against each other = fragments group.",
+    "difficulty": "medium",
+    "confusable_with": "Individual supervision (coleadership is in-session, not post-session review)"
+  },
+  {
+    "id": "ch06_fc_015",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Screening for group membership",
+    "back": "ACA and ASGW recommend screening for ALL groups. Poor candidates: hostile/belligerent, actively suicidal/homicidal, paranoid, psychotic, totally self-centered. Good candidates: verbal, open to feedback, believe in group therapy, can feel cohesive with others. High denial, low motivation, and low intelligence predict premature termination. Private screening superior for counselor-client interaction quality. Screening is two-way: leader assesses member AND member assesses leader.",
+    "difficulty": "medium",
+    "confusable_with": "Informed consent (different step — about disclosing group purpose, risks, and leader qualifications)"
+  },
+  {
+    "id": "ch06_fc_016",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Structured vs. unstructured groups",
+    "back": "Structured group: uses exercises/tasks assigned by leader; faster group interaction but generally LESS effective than unstructured (Lieberman, Yalom, Miles found structured leaders more popular but had LOWER participant outcomes). Can cause members to rely too heavily on the leader. Unstructured: fewer exercises; favored by nondirective, psychodynamic, existential approaches. Some theorists say 'all groups have structure' — better to say 'low vs. high degree of structure.'",
+    "difficulty": "hard",
+    "confusable_with": "'Structured group' in another sense = themed group (e.g., veterans group, stress management)"
+  },
+  {
+    "id": "ch06_fc_017",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group norms",
+    "back": "Explicit and implicit rules governing expected behavior within the group. All groups have norms, though they are not always formally stated. Norms specify what group members should and should not do. Ground rules set by the leader become norms. Different roles in a group may have different norms (teacher vs. student norms in an educational group).",
+    "difficulty": "easy",
+    "confusable_with": "Group cohesiveness (which is a feeling of togetherness, not a set of behavioral rules)"
+  },
+  {
+    "id": "ch06_fc_018",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Homogeneity vs. heterogeneity in group composition",
+    "back": "Homogeneous: members are similar (same issue, background) — higher attendance, greater we-ness (e.g., AA, Weight Watchers). Experts recommend homogeneity in terms of intelligence and developmental level; in children's groups, no more than 2-year age span. Heterogeneous: dissimilar members — more like real-world microcosm; facilitates personality change through exposure to different viewpoints.",
+    "difficulty": "medium",
+    "confusable_with": "Open vs. closed groups (membership stability vs. composition similarity)"
+  },
+  {
+    "id": "ch06_fc_019",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Risky shift phenomenon and group polarization",
+    "back": "Risky shift: group decisions tend to be LESS conservative than individual decisions made prior to group discussion. Dispels notion that groups are conservative. Group polarization: after group participation, individuals' views may become MORE extreme and aligned with their initial positions. Both phenomena challenge the assumption that groups always moderate decision-making.",
+    "difficulty": "medium",
+    "confusable_with": "Group cohesiveness (a different group dynamic — about binding, not decision-making direction)"
+  },
+  {
+    "id": "ch06_fc_020",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group member roles: task, maintenance, self-serving",
+    "back": "Task roles (positive): help accomplish group goals — information giver, clarifier. Maintenance roles (positive): maintain/strengthen group processes — follower, encourager, harmonizer/conciliator. Self-serving/individual roles (NEGATIVE): meet individual needs at group's expense — refuser to participate, chronic critic. Healthy group members are flexible and change roles as group needs change.",
+    "difficulty": "hard",
+    "confusable_with": "Specific named roles (gatekeeper, scapegoat, etc.) are different from these three broad categories"
+  },
+  {
+    "id": "ch06_fc_021",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Specific group member roles: gatekeeper, scapegoat, energizer, interrogator, harmonizer, storyteller, isolate",
+    "back": "Gatekeeper: ensures participation; may secretly want to lead; doesn't work on own issues. Scapegoat: everyone blames/attacks. Energizer: stimulates enthusiasm. Interrogator: asks inappropriate/excessive questions. Harmonizer/conciliator: keeps peace. Storyteller: monopolizes with irrelevant tales. Isolate/silent one: ignored, receives no attention (NOT same as scapegoat — scapegoat gets negative attention, isolate gets none).",
+    "difficulty": "hard",
+    "confusable_with": "Scapegoat vs. isolate: both are marginalized but scapegoat receives (negative) attention while isolate receives none"
+  },
+  {
+    "id": "ch06_fc_022",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group stages — multiple naming systems (must know equivalents)",
+    "back": "Stage 1 — Initial/Orientation/Forming/Preaffiliation: approach-avoidance; trust vs. mistrust; norm-setting; tentative. Stage 2 — Transition/Conflict/Storming/Power & Control: fights, hierarchy formation, rebellion against leader; 'storming' follows 'forming.' Stage 3 — Working/Norming/Cohesion/Intimacy: productive depth work. Stage 4 — Termination/Separation/Adjourning/Closure: breaking away, loss, referrals.",
+    "difficulty": "hard",
+    "confusable_with": "Yalom's stages (orientation, conflict, cohesion, termination — 4 stages) vs. Tuckman (forming, storming, norming, performing, adjourning — 5 stages)"
+  },
+  {
+    "id": "ch06_fc_023",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Stage 1 (Initial/Forming/Orientation): characteristics",
+    "back": "Approach-avoidance conflict: members WANT to be accepted but are AFRAID of rejection. Trust vs. mistrust (parallel to Erikson's first psychosocial stage). Members tentative, sizing each other up based on culture, dress, language, occupation. Norms begin to be established. Like Erikson's trust/mistrust challenge. Most suspicious of others during this stage.",
+    "difficulty": "medium",
+    "confusable_with": "Stage 2 (Transition/Storming) — where hostility and rebellion occur, NOT stage 1"
+  },
+  {
+    "id": "ch06_fc_024",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Stage 2 (Transition/Conflict/Storming/Power & Control): characteristics",
+    "back": "Fights between subgroups and members; rebellion against the leader; hierarchy/pecking order formation (status ranking); factions form; isolated members may drop out. Called 'power and control' by Garland, Jones & Kolodny. High anxiety. Leaders must distinguish 'challenge' from 'attack' (Corey & Corey advice). Can be abated by assigning a task all members must work on together.",
+    "difficulty": "medium",
+    "confusable_with": "Stage 1 (approach-avoidance, tentative) — stage 1 is tentative, stage 2 is conflictual"
+  },
+  {
+    "id": "ch06_fc_025",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group techniques: linking, blocking, clarification, summarization",
+    "back": "Linking: connecting one member's predicament to another's — promotes cohesion. Blocking: stopping counterproductive/hurtful behavior (gossiping, scapegoating, breaking confidentiality). Clarification: ferreting out important points in a member's message. Summarization: bringing together ideas/insights from session(s). 'Making the rounds': leader asks each member to share on a given topic.",
+    "difficulty": "medium",
+    "confusable_with": "Clarification vs. paraphrasing (clarification asks for the point; paraphrasing restates content)"
+  },
+  {
+    "id": "ch06_fc_026",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Vertical vs. horizontal interventions in group",
+    "back": "Horizontal intervention: targets the GROUP as a whole — interpersonal; focuses on here-and-now interactions. Vertical intervention: targets an INDIVIDUAL within the group — intrapersonal; like individual counseling in a group setting; more likely to involve past and psychodynamic work. Effective leaders use both. Mnemonic: horizontal = group spread out; vertical = individual sitting up.",
+    "difficulty": "hard",
+    "confusable_with": "TA complementary/crossed transactions (unrelated concept using similar directional language)"
+  },
+  {
+    "id": "ch06_fc_027",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Sociogram and sociometry (Moreno & Jennings)",
+    "back": "Sociometry: quantitative study of person-to-person relationships and feelings in a group. Sociogram: pictorial/graphical diagram of group member affiliations and interactions. Credited to Moreno and Jennings. Used to identify subgroups, factions, isolates, and the scapegoat. Family sculpturing (family therapy technique) is different — members physically arrange themselves spatially.",
+    "difficulty": "medium",
+    "confusable_with": "Sociogram vs. family sculpturing (one is a diagram on paper; the other is a live physical arrangement)"
+  },
+  {
+    "id": "ch06_fc_028",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Yalom's curative factors in group therapy",
+    "back": "Altruism (helping others), universality (not alone with problem), instillation of hope, imparting information, development of socializing techniques, imitative behavior (modeling), interpersonal learning, group cohesiveness, catharsis, existential factors/existential learning, reenactment of family of origin experiences. NOT curative factors: manifest dream content, insight into the unconscious (those are psychoanalytic, not Yalom's existential framework).",
+    "difficulty": "hard",
+    "confusable_with": "Psychoanalytic curative factors (dream interpretation, unconscious insight — Yalom excluded these)"
+  },
+  {
+    "id": "ch06_fc_029",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Universality (also called mutuality)",
+    "back": "The therapeutic recognition that one is NOT the only person in the world with a given problem. A key advantage of group work over individual therapy. Group settings uniquely promote universality because members share problems with others. Some exams use 'mutuality' as a synonym. Counters the isolation and shame that comes from feeling uniquely burdened.",
+    "difficulty": "easy",
+    "confusable_with": "Cohesiveness (about binding/togetherness among members; universality is about shared problem recognition)"
+  },
+  {
+    "id": "ch06_fc_030",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Advantages of group work vs. disadvantages",
+    "back": "Advantages: cost effective; more clients in less time; universality; members give AND receive help; multiple feedback; modeling/vicarious learning; sense of belonging; microcosm of society. Disadvantages: may need individual work first; confidentiality harder to maintain; less individual time; loss of control → member harm; not for: crisis, test interpretation needs, public speaking phobia, clients needing maximum confidentiality.",
+    "difficulty": "medium",
+    "confusable_with": "Group is NOT superior to individual for depression (preliminary meta-analysis favors individual)"
+  },
+  {
+    "id": "ch06_fc_031",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group dynamics",
+    "back": "The study of group operations — interrelationships and interactions between group members. Includes group stages, cohesiveness, leadership style, decision-making, norms. Any factor impacting the group = a dynamic. 'Group dynamics' is the broad term covering ALL aspects of how groups function.",
+    "difficulty": "easy",
+    "confusable_with": "Group process (process is one component of dynamics; dynamics is the broader field)"
+  },
+  {
+    "id": "ch06_fc_032",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Role conflict in groups",
+    "back": "A discrepancy between the way a group member is EXPECTED to behave and the way he or she ACTUALLY behaves. Distinguished from conflict of interest (member maximizes own needs at expense of others). Role conflict can emerge when group expectations clash with a member's natural behavior patterns.",
+    "difficulty": "medium",
+    "confusable_with": "Role ambiguity (unclear expectations — different from conflict between expected and actual behavior)"
+  },
+  {
+    "id": "ch06_fc_033",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Scapegoating and blocking",
+    "back": "Scapegoating: members gang up on a single group member, directing anger and hostility at that person. Blocking: the group leader intervenes to STOP counterproductive behaviors (scapegoating, gossiping, breaking confidentiality, harmful interactions). The leader uses blocking to protect group members from psychological, emotional, or physical harm.",
+    "difficulty": "medium",
+    "confusable_with": "Gatekeeper (also monitors behavior, but from within the group as a member role, not the leader)"
+  },
+  {
+    "id": "ch06_fc_034",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Outcome research vs. process research in group work",
+    "back": "Outcome (product) research: DID the group reach its goals? Was the group effective? Process research: HOW did the group achieve outcomes? What allowed the group to work? Limitation of group research: researcher-practitioner split; poorly controlled studies; independent variable (group intervention) often not operationally defined consistently across studies.",
+    "difficulty": "medium",
+    "confusable_with": "Member-specific measures vs. group-specific measures vs. global measures (ways to assess group impact)"
+  },
+  {
+    "id": "ch06_fc_035",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Informed consent in groups",
+    "back": "Members must receive information about: purpose of the group, risks involved, and leader's qualifications. This allows clients to make informed decisions about participation. Should ideally occur during pre-group screening. Ethical standard: leaders cannot guarantee confidentiality in groups (lack of confidentiality is a known risk). Leaders are obligated to discuss risks during the initial session.",
+    "difficulty": "easy",
+    "confusable_with": "Screening (selection process; different from the consent/disclosure step)"
+  },
+  {
+    "id": "ch06_fc_036",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Immediacy in group (and individual) counseling",
+    "back": "A skill where the counselor explores the counselor-client relationship as it is occurring in the present moment — the 'here and now' of the therapeutic relationship itself. Relates to the counselor's ability to convey what is happening BETWEEN the counselor and the client at that exact time.",
+    "difficulty": "medium",
+    "confusable_with": "Confrontation (pointing out discrepancies, not the same as discussing the live relationship)"
+  },
+  {
+    "id": "ch06_fc_037",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Mandatory treatment vs. reluctant client",
+    "back": "Mandatory treatment: client is required (e.g., by court) to attend counseling or group — not truly voluntary. Reluctant client: referred for treatment but not enthusiastic about intervention. In the past, groups were always described as voluntary. Today, leaders are more likely to discuss the impact of participation with mandated members rather than simply stating they can leave.",
+    "difficulty": "medium",
+    "confusable_with": "Resistant client (resistance is a clinical dynamic, not the same as reluctance to attend)"
+  },
+  {
+    "id": "ch06_fc_038",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Gerald Corey's training recommendation for group leaders",
+    "back": "Corey believes specific group training is essential — not just degrees/certifications. Recommends personal participation in a therapeutic group AND a leader training group. CACREP 2016 requires minimum 10 clock hours in a small group activity per academic term. Irvin Yalom recommends personal therapy (self-exploration) for potential group leaders to prevent countertransference.",
+    "difficulty": "medium",
+    "confusable_with": "CACREP practicum/internship requirements (different from the group participation requirement)"
+  },
+  {
+    "id": "ch06_fc_039",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "ASGW — Association for Specialists in Group Work",
+    "back": "Division of ACA focused on group work. Published journal: The Journal for Specialists in Group Work. Along with ACA, recommends screening for ALL groups. ASGPP = American Society for Group Psychotherapy and Psychodrama (Moreno, 1942). AGPA = American Group Psychotherapy Association (Slavson, 1943). These two represent the 'modern era' of group work in the 1940s (per Corsini).",
+    "difficulty": "medium",
+    "confusable_with": "AGPA vs. ASGPP (Slavson vs. Moreno — Slavson is psychotherapy group; Moreno is psychodrama)"
+  },
+  {
+    "id": "ch06_fc_040",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group stages: Tuckman & Jensen (1977) vs. Yalom",
+    "back": "Tuckman & Jensen: reviewed 25 years of group research; identified 5 stages: Forming → Storming → Norming → Performing → Adjourning. Yalom: 4 stages: Orientation → Conflict → Cohesion → Termination. Forming ≈ Orientation. Storming ≈ Conflict. Norming ≈ Cohesion. Adjourning ≈ Termination. Not all groups pass through every stage; stages don't always have clear boundaries.",
+    "difficulty": "hard",
+    "confusable_with": "Garland, Jones & Kolodny stages (preaffiliation, power & control, intimacy, differentiation, separation)"
+  },
+  {
+    "id": "ch06_fc_041",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Ecological planning for groups",
+    "back": "Pre-group planning that examines demographics, community needs, and social considerations to determine if group work is the best treatment modality. Once group begins: session-by-session program development. Planning includes: co- or solo leadership, room/environment, funding/insurance, marketing/recruitment, screening/preparation, and informed consent documents.",
+    "difficulty": "medium",
+    "confusable_with": "Group process planning (session-level planning within an ongoing group)"
+  },
+  {
+    "id": "ch06_fc_042",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Conyne's group work grid",
+    "back": "R. K. Conyne: group intervention is intended to prevent, correct, or enhance behavior. His grid includes four intervention levels: individual, interpersonal, organization, and community population — combined with orientations of prevention, correction, or enhancement for personal or task functions.",
+    "difficulty": "hard",
+    "confusable_with": "Caplan's primary/secondary/tertiary typology (both address group purposes but different frameworks)"
+  },
+  {
+    "id": "ch06_fc_043",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Jesse B. Davis and Alfred Adler — group work pioneers",
+    "back": "Jesse B. Davis: first school guidance counselor in the US; high school principal in Grand Rapids, Michigan; used groups to explore careers/values in 1912; helped create National Vocational Guidance Association (now NCDA). Alfred Adler: used group treatment in child guidance clinics in Vienna during early 1920s; rationale = 'man's problems are social in nature.'",
+    "difficulty": "medium",
+    "confusable_with": "Frank Parsons (also a guidance pioneer, but not specifically associated with group therapy)"
+  },
+  {
+    "id": "ch06_fc_044",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group confidentiality limitations",
+    "back": "Group leaders CANNOT guarantee confidentiality because they cannot control all members' behavior outside sessions. This is a known risk leaders must disclose during informed consent. Must break confidentiality for: child abuse/neglect, sexual abuse, exploitation of elderly, suicidal intent, intent to seriously harm another. These ethical/legal obligations apply regardless of group or individual setting.",
+    "difficulty": "medium",
+    "confusable_with": "Individual counseling confidentiality (same exceptions apply, but group has additional risk from other members)"
+  },
+  {
+    "id": "ch06_fc_045",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group work research limitations",
+    "back": "Researcher-practitioner split exists in group work — practical research on what works is scarce. Studies often poorly controlled. Independent variable (group intervention) frequently not operationally defined — e.g., a 'T-group' may differ dramatically between leaders. ASGW/ACA recommend structured exercises during INITIAL stage (build openness/trust); later stages focus on critical feedback.",
+    "difficulty": "medium",
+    "confusable_with": "Individual counseling research (which has better-controlled studies)"
+  },
+  {
+    "id": "ch06_fc_046",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Approach-avoidance conflict in group stage 1",
+    "back": "In the initial/forming stage, members experience approach-avoidance: simultaneously attracted to (want to be accepted) and repelled by (fear of rejection) joining the group. Contrasted with avoidance-avoidance conflict (two equally unattractive alternatives — e.g., take a pay cut OR lose your job).",
+    "difficulty": "medium",
+    "confusable_with": "Avoidance-avoidance conflict (both unattractive; approach-avoidance has one goal that is both attractive AND repellent)"
+  },
+  {
+    "id": "ch06_fc_047",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Working with adolescents in groups — key guidelines",
+    "back": "When adolescents complain about parents: avoid taking sides; help see parents' point of view through role-playing. For children under 10: involve parents; parental cooperation reduces resistance. Leaders should not take sides with child against parent or institution. Children's groups need more frequent but shorter sessions. Age span in children's groups: no more than 2 years.",
+    "difficulty": "medium",
+    "confusable_with": "Adult group work guidelines (adult groups do not require parental involvement)"
+  },
+  {
+    "id": "ch06_fc_048",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Hot seat technique (Perls) in group",
+    "back": "A gestalt technique where a group member who is the target of the therapist's interventions in the here and now is said to be on the 'hot seat.' The person works on an issue with the therapist directly while other group members observe (often followed by group response). Associated with Fritz Perls's gestalt therapy groups, especially his work at Esalen Institute (Big Sur, California, 1964).",
+    "difficulty": "easy",
+    "confusable_with": "Empty chair technique (related gestalt technique; the hot seat is the whole experience, the empty chair is a specific method within gestalt)"
+  },
+  {
+    "id": "ch06_fc_049",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "When is group therapy NOT the treatment of choice?",
+    "back": "Group therapy is generally NOT appropriate when the client: (1) is in crisis (individual intervention preferred); (2) needs interpretation of psychological test results; (3) needs maximum confidentiality for protection; (4) has a phobia of public speaking; (5) needs to be treated individually before benefiting from group. Also: group is not generally superior to individual therapy for depressed clients (preliminary meta-analysis).",
+    "difficulty": "medium",
+    "confusable_with": "Contraindications for individual therapy (different situation — group has unique contraindications)"
+  },
+  {
+    "id": "ch06_fc_050",
+    "domain": "Group Work",
+    "chapter": 6,
+    "front": "Group effectiveness and research findings",
+    "back": "Groups are effective, but researchers cannot precisely explain WHY (process remains unclear). Hundreds of studies confirm group effectiveness. Group counseling is approximately as effective as individual work in general. Preliminary meta-analysis suggests individual counseling is better for depressed clients specifically. Structured exercises → popular leaders but LOWER client outcomes (Lieberman, Yalom, Miles). Group decisions often less conservative than individual decisions (risky shift).",
+    "difficulty": "medium",
+    "confusable_with": "Structured exercises being popular (popular ≠ effective — this is a commonly tested counterintuitive finding)"
+  }
+]

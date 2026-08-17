@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ch04_q_001",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A counselor supervisor tells her supervisee: 'You can use the same techniques with your Latino clients as you do with all other clients — people are people.' This supervisor is espousing which viewpoint?",
+    "options": [
+      "The emic viewpoint — culture-specific approaches for each client",
+      "The autoplastic viewpoint — clients should change the self",
+      "The etic viewpoint — universal principles apply regardless of cultural background",
+      "The alloplastic viewpoint — clients should change their environment"
+    ],
+    "correct_index": 2,
+    "rationale": "The etic viewpoint holds that all humans are essentially more alike than different, and the same theoretical approaches and techniques can be applied to any client regardless of cultural background. The emic viewpoint (A) is the opposite — it emphasizes culture-specific approaches adapted to each individual client's cultural context. Distractor: Emic (A) is the most common confusion — on the exam, a supervisor who says 'treat everyone the same' is always etic, not emic."
+  },
+  {
+    "id": "ch04_q_002",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A counselor working with a client who experienced discrimination tells him, 'I understand that's painful. Let's work on changing your thoughts about this situation so it won't impact you as much.' This counselor is taking which approach?",
+    "options": [
+      "Alloplastic — helping the client change the external environment",
+      "Autoplastic — helping the client change internal responses",
+      "Emic — adapting to the client's cultural context",
+      "A monolithic perspective on the client's experience"
+    ],
+    "correct_index": 1,
+    "rationale": "The autoplastic approach focuses on helping the client change the SELF — thoughts, feelings, and internal responses to the environment. The counselor is suggesting the client modify their cognitive response, not fight the discrimination externally. The alloplastic approach (A) would involve the counselor encouraging the client to change or confront the system causing discrimination. Distractor: Alloplastic (A) is tempting because discrimination IS an external problem, but the counselor's intervention is focused on the client's internal cognitions."
+  },
+  {
+    "id": "ch04_q_003",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "During a counseling intake, an African American male client is reluctant to disclose personal information to his white female counselor. The MOST likely explanation, based on multicultural research, is:",
+    "options": [
+      "The client is displaying malingering behavior to avoid treatment",
+      "African American males are especially hesitant to self-disclose to white counselors, particularly about personal matters",
+      "The client likely has an avoidant personality disorder",
+      "Males in general refuse to engage in the counseling process before the third session"
+    ],
+    "correct_index": 1,
+    "rationale": "Research consistently shows that African American males have particular difficulty self-disclosing to white counselors. This reflects historical mistrust shaped by systemic racism and cultural norms around emotional expression. It is a culturally informed pattern, not pathology. Malingering (A) involves intentionally faking illness to avoid obligations. Avoidant personality (C) is a DSM diagnosis requiring a persistent pattern across settings. Distractor: Option D is partially true (males generally struggle with self-disclosure) but misses the racial/cultural specificity that makes B correct."
+  },
+  {
+    "id": "ch04_q_004",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A research team sets up a study in which 40 volunteer participants are instructed to administer increasingly powerful electric shocks to a 'learner' whenever he gives a wrong answer. The learner (actually a confederate) screams in pain. 65% of participants administer the maximum shock level when told to by an authority figure. This study BEST describes:",
+    "options": [
+      "Zimbardo's Stanford Prison Experiment — conformity to social roles",
+      "Asch's conformity studies — peer pressure and group agreement",
+      "Milgram's obedience experiments — compliance with authority",
+      "Sherif's Robbers' Cave Experiment — intergroup competition"
+    ],
+    "correct_index": 2,
+    "rationale": "This is Milgram's landmark obedience study. 65% of participants administered maximum shock when ordered by an authority figure — far exceeding the 1% psychiatrists predicted. The key variable is AUTHORITY (being told to by a perceived authority figure), not peer pressure or role conformity. Zimbardo (A) involved assuming roles (guard/prisoner) without direct commands. Asch (B) involved conforming to peers' wrong answers in a perceptual task. Distractor: Zimbardo (A) is frequently confused with Milgram — both involve harmful behavior, but Zimbardo = role conformity, Milgram = authority commands."
+  },
+  {
+    "id": "ch04_q_005",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A large group of people witnesses a woman being mugged in broad daylight on a busy street. Despite the number of witnesses, no one intervenes for several minutes. This phenomenon is BEST explained by:",
+    "options": [
+      "Social facilitation — the presence of others increases task difficulty",
+      "The sleeper effect — attitudes change after a delay",
+      "The bystander effect and diffusion of responsibility",
+      "Cognitive dissonance — witnessing violence creates incompatible cognitions"
+    ],
+    "correct_index": 2,
+    "rationale": "The bystander effect states that as the number of people present increases, the likelihood of any individual helping decreases — and the time to intervene increases. Diffusion of responsibility explains this: each bystander assumes someone else will act. Social facilitation (A) refers to performance improvement in the presence of others on tasks (not helping behavior). The sleeper effect (B) is about delayed persuasion. Distractor: Cognitive dissonance (D) is tempting because witnessing violence IS uncomfortable, but dissonance theory explains attitude formation, not bystander inaction."
+  },
+  {
+    "id": "ch04_q_006",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "An experiment randomly assigns college students to act as 'guards' or 'prisoners' in a mock prison. Within days, guards become abusive and sadistic; prisoners become passive and distressed. The experiment is halted after 6 days. This study BEST illustrates:",
+    "options": [
+      "Milgram's finding that most people obey authority figures",
+      "Zimbardo's finding that people conform to assigned social roles",
+      "Asch's finding that people conform to unanimous group opinions",
+      "Festinger's cognitive dissonance theory"
+    ],
+    "correct_index": 1,
+    "rationale": "Zimbardo's Stanford Prison Experiment (1971) demonstrated that ordinary people will conform powerfully to the social roles they are assigned, even without being directly instructed to behave in particular ways. Guards became abusive and prisoners passive simply by inhabiting their assigned roles. Milgram (A) involved direct authority commands, not role-based conformity. Asch (C) involved perceptual conformity to peer consensus. Distractor: Milgram (A) is the most common confusion — both involve harmful behavior, but Stanford Prison = ROLE, Milgram = AUTHORITY COMMAND."
+  },
+  {
+    "id": "ch04_q_007",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A client tells his counselor, 'I'm torn — I've been offered my dream job in another city, but it means leaving my aging parents who need me.' According to Kurt Lewin, this client is experiencing:",
+    "options": [
+      "An approach-approach conflict — both options are attractive",
+      "An avoidance-avoidance conflict — both options are undesirable",
+      "An approach-avoidance conflict — one option has both attractive and repelling qualities",
+      "Cognitive dissonance — the two options hold inconsistent values"
+    ],
+    "correct_index": 2,
+    "rationale": "An approach-avoidance conflict occurs when a SINGLE option has both attractive (the dream job, career) and repelling qualities (leaving parents, guilt). This is considered the HARDEST type of conflict and generates the most anxiety. Approach-approach (A) would mean two equally positive options to choose between. Avoidance-avoidance (B) would mean two equally undesirable choices. Distractor: Approach-approach (A) is tempting because the job sounds appealing — but the key is that this one option itself creates both attraction AND avoidance."
+  },
+  {
+    "id": "ch04_q_008",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "After purchasing an expensive new car, a client tells his counselor he's been reading only positive car reviews and avoiding any articles that might criticize his choice. According to Festinger, this behavior is BEST explained as:",
+    "options": [
+      "Reaction formation — converting anxious thoughts into their opposite",
+      "Social facilitation — group pressure driving the purchase decision",
+      "Cognitive dissonance reduction — seeking information consistent with one's decision",
+      "The sleeper effect — attitude change after the communication source is forgotten"
+    ],
+    "correct_index": 2,
+    "rationale": "Festinger's cognitive dissonance theory predicts that after a major decision, people experience post-decisional dissonance (doubt/inconsistency) and actively reduce it by seeking CONSONANT information (reviews supporting the decision) and avoiding dissonant information (negative reviews). This is selective exposure. Reaction formation (A) is a Freudian defense mechanism involving opposite behaviors. Social facilitation (B) involves performance in the presence of others. Distractor: Reaction formation (A) is tempting because the client seems to be avoiding anxiety — but reaction formation involves doing the OPPOSITE of what you feel, not seeking confirming information."
+  },
+  {
+    "id": "ch04_q_009",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A social psychology researcher finds that people who live next door to each other are significantly more likely to become friends than people living two or three doors away. This phenomenon is BEST explained by:",
+    "options": [
+      "The matching hypothesis — we choose friends at our own attractiveness level",
+      "Propinquity — proximity increases interpersonal attraction",
+      "Social exchange theory — proximity reduces the 'cost' of friendship",
+      "The foot-in-the-door effect — small interactions lead to larger commitments"
+    ],
+    "correct_index": 1,
+    "rationale": "Propinquity refers to how physical closeness (proximity) increases attraction and friendship formation. Festinger's apartment study found friendship was highest between next-door neighbors and decreased sharply even a few doors away. The matching hypothesis (A) relates to physical attractiveness in romantic selection. Social exchange theory (C) is about reward-cost balance in relationships generally. Distractor: Social exchange theory (C) is plausible because proximity DOES reduce 'costs' — but propinquity is the specific, correct term for proximity-based attraction."
+  },
+  {
+    "id": "ch04_q_010",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A counselor working with two competing departments in an organization tries to reduce conflict between the groups. Based on Muzafer Sherif's Robbers' Cave research, the MOST effective strategy would be:",
+    "options": [
+      "Giving each group more autonomy and separate resources to reduce competition",
+      "Providing a shared goal that BOTH groups must cooperate to achieve",
+      "Using Rogerian active listening to build empathy between group members",
+      "Applying cognitive dissonance principles to change each group's attitudes"
+    ],
+    "correct_index": 1,
+    "rationale": "Sherif's Robbers' Cave Experiment demonstrated that intergroup hostility is best reduced by giving competing groups a SUPERORDINATE GOAL — an objective that neither group can achieve alone and that requires genuine cooperation. This replaces competition with collaboration. Giving groups more autonomy (A) tends to increase, not reduce, isolation. Rogerian listening (C) addresses individual relationships, not group dynamics. Distractor: Cognitive dissonance (D) is tempting because attitude change IS involved — but Sherif's finding was specifically that a shared goal changes intergroup dynamics, not just individual attitudes."
+  },
+  {
+    "id": "ch04_q_011",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A Japanese American client avoids making eye contact with her counselor throughout their sessions. The counselor should FIRST consider that:",
+    "options": [
+      "The client is displaying severe negative transference toward the counselor",
+      "This may reflect culturally appropriate behavior — a sign of respect for authority in some Asian cultures",
+      "The client has a DSM diagnosis of social anxiety disorder",
+      "The client is demonstrating the autoplastic coping style"
+    ],
+    "correct_index": 1,
+    "rationale": "In some Asian cultures, avoiding eye contact with an authority figure is a sign of RESPECT, not anxiety, resistance, or pathology. Sue and Sue's work emphasizes understanding cultural display rules before interpreting behavior as pathological. Diagnosing this as negative transference (A) or social anxiety (C) would constitute a misdiagnosis rooted in cultural misunderstanding. Distractor: Negative transference (A) is very tempting because counselors are trained to watch for transference — but the cultural explanation must be considered FIRST in cross-cultural work."
+  },
+  {
+    "id": "ch04_q_012",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A counselor presents six group members with an obviously wrong answer to a simple perceptual question. Five confederates agree with the wrong answer. Research by Solomon Asch predicts that the sixth (naive) participant will give the incorrect answer approximately what percentage of the time?",
+    "options": [
+      "Less than 5% of the time — people trust their own perception",
+      "About 35% of the time — strong conformity pressure overrides accurate perception",
+      "Over 80% of the time — most people defer to group consensus",
+      "About 15% of the time — only highly anxious individuals conform"
+    ],
+    "correct_index": 1,
+    "rationale": "Asch's conformity studies found that approximately 35% of the time, participants gave clearly WRONG answers to match the unanimous (incorrect) group response. People will conform to an obviously incorrect unanimous decision about one-third of the time. This occurs even with as few as 3 confederates. Conformity was highest in authoritarian personalities, external approval seekers, and those with external locus of control. Distractor: 15% (D) seems plausible for 'some' conformity, but Asch's actual finding was substantially higher — about 35%."
+  },
+  {
+    "id": "ch04_q_013",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "Carol Gilligan's critique of Kohlberg's moral development theory was primarily that:",
+    "options": [
+      "Kohlberg's research was conducted only on non-Western populations",
+      "Kohlberg's theory overemphasized psychoanalytic concepts",
+      "The theory was more applicable to males and didn't account for women's focus on caregiving and personal responsibility",
+      "Kohlberg ignored the role of cultural factors in moral reasoning"
+    ],
+    "correct_index": 2,
+    "rationale": "Gilligan, who worked as Kohlberg's assistant, argued that his stage theory was developed primarily from male research subjects and reflected male moral reasoning (focused on individual rights and justice). Women, she argued, tend to develop morality around CARE, relationships, and personal responsibility — a different but equally valid moral path that Kohlberg's stages failed to capture. Distractor: Cultural factors (D) are a real critique of Kohlberg, but that is not Gilligan's specific argument — her critique was specifically about GENDER bias in the theory."
+  },
+  {
+    "id": "ch04_q_014",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A multicultural counselor is described as supporting the 'salad bowl model' of diversity. This means the counselor believes:",
+    "options": [
+      "All cultures should gradually merge into one unified American identity",
+      "Cultural differences are temporary and will naturally diminish over generations",
+      "Different cultural groups should mix together in society while retaining their distinct cultural identities",
+      "The dominant culture should set the standard by which other cultures are measured"
+    ],
+    "correct_index": 2,
+    "rationale": "The salad bowl model holds that diverse cultural groups coexist and participate in society while retaining their distinct cultural identities — like different ingredients in a salad that remain individually recognizable. This is preferred over the melting pot model (A), which implies assimilation into a single unified identity and is considered a myth by multicultural scholars. The melting pot is associated with ethnocentrism and is NOT what multicultural counselors support. Distractor: The melting pot (A) sounds inclusive but actually represents assimilation pressure on minority cultures."
+  },
+  {
+    "id": "ch04_q_015",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A client who recently lost everything in her apartment fire now insists she cannot move her right arm, though extensive neurological examination finds no physical cause. She seems surprisingly unconcerned about this disability. The MOST likely diagnosis is:",
+    "options": [
+      "Malingering — she is faking the disability to avoid returning to work",
+      "Conversion disorder with la belle indifference",
+      "Factitious disorder — she is intentionally causing the symptom for secondary gain",
+      "Somatic symptom disorder with high anxiety"
+    ],
+    "correct_index": 1,
+    "rationale": "Conversion disorder involves neurological symptoms with no medical/physical explanation. La belle indifference = the client's surprising lack of concern about the symptom. The symptom is NOT intentionally produced (ruling out malingering and factitious disorder). The psychodynamic view: the symptom serves a purpose — the person no longer fears seeing something traumatic. Malingering (A) involves INTENTIONAL faking to avoid work/prison. Distractor: Malingering (A) is very tempting because we might assume a deliberate motive, but conversion disorder is UNINTENTIONAL — driven by unconscious psychological stress."
+  },
+  {
+    "id": "ch04_q_016",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A community volunteer asks neighbors to sign a petition supporting a local park (small request). Two weeks later, she returns and asks those same neighbors to attend a 3-hour city council meeting to advocate for the park (large request). Research suggests her second request will be more successful BECAUSE of the first. This illustrates:",
+    "options": [
+      "The sleeper effect — delayed attitude change from the first interaction",
+      "The foot-in-the-door compliance technique",
+      "Social facilitation — group presence improves performance",
+      "Cognitive dissonance — inconsistency between not helping and prior commitment"
+    ],
+    "correct_index": 1,
+    "rationale": "The foot-in-the-door technique (Freedman & Fraser, 1966) works by getting agreement to a small request first, which creates a 'momentum of compliance' — the person then more readily agrees to a larger request. The housewives/safe-driving petition study is the classic example. The sleeper effect (A) is about forgotten communicators; social facilitation (C) is about task performance with observers present. Distractor: Cognitive dissonance (D) is partially relevant — committing to the small request does create some dissonance if you decline the larger one — but the specific technique being described is foot-in-the-door."
+  },
+  {
+    "id": "ch04_q_017",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "Stanley Schachter's research on affiliation found that high-anxiety subjects chose to wait with others before an anticipated electric shock. A follow-up study found they preferred to wait specifically with OTHER high-anxiety subjects, not with anyone. This supports which conclusion?",
+    "options": [
+      "Misery loves company of any kind",
+      "People under stress prefer isolation over social contact",
+      "Misery specifically loves MISERABLE company — people in similar predicaments",
+      "High-anxiety individuals have stronger social facilitation responses"
+    ],
+    "correct_index": 2,
+    "rationale": "Schachter's research on affiliation demonstrated the nuanced finding that high-anxiety people do not just want any company — they specifically prefer to be with others who are in the SAME situation (also anxious about the same thing). People in embarrassing situations (Zimbardo's 1961 study) were LESS willing to affiliate, suggesting the need to share genuine fear, not anxiety rooted in shame or embarrassment. The popular saying is 'misery loves miserable company' — not just any company. Distractor: Option A ('any kind') misses the crucial finding that the similarity of situation matters."
+  },
+  {
+    "id": "ch04_q_018",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A counselor works with a traditional client from a culture where authority figures are expected to give direct guidance. The client seems disappointed and disengaged in sessions where the counselor uses a nondirective, Rogerian approach. The MOST culturally competent adjustment would be to:",
+    "options": [
+      "Maintain the Rogerian approach — it is universally effective across cultures",
+      "Switch to a more directive, structured approach that is congruent with the client's cultural expectations",
+      "Refer the client to a counselor of the same cultural background",
+      "Interpret the client's disappointment as a sign of resistance requiring confrontation"
+    ],
+    "correct_index": 1,
+    "rationale": "Multicultural competence requires flexibility. When a client's culture values authority and directive guidance, a purely nondirective approach fails to meet the client's culturally-based expectations for the helping relationship. Sue and Sue's work confirms that some cultures (including many traditional authority-valuing cultures) respond best to structured, directive, advice-giving styles. Person-centered therapy (A) can be effective cross-culturally in many contexts but is NOT universally optimal. Distractor: Referral (C) is not necessary and avoids the more appropriate adaptation of counseling style."
+  },
+  {
+    "id": "ch04_q_019",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "Research on gender bias in counseling (Schlossberg & Pietrofesa, 1970) found that when counselor trainees helped a female client choose between an engineering career and a teaching career:",
+    "options": [
+      "Male counselors steered her toward engineering; female counselors were unbiased",
+      "All counselors steered her toward teaching (the traditionally female career), including female counselors",
+      "No significant bias was found; counselors presented both options equally",
+      "Counselors from minority backgrounds were significantly less biased than white counselors"
+    ],
+    "correct_index": 1,
+    "rationale": "The landmark Schlossberg & Pietrofesa study found that ALL counselor trainees — including FEMALE counselors — steered the female client away from engineering (traditionally male) and toward teaching (traditionally female). This demonstrated that sex-role stereotyping was not limited to male counselors. Female counselors showed the same bias as male counselors. Key implication: awareness of one's own bias is essential regardless of gender. Distractor: Option A (only male counselors biased) is the most common incorrect assumption — the study's important finding was that female counselors were equally biased."
+  },
+  {
+    "id": "ch04_q_020",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 4,
+    "question": "A counselor views all of her Latino clients as essentially the same, assuming cultural patterns that apply to Mexican Americans must apply equally to Puerto Ricans, Dominicans, and Cuban Americans. This counselor is displaying:",
+    "options": [
+      "An emic perspective — she is trying to understand each client's unique cultural context",
+      "A monolithic perspective — treating all members of a broad group as identical",
+      "Cultural pluralism — acknowledging shared values within the Latino community",
+      "The etic viewpoint — applying universal principles to all clients"
+    ],
+    "correct_index": 1,
+    "rationale": "A monolithic perspective assumes that all members of a cultural group are alike — ignoring significant within-group differences. Latino/a Americans include Mexican Americans, Puerto Ricans, Cubans, Dominicans, and others with distinct cultural traditions, histories, and practices (e.g., approximately 65% of U.S. Latinos/as are of Mexican heritage). Viewing them as identical is a counseling error. The etic viewpoint (D) applies universal techniques but doesn't claim group homogeneity. Distractor: Etic (D) is tempting because both approaches treat clients similarly — but etic = universally applicable techniques, monolithic = incorrectly assuming within-group sameness."
+  }
+]

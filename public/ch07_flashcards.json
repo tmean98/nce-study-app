@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ch07_fc_001",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Frank Parsons \u2014 father of vocational guidance",
+    "back": "Frank Parsons founded the Boston Vocation Bureau on January 13, 1908. Published 'Choosing a Vocation' posthumously (died 1908). Guidance movement in the US began with vocational guidance. Three steps: (1) know yourself (traits), (2) know jobs, (3) match the two. John O. Crites: career counseling is MORE difficult than therapy; career counseling exceeds the need for therapy.",
+    "difficulty": "medium",
+    "confusable_with": "E. G. Williamson (expanded Parsons into the Minnesota Viewpoint, a broader counseling theory)"
+  },
+  {
+    "id": "ch07_fc_002",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Job vs. occupation vs. career (from specific to general)",
+    "back": "Job (most specific): a given position or similar positions within one organization. Occupation (more general): similar jobs performed by different people in different settings. Career (broadest): lifetime positions PLUS leisure. Mnemonic: JOC (sounds like 'Jock'). Leisure = avocational activity; self-determined time away from work.",
+    "difficulty": "medium",
+    "confusable_with": "Lifestyle (broader still \u2014 includes work, leisure, family, and social activities)"
+  },
+  {
+    "id": "ch07_fc_003",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Trait-and-factor theory (actuarial/matching approach) \u2014 Parsons & Williamson",
+    "back": "First and most durable career theory. Uses psychological tests to match traits/aptitudes with occupational requirements. Assumes one 'best job' for each person. Based on differential psychology (study of individual differences). E. G. Williamson (Minnesota Viewpoint): scientific, didactic, uses Minnesota Occupational Rating Scales. Criticized for: ignoring change over time, being oversimplified, 'test-and-tell' approach.",
+    "difficulty": "medium",
+    "confusable_with": "Holland's typology (also somewhat structural/personality-matching, but uses hexagon and RIASEC, not just psychometric matching)"
+  },
+  {
+    "id": "ch07_fc_004",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Holland's RIASEC typology \u2014 six types and their examples",
+    "back": "Realistic (R): hands-on, machines (mechanic, truck driver). Investigative (I): think through problems, science (chemist, philosopher). Artistic (A): self-expression, feelings, nonconformity (singer, writer). Social (S): interpersonal, helping (counselor, teacher, social worker). Enterprising (E): sell, lead, power/status (VP, real estate agent, business owner). Conventional (C): conformity, structure, rules (clerk, statistician). Mnemonic: RIASEC or 'as rice.'",
+    "difficulty": "hard",
+    "confusable_with": "Roe's fields (outdoor, science, arts/entertainment, etc. \u2014 different classification system)"
+  },
+  {
+    "id": "ch07_fc_005",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Holland's theory \u2014 key concepts: hexagon, congruence, consistency, three-digit code",
+    "back": "Hexagon: six types placed on a geometric figure; adjacent types are 'consistent' (e.g., RIA), opposite types are 'inconsistent.' Congruence: match between person's personality and work environment is the goal. Three-digit code describes a person (e.g., SEC, EIR). A given occupation attracts people with similar personalities. Criticized as somewhat sexist (relies on stereotypes).",
+    "difficulty": "hard",
+    "confusable_with": "Super's career rainbow (different visual metaphor for career development)"
+  },
+  {
+    "id": "ch07_fc_006",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Self-Directed Search (SDS) \u2014 Holland",
+    "back": "Introduced 1970 by Holland for those without access to professional career counseling. Self-administered, self-scored, self-interpreted. Takes ~20 min. Suitable for ages 15+. Yields three-letter Holland code. Form E: for limited readers (4th-grade reading level, shorter). NOT recommended for grossly disturbed, uneducated, illiterate, or for persons with severe indecisiveness. Spanish version available.",
+    "difficulty": "medium",
+    "confusable_with": "Strong Interest Inventory (SII) \u2014 based on Holland but requires computer scoring, not self-scored"
+  },
+  {
+    "id": "ch07_fc_007",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Strong Interest Inventory (SII/SCII)",
+    "back": "Developed by E. K. Strong Jr. in 1927 (SVIB for men; 1933 for women). Expanded by David Campbell in 1974. Based on Holland's typology. 291 items; 30\u201345 minutes; untimed; forced-choice format. Must be computer scored. Measures INTERESTS, not abilities. Suitable for high school, college, and adults. Occupational scales created from 200\u2013300 happily employed workers. Subject of 1,700+ studies.",
+    "difficulty": "medium",
+    "confusable_with": "SDS (self-scored; shorter; not needs computer scoring) \u2014 SII is the more comprehensive interest inventory"
+  },
+  {
+    "id": "ch07_fc_008",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Anne Roe's personality theory of career choice",
+    "back": "First career theory based heavily on personality. Psychoanalytic + Maslow's hierarchy. Job satisfies an unconscious need. Three parenting styles \u2192 personality: overprotective, avoidant/rejecting (cold/hostile), or acceptant (democratic/warm). Warm/person-oriented parenting \u2192 fields with people (service, business, organizations). Cold/avoiding \u2192 nonperson-oriented (outdoor, science, technology). Two dimensions: 8 fields + 6 levels.",
+    "difficulty": "hard",
+    "confusable_with": "Bordin's psychoanalytic career theory (also psychoanalytic but focuses on neurotic conflict, not parenting styles)"
+  },
+  {
+    "id": "ch07_fc_009",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Roe's 8 fields and 6 levels of occupational classification",
+    "back": "8 Fields (what the work is about): service, business contact, organizations, technology, outdoor, science, general culture, arts/entertainment. 6 Levels (skill/responsibility): professional/managerial 1, professional/managerial 2, semiprofessional/small business, skilled, semiskilled, unskilled. Instruments: Vocational Interest Inventory (VII) and Career Occupational Preference System.",
+    "difficulty": "hard",
+    "confusable_with": "Holland's RIASEC (Holland = personalities, Roe = fields [content] + levels [responsibility])"
+  },
+  {
+    "id": "ch07_fc_010",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Ginzberg Group \u2014 first developmental career theory",
+    "back": "Ginzberg (economist), Ginsburg (psychiatrist), Axelrad (sociologist), Herma (psychologist). First to view career choice as a developmental process (not a single event). Three stages: Fantasy (birth\u201311, impulse-based), Tentative (11\u201317, interests/abilities), Realistic (17\u2013early 20s, weighing/compromise). Originally: irreversible; later (1972) revised to open-ended and lifelong; 'compromise' \u2192 'optimization.'",
+    "difficulty": "hard",
+    "confusable_with": "Super's stages (also developmental but more stages; focus on self-concept)"
+  },
+  {
+    "id": "ch07_fc_011",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Donald Super \u2014 self-concept and developmental career theory",
+    "back": "Most popular developmental career theorist. Self-concept drives career choice throughout the life span. 5 stages (GEE MD): Growth (0\u201314), Exploration (15\u201324), Establishment (24\u201344), Maintenance (44\u201364), Decline (65+). Career Rainbow: visual display of roles (child, student, leisurite, citizen, worker, spouse, homemaker, parent, pensioner) across life stages. Theaters: home, community, school, work. Career maturity = vocational maturity.",
+    "difficulty": "hard",
+    "confusable_with": "Ginzberg's stages (only 3 stages; different theorist; earlier/fewer)"
+  },
+  {
+    "id": "ch07_fc_012",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Krumboltz's social learning theory of career (LTCC)",
+    "back": "Based on Albert Bandura's social learning theory (modeling/vicarious learning). Four factors: (1) genetic endowment, (2) environmental conditions, (3) learning experiences (Pavlovian, social, Skinnerian), (4) task approach skills. Occupational indecisiveness = information deficit (not lack of maturity). Strategies: site visits, Realistic Job Preview (RJP), guided imagery, job clubs (Azrin). Decision-making can be learned.",
+    "difficulty": "hard",
+    "confusable_with": "Self-efficacy theory (Bandura) \u2014 related but focuses on belief in success driving career choice"
+  },
+  {
+    "id": "ch07_fc_013",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Edwin Bordin and A. A. Brill \u2014 psychoanalytic career theories",
+    "back": "Bordin: career difficulties indicate neurotic symptoms; career choices used to resolve unconscious conflicts. Brill: emphasized sublimation as career mechanism \u2014 unacceptable impulse expressed in a socially acceptable career (e.g., someone who likes to cut things becomes a surgeon). Roe also used unconscious concepts. Psychoanalytic career theories are less popular in counseling (which favors short-term models).",
+    "difficulty": "medium",
+    "confusable_with": "Roe (also psychoanalytic basis but focuses on parenting/early childhood needs rather than neurotic symptoms)"
+  },
+  {
+    "id": "ch07_fc_014",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Tiedeman & O'Hara \u2014 decision-making theory",
+    "back": "Career choice involves two phases: Anticipation (imagining oneself in a career; exploration of options) and Implementation/Adjustment (reality testing of expectations in the actual occupation). Based on Erikson's psychosocial stages. All decision-making theories share the belief that the individual has power to choose from career options.",
+    "difficulty": "medium",
+    "confusable_with": "Gelatt Decision Model (different decision-making framework using predictive/value/decision systems)"
+  },
+  {
+    "id": "ch07_fc_015",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Gelatt Decision Model",
+    "back": "Harry B. Gelatt: information is 'the fuel of the decision.' Three systems: Predictive system (probable alternatives, actions, possibilities), Value system (personal preferences and priorities about outcomes), Decision system (rules and criteria for evaluating outcomes). Decision-making is ongoing but key decision points exist.",
+    "difficulty": "medium",
+    "confusable_with": "Tiedeman & O'Hara (also decision-making but frames it as anticipation vs. implementation phases)"
+  },
+  {
+    "id": "ch07_fc_016",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Gottfredson's circumscription and compromise theory",
+    "back": "Developmental approach accounting for childhood. Circumscription (Phase 1): ruling out unacceptable jobs based on gender stereotypes, prestige, and social class. Compromise (Phase 2): revising career plans when initial choice is not realistic. When compromising, people sacrifice the FIELD of work before they sacrifice sex-typed behavior or prestige. Social space = zone of jobs that fit the person's place in society.",
+    "difficulty": "hard",
+    "confusable_with": "Ginzberg's tentative stage (also involves narrowing choices, but for different reasons)"
+  },
+  {
+    "id": "ch07_fc_017",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Schein's career anchor theory",
+    "back": "Edgar Schein: 8 career anchors that guide career choices, manifesting 5\u201310 years after a person starts working. Based on self-concept, abilities, and values. Anchors: (1) autonomy/independence, (2) security/stability, (3) technical/functional competence, (4) general managerial competence, (5) entrepreneurial creativity, (6) service/dedication to a cause, (7) pure challenge, (8) lifestyle. Originally 5 anchors; now 8.",
+    "difficulty": "hard",
+    "confusable_with": "Holland's typology (also categorizes work personalities but with 6 types, not career anchors)"
+  },
+  {
+    "id": "ch07_fc_018",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Savickas \u2014 Career Construction Theory (postmodern/narrative)",
+    "back": "Mark Savickas (worked with Donald Super): postmodern/constructivist approach critical of traditional theories. Views client's career as a life story that has been constructed. Intervention focuses on recurring narrative themes and helps client 're-author' their story. Supports the idea that average person has 10\u201315 jobs in a lifetime (trait-factor 'one right job' notion is outdated).",
+    "difficulty": "medium",
+    "confusable_with": "Super's self-concept theory (also emphasizes life narrative but is developmental/stage-based, not postmodern)"
+  },
+  {
+    "id": "ch07_fc_019",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "OOH vs. DOT vs. O*NET",
+    "back": "OOH (Occupational Outlook Handbook): U.S. DOL, first published 1949; revised every 2 years; forecasts job trends, training, earnings; top career information source. DOT (Dictionary of Occupational Titles): U.S. DOL, first published 1938; at zenith listed ~20,000 jobs; 9-digit code (first 3 = occupational category, middle 3 = data/people/things, last 3 = alphabetize); last edition 1999. O*NET: replaced DOT in 1991; online; fewer occupations; easier to update.",
+    "difficulty": "hard",
+    "confusable_with": "SOC (Standard Occupational Classification) \u2014 groups similar job clusters by worker function, not for trend-forecasting"
+  },
+  {
+    "id": "ch07_fc_021",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Glass ceiling and lavender ceiling",
+    "back": "Glass ceiling: invisible barrier limiting how far women can advance in the workplace. Lavender ceiling: same concept applied to gay, lesbian, bisexual, and transgender individuals. Title VII of the Civil Rights Act (1964, amended 1972): prohibits workplace discrimination by sex, color, religion, race, national origin. Enforced by EEOC. Women still earn ~76 cents for every dollar a man earns.",
+    "difficulty": "easy",
+    "confusable_with": "Occupational sex segregation (different but related \u2014 refers to women being concentrated in low-status, low-pay jobs)"
+  },
+  {
+    "id": "ch07_fc_022",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "EEOC and the 80% (four-fifths) rule for adverse impact",
+    "back": "EEOC (Equal Employment Opportunity Commission): enforces Title VII. Adverse impact test: divide minority hiring rate by nonminority hiring rate. If quotient < 80% (4/5), the selection process has adverse impact. Example: 60 African Americans hired, 80 whites hired \u2192 60/80 = 75% < 80% = adverse impact. Also applies to promotions. Minority/subgroup rate goes in the numerator.",
+    "difficulty": "hard",
+    "confusable_with": "Differential validity (when a test is valid for one group but not another \u2014 different from adverse impact)"
+  },
+  {
+    "id": "ch07_fc_023",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Displaced homemaker vs. reentry woman vs. dislocated worker",
+    "back": "Displaced homemaker: woman with children who was a homemaker but now needs work to support her family (typically due to divorce or widowhood). Reentry woman: woman transitioning from working in the home to working outside the home; typically experiences high career indecision. Dislocated worker: loses job due to company downsizing, relocation, or possessing an obsolete set of skills.",
+    "difficulty": "medium",
+    "confusable_with": "Underemployment (worker employed below skill level \u2014 different from any of the above)"
+  },
+  {
+    "id": "ch07_fc_024",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Spillover, compensatory effect, segmentation, contrast effect",
+    "back": "Spillover: work activities 'spill over' into leisure time (e.g., flower arranger does it on weekends). Compensatory effect: compensating in non-work life for job dissatisfaction (e.g., quiet librarian goes out loud after work; dissatisfied worker becomes devoted family person). Segmentation: work and family are kept separate. Contrast effect: interviewer's impression of a candidate is influenced by previous candidates.",
+    "difficulty": "hard",
+    "confusable_with": "Recency effect (rater's judgment of employee based on most recent performance \u2014 different context)"
+  },
+  {
+    "id": "ch07_fc_025",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Dual-career vs. dual-earner family; leisure time",
+    "back": "Dual-career family: both partners committed to careers with advancement potential; higher income; LESS leisure time than single-income families; women typically secure in career before having children. Dual-earner family: both work but advancement is limited/minimal. Now majority: >54% of marriages are dual-wage earner. Leisure counseling is an emerging specialty. Dual-career couples report high stress from lack of leisure.",
+    "difficulty": "medium",
+    "confusable_with": "Dual-career vs. dual-earner distinction: dual-career = advancement possible; dual-earner = advancement limited"
+  },
+  {
+    "id": "ch07_fc_026",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Vroom's expectancy theory (motivation and management)",
+    "back": "Victor Vroom: employee performance is influenced by three factors. Valence: will work provide rewards (money, promotion, satisfaction)? Expectancy: what does the person believe they are capable of doing? Instrumentality: will the manager actually deliver the promised reward (e.g., a raise)? All three must be present for optimal motivation.",
+    "difficulty": "medium",
+    "confusable_with": "Maslow's hierarchy of needs (different motivation theory \u2014 not specifically about workplace expectations)"
+  },
+  {
+    "id": "ch07_fc_027",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Self-efficacy in career development (Bandura)",
+    "back": "Bandura proposed that one's belief or expectation of being successful in an occupation causes the individual to gravitate toward that occupation. Chance factors (accidental exposure to situations) also influence career development. Self-efficacy = Social Cognitive Career Theory (SCCT) basis. Bandura's social learning theory also underlies Krumboltz's LTCC.",
+    "difficulty": "medium",
+    "confusable_with": "Krumboltz's LTCC (both Bandura-based; self-efficacy focuses on belief system; LTCC focuses on learning experiences)"
+  },
+  {
+    "id": "ch07_fc_028",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Job clubs (Nathan Azrin); Realistic Job Preview (RJP); in-basket technique",
+    "back": "Job clubs (Azrin, 1970s): behavioristic group; members share job leads, role-play interview skills; good for disabled. RJP (Realistic Job Preview): student contacts and interviews a worker in a desired field. In-basket technique: job simulation for managerial candidates; given memos/emails/complaints a manager would face; assesses decision-making, prioritization, delegation; also good for trainee development.",
+    "difficulty": "medium",
+    "confusable_with": "Selective placement philosophy (counselor actively provides job leads \u2014 active vs. client-centered approach)"
+  },
+  {
+    "id": "ch07_fc_029",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Robert Hoppock's career theory (needs-based)",
+    "back": "Hoppock: people choose a job to meet their current needs. To make an accurate career decision, the person must know their personal needs and find an occupation that meets a high percentage of them. As personal needs change, a different occupation may be needed. Based on Henry Murray's needs-press theory (Murray also created the TAT with Christina Morgan).",
+    "difficulty": "medium",
+    "confusable_with": "Roe (also needs-based but focuses on childhood parenting; Hoppock focuses on current needs)"
+  },
+  {
+    "id": "ch07_fc_030",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Career maturity and John O. Crites",
+    "back": "Career maturity (vocational maturity): the degree to which a person has mastered the age-appropriate career developmental tasks. John O. Crites: created the Career Maturity Inventory (CMI) \u2014 measures attitudes and competencies related to career choice process. Crites believes career counseling is MORE difficult than therapy and that career counseling is highly therapeutic (positive correlation with personal adjustment).",
+    "difficulty": "medium",
+    "confusable_with": "Nancy Schlossberg (adult career development; 5 factors; not same as career maturity per se)"
+  },
+  {
+    "id": "ch07_fc_031",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Pink-collar, blue-collar, white-collar occupations",
+    "back": "White-collar: professional and administrative. Blue-collar: skilled manual labor. Pink-collar: jobs historically dominated by women (waitressing, secretary, childcare, K\u2013middle school teacher, beautician) \u2014 often lower pay. Occupational sex segregation: female occupations generally pay less and have lower status. Feminization of poverty: service economy has lower-paying pink-collar jobs. Women ~70% of counseling profession; ~80% of social work.",
+    "difficulty": "easy",
+    "confusable_with": "Glass ceiling (limitation on advancement) vs. pink-collar (description of job type/pay disparity)"
+  },
+  {
+    "id": "ch07_fc_032",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Hidden job market and networking",
+    "back": "Over 76% of jobs are NOT advertised \u2014 this is the 'hidden job market.' Networking is the most effective strategy for finding these jobs. Experts praise networking as an effective tool for finding gay-friendly employers. Career experts note that only ~15% of people find jobs through job boards/internet. 'Job-netting' = finding a job via the internet.",
+    "difficulty": "easy",
+    "confusable_with": "Visible job market (advertised jobs \u2014 newspapers, job boards) which accounts for a minority of actual job openings"
+  },
+  {
+    "id": "ch07_fc_033",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Job analysis vs. job evaluation",
+    "back": "Job analysis: examines tasks, duties, skills, education required, safety issues, and other data to understand what a job entails. Leads to a job description (job specifications). Job evaluation: rates the VALUE of the job WITHIN the organization to determine appropriate compensation. Does NOT rate the person performing the job.",
+    "difficulty": "medium",
+    "confusable_with": "Performance appraisal (which DOES rate the person performing the job \u2014 different from job evaluation)"
+  },
+  {
+    "id": "ch07_fc_034",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Physical work demand categories (sedentary to very heavy)",
+    "back": "Sedentary: max lift = 10 lbs. Light: max lift = 20 lbs (can walk/stand up to 6 hours daily). Medium: max lift = 50 lbs. Heavy: max lift = 100 lbs. Very heavy: lifts exceed 100 lbs. Used in vocational rehabilitation and disability career counseling to determine appropriate work placement.",
+    "difficulty": "hard",
+    "confusable_with": "Confusing 'light' (walking up to 6 hrs) with 'sedentary' (10 lb max, mostly sitting)"
+  },
+  {
+    "id": "ch07_fc_035",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "National Vocational Guidance Association (NVGA) \u2192 ACA history",
+    "back": "NVGA founded 1913 (Jesse Davis, Parsons' influence). In 1952, NVGA merged with other organizations to form APGA (American Personnel and Guidance Association). In 1983, APGA renamed to AACD (American Association for Counseling and Development). In 1992, AACD became ACA (American Counseling Association). NCDA (National Career Development Association) = career division of ACA.",
+    "difficulty": "medium",
+    "confusable_with": "APA (American Psychological Association) \u2014 different organization; counseling has its own professional lineage"
+  },
+  {
+    "id": "ch07_fc_036",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Computer-assisted career guidance (CACG) systems",
+    "back": "SIGI (System of Interactive Guidance and Information) / SIGI 3: self-assessment for college students and adults; pick major and career based on values, interests, education. Choices: software for high school students; Choices Explorer for middle school. Kuder Career Planning System (KCPS): K-12 through adults; Galaxy (elementary), Navigator (secondary), Journey (postsecondary/adult). Online career counseling is growing but NOT as effective as face-to-face.",
+    "difficulty": "medium",
+    "confusable_with": "OOH/DOT/O*NET (reference resources, not interactive guidance systems)"
+  },
+  {
+    "id": "ch07_fc_037",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Underemployment vs. unemployment",
+    "back": "Underemployment: worker is employed but in a position BELOW their skill level (e.g., PhD working as a cashier). Increases as more people earn degrees but the market lacks high-skill jobs. Unemployment: worker is without a job and actively seeking one. The average American changes jobs 10\u201315 times in a lifetime (just over 11). Midlife career change typically occurs ages 35\u201345.",
+    "difficulty": "easy",
+    "confusable_with": "Displaced homemaker (out of workforce, but for different reasons \u2014 not skill mismatch)"
+  },
+  {
+    "id": "ch07_fc_038",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Gender and career aspirations \u2014 Fitzgerald and Crites finding",
+    "back": "Louise Fitzgerald and John Crites found that even when girls display HIGHER career maturity than boys, their career aspirations remain LOWER. Most career theories are based on middle-class or upper-middle-class white heterosexual non-disabled males \u2014 limiting their applicability. Multicultural career counseling requires awareness of counselor's own ethnocentric biases.",
+    "difficulty": "medium",
+    "confusable_with": "Glass ceiling (about advancement limitation in the workplace, not about aspirations during career development)"
+  },
+  {
+    "id": "ch07_fc_039",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Leniency/strictness bias, central tendency bias, recency effect (performance rating biases)",
+    "back": "Leniency/strictness bias: rater gives employees all high (lenient) or all low (strict) ratings, avoiding the middle. Central tendency bias: rater gives almost everyone average/middle ratings. Recency effect: rater's judgment of an employee's performance is primarily influenced by the most recent events, not the whole period.",
+    "difficulty": "medium",
+    "confusable_with": "Halo effect (one positive trait colors the whole evaluation) \u2014 a different but related rating bias"
+  },
+  {
+    "id": "ch07_fc_040",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Hoppock's needs theory; Robert Hoppock's major idea",
+    "back": "Based on Henry Murray's needs-press theory. Career choice = choosing a job that meets current personal needs. Career counseling should help the client identify their needs, find a job that meets a high percentage of them, and revisit/update as needs change over time. Very different from trait-and-factor (match traits to job) and from developmental theories (stages of career growth).",
+    "difficulty": "medium",
+    "confusable_with": "Roe (also needs-based/psychoanalytic but emphasizes early childhood parenting rather than current needs)"
+  },
+  {
+    "id": "ch07_fc_041",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Midlife career change \u2014 precipitating factors and typical age",
+    "back": "Generally occurs between ages 35 and 45. Additional training is often needed. Precipitating factors: divorce, having a new baby, caring for a disabled child, empty nest syndrome, and most importantly \u2014 job dissatisfaction. Death of a spouse or all children leaving home are also common triggers. NOT rare; it is relatively common.",
+    "difficulty": "easy",
+    "confusable_with": "Super's Maintenance stage (ages 44\u201364 \u2014 different concept; that's when midlife changes often occur within Super's framework)"
+  },
+  {
+    "id": "ch07_fc_042",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "SOC and SIC \u2014 career resource tools",
+    "back": "SOC (Standard Occupational Classification): codes job clusters (e.g., teachers, librarians, counselors) by similar worker function. Useful for finding related occupations a worker could transfer to. Federal agencies use it for data collection. SIC (Standard Industrial Classification): classified businesses by type of activity (service or product); last revised 1987; replaced by NAICS (National Industry Classification System).",
+    "difficulty": "hard",
+    "confusable_with": "OOH (which focuses on job trends/outlook) vs. SOC (which groups similar jobs by function)"
+  },
+  {
+    "id": "ch07_fc_043",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "What Color Is Your Parachute? and career resource books",
+    "back": "Richard Bolles's What Color Is Your Parachute? is the bestselling job-hunting book of all time. Counselors routinely recommend it to clients seeking employment or career change. Cover letter: must accompany every resume; many personnel workers won't read a resume without one; should be brief (3 short paragraphs); paper/type should match resume.",
+    "difficulty": "easy",
+    "confusable_with": "OOH (published by DOL, focuses on job trends \u2014 different purpose from Bolles's practical job-hunting guide)"
+  },
+  {
+    "id": "ch07_fc_044",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Supply and demand in career counseling / labor market economics",
+    "back": "Supply and demand curve: as salary increases, employers want to hire FEWER workers (demand goes down) but more workers are WILLING to work (supply goes up). Music is ineffective in boosting worker output due to habituation (adaptation) \u2014 workers stop noticing it. Physicians have the highest suicide rate of any profession; dentists are second. Industrial/organizational (I/O) psychology is the fastest-growing field.",
+    "difficulty": "medium",
+    "confusable_with": "Vroom's expectancy theory (about what motivates an individual worker, not about macro labor market dynamics)"
+  },
+  {
+    "id": "ch07_fc_045",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Nancy Schlossberg \u2014 adult career development",
+    "back": "Schlossberg focused heavily on adult career development. Five noteworthy factors: (1) adult behavior primarily determined by social rather than biological factors; (2) behavior is sometimes a function of life stage, sometimes of chronological age; (3) sex differences are more powerful than age or stage differences; (4) adults continually experience transitions requiring adaptation and self-assessment; (5) identity, intimacy, and generativity are recurring adult themes.",
+    "difficulty": "hard",
+    "confusable_with": "Super's maintenance stage (also about adults in career, but specifically developmental stage theory)"
+  },
+  {
+    "id": "ch07_fc_046",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Career counseling for multicultural populations \u2014 key awareness points",
+    "back": "Counselors must be aware of their own ethnocentric biases. Asian Americans are the largest minority group represented in the scientific community. African American males are highly represented in REALISTIC (not enterprising) Holland occupations. Women's career aspirations often lower than men's even with equal maturity (Fitzgerald & Crites). Career inventories are NOT bias-free (many favor white middle-class clients). Most career theories based on white heterosexual non-disabled middle-class males.",
+    "difficulty": "hard",
+    "confusable_with": "Title VII/EEOC (legal protections) vs. counselor ethical responsibility to avoid personal bias in career counseling"
+  },
+  {
+    "id": "ch07_fc_047",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Kuder Career Planning System (KCPS)",
+    "back": "KCPS: career planning across all ages. Kuder Galaxy: elementary students. Kuder Navigator: secondary students. Kuder Journey: postsecondary and adults. Available online. Also associated with the Kuder interest inventories (predecessors to modern systems). One of the major alternatives to the Strong Interest Inventory and SDS for career exploration.",
+    "difficulty": "medium",
+    "confusable_with": "SIGI and Choices (also CACGs but different brands; SIGI \u2192 college/adults; Choices \u2192 high school)"
+  },
+  {
+    "id": "ch07_fc_048",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Career counseling difficulties and biases in testing",
+    "back": "Common career testing difficulties: stereotyping (limiting choices based on bias), counselor over-reliance on test results, tests biased toward white middle-class clients. Most career instruments take less than 1 hour (not 3+ hours). Counselors in training and beginning counselors often have negative attitudes toward career counseling, viewing personal counseling as more prestigious. Career interests are more stable after college.",
+    "difficulty": "easy",
+    "confusable_with": "Differential validity (test valid for one group but not another) \u2014 a specific type of testing bias"
+  },
+  {
+    "id": "ch07_fc_049",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Selective placement vs. client-centered career counseling",
+    "back": "Selective placement philosophy: counselor actively provides job leads and takes an active stance; preferred for clients who lack concrete job-seeking skills. Client-centered career counseling: counselor allows the client to find their own leads and contacts; less directive. Job clubs (Azrin) represent a behavioristic GROUP-based approach that falls between the two \u2014 members share leads but also actively skill-build.",
+    "difficulty": "medium",
+    "confusable_with": "Job clubs being client-centered \u2014 they are actually behavioristic, not person-centered"
+  },
+  {
+    "id": "ch07_fc_050",
+    "domain": "Career Development",
+    "chapter": 7,
+    "front": "Pervasive indecisiveness vs. career indecision",
+    "back": "Pervasive indecisiveness: a lifelong pattern of severe anxiety related to decision-making (not just about career choices) \u2014 a personality characteristic. Career indecision: a more specific, situational difficulty with career decisions often due to lack of information (Krumboltz). Reentry women typically experience high career indecision. Krumboltz: career indecision is an information deficit, not a maturity deficit.",
+    "difficulty": "medium",
+    "confusable_with": "Career indecision (situational, can be fixed by information) vs. pervasive indecisiveness (dispositional/personality trait)"
+  }
+]

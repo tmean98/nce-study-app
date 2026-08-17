@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ch11_q_001",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A family brings in their 16-year-old son who is failing school and using marijuana. The parents insist that their son is 'the problem.' A family systems therapist would MOST likely reframe the problem by identifying the identified patient as:",
+    "options": [
+      "The son — his behavior is clearly the presenting problem",
+      "The father — whose rigid parenting style drives the son's rebellion",
+      "The entire family system — whose dynamics are expressed through the son's symptoms",
+      "The mother — whose enabling behavior reinforces the son's drug use"
+    ],
+    "correct_index": 2,
+    "rationale": "Family systems therapists reject the identified patient (IP) as a single individual. They view the ENTIRE FAMILY SYSTEM as dysfunctional — the son's symptoms are an expression of the whole system's distress, not simply his own pathology. The IP concept shifts blame from one person to the relational patterns of the family. Singling out any one member (father, mother, or son) contradicts the systems perspective."
+  },
+  {
+    "id": "ch11_q_002",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A family therapist explains to a couple: 'When you criticize her, she withdraws; when she withdraws, you criticize more harshly; and that withdrawal makes you escalate.' This explanation reflects which foundational family therapy concept?",
+    "options": [
+      "Linear causality — criticism is the root cause of withdrawal",
+      "Circular (reciprocal) causality — each person's behavior influences and is influenced by the others'",
+      "Homeostasis — the couple has reached a stable, balanced state",
+      "Nonsummativity — the couple's problem cannot be understood by studying them separately"
+    ],
+    "correct_index": 1,
+    "rationale": "Circular (reciprocal) causality, introduced to family therapy by Gregory Bateson, means everyone is simultaneously influencing and being influenced by others — there is no single 'first cause.' Linear causality (A causes B) is the model of individual therapy; circular causality is the hallmark of systems/family therapy. Nonsummativity (choice D) is a related systems concept but refers to the family being more than the sum of its parts, not to the feedback loop described here."
+  },
+  {
+    "id": "ch11_q_003",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "Under stress, a husband in couples therapy agrees with everything his wife says to avoid conflict, sacrificing his own preferences and needs. According to Virginia Satir, this communication style is called:",
+    "options": [
+      "Blaming — he is avoiding responsibility by capitulating",
+      "Overly reasonable — he is intellectualizing the conflict",
+      "Placating — he is a people pleaser who fears rejection",
+      "Irrelevant — he is distracting from the real issue"
+    ],
+    "correct_index": 2,
+    "rationale": "Satir identified 4 dysfunctional stress communication patterns: (1) PLACATING = people pleaser who sacrifices own needs to avoid rejection — this husband fits perfectly. (2) BLAMING = 'It's your fault.' (3) OVERLY REASONABLE = functions like a computer, emotionally detached, intellectualizes. (4) IRRELEVANT = constantly introduces off-topic content to distract from the problem. On the exam, the overly reasonable style is sometimes called the 'responsible analyzer.'"
+  },
+  {
+    "id": "ch11_q_004",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A family therapy supervisor describes a famous theorist as 'atheoretical, using symbolism and even absurdity to join the family emotionally rather than intellectually.' This BEST describes:",
+    "options": [
+      "Virginia Satir — her experiential conjoint model emphasized communication",
+      "Carl Whitaker — the dean of experiential/symbolic family therapy who rejected formal theory",
+      "Jay Haley — whose strategic directives could appear absurd but were carefully calculated",
+      "Murray Bowen — whose intergenerational model relied on intellectual differentiation"
+    ],
+    "correct_index": 1,
+    "rationale": "Carl Whitaker is the 'dean of experiential/symbolic family therapy.' He deliberately avoided theory, arguing it keeps therapists emotionally distant from the family. He used psychotherapy of the absurd (e.g., asking a feuding couple to have a tug-of-war) and believed symbolic experience — not education — changes families. A co-therapist was important in Whitaker's model. Satir was also experiential but focused on communication, not symbolism or absurdity."
+  },
+  {
+    "id": "ch11_q_005",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A behavioral family therapist tells a 15-year-old: 'You must finish cleaning your room (which you hate) before you can go to the movies with your friends (which you love).' This intervention is BEST explained by:",
+    "options": [
+      "Quid pro quo — a behavioral contract between two parties",
+      "Negative reinforcement — removing an aversive stimulus to increase behavior",
+      "Premack's principle — a low-probability behavior precedes a high-probability behavior",
+      "Reciprocity — equal reinforcement exchange between family members"
+    ],
+    "correct_index": 2,
+    "rationale": "Premack's principle: a LOW-PROBABILITY BEHAVIOR (LPB — the unpleasant task the person is unlikely to do spontaneously) must be completed before engaging in a HIGH-PROBABILITY BEHAVIOR (HPB — the pleasant activity the person naturally gravitates toward). This is a one-person contingency. Quid pro quo involves a two-party exchange contract. Reciprocity refers to the balance of reinforcement between marital partners over time. Negative reinforcement removes an aversive stimulus — not what's happening here."
+  },
+  {
+    "id": "ch11_q_006",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A strategic family therapist hypnotizes a client who wants to stop smoking, then immediately tells her to 'smoke as many cigarettes as you possibly can for the next three days.' The client follows the instruction and smokes prolifically, then calls the therapist frustrated. The therapist responds, 'Of course — that's what I told you to do.' This technique is BEST described as:",
+    "options": [
+      "Restraining — warning the client about the consequences of change",
+      "Positioning — exaggerating the hopelessness of the client's condition",
+      "A paradoxical intervention — prescribing the symptom creates a double-bind",
+      "Reframing — redefining the smoking in a positive context"
+    ],
+    "correct_index": 2,
+    "rationale": "This is prescribing the symptom — a paradoxical technique where the therapist tells the client to engage in the very behavior they want to eliminate. The double-bind: if she smokes, the behavior is under therapeutic control; if she stops, she succeeds. Either way, the therapist has leverage. Restraining involves warning against change ('maybe it's better not to change'). Positioning exaggerates the negative ('your problem may be hopeless'). Reframing puts the behavior in a positive light — none of these describe prescribing the symptom."
+  },
+  {
+    "id": "ch11_q_007",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A wife tells a strategic family therapist that her husband yells at her every time she goes out with her friends. The therapist responds, 'You know, research suggests that men who react that intensely usually do so because they love their partners so much — it's actually an expression of deep attachment.' This intervention is BEST described as:",
+    "options": [
+      "Prescribing the symptom — the therapist told the husband to keep yelling",
+      "Restraining — the therapist warned about the consequences of change",
+      "Reframing/relabeling — the behavior is redefined in a positive context",
+      "Positioning — the therapist exaggerated the negativity of the situation"
+    ],
+    "correct_index": 2,
+    "rationale": "Reframing (also called relabeling or redefining): the therapist redefines the problematic behavior in a POSITIVE or alternative context to evoke a different emotional response. The situation hasn't changed — the husband still yells — but its meaning has been reinterpreted as love rather than hostility. This is distinct from prescribing (telling client to do the behavior), restraining (warning against change), and positioning (making the problem seem worse)."
+  },
+  {
+    "id": "ch11_q_008",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A family enters structural family therapy. In the first session, the therapist sits close to the family, uses their informal language, jokes along with their humor, and mirrors the pace of their conversation before addressing any clinical issues. This BEST illustrates:",
+    "options": [
+      "Enactment — the therapist is re-enacting the family's problem with them",
+      "Joining and mimesis — bonding with the family by matching their style",
+      "Reframing — the therapist is redefining the family's communication positively",
+      "Boundary marking — the therapist is altering the family's physical arrangement"
+    ],
+    "correct_index": 1,
+    "rationale": "Joining (Minuchin): the therapist bonds with the family in the INITIAL SESSION to build confidence and reduce resistance. Mimesis: the therapist mimics or copies the family's language, pace, and style to facilitate joining. This is the therapist's first move — before any challenging of dysfunctional patterns occurs. Enactment (asking the family to re-enact a problematic scene) comes later. Boundary marking involves changing seating arrangements."
+  },
+  {
+    "id": "ch11_q_009",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A mother tells a structural family therapist that whenever her teenage daughter has a problem at school, she calls her daughter's teachers, organizes the daughter's homework, and stays home from work to help. The daughter is now 19 and the pattern continues. A structural therapist would MOST likely identify this family as having:",
+    "options": [
+      "Clear boundaries — the mother is appropriately nurturing her daughter",
+      "Rigid boundaries — the mother is disengaged from the daughter's real needs",
+      "Diffuse boundaries — the family is enmeshed, preventing the daughter's individuation",
+      "Second-order change — the family has altered its fundamental structure"
+    ],
+    "correct_index": 2,
+    "rationale": "Diffuse (permeable) boundaries characterize ENMESHMENT — family members are over-involved, and individuals lose their autonomy. Minuchin's structural model: enmeshed children often struggle to make friends outside the home, feel uncomfortable alone, and rely excessively on their family of origin when they eventually marry. Clear boundaries are firm yet flexible — supportive but individuation-promoting. Rigid boundaries lead to disengagement, where members are disconnected and seek support outside the family."
+  },
+  {
+    "id": "ch11_q_010",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A couple in therapy has been arguing intensely. The wife begins complaining to her mother-in-law about the conflict, and the mother-in-law starts spending more time at the couple's home and taking sides. According to Murray Bowen, this BEST illustrates:",
+    "options": [
+      "Differentiation — the couple is separating their emotional and intellectual selves",
+      "Fusion — the couple's intellect and emotion have merged pathologically",
+      "Triangulation — the stressed dyad has recruited a third person to stabilize the conflict",
+      "The nuclear family emotional system — the conflict is influenced by past generations"
+    ],
+    "correct_index": 2,
+    "rationale": "Triangulation (Bowen): when a dyad (the couple) is under stress, they pull in a THIRD PERSON (the mother-in-law) to stabilize the tension. The triangle typically makes the original problem WORSE. This is distinct from differentiation (the ability to separate intellect from emotion, a goal in Bowen therapy), fusion (the pathological merger of intellect and emotion), and the nuclear family emotional system (the concept that current family dynamics are shaped by all prior generations)."
+  },
+  {
+    "id": "ch11_q_011",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A Bowenian therapist says her primary goal is to help each family member achieve 'differentiation.' What does this mean?",
+    "options": [
+      "Each member learns to be different from one another in personality and preferences",
+      "Each member learns to separate their intellectual functioning from their emotional reactivity",
+      "Each member learns to disengage from the family emotional system entirely",
+      "Each member achieves insight into how past generations created the current family structure"
+    ],
+    "correct_index": 1,
+    "rationale": "Differentiation (Bowen): the ability to SEPARATE one's INTELLECT from one's EMOTIONAL SELF. A differentiated person can remain in contact with others while also maintaining a clear sense of their own identity under stress. The opposite is FUSION — when the intellectual and emotional aspects of personality merge, the person loses a clear sense of self. Note: differentiation does NOT mean disengagement or emotional cut-off from the family — Bowen sees total cut-off as just as problematic as fusion."
+  },
+  {
+    "id": "ch11_q_012",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A family therapist asks a family to create a diagram using squares for males, circles for females, horizontal lines for marriages, and vertical lines for children — showing at least three generations. This tool is BEST described as a:",
+    "options": [
+      "Sociogram — mapping the emotional relationships within the family",
+      "Structural map — diagramming the family's hierarchy and subsystems",
+      "Genogram — a multigenerational pictorial family history tool (Bowen)",
+      "Family sculpting — physically positioning family members to represent dynamics"
+    ],
+    "correct_index": 2,
+    "rationale": "The genogram, popularized by Murray Bowen, is a three-generation family diagram using standardized symbols: squares (males), circles (females), horizontal lines (marriages), vertical lines (parent-child). It resembles an electronics schematic. A SOCIOGRAM maps interpersonal relationships within a group (used in group research). A STRUCTURAL MAP (Minuchin) uses symbols to diagram family hierarchy and subsystems, but is distinct from a genogram. FAMILY SCULPTING (Satir) involves physical positioning — not a diagram."
+  },
+  {
+    "id": "ch11_q_013",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A family therapist asks a couple: 'Suppose that one night, while you were asleep, a miracle happened and all the problems in your marriage were solved. How would you know? What would be different when you woke up?' This technique is MOST associated with:",
+    "options": [
+      "Narrative therapy — helping the couple re-author their marital story",
+      "Bowen's intergenerational approach — examining the nuclear family emotional system",
+      "Solution-focused brief therapy — the miracle question shifts focus to a desired future",
+      "Structural family therapy — enacting the ideal family scenario in session"
+    ],
+    "correct_index": 2,
+    "rationale": "The miracle question, popularized by Steve de Shazer in SOLUTION-FOCUSED BRIEF THERAPY (SFBT), directs clients away from the problem and toward a concrete vision of a desired future. SFBT therapists put little or no emphasis on understanding the problem — the goal is to co-create a plan for what life looks like when the problem is absent. Narrative therapy uses externalization (separating person from problem). Bowen uses the genogram. Minuchin uses enactment (re-enacting actual problems, not ideal scenarios)."
+  },
+  {
+    "id": "ch11_q_014",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A counselor working with a family where domestic violence is present says to the abusive partner: 'I know you want to end this violence. Tell me about a time when you stopped yourself from becoming violent — what was different then?' This BEST illustrates:",
+    "options": [
+      "Reframing — the counselor is redefining violence as an expression of love",
+      "Externalizing the problem — narrative therapy separating the person from the violence",
+      "Prescribing the symptom — the counselor is having the client relive the violence paradoxically",
+      "Positioning — the counselor is making the abuse seem inevitable"
+    ],
+    "correct_index": 1,
+    "rationale": "Narrative therapy (Michael White, Cheryl White, David Epston): EXTERNALIZATION separates the problem from the person — 'the violence' is the enemy, not 'the violent person.' The therapist allies with the client against the problem. The question about a time when violence DIDN'T occur is an exception-finding question used to re-author a new story of the client as someone capable of change. Note: in intimate partner violence (IPV), verbal abuse typically precedes physical abuse — an exam fact."
+  },
+  {
+    "id": "ch11_q_015",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "After many sessions, a family's communication has improved and members report feeling better. However, the family's fundamental power structure remains unchanged — the father still dominates all decisions unilaterally without input from others. According to Watzlawick, Weakland, and Fisch, the therapy has produced:",
+    "options": [
+      "Second-order change — the family communication has genuinely transformed",
+      "First-order change — symptoms improved but the underlying family structure did not change",
+      "Morphogenesis — the family successfully adapted to new patterns",
+      "Homeostasis — the family returned to its pre-therapy equilibrium"
+    ],
+    "correct_index": 1,
+    "rationale": "First-order change: behavioral improvements occur, but the ORGANIZATION OR STRUCTURE of the family system remains unchanged. Symptom relief may be temporary because the structural pattern that generated the symptoms persists. Second-order change requires an actual change in family structure — here, the father's domination (the structural issue) remains intact despite improved surface communication. Morphogenesis refers to the family's capacity for change (part of the circumplex model). Homeostasis is the tendency to return to a balanced state."
+  },
+  {
+    "id": "ch11_q_016",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A family therapist observes that 10-year-old Lily has been having frequent stomachaches that get her excused from school. During sessions it becomes clear that whenever Lily has a stomachache, her parents stop fighting and unite around caring for her. Cloe Madanes would MOST likely describe this as:",
+    "options": [
+      "A perverse triangle — Lily and one parent have allied against the other",
+      "An incongruous hierarchy — the child is controlling the parents' behavior through her symptoms",
+      "Reframing — the stomachaches serve a positive function for the family",
+      "Enmeshment — the parents are over-involved in Lily's physical health"
+    ],
+    "correct_index": 1,
+    "rationale": "Incongruous hierarchy (Madanes): the child is in CONTROL of the parents' behavior rather than the reverse. Lily's stomachaches stop her parents' fighting — she is regulating the parental emotional system. The symptom serves a function: protecting the family from parental conflict. Madanes's therapeutic goal is to help children find more direct ways to help their parents so the symptom becomes unnecessary. A perverse triangle (Haley) involves a parent-child coalition AGAINST another parent — not what's happening here."
+  },
+  {
+    "id": "ch11_q_017",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A counselor supervisor tells a supervisee: 'Seeing your clients for free is wonderful practice, but I cannot pursue an ethics violation against you if you don't.' The supervisor is distinguishing between:",
+    "options": [
+      "Licensure vs. certification — credentialing bodies have different standards",
+      "Mandatory ethics (standards of practice) vs. aspirational ethics (ideal but not enforceable)",
+      "ACA vs. NBCC codes — they have different requirements for pro bono work",
+      "Legal requirements vs. ethical guidelines — pro bono is legally required but not ethically"
+    ],
+    "correct_index": 1,
+    "rationale": "MANDATORY ETHICS (standards of practice): strictly enforced, clear bright-line rules — violations have consequences (e.g., no sex with clients). ASPIRATIONAL ETHICS: describe IDEAL or OPTIMAL practice but cannot support an ethics violation charge if not followed (e.g., pro bono services). Most ethics codes contain both. Pro bono work is mentioned in ethics codes but is aspirational — no counselor can be sanctioned for NOT providing free services. The exam may refer to mandatory ethics as 'standards of practice.'"
+  },
+  {
+    "id": "ch11_q_018",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A researcher gives 30 clients a depression inventory, provides them with 4 sessions of solution-focused therapy, then gives the same 30 clients the same depression inventory again. She uses a t test to compare their before and after scores. This research design is BEST described as a:",
+    "options": [
+      "Between-subjects design — the two groups (before/after) are independent",
+      "Within-subjects (related measures) design — subjects serve as their own controls",
+      "True experimental design — participants were randomly assigned to conditions",
+      "Causal comparative (ex post facto) design — the researcher did not control the IV"
+    ],
+    "correct_index": 1,
+    "rationale": "Within-subjects (related measures) design: the SAME people are measured at two time points — before and after treatment. Each subject serves as their own control. This is a pre-experimental design (no control group, no random assignment) — depicted as OXO. Between-subjects designs use DIFFERENT people in control and experimental groups. A true experiment requires random assignment. Ex post facto research involves groups that naturally differ on an IV the researcher did not manipulate — not applicable here."
+  },
+  {
+    "id": "ch11_q_019",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "question": "A researcher studying marital satisfaction observes that couples who show contempt for each other during conflict (eye-rolling, sarcasm, mockery) have the highest divorce rates in follow-up studies. This finding is MOST associated with the work of:",
+    "options": [
+      "Murray Bowen — whose triangulation theory predicts relational dissolution",
+      "Salvador Minuchin — whose structural model identifies rigid boundaries as predictive of divorce",
+      "John Gottman — who identified criticism, contempt, defensiveness, and stonewalling as the 'Four Horsemen'",
+      "Jay Haley — whose strategic model links power imbalance to marital failure"
+    ],
+    "correct_index": 2,
+    "rationale": "John Gottman identified 6 predictors of divorce, with NEGATIVITY — specifically criticism, contempt, defensiveness, and stonewalling (the 'Four Horsemen') — as central. Contempt is considered the most corrosive of the four. Gottman's other predictors: harsh startup, flooding, body language changes (elevated pulse), failed repair attempts, and lack of fond early memories. Important exam caveat: Gottman's research was NOT based on true experiments — a common criticism of his work."
+  },
+  {
+    "id": "ch11_q_020",
+    "domain": "Career Development",
+    "chapter": 11,
+    "question": "A female engineering student has consistently earned A grades in her advanced math courses. Yet when her career counselor asks about her career interests, she says she has never considered engineering because 'I've always thought math was more of a guy thing.' Her counselor's BEST conceptual framework for understanding this pattern is:",
+    "options": [
+      "Holland's RIASEC — her Investigative interests are suppressed by Realistic barriers",
+      "Gottfredson's circumscription — she has eliminated engineering based on sex-type boundaries",
+      "Social Cognitive Career Theory (SCCT) — low self-efficacy beliefs are overriding demonstrated ability",
+      "Super's career maturity — she has not yet reached the exploration stage of development"
+    ],
+    "correct_index": 2,
+    "rationale": "Social Cognitive Career Theory (SCCT): SELF-EFFICACY BELIEFS — personal beliefs about whether one can perform a task — directly influence career exploration and choice. Even when objective ability is high (consistent A grades), LOW SELF-EFFICACY ('math is a guy thing') can prevent career pursuit. The core SCCT question: 'Can I really do this?' Gottfredson's circumscription (also correct-ish) involves eliminating options based on social acceptability, but SCCT more precisely describes the self-efficacy mechanism. Holland focuses on personality type-environment fit, not self-efficacy beliefs."
+  }
+]

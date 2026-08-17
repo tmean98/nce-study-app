@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ch12_f_001",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Bronfenbrenner's ecological systems theory",
+    "back": "NOT a stage theory. Four nested systems: MICROSYSTEM = immediate relationships/organizations (family, school); MESOSYSTEM = how microsystems interact (family \u2194 school); EXOSYSTEM = settings child doesn't directly interact with but is affected by (parent's workplace, neighborhood); MACROSYSTEM = largest/most remote \u2014 culture, government, wars, customs. Bronfenbrenner co-developed the National Head Start Program. Born in Russia.",
+    "difficulty": "medium",
+    "confusable_with": "Piaget (constructivist stage theory) \u2014 Bronfenbrenner is ecological and NOT stage-based"
+  },
+  {
+    "id": "ch12_f_002",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Diana Baumrind's three parenting styles",
+    "back": "AUTHORITATIVE: Give-and-take verbal exchanges; firm limits + warmth; produces happy children with good social skills. AUTHORITARIAN: 'Because I said so' \u2014 no explanations, expects obedience; correlates with alcoholism/drug abuse/antisocial behavior. PERMISSIVE: Nonpunitive, few demands, highly affectionate; more like a friend; also correlates with antisocial behavior. Memory: 'authoritatiVE = conVErsation; authoritariAN = no explanatioN.'",
+    "difficulty": "medium",
+    "confusable_with": "Authoritative (warmth + structure) vs. authoritarian (structure without warmth) \u2014 sound alike but produce very different outcomes"
+  },
+  {
+    "id": "ch12_f_003",
+    "domain": "Assessment",
+    "chapter": 12,
+    "front": "Intellectual disability (ID) \u2014 DSM-5 diagnostic criteria",
+    "back": "Three required criteria: (1) IQ \u226470 on an INDIVIDUALLY ADMINISTERED test (not a group test); (2) onset BEFORE AGE 18; (3) ADAPTIVE FUNCTIONING impaired (in school, work, or home life). An IQ score alone is NOT sufficient for diagnosis. IQ score can be raised by training. Group IQ tests are less accurate. 'Intellectual disability' replaced 'mental retardation' in DSM-5.",
+    "difficulty": "medium",
+    "confusable_with": "IQ \u226470 alone does not equal ID \u2014 must also have adaptive functioning impairment and onset before 18"
+  },
+  {
+    "id": "ch12_f_004",
+    "domain": "Assessment",
+    "chapter": 12,
+    "front": "Barnum effect (Forer effect)",
+    "back": "Clients readily accept GENERIC psychological test descriptions, horoscopes, or personality interpretations as uniquely accurate about themselves \u2014 even when the report actually belongs to someone else. Named after P.T. Barnum ('there's a sucker born every minute'). Also called the FORER EFFECT after psychologist Bertram R. Forer who discovered it. Implications: clients may accept inaccurate assessments without question.",
+    "difficulty": "medium",
+    "confusable_with": "Placebo effect (also involves client expectation) \u2014 Barnum is specifically about accepting generic personality descriptions as uniquely personal"
+  },
+  {
+    "id": "ch12_f_005",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Emotional intelligence (EQ) \u2014 Daniel Goleman",
+    "back": "EQ = EMOTIONAL INTELLIGENCE: includes empathy, impulse control, motivation, and the ability to love. Daniel Goleman (Emotional Intelligence: Why It Can Matter More Than IQ) argues EQ predicts success better than IQ. Contrasts with traditional IQ tests that measure cognitive/analytic ability. Relevant to counseling: empathy and emotional regulation are core competencies that IQ scores do not capture.",
+    "difficulty": "easy",
+    "confusable_with": "IQ (cognitive intelligence) vs. EQ (emotional intelligence) \u2014 Goleman argues EQ > IQ for real-world success"
+  },
+  {
+    "id": "ch12_f_006",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Neuroplasticity",
+    "back": "The brain CHANGES based on the individual's actions and environment \u2014 neuroplasticity is NOT a myth. The brain is malleable throughout the life span, not fixed after childhood. Implication for counseling: therapeutic interventions (cognitive therapy, mindfulness) physically change the brain. Example: cognitive therapy raises serotonin, paralleling antidepressant effects. Talking repeatedly about negative experiences triggers the amygdala and frontal cortex negatively.",
+    "difficulty": "easy",
+    "confusable_with": "Plasticity (HGD concept that traits can change across life span) vs. neuroplasticity (specifically brain structure changes)"
+  },
+  {
+    "id": "ch12_f_007",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Neurogenesis",
+    "back": "The brain can generate NEW NEURONS even in older adults through learning and mental stimulation. Example: a 76-year-old learning chess generates new neurons. Implication: counseling and education are neurologically beneficial at any age. Related to the neurocounseling field, which integrates brain science into counseling practice.",
+    "difficulty": "easy",
+    "confusable_with": "Neuroplasticity (brain changes) vs. neurogenesis (specifically new neuron generation)"
+  },
+  {
+    "id": "ch12_f_008",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Left hemisphere dominance",
+    "back": "Left hemisphere is DOMINANT in over 95% of the population \u2014 including most left-handers (though the percentage is higher in right-handers). Damage to the left hemisphere \u2192 problems with the right side of the body. EXAM CAUTION: The pop psychology notion that 'left brain = logical, right brain = creative' is NOT scientifically supported, but exams may still use it \u2014 if so, go with left=logical/rational, right=creative.",
+    "difficulty": "medium",
+    "confusable_with": "Pop psychology 'left=logical, right=creative' (not supported by neuroscience, but may appear on exams)"
+  },
+  {
+    "id": "ch12_f_009",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Serotonin, tryptophan, and cognitive therapy",
+    "back": "TRYPTOPHAN (amino acid) = directly related to serotonin. Removing tryptophan from diet \u2192 decreased memory, increased anxiety, sleep disruption, mood problems, and increased aggression. COGNITIVE THERAPY (Ellis/Beck) raises serotonin like antidepressants BUT WITHOUT SIDE EFFECTS. Antidepressant effect sizes \u2248 .24\u2013.31 (Prozac, Lexapro, Zoloft, Cymbalta). Psychotherapy ES = .85 (Smith, Glass, Miller meta-analysis).",
+    "difficulty": "medium",
+    "confusable_with": "Cortisol (stress hormone) vs. serotonin (mood/feel-good) \u2014 cognitive therapy raises serotonin, not cortisol"
+  },
+  {
+    "id": "ch12_f_010",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Virtual Reality Therapy (VRT)",
+    "back": "High-tech behavioral treatment created by DR. BARBARA ROTHBAUM. Client wears headgear connected to a computer that simulates a feared real-life scenario (e.g., being high in a glass elevator). Client experiences the same physiological responses (elevated heart rate, sweaty palms) as in the real situation. Research: as effective as in vivo exposure for fear of flying; VRT clients outperform control groups. A form of systematic desensitization via virtual environment (VE).",
+    "difficulty": "medium",
+    "confusable_with": "Systematic desensitization (Wolpe) \u2014 VRT is essentially VR-based systematic desensitization"
+  },
+  {
+    "id": "ch12_f_011",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "IS PATH WARM \u2014 suicide risk assessment mnemonic",
+    "back": "Created by the American Association of Suicidology (AAS): I = Ideation, S = Substance abuse, P = Purposelessness, A = Anxiety, T = Trapped, H = Hopelessness, W = Withdrawal, A = Anger, R = Recklessness, M = Mood changes. Used to assess suicide risk. Know this mnemonic \u2014 high likelihood of appearing on comprehensive exams.",
+    "difficulty": "medium",
+    "confusable_with": "Other suicide assessment tools \u2014 IS PATH WARM is specifically from the AAS and covers 10 warning signs"
+  },
+  {
+    "id": "ch12_f_012",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "EMDR (Eye Movement Desensitization and Reprocessing)",
+    "back": "Created by FRANCINE SHAPIRO. Used primarily for PTSD. Induces rapid eye movement (REM/EM) during sessions while the client processes traumatic memories. NOT single-session therapy \u2014 Shapiro was misquoted on this. Exam fact: the counselor most concerned with inducing REM during sessions is the EMDR practitioner. Evidence supports EMDR as effective for trauma processing.",
+    "difficulty": "easy",
+    "confusable_with": "Systematic desensitization (also uses paired imagery and relaxation for trauma/phobias) \u2014 EMDR specifically uses eye movements"
+  },
+  {
+    "id": "ch12_f_013",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Somatic symptom disorder (SSD)",
+    "back": "EMOTIONAL FACTORS cause SOMATIC (bodily) complaints and health concerns. Requires a physical exam to confirm no physiological cause \u2014 the physical exam IS required for the SSD diagnosis. Onset often in teens (not necessarily after age 40). Can last an entire lifetime. Often overlooked by mainstream medicine. Previously called somatization disorder, conversion disorder, etc. In DSM-5, SSD unifies several prior categories.",
+    "difficulty": "medium",
+    "confusable_with": "Factitious disorder (intentional faking of symptoms) vs. SSD (genuine somatic experience, emotional origin)"
+  },
+  {
+    "id": "ch12_f_014",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Cued vs. uncued panic attacks",
+    "back": "CUED (situationally bound): Has an identifiable environmental trigger. Example: panic attack every time client drives across a bridge. UNCUED (unexpected): Occurs apparently out of nowhere; no internal or external trigger can be identified. Women experience panic attacks more often than men. On the exam: 'situationally bound' = 'cued' \u2014 these terms are interchangeable.",
+    "difficulty": "easy",
+    "confusable_with": "Predisposed attacks (somewhere between cued and uncued \u2014 exposed to trigger but attack doesn't always occur)"
+  },
+  {
+    "id": "ch12_f_015",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Dissociative identity disorder (DID)",
+    "back": "Formerly MULTIPLE PERSONALITY DISORDER (MPD). Client has multiple alternate personalities (e.g., Sybil had 15). Often associated with CHILDHOOD SEXUAL ABUSE. Client uses dissociation as a defense against extreme stress \u2014 escaping into another identity. Counseling goal: integrate the personalities into a single entity. Broader dissociative disorders include amnesia (inability to recall due to stress). Memory: DID = Dissociation as a Defense.",
+    "difficulty": "easy",
+    "confusable_with": "Schizophrenia (also involves identity/reality issues) \u2014 DID involves separate personalities; schizophrenia involves delusions/hallucinations"
+  },
+  {
+    "id": "ch12_f_016",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Eating disorders \u2014 anorexia vs. bulimia vs. binge eating disorder (BED)",
+    "back": "ANOREXIA: Refuses to eat enough; LOW body weight; 90% female; onset adolescence. BULIMIA: Binge + purge (vomiting/laxatives/excessive exercise); NORMAL body weight typical; 90% female; onset adolescence. BED (MOST COMMON eating disorder): Binge eating without purging; eats rapidly, alone, often until in pain; no excessive exercise. Bulimia is more prevalent than anorexia.",
+    "difficulty": "medium",
+    "confusable_with": "Bulimia (purges) vs. BED (does NOT purge) \u2014 both involve binge eating but different compensation strategies"
+  },
+  {
+    "id": "ch12_f_017",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Gambling disorder \u2014 DSM-5 classification",
+    "back": "In DSM-5, gambling disorder is classified under SUBSTANCE-RELATED AND ADDICTIVE DISORDERS (NOT under OCD or impulse disorders). This reflects the neurological similarity between gambling and substance addiction (dopamine reward pathways). Hair pulling (trichotillomania) IS classified under Obsessive-Compulsive and Related Disorders. Gambling is treated at addiction/substance abuse centers \u2014 DSM classification aligns with this practice.",
+    "difficulty": "medium",
+    "confusable_with": "Trichotillomania (OCD spectrum) vs. gambling disorder (Substance-Related and Addictive Disorders)"
+  },
+  {
+    "id": "ch12_f_018",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 12,
+    "front": "Transgender, cisgender, genderfluid \u2014 key definitions",
+    "back": "TRANSGENDER: Does not identify with gender assigned at birth, OR expression differs from societal expectations. Attempted suicide rate \u2248 25\u00d7 higher than general population. CISGENDER: Identifies WITH the gender assigned at birth (not transgender). GENDERFLUID: Gender identity shifts rapidly \u2014 sometimes multiple times per day (girl \u2192 boy \u2192 no gender). CISNORMATIVE/CISNORMATIVITY: Having a gender identity that matches birth-assigned sex. 'Cis' = Latin for 'on this side.'",
+    "difficulty": "medium",
+    "confusable_with": "Transgender (persistent non-identification with birth gender) vs. genderfluid (rapidly shifting identity)"
+  },
+  {
+    "id": "ch12_f_019",
+    "domain": "Research & Program Evaluation",
+    "chapter": 12,
+    "front": "Effect size (ES) \u2014 Cohen's d benchmarks",
+    "back": "Effect size quantifies the MAGNITUDE of a result (not just whether it's statistically significant). Benchmarks (Cohen's d): SMALL = .20 or less; MEDIUM = .50; LARGE (big/strong) = .80 or higher. ES can exceed 1.00 (unlike correlation coefficients). MUST be reported even when results are statistically significant. Applies to correlations, tests of significance, AND meta-analyses. Originally applied to meta-analyses; now broadly required.",
+    "difficulty": "medium",
+    "confusable_with": "Statistical significance (p < .05) vs. effect size (how big/important the difference is)"
+  },
+  {
+    "id": "ch12_f_020",
+    "domain": "Research & Program Evaluation",
+    "chapter": 12,
+    "front": "Smith, Glass, and Miller meta-analysis (1980)",
+    "back": "LANDMARK meta-analysis of 375 psychotherapy outcome studies. Finding: psychotherapy had a STRONG/LARGE effect size of .85. Conclusion: therapy works! No key differences found between therapy modalities. Published in Benefits of Psychotherapy. Meta-analysis was coined by GENE V. GLASS; originated by KARL PEARSON in 1904. Contrast: antidepressant ES \u2248 .24\u2013.31 (Prozac/Lexapro/Zoloft/Cymbalta \u2014 all less than .40).",
+    "difficulty": "hard",
+    "confusable_with": "Individual therapy outcome studies vs. this specific meta-analysis \u2014 Smith/Glass/Miller found .85 ES for psychotherapy broadly"
+  },
+  {
+    "id": "ch12_f_021",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Reinforcement schedules \u2014 fixed interval, variable ratio",
+    "back": "FIXED INTERVAL (FI): Reinforcement on a TIME schedule at regular intervals. Example: weekly paycheck. Memory: 'INTERVAL = time \u2014 think time interval.' VARIABLE RATIO (VR): Reinforcement based on NUMBER of responses, but varies unpredictably. Example: slot machine. Most RESISTANT TO EXTINCTION (cannot predict when payoff comes). FIXED RATIO (FR): Reinforcement after a fixed number of responses. VARIABLE INTERVAL (VI): Time-based but unpredictable.",
+    "difficulty": "medium",
+    "confusable_with": "FI (time-based, fixed = paycheck) vs. VR (ratio-based, variable = slot machine)"
+  },
+  {
+    "id": "ch12_f_022",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Accidental (superstitious) vs. contingent reinforcement",
+    "back": "CONTINGENT reinforcement: Dependent on the behavior \u2014 you get the treat BECAUSE you performed a specific action. ACCIDENTAL reinforcement: Independent of behavior \u2014 occurs regardless of what the person does. Skinner discovered this by feeding pigeons randomly \u2192 they repeated whatever they happened to be doing when reinforced (spinning, pecking) = SUPERSTITIOUS BEHAVIOR. Example: client snaps fingers before pulling slot machine handle (accidentally reinforced by a past big win).",
+    "difficulty": "medium",
+    "confusable_with": "Contingent reinforcement (intentional, behavior-dependent) vs. accidental reinforcement (random, creates superstitions)"
+  },
+  {
+    "id": "ch12_f_023",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "ABA (Applied Behavior Analysis) \u2014 modern term for behavior modification",
+    "back": "Applied Behavior Analysis (ABA) is the current/modern terminology for behavior modification. ABA techniques include: variable ratio (VR) reinforcement, fixed ratio (FR) reinforcement, thinning (gradually reducing reinforcement frequency), shaping, extinction, time-out. GESTALT techniques (e.g., 'talk to the empty chair as if the dream is happening now') are NOT ABA. Exam: if asked 'least likely ABA technique,' look for psychodynamic or humanistic approaches.",
+    "difficulty": "easy",
+    "confusable_with": "Behavior therapy (broad term) vs. ABA (more specific/structured application, especially in developmental disabilities)"
+  },
+  {
+    "id": "ch12_f_024",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Classical conditioning: NS vs. CS distinction",
+    "back": "NEUTRAL STIMULUS (NS): A stimulus that does NOT yet produce a conditioned response. Example: a bell BEFORE conditioning begins. CONDITIONED STIMULUS (CS): The same stimulus AFTER conditioning \u2014 now it produces the conditioned response without the unconditioned stimulus. Example: bell AFTER the dog has learned to salivate to it alone. Key exam point: some newer exams distinguish NS from CS \u2014 the bell is an NS BEFORE learning occurs; it becomes a CS AFTER the CR (salivation) is established.",
+    "difficulty": "hard",
+    "confusable_with": "NS (pre-conditioning bell) vs. CS (post-conditioning bell) \u2014 many older exams use them interchangeably, but newer exams distinguish them"
+  },
+  {
+    "id": "ch12_f_025",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Three waves of CBT (Steven C. Hayes)",
+    "back": "FIRST WAVE: Classical and operant conditioning \u2014 Pavlov, Watson, Skinner, Wolpe's systematic desensitization. SECOND WAVE: Cognitive approaches \u2014 Albert Ellis (REBT) and Aaron T. Beck (cognitive therapy); focus on changing thoughts/cognitions. THIRD WAVE (contemporary): DBT (Linehan), Motivational Interviewing (Miller/Rollnick), ACT (Acceptance and Commitment Therapy). Memory: 1st = behavior, 2nd = thoughts, 3rd = acceptance/mindfulness.",
+    "difficulty": "medium",
+    "confusable_with": "CBT (second wave) vs. third wave (adds mindfulness/acceptance to CBT)"
+  },
+  {
+    "id": "ch12_f_026",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "DBT (Dialectical Behavior Therapy) \u2014 Marsha Linehan",
+    "back": "Evidence-based CBT-type therapy, initially for SUICIDAL clients and BORDERLINE PERSONALITY DISORDER; now used broadly. 4 modes: (1) SKILLS TRAINING, (2) PHONE COACHING (telephone coaching), (3) THERAPIST CONSULTATION TEAM, (4) INDIVIDUAL THERAPY. Uses DIARY CARDS to prioritize targets (suicidal/self-harm behaviors get top priority). DBT-INFORMED = adapted version using fewer than all 4 modes. Not to be confused with traditional brief therapy.",
+    "difficulty": "medium",
+    "confusable_with": "Standard DBT (all 4 modes) vs. DBT-informed (fewer modes, adapted to setting)"
+  },
+  {
+    "id": "ch12_f_027",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Motivational Interviewing (MI) \u2014 Miller and Rollnick",
+    "back": "Created mainly by WILLIAM MILLER and STEPHEN ROLLNICK. Initially for problem drinkers (addictions). Based on Rogerian counseling but more goal-directed. OARS: Open questions, Affirmations, Reflection, Summaries. 4 PROCESSES (in order): ENGAGING \u2192 FOCUSING \u2192 EVOKING \u2192 PLANNING. Change comes from the CLIENT, not the therapist. NO confrontation, no advice-giving, no persuasion. Brief (often 5 sessions or less). Therapist = partner, not expert.",
+    "difficulty": "medium",
+    "confusable_with": "OARS skills vs. 4 processes order (Engaging, Focusing, Evoking, Planning \u2014 not the same sequence as OARS)"
+  },
+  {
+    "id": "ch12_f_028",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "ACT \u2014 Acceptance and Commitment Therapy",
+    "back": "Third-wave CBT that incorporates MINDFULNESS and acceptance strategies. Pronounced 'ACT' (like the word). Part of the third wave alongside DBT and Motivational Interviewing. Core idea: rather than fighting/eliminating unwanted thoughts, clients learn to ACCEPT them and commit to values-based actions despite them. Often paired with mindfulness practices. Contrast with second-wave CBT (Ellis/Beck) that disputes and changes thoughts.",
+    "difficulty": "medium",
+    "confusable_with": "DBT (also third wave, also uses mindfulness) \u2014 DBT focuses on distress tolerance/emotional regulation; ACT focuses on acceptance and valued action"
+  },
+  {
+    "id": "ch12_f_029",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Downward arrow technique (David D. Burns, M.D.)",
+    "back": "A CBT technique for uncovering the CLIENT'S CORE BELIEF underlying a surface complaint. The therapist repeatedly asks 'What is the worst thing that could happen?' to drill down from surface thought to deeper irrational belief. Example: 'I forgot my wife's birthday' \u2192 'She'll be upset' \u2192 'She'll go out with friends' \u2192 'She might divorce me' (core belief). Also called the vertical arrow technique. Helps identify schema-level automatic thoughts.",
+    "difficulty": "medium",
+    "confusable_with": "Cognitive restructuring (challenges the thought) vs. downward arrow (reveals the underlying core belief first)"
+  },
+  {
+    "id": "ch12_f_030",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Teleological approach",
+    "back": "A FUTURE-ORIENTED therapeutic approach: the client's behavior is explained by a FUTURE GOAL or purpose, not by past history. Example: 'You are working hard now because you want to become a stockbroker in four years.' Contrasts with HISTORICAL approaches (focus on past/childhood) and PRESENT MOMENT approaches (here-and-now/gestalt). Adlerian therapy is also teleological \u2014 behavior is purposive, aimed at future goals.",
+    "difficulty": "medium",
+    "confusable_with": "Historical (past-focused = psychoanalytic) vs. present moment (here-and-now = gestalt) vs. teleological (future-goal-focused = Adlerian/solution-focused)"
+  },
+  {
+    "id": "ch12_f_031",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "CBT thought log / thought record",
+    "back": "A structured self-monitoring tool used in COGNITIVE BEHAVIOR THERAPY. Typically charts: (1) activating event, (2) automatic thought, (3) emotional consequence/behavior, (4) alternative thought, and sometimes (5) new emotional response. CBT is currently the DOMINANT FORCE in psychotherapy in the US and UK \u2014 supported by hundreds of evidence-based studies. CBT is the most popular modality in the US.",
+    "difficulty": "easy",
+    "confusable_with": "REBT's A-B-C model (also tracks events/thoughts/consequences) \u2014 thought log is more structured and includes alternative thoughts"
+  },
+  {
+    "id": "ch12_f_032",
+    "domain": "Career Development",
+    "chapter": 12,
+    "front": "Group career counseling \u2014 effectiveness and structure",
+    "back": "Group career counseling with a counselor is MORE EFFECTIVE than noncounselor interventions (computers, software). STRUCTURED career groups and workshops are SUPERIOR to unstructured ones. Benefits over individual counseling: cost-effective, universality/mutuality, peer motivation, role-playing (e.g., job interview practice), skill building. International \u2014 used in China with college students. Cost-effective for large school caseloads.",
+    "difficulty": "easy",
+    "confusable_with": "Unstructured groups (used in process/therapy groups) vs. structured groups (best for career counseling)"
+  },
+  {
+    "id": "ch12_f_033",
+    "domain": "Career Development",
+    "chapter": 12,
+    "front": "Super's life career rainbow \u2014 roles",
+    "back": "Donald Super identified seven life roles that overlap across the life span: CHILD, STUDENT, LEISURITE (leisure/recreation), CITIZEN, WORKER, PARENT/HOMEMAKER, and SPOUSE. The LIFE CAREER RAINBOW visually depicts these roles and their relative importance across developmental stages. Used in career groups to help members answer: 'Where have you been in life, and where are you going?' Particularly useful for career transitions (e.g., after layoff).",
+    "difficulty": "medium",
+    "confusable_with": "Super's developmental stages (Growth/Exploration/Establishment/Maintenance/Decline) vs. his life roles rainbow (citizen, worker, leisurite, etc.)"
+  },
+  {
+    "id": "ch12_f_035",
+    "domain": "Career Development",
+    "chapter": 12,
+    "front": "Nathan Azrin's job clubs",
+    "back": "BEHAVIORAL approach (Azrin studied with B.F. Skinner). Created in the 1970s. Purpose: NOT career exploration \u2014 the individual ALREADY knows their career goal. The group is ACTION-ORIENTED: daily calls to potential job sites, practice interviewing, networking ('Do you know of any job openings?'), and support. Based on positive reinforcement principles. Unlike career exploration groups, job clubs target active job hunters ready to pursue specific employment.",
+    "difficulty": "medium",
+    "confusable_with": "Career exploration groups (help clients identify career direction) vs. Azrin's job clubs (action for those who already know their career goal)"
+  },
+  {
+    "id": "ch12_f_036",
+    "domain": "Career Development",
+    "chapter": 12,
+    "front": "Universality / mutuality in career counseling groups",
+    "back": "UNIVERSALITY (also called MUTUALITY): A curative factor in counseling groups \u2014 members discover that OTHERS are struggling with similar issues. In career groups: members realize they are not alone in their career confusion, job search frustrations, or transitions. Learning from peers who are 'in the same boat' is normalizing and motivating. Originally identified by Yalom as a therapeutic factor in group work (Chapter 6).",
+    "difficulty": "easy",
+    "confusable_with": "Altruism (helping others) vs. universality (realizing others share the same problem)"
+  },
+  {
+    "id": "ch12_f_037",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "front": "NPI number (National Provider Identifier)",
+    "back": "The NATIONAL PROVIDER IDENTIFIER (NPI) is required by HIPAA as the standard unique identifier for all health care providers. Needed to file insurance claims electronically or by mail in private practice. Distinct from NCC provider number (NBCC credential) and graduate transcripts. Exam point: if asked what is MOST important for filing claims in private practice \u2192 NPI number.",
+    "difficulty": "easy",
+    "confusable_with": "NCC provider number (NBCC credentialing) vs. NPI number (HIPAA billing identifier for all healthcare providers)"
+  },
+  {
+    "id": "ch12_f_038",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "front": "Progress notes vs. process notes",
+    "back": "PROGRESS NOTES (clinical notes): REQUIRED BY LAW. Behavioral \u2014 focus on what the client DOES and SAYS. Include: informed consent, assessment, DSM diagnosis, interventions, goals, progress, dates, termination date. PROCESS NOTES (psychotherapy notes): NOT required. Kept SEPARATE from the main record. Intended for the counselor's own use. Not shared with clients or generally made available. Computerized records require restricted access.",
+    "difficulty": "medium",
+    "confusable_with": "Progress notes (legally required, shareable) vs. process notes (optional, kept separate, personal to counselor)"
+  },
+  {
+    "id": "ch12_f_039",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "front": "Transfer plan \u2014 ethics requirement",
+    "back": "Required in the client's INFORMED CONSENT document at the START of treatment. Covers what happens if the counselor: becomes incapacitated, dies, retires, or moves. The plan names a CUSTODIAN of records (preferably a MENTAL HEALTH PROFESSIONAL on staff or at another facility \u2014 NOT a lawyer or CPA). The custodian contacts each client upon receiving the records. Must be in WRITING \u2014 a verbal agreement is insufficient. ACA added this requirement in 2005.",
+    "difficulty": "medium",
+    "confusable_with": "Referral (client-initiated transition) vs. transfer plan (counselor-initiated, pre-planned, documented contingency)"
+  },
+  {
+    "id": "ch12_f_040",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "front": "Counselor-supervisee dual relationship prohibition",
+    "back": "Ethical guidelines PROHIBIT supervisors from providing COUNSELING SERVICES to their own supervisees. If a supervisee needs counseling, the supervisor provides appropriate crisis stabilization (if needed) and then REFERS to another counselor. The supervisor may not provide ongoing counseling. Rationale: the power differential of the supervisory relationship would compromise the therapeutic relationship. This applies to sexual relationships as well.",
+    "difficulty": "easy",
+    "confusable_with": "Supervisor providing clinical supervision (appropriate) vs. supervisor providing personal counseling to supervisee (prohibited)"
+  },
+  {
+    "id": "ch12_f_041",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "front": "Conversion/reparative therapy prohibition (ACA)",
+    "back": "ACA prohibits conversion or reparative therapy (attempting to change sexual orientation from same-sex to opposite-sex attraction). Research: scientific peer-reviewed literature does NOT support that sexual orientation can be changed. Evidence shows conversion therapy HARMS clients (functioning is WORSE after treatment than before). ACA defines it as OUTSIDE the scope of professional counseling. Counselors should NOT refer for conversion therapy. Homosexuality removed from DSM in 1973; \u22484% of US population is gay/lesbian.",
+    "difficulty": "easy",
+    "confusable_with": "Referring for services vs. referring for conversion therapy \u2014 referring for conversion therapy is itself unethical per ACA"
+  },
+  {
+    "id": "ch12_f_042",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "front": "Withholding a diagnosis \u2014 ACA ethics",
+    "back": "Counselors MAY REFRAIN from making a diagnosis if they believe it would harm the client. Valid reasons: insufficient data (e.g., can't confirm ADHD in a child), cultural context (hearing voices during grief is not psychosis in some cultures), client may be harmed by looking up the diagnosis (e.g., borderline PD), security clearance could be revoked. Decision is ideally made collaboratively with the client. Counselors CANNOT intentionally misdiagnose (e.g., diagnosing adjustment disorder just to get insurance reimbursement = fraud).",
+    "difficulty": "medium",
+    "confusable_with": "Refraining from diagnosis (ethical in some situations) vs. intentional misdiagnosis (always unethical = fraud)"
+  },
+  {
+    "id": "ch12_f_043",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 12,
+    "front": "FERPA \u2014 which institutions are covered",
+    "back": "FERPA (Family Educational Rights and Privacy Act, 1974) \u2014 also called the Buckley Amendment (Senator James Buckley). Applies ONLY to educational institutions that RECEIVE FEDERAL FUNDING. Private institutions NOT receiving federal funds are EXEMPT from FERPA. Emergency exception: counselor may release information to prevent imminent danger. School directories (name, address, phone, honors) can be released without parental consent, but parents must be notified annually of their opt-out right.",
+    "difficulty": "hard",
+    "confusable_with": "HIPAA (health information privacy) vs. FERPA (educational records privacy) \u2014 FERPA only applies to federally funded institutions"
+  },
+  {
+    "id": "ch12_f_044",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Attribution theory \u2014 Fritz Heider",
+    "back": "Fritz Heider = father of attribution theory. DISPOSITIONAL (internal) attribution: cause is attributed to the person's character, personality, or ability. Example: 'She failed because she didn't study.' SITUATIONAL (external) attribution: cause is attributed to factors outside the person. Example: 'He failed because the exam was unfair.' Gestalt psychologist. Fundamental attribution error and self-serving bias are applications of this theory.",
+    "difficulty": "medium",
+    "confusable_with": "Locus of control (Rotter) \u2014 also internal/external, but applied to perceived control over life outcomes, not explanations of others' behavior"
+  },
+  {
+    "id": "ch12_f_045",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Fundamental attribution error (dispositional attribution bias)",
+    "back": "When explaining ANOTHER PERSON'S negative behavior or failure, people systematically OVERWEIGHT dispositional (internal/personal) explanations and UNDERWEIGHT situational (external) explanations. Example: supervisee blames a rape victim's clothing rather than the perpetrator. Note: most people do the OPPOSITE for their OWN negative outcomes \u2014 they prefer situational explanations (self-serving bias). Fundamental attribution error applies to judging OTHERS, not oneself.",
+    "difficulty": "medium",
+    "confusable_with": "Self-serving bias (attribute OWN failures to situation) vs. fundamental attribution error (attribute OTHERS' failures to their character)"
+  },
+  {
+    "id": "ch12_f_046",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Self-serving bias",
+    "back": "When explaining their OWN outcomes: people attribute SUCCESS to internal/dispositional factors ('I'm talented!') and FAILURE to external/situational factors ('The exam was unfair!'). The opposite of the fundamental attribution error (which applies to judging others). Exception: DEPRESSED individuals attribute their OWN failures to internal/dispositional factors \u2014 they do NOT use the self-serving bias and may actually have a more accurate (though painful) view of reality.",
+    "difficulty": "medium",
+    "confusable_with": "Fundamental attribution error (about judging others) vs. self-serving bias (about judging yourself)"
+  },
+  {
+    "id": "ch12_f_047",
+    "domain": "Helping Relationships",
+    "chapter": 12,
+    "front": "Virginia Axline and child-centered play therapy (CCPT)",
+    "back": "Virginia Mae Axline took CARL ROGERS's person-centered principles and applied them to PLAY THERAPY. Wrote 'Dibs In Search of Self.' CCPT is nondirective (child leads, therapist follows), warm, accepting, does not rush the process. Also called NONDIRECTIVE CHILD PLAY THERAPY. Anna Freud (Sigmund's daughter) was also a play therapy pioneer but did NOT create CCPT. Violet Oaklander added gestalt ideas to play therapy (influenced by Axline).",
+    "difficulty": "medium",
+    "confusable_with": "Anna Freud (psychoanalytic child therapy) vs. Virginia Axline (Rogerian/nondirective CCPT)"
+  },
+  {
+    "id": "ch12_f_048",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Plasticity (human development concept)",
+    "back": "Every TRAIT in an individual can be ALTERED throughout the ENTIRE LIFE SPAN. Change is ongoing and not random. Supports the counseling premise that people can change at any age. Related to neuroplasticity (brain changes) but broader \u2014 applies to personality traits, behaviors, and abilities. Contrasts with critical periods theory (some learning must happen by a specific age) and determinism (traits are fixed).",
+    "difficulty": "easy",
+    "confusable_with": "Neuroplasticity (brain structure changes) vs. plasticity (broader HGD concept \u2014 all traits can change across the life span)"
+  },
+  {
+    "id": "ch12_f_049",
+    "domain": "Human Growth & Development",
+    "chapter": 12,
+    "front": "Fetal origins hypothesis",
+    "back": "Proposes that adult disease (heart disease, type 2 diabetes) and some emotional disorders may originate from IN UTERO MALNUTRITION (malnutrition during gestation). Considered the 'THIRD ARM' of the nature\u2013nurture debate: (1) genetic endowment (nature) + (2) postnatal environment (nurture) + (3) in utero fetal environment. 'In utero' = in the womb. May explain why some genetic predispositions are only expressed when fetal nutrition was poor.",
+    "difficulty": "hard",
+    "confusable_with": "Nature (genetics) and nurture (postnatal environment) \u2014 fetal origins adds a third factor: what happens during gestation"
+  },
+  {
+    "id": "ch12_f_050",
+    "domain": "Research & Program Evaluation",
+    "chapter": 12,
+    "front": "Program evaluation (PE) \u2014 key characteristics",
+    "back": "PE helps programs (not researchers) make wiser decisions. Takes place in NATURAL settings (not controlled/laboratory). STAFF pose the questions; PE answers them for the PROGRAM. Key rule: use EXISTING DATA whenever possible to keep costs down. Start by getting SUPPORT from staff, administration, clients, and board of directors. PE asks: Is this program necessary? Who should receive it? How long? What are the outcomes? COST-BENEFIT ANALYSIS (CBA): Was the money wisely spent?",
+    "difficulty": "medium",
+    "confusable_with": "Basic research (researcher poses hypotheses in controlled settings) vs. program evaluation (program poses questions in natural settings)"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ch07_q_001",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A client describes loving to fix cars, build furniture, and work outdoors with tools. According to Holland's RIASEC theory, this client most likely has a dominant ________ personality type.",
+    "options": [
+      "Investigative",
+      "Realistic",
+      "Conventional",
+      "Enterprising"
+    ],
+    "correct_index": 1,
+    "rationale": "Realistic types prefer hands-on, mechanical, outdoor, and physical work — fixing cars and building furniture are classic Realistic activities. Investigative types prefer analytical and scientific work; Conventional types prefer structured data/clerical tasks; Enterprising types prefer leading and persuading."
+  },
+  {
+    "id": "ch07_q_002",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Frank Parsons' trait-and-factor model of vocational guidance requires three sequential steps. Which of the following correctly states the THIRD step?",
+    "options": [
+      "Assessing the individual's traits, abilities, and interests",
+      "Analyzing the requirements and conditions of different occupations",
+      "Using 'true reasoning' to match the person to the right occupation",
+      "Providing occupational information through the Dictionary of Occupational Titles"
+    ],
+    "correct_index": 2,
+    "rationale": "Parsons' three steps are: (1) study the individual, (2) study occupations, (3) use true reasoning to match them. The DOT wasn't created until 1939, decades after Parsons founded the Boston Vocation Bureau in 1908."
+  },
+  {
+    "id": "ch07_q_003",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "An HR department finds that their selection test passes 60% of White applicants but only 42% of Black applicants. Under EEOC guidelines, this test:",
+    "options": [
+      "Is legal because the pass rate difference is under 20 percentage points",
+      "Demonstrates adverse impact because the minority pass rate is below 80% of the majority pass rate",
+      "Is legal because fewer than half of minority applicants were rejected",
+      "Demonstrates adverse impact only if intent to discriminate can be proven"
+    ],
+    "correct_index": 1,
+    "rationale": "The four-fifths (80%) rule: 42/60 = 70%, which is below the 80% threshold, indicating adverse impact. Adverse impact is determined statistically — intent to discriminate is NOT required. The 20-percentage-point test is not the correct standard."
+  },
+  {
+    "id": "ch07_q_004",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Super's Career Rainbow concept illustrates that across a lifetime, individuals simultaneously occupy multiple life roles. Which of the following is NOT one of Super's five major life stages?",
+    "options": [
+      "Growth",
+      "Exploration",
+      "Consolidation",
+      "Decline"
+    ],
+    "correct_index": 2,
+    "rationale": "Super's five stages are Growth, Exploration, Establishment, Maintenance, and Decline (GEE MD). 'Consolidation' is not one of Super's stages — it is sometimes associated with other developmental models. Confusing 'Establishment' with 'Consolidation' is a common exam error."
+  },
+  {
+    "id": "ch07_q_005",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A 14-year-old is choosing courses based on whether she imagines herself as a doctor 'when she grows up,' but her ideas about medicine are vague and romanticized. According to Ginzberg, she is in which stage of vocational development?",
+    "options": [
+      "Fantasy stage",
+      "Tentative stage — Interest substage",
+      "Tentative stage — Capacity substage",
+      "Realistic stage — Exploration substage"
+    ],
+    "correct_index": 1,
+    "rationale": "Ginzberg's Tentative stage (ages 11–17) has four substages: Interest (11–12), Capacity (13–14), Value (15–16), and Transition (17). At 14, the girl is beginning to think about interests but not yet seriously evaluating her capacities. The Fantasy stage ends around age 11."
+  },
+  {
+    "id": "ch07_q_006",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A client tells her counselor: 'I know I want to work with people, but I keep choosing jobs based on what my parents approve of rather than what I truly want.' Gottfredson's theory would describe this pattern primarily as:",
+    "options": [
+      "Circumscription based on gender-role orientation",
+      "Compromise driven by social prestige concerns",
+      "Circumscription based on social space",
+      "Compromise driven by accessibility factors"
+    ],
+    "correct_index": 3,
+    "rationale": "Gottfredson's theory holds that individuals first circumscribe (eliminate options) and then compromise (settle for accessible options). Choosing based on parental approval reflects compromising on accessibility/social acceptability over personal interest. Circumscription (eliminating based on gender or prestige) occurs earlier developmentally."
+  },
+  {
+    "id": "ch07_q_007",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A rehabilitation counselor is placing a client with a back injury. The physician's report states the client can lift a maximum of 8 pounds. According to the U.S. Department of Labor physical demand categories, this client is classified as capable of:",
+    "options": [
+      "Light work",
+      "Sedentary work",
+      "Medium work",
+      "Limited light work"
+    ],
+    "correct_index": 1,
+    "rationale": "Sedentary work = occasionally lifting up to 10 lbs and walking/standing only occasionally. At 8 lbs maximum, this client meets only the sedentary category. Light work requires lifting up to 20 lbs occasionally. 'Limited light work' and 'limited sedentary' are not official DOL categories."
+  },
+  {
+    "id": "ch07_q_008",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "John Krumboltz's Learning Theory of Career Counseling (LTCC) identifies four factors that influence career decisions. Which factor involves the individual's learned beliefs about themselves and the world of work?",
+    "options": [
+      "Genetic endowment and special abilities",
+      "Environmental conditions and events",
+      "Learning experiences",
+      "Task approach skills"
+    ],
+    "correct_index": 2,
+    "rationale": "Krumboltz's four factors are: (1) genetic endowment, (2) environmental conditions/events, (3) learning experiences (instrumental and associative), and (4) task approach skills. Learned beliefs — including self-observation generalizations and worldview generalizations — emerge from learning experiences. Task approach skills are what the person does with those beliefs."
+  },
+  {
+    "id": "ch07_q_009",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A career counselor is working with a client who cannot decide on a career. Krumboltz's theory would most likely interpret this occupational indecisiveness as:",
+    "options": [
+      "An Eriksonian identity crisis requiring psychoanalytic exploration",
+      "A deficit in occupational information that can be remediated",
+      "A fixed trait requiring assessment via the Strong Interest Inventory",
+      "Evidence of a pathological attachment to the dependency role"
+    ],
+    "correct_index": 1,
+    "rationale": "Krumboltz viewed occupational indecisiveness as an information deficit, not a personality pathology. The counselor's role is to provide learning experiences and accurate information. This optimistic, educational framing contrasts with psychodynamic interpretations that treat indecisiveness as deep-seated pathology."
+  },
+  {
+    "id": "ch07_q_010",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Anne Roe's personality theory of career choice links early childhood parenting styles to eventual occupational choice. A client raised in an overprotective home who always had her emotional needs met would be predicted to gravitate toward:",
+    "options": [
+      "Science and technology occupations (person-not-oriented)",
+      "Outdoor occupations requiring independence",
+      "Service and social occupations (person-oriented)",
+      "Business and managerial occupations"
+    ],
+    "correct_index": 2,
+    "rationale": "Roe proposed that children raised in warm, overprotective homes (needs met) develop a person-oriented focus and gravitate toward service, business contact, and arts/entertainment occupations. Cold or neglectful parenting leads to not-person-oriented choices (science, outdoor, technology). This is Roe's primary career theory contribution."
+  },
+  {
+    "id": "ch07_q_011",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Which occupational information resource replaced the Dictionary of Occupational Titles (DOT) and is now maintained online, providing skill-based job descriptions rather than task-based ones?",
+    "options": [
+      "Occupational Outlook Handbook (OOH)",
+      "O*NET",
+      "Standard Occupational Classification (SOC)",
+      "GATB"
+    ],
+    "correct_index": 1,
+    "rationale": "O*NET (Occupational Information Network) replaced the DOT and is maintained by the Department of Labor online. It uses a skills-based framework. The OOH (also DOL) describes job outlooks and salaries but did not replace the DOT. The GATB is an aptitude test, not an occupational information system."
+  },
+  {
+    "id": "ch07_q_012",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A client says, 'I work 60 hours a week because my boss is difficult, but at home I make up for it by being the most relaxed, present parent I can be.' This client's work-leisure pattern best illustrates the ________ effect.",
+    "options": [
+      "Spillover",
+      "Compensatory",
+      "Segmentation",
+      "Dual-career"
+    ],
+    "correct_index": 1,
+    "rationale": "The compensatory effect occurs when a person compensates in leisure for what is lacking or negative at work (e.g., overworked → deliberately relaxed at home). Spillover means work attitudes/behavior carry over into leisure (positive or negative). Segmentation means work and leisure are kept entirely separate with no influence either way."
+  },
+  {
+    "id": "ch07_q_013",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A test measures how much chemistry a student has LEARNED after completing a semester course. This is best described as a(n):",
+    "options": [
+      "Aptitude test",
+      "Achievement test",
+      "Interest inventory",
+      "Work sample"
+    ],
+    "correct_index": 1,
+    "rationale": "Achievement tests measure what has already been learned. Aptitude tests measure potential to learn or perform in the future (e.g., SAT, GATB). The distinction is past learning (achievement) vs. future potential (aptitude). On the NCE, scenarios about 'after completing training' or 'following instruction' signal achievement."
+  },
+  {
+    "id": "ch07_q_014",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "During a performance appraisal, a supervisor rates all employees higher than their actual performance warrants because she dislikes giving negative feedback. This error is called:",
+    "options": [
+      "Recency error",
+      "Central tendency error",
+      "Leniency error",
+      "Halo effect"
+    ],
+    "correct_index": 2,
+    "rationale": "Leniency error occurs when a rater inflates ratings to avoid conflict or discomfort. Recency error overweights recent events. Central tendency error rates everyone in the middle of the scale. The halo effect occurs when one positive trait causes overestimation of all other traits."
+  },
+  {
+    "id": "ch07_q_015",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Edgar Schein identified 'career anchors' — deeply held values that people refuse to give up when making career choices. A client who says, 'I will never take a job that requires me to follow someone else's rules — I have to be my own boss' is most clearly anchored in:",
+    "options": [
+      "Security/stability",
+      "Technical/functional competence",
+      "Autonomy/independence",
+      "Entrepreneurial creativity"
+    ],
+    "correct_index": 2,
+    "rationale": "The autonomy/independence anchor reflects a need to set one's own rules and resist organizational constraints. Entrepreneurial creativity involves creating new ventures (not just self-direction). Security/stability prioritizes predictability. Technical/functional competence anchors value expertise in a specific field above all else."
+  },
+  {
+    "id": "ch07_q_016",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Super's concept of 'career maturity' in adolescents refers to:",
+    "options": [
+      "Having selected a final occupational goal by age 18",
+      "The degree of readiness to make age-appropriate career decisions",
+      "The ability to earn a living wage without parental support",
+      "Successfully completing the Exploration stage of career development"
+    ],
+    "correct_index": 1,
+    "rationale": "Career maturity (Super) refers to readiness — not the actual choice made. An adolescent high in career maturity has age-appropriate planfulness, knowledge of career decision-making, and realistic self-appraisal. Super later used 'career adaptability' for adults to reflect ongoing flexibility rather than a fixed developmental milestone."
+  },
+  {
+    "id": "ch07_q_017",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A woman returns to the workforce after 15 years of raising children and finds her previous skills are outdated. She does not qualify for unemployment because she was never laid off from a job. She is BEST described as a:",
+    "options": [
+      "Dislocated worker",
+      "Displaced homemaker",
+      "Underemployed worker",
+      "Reentry woman"
+    ],
+    "correct_index": 1,
+    "rationale": "A displaced homemaker is someone (traditionally a woman) who has been dependent on another person's income and must now enter or reenter the workforce, typically due to divorce, death of a spouse, or other family disruption. Dislocated workers were previously employed and lost their jobs. 'Reentry woman' is a broader term; displaced homemaker is the specific clinical/policy designation."
+  },
+  {
+    "id": "ch07_q_018",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "According to research on job-seeking, what percentage of job openings are estimated to be part of the 'hidden job market' — positions that are never formally advertised?",
+    "options": [
+      "Approximately 30%",
+      "Approximately 50%",
+      "More than 76%",
+      "More than 90%"
+    ],
+    "correct_index": 2,
+    "rationale": "Career development literature consistently cites that more than 76% of job openings are never formally advertised — they are filled through networking, referrals, and informal contacts. This is a frequently tested NCE statistic. Counselors should encourage networking as the primary job-search strategy."
+  },
+  {
+    "id": "ch07_q_019",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Holland developed the Self-Directed Search (SDS) and proposed that vocational types and work environments can be arranged in a hexagonal model. The two types MOST psychologically similar (adjacent on the hexagon) to Investigative are:",
+    "options": [
+      "Realistic and Artistic",
+      "Social and Conventional",
+      "Enterprising and Social",
+      "Conventional and Artistic"
+    ],
+    "correct_index": 0,
+    "rationale": "On Holland's hexagon (R-I-A-S-E-C in order), Investigative is flanked by Realistic and Artistic — these are the most similar types. Types opposite on the hexagon (e.g., Investigative opposite Social) are the most psychologically dissimilar. Understanding adjacency helps predict person-environment congruence."
+  },
+  {
+    "id": "ch07_q_020",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A career counselor who uses Mark Savickas's career construction approach asks a client to describe their favorite childhood hero and the stories they loved as a child. The counselor is primarily using this technique to:",
+    "options": [
+      "Assess Holland type through projective identification with characters",
+      "Identify the client's career anchor using biographical data",
+      "Elicit the client's life narrative and personal meaning about work",
+      "Evaluate Ginzberg's Fantasy stage residue affecting adult choices"
+    ],
+    "correct_index": 2,
+    "rationale": "Savickas's career construction theory is a narrative/constructivist approach. The counselor elicits life stories — including childhood heroes and favorite stories — to help clients construct meaning and identity around work. This contrasts with Holland's type-matching or Ginzberg's stage theory. The goal is a coherent career narrative, not trait measurement."
+  }
+]

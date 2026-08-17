@@ -1,0 +1,283 @@
+[
+  {
+    "id": "ch10_q_001",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A client discloses in session that she physically abused her 7-year-old son last week. She says she has calmed down and it will never happen again. The counselor's MOST appropriate response is to:",
+    "options": [
+      "Keep the disclosure confidential because the abuse has already stopped",
+      "Consult with a supervisor before deciding whether to report",
+      "File a mandatory report with child protective services immediately",
+      "Warn the husband so he can protect the child from future harm"
+    ],
+    "correct_index": 2,
+    "rationale": "Child abuse is a mandatory exception to confidentiality — the counselor MUST report regardless of whether the client promises it won't happen again, regardless of the counselor's clinical judgment, and regardless of supervisor consultation. Mandatory reporters have no discretion. Failure to report is itself a legal violation. This is distinct from the Tarasoff duty-to-warn, which involves identifiable third-party threats — child abuse has its own statutory reporting requirement."
+  },
+  {
+    "id": "ch10_q_002",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A client tells his counselor in confidence that he murdered someone five years ago and was never caught. He is remorseful and shows no intent to harm anyone in the future. The counselor should:",
+    "options": [
+      "Report the crime to law enforcement — past crimes are never confidential",
+      "Warn the victim's family under the Tarasoff duty to warn",
+      "Maintain confidentiality — past crimes with no future threat do not require disclosure",
+      "Immediately terminate treatment and refer to a legal professional"
+    ],
+    "correct_index": 2,
+    "rationale": "Confidentiality exceptions apply to FUTURE harm, not past crimes. When a client discloses a past crime and shows no intent to harm others in the future, the counselor maintains confidentiality. The Tarasoff duty to warn requires an identifiable victim and serious, foreseeable FUTURE threat — neither is present here. Breaking confidentiality for a past crime with no ongoing threat would be a breach of the ACA Code of Ethics."
+  },
+  {
+    "id": "ch10_q_003",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "During a custody dispute, a court orders a counselor to testify about what a client disclosed in session. The client does not want the information released. The counselor should:",
+    "options": [
+      "Testify fully — court orders override all confidentiality protections",
+      "Assert privileged communication on the client's behalf and await a ruling",
+      "Release only information that the counselor judges to be clinically relevant",
+      "Immediately report the client's disclosures to the judge in writing"
+    ],
+    "correct_index": 1,
+    "rationale": "Privileged communication belongs to the CLIENT, not the counselor. When the client wants to maintain privilege, the counselor's ethical obligation is to assert the privilege on the client's behalf and let the court rule on whether to compel testimony. The counselor does not unilaterally decide to testify or withhold — that is the court's determination after privilege is claimed. This differs from confidentiality: privilege is a legal concept; confidentiality is an ethical one."
+  },
+  {
+    "id": "ch10_q_004",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A client explicitly states to his therapist that he intends to kill his coworker, naming the specific person and method. The coworker is unaware of the threat. Based on the Tarasoff ruling, the counselor's PRIMARY legal duty is to:",
+    "options": [
+      "Hospitalize the client involuntarily without notifying the potential victim",
+      "Take reasonable steps to protect the identifiable third party, which may include warning the victim",
+      "Consult with a peer supervisor and document, but take no action without client consent",
+      "Notify the client's family members to keep watch over the coworker"
+    ],
+    "correct_index": 1,
+    "rationale": "Tarasoff v. Regents of University of California (1976) established the 'duty to protect' — when a client makes a serious, credible, foreseeable threat against an identifiable victim, the therapist has a legal duty to protect that potential victim. This may include directly warning the victim, notifying law enforcement, or hospitalization. The key elements: identifiable victim + serious and foreseeable harm. Tarasoff 1974 was 'duty to warn'; 1976 expanded to 'duty to protect.'"
+  },
+  {
+    "id": "ch10_q_005",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "chapter": 10,
+    "question": "A recently licensed counselor finds herself strongly attracted to a male client. She has not acted on the attraction. According to ethical guidelines, her FIRST step should be to:",
+    "options": [
+      "Immediately terminate the therapeutic relationship and refer the client",
+      "Disclose the attraction directly to the client in the next session",
+      "Seek supervision or personal counseling to address the countertransference",
+      "Continue without disclosure — feelings are normal and only actions are unethical"
+    ],
+    "correct_index": 2,
+    "rationale": "Sexual attraction to clients is not uncommon and not itself an ethics violation. The ACA Code of Ethics requires that counselors seek supervision or personal counseling when countertransference threatens to harm the therapeutic relationship. Immediate referral is premature if the counselor can manage the feelings. Disclosing the attraction to the client can be harmful to the client. The ethical path is professional self-monitoring through supervision, not unilateral termination or disclosure."
+  },
+  {
+    "id": "ch10_q_006",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A counselor terminates a 3-year therapeutic relationship with a client and begins a sexual relationship with her 18 months later. The client consented. Under ACA ethics, this is:",
+    "options": [
+      "Permissible — the therapeutic relationship had ended and the client is an adult",
+      "Permissible only if the counselor can demonstrate no exploitation occurred",
+      "A clear ethics violation — ACA requires a minimum 5-year post-termination waiting period",
+      "Not addressed by ACA — this is governed solely by state licensure boards"
+    ],
+    "correct_index": 2,
+    "rationale": "The ACA Code of Ethics prohibits sexual or romantic relationships with former clients for a minimum of 5 years post-termination — and even after 5 years, the counselor bears the burden of proving no exploitation. NBCC's code requires only a 2-year wait. At 18 months, this counselor has violated ACA's standard regardless of client consent, because the power differential from therapy may persist long after termination. Know the difference: NBCC = 2 years, ACA = 5 years."
+  },
+  {
+    "id": "ch10_q_007",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A National Certified Counselor (NCC) is found guilty of a serious ethics violation by NBCC. The client then files a complaint with the state licensure board. Which is MOST accurate?",
+    "options": [
+      "NBCC can revoke the NCC credential and the state license simultaneously",
+      "The state license revocation automatically revokes the NCC credential",
+      "NBCC can only revoke the NCC credential; it cannot revoke the state license",
+      "Only the state board has authority; NBCC has no enforcement power"
+    ],
+    "correct_index": 2,
+    "rationale": "NBCC is a private credentialing body — it can revoke the NCC national certification, but has NO authority over state licenses. The state licensure board is an independent regulatory body with exclusive jurisdiction over the license to practice. Revocation of the NCC does not automatically revoke the state license, and vice versa. A counselor could lose their NCC credential but retain their state license, or lose their state license but technically retain NCC status (until NBCC acts separately)."
+  },
+  {
+    "id": "ch10_q_008",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A counselor's caseload becomes unmanageable. She stops responding to a client's calls for 3 weeks and provides no referral or transition plan. This BEST illustrates:",
+    "options": [
+      "Negligence — the counselor failed to maintain a minimum standard of care",
+      "Abandonment — unilateral termination without adequate notice or referral",
+      "Malpractice — the client was harmed by a specific clinical error",
+      "Defamation — the counselor's silence damaged the client's reputation"
+    ],
+    "correct_index": 1,
+    "rationale": "Abandonment is the unilateral termination of the counseling relationship without adequate notice or referral — leaving a client without care when they still need it. This is the defining example. Negligence is broader: failure to meet the standard of care a reasonable practitioner would provide. Malpractice requires proving negligence caused demonstrable harm. Defamation (libel=written, slander=verbal) involves false statements damaging reputation — irrelevant here."
+  },
+  {
+    "id": "ch10_q_009",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A school counselor is subpoenaed for records of a 16-year-old student's counseling sessions. Under FERPA, who has the right to inspect these educational records?",
+    "options": [
+      "The student only — minors have exclusive access to their own counseling records",
+      "The parents only — minors cannot access their own records under FERPA",
+      "Parents have access; the student gains full rights at age 18",
+      "No one — school counseling records are entirely exempt from FERPA"
+    ],
+    "correct_index": 2,
+    "rationale": "Under FERPA (Family Educational Rights and Privacy Act), parents have the right to inspect and review their minor child's educational records. At age 18 (or upon entering post-secondary education), the rights transfer entirely to the student. A critical caveat: personal notes a counselor keeps for their own use and does not share with anyone else are NOT part of the educational record and are not subject to FERPA. But once records are shared with teachers or other staff, they become educational records."
+  },
+  {
+    "id": "ch10_q_010",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A mental health counselor refers a client to a psychiatrist for medication evaluation. The psychiatrist offers the counselor $50 for each referral. The counselor accepts. This arrangement is:",
+    "options": [
+      "Permissible if the client is informed and consents",
+      "Permissible as long as the referrals are clinically appropriate",
+      "An ethics violation — fee-splitting for referrals is prohibited",
+      "Legal and ethical because it creates incentive for better care coordination"
+    ],
+    "correct_index": 2,
+    "rationale": "Fee-splitting — receiving payment in exchange for referrals — is explicitly prohibited by the ACA Code of Ethics. It creates a financial conflict of interest that compromises the counselor's clinical judgment (referrals should be based on client need, not kickbacks). This differs from legitimate fee arrangements like sliding scale fees or group practice profit-sharing. Client consent does NOT make fee-splitting ethical. This is one of the clearest bright-line ethics violations."
+  },
+  {
+    "id": "ch10_q_011",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A counselor works with a client who cannot afford her standard fee. The client offers to paint the counselor's office in exchange for sessions. The counselor should:",
+    "options": [
+      "Refuse outright — all bartering is prohibited by the ACA Code of Ethics",
+      "Accept only if money is not available, no exploitation occurs, and it is not contraindicated clinically",
+      "Accept freely — bartering is encouraged when it increases access to services",
+      "Accept only if the state licensure board has approved the specific arrangement"
+    ],
+    "correct_index": 1,
+    "rationale": "The ACA Code of Ethics does NOT absolutely prohibit bartering, but sets strict conditions: (1) money is not available, (2) the arrangement is not clinically contraindicated (e.g., not appropriate with a client whose issues involve entitlement or exploitation), and (3) the arrangement is not exploitative. Bartering goods (painting the office) is considered less risky than bartering services (the client providing services to the counselor). When in doubt, the counselor should explore community resources or sliding-scale fees first."
+  },
+  {
+    "id": "ch10_q_012",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A school counselor consults with a classroom teacher about a student's behavioral issues without revealing the content of the student's counseling sessions. This type of consultation is BEST described as:",
+    "options": [
+      "Client-centered case consultation — the focus is improving services to the identified client",
+      "Consultee-centered case consultation — the focus is improving the teacher's skills",
+      "Program-centered administrative consultation — evaluating the school program",
+      "Consultee-centered administrative consultation — improving the school's policies"
+    ],
+    "correct_index": 0,
+    "rationale": "Caplan's four consultation models: (1) Client-centered case — the identified client is the focus; the consultant helps the consultee help that specific client. (2) Consultee-centered case — the consultee's skills and knowledge are the focus; improving the teacher's ability to handle similar cases. (3) Program-centered administrative — evaluating a specific program. (4) Consultee-centered administrative — improving organizational policies. Here, the counselor and teacher are discussing what to do about ONE specific student → client-centered case consultation."
+  },
+  {
+    "id": "ch10_q_013",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A client is diagnosed with Major Depressive Disorder, Single Episode, Moderate severity. In DSM-5, this would be coded as:",
+    "options": [
+      "296.22 — with a decimal after the third digit",
+      "2962.2 — with a decimal after the fourth digit",
+      "296-22 — with a hyphen separating the code",
+      "MDD/M — using an alphabetical abbreviation system"
+    ],
+    "correct_index": 0,
+    "rationale": "DSM-5 uses a 5-digit numeric code (borrowed from ICD-10-CM) with a decimal point after the THIRD digit. Major Depressive Disorder, Single Episode, Moderate = 296.22. Memory device: 'three digits, then a dot.' ICD stands for International Classification of Diseases; DSM codes align with ICD codes for insurance billing. CPT codes (Current Procedural Terminology) are used on the superbill for procedure/service billing and are separate from diagnostic codes."
+  },
+  {
+    "id": "ch10_q_014",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A client presents with significant work stress and relationship conflict following a divorce, but meets no criteria for a DSM-5 clinical disorder. The counselor's MOST appropriate diagnostic action is to:",
+    "options": [
+      "Diagnose Adjustment Disorder to justify insurance reimbursement",
+      "Use a V code to describe the non-psychiatric life problem",
+      "Decline to document anything since no diagnosis was made",
+      "Use a Z code for workplace stress and bill under PTSD"
+    ],
+    "correct_index": 1,
+    "rationale": "V codes (called Z codes in ICD-10) describe non-psychiatric conditions and life circumstances that may be a focus of clinical attention — such as relationship problems, occupational stress, or bereavement — without meeting criteria for a clinical disorder. They are legitimate diagnostic entries. Important exam distinction: PTSD is NOT a V code — it is a clinical diagnosis (309.81). Falsely diagnosing Adjustment Disorder solely for insurance billing purposes would be insurance fraud and an ethics violation."
+  },
+  {
+    "id": "ch10_q_015",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A client requests a copy of another agency's psychological evaluation report that is in her counselor's file. The counselor should:",
+    "options": [
+      "Release the entire file including the evaluation, since it pertains to the client",
+      "Release only records originated by the counselor's own agency; refer client to the originating agency for the evaluation",
+      "Refuse all records releases to protect the client's confidentiality",
+      "Release the records only after a 30-day waiting period required by HIPAA"
+    ],
+    "correct_index": 1,
+    "rationale": "The minimal disclosure principle extends to third-party records: a counselor releases only records that originated from their own practice. Records created by another agency (e.g., a psychological evaluation from a hospital) should NOT be re-released — the client must request those from the originating source. This protects record integrity, respects the originating provider's release policies, and avoids the counselor taking responsibility for records they did not create. A signed release from the client is required for any records release."
+  },
+  {
+    "id": "ch10_q_016",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "Which of the following MOST accurately reflects the ethical distinction between a counselor's licensure and a counselor's national certification?",
+    "options": [
+      "Licensure is granted by a private credentialing body; certification is granted by the state",
+      "Licensure is granted by the state and legally required to practice; national certification (NCC) is a voluntary credential granted by NBCC",
+      "Both licensure and NCC certification are required to legally practice in most states",
+      "National certification supersedes state licensure when the two conflict"
+    ],
+    "correct_index": 1,
+    "rationale": "Licensure = a state-granted legal permission required to practice independently as a counselor (e.g., LPC, LMHC). It is regulated by state law and can be revoked by the state board. National certification (NCC) = a voluntary, nationally portable credential granted by NBCC that recognizes competence but is NOT legally required to practice. Virginia was the first state to license counselors in 1976. CACREP accredits training programs; NBCC credentials individual counselors. These are parallel, independent systems."
+  },
+  {
+    "id": "ch10_q_017",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A combat veteran presents six months after returning home with persistent nightmares, hypervigilance, emotional numbing, and avoidance of anything war-related. His symptoms began approximately three months after returning. This presentation is MOST consistent with:",
+    "options": [
+      "Acute Stress Disorder — symptoms began within one month of trauma",
+      "Adjustment Disorder — a non-clinical reaction to a stressor",
+      "PTSD — symptoms emerged after a delay and have persisted beyond one month",
+      "A V code condition — occupational stress from military service"
+    ],
+    "correct_index": 2,
+    "rationale": "PTSD (Post-Traumatic Stress Disorder) is characterized by: (1) exposure to a traumatic event, (2) intrusion symptoms (nightmares/flashbacks), (3) avoidance, (4) negative cognitions/mood, (5) hyperarousal. Symptoms must persist MORE than one month. When symptoms emerge after a delay (as here), it may be specified as 'with delayed expression.' PTSD is NOT a V code — it is a clinical diagnosis (309.81). Acute Stress Disorder involves the same symptoms but lasting 3 days to 1 month. Combat veterans are the population at highest risk."
+  },
+  {
+    "id": "ch10_q_018",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A counselor using telehealth wants to conduct video sessions with a client. According to ACA 2014 technology provisions, she should:",
+    "options": [
+      "Use standard consumer video platforms like Skype, which are free and widely available",
+      "Friend the client on a private social media account to maintain easy contact",
+      "Use HIPAA-compliant video platforms and ensure all protected health information is encrypted",
+      "Obtain verbal consent — written technology consent is not required under ACA 2014"
+    ],
+    "correct_index": 2,
+    "rationale": "ACA's 2014 Code of Ethics technology provisions specify: (1) Skype and standard consumer platforms are NOT HIPAA compliant and should not be used for telehealth. (2) All protected health information (PHI) must be encrypted. (3) Counselors should not friend clients on personal social media. (4) Written informed consent for technology-assisted counseling is required, covering risks of electronic communication, privacy limitations, and what happens if technology fails mid-session. Technology competence is itself an ethical obligation."
+  },
+  {
+    "id": "ch10_q_019",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A client expresses that his personal values are deeply opposed to homosexuality. His counselor, who identifies as gay, refuses to provide counseling services to this client. Under ACA 2014 ethics provisions, this counselor's action is:",
+    "options": [
+      "Permissible — counselors may refer clients whose values conflict with the counselor's personal identity",
+      "An ethics violation — ACA 2014 prohibits discrimination based on sexual orientation and prohibits values-based referrals that harm clients",
+      "Permissible — the counselor's safety and well-being supersede the client's access to services",
+      "Not addressed by ACA ethics — this is a personnel management issue"
+    ],
+    "correct_index": 1,
+    "rationale": "ACA 2014 made a significant change: counselors may NOT refuse services or refer clients based on the counselor's own personal values when doing so harms the client. ACA 2014 also explicitly prohibits: (1) discrimination based on sexual orientation, (2) referring clients for conversion therapy, (3) discriminating based on gender identity. Even when a counselor's personal values are deeply held, the professional obligation to non-discrimination takes precedence. The counselor should seek supervision to address the countertransference."
+  },
+  {
+    "id": "ch10_q_020",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "question": "A counselor is seeing a client who has been suicidal in the past but currently denies active ideation. The counselor wants to refer this client to a therapy group. Which factor would MOST likely contraindicate group treatment for this client?",
+    "options": [
+      "The client's history of suicidal ideation — suicidal clients should never be in groups",
+      "The client's denial of current ideation — paradoxical group techniques would not be appropriate",
+      "Current active suicidal or homicidal ideation — paradoxical interventions and group screening require exclusion",
+      "The client's preference — client autonomy means they choose their own treatment modality"
+    ],
+    "correct_index": 2,
+    "rationale": "Group therapy screening ethics: clients with CURRENT active suicidal or homicidal ideation are contraindicated for group work and should not be placed in groups. Paradoxical interventions (a technique sometimes used in group settings) are also specifically contraindicated for clients who are suicidal or homicidal. Note the distinction: a HISTORY of suicidal ideation with no current ideation is not an automatic exclusion. The client in this question denies current ideation, but a thorough screening should confirm this before group placement."
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ch03_q_001",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A counselor is working with an 8-year-old child who, when shown two equal balls of clay and then watches one ball be rolled into a long snake shape, insists the snake now has 'more clay.' According to Piaget, this child has NOT yet mastered:",
+    "options": [
+      "Object permanence",
+      "Conservation",
+      "Formal operational thinking",
+      "Animism"
+    ],
+    "correct_index": 1,
+    "rationale": "Conservation is the understanding that quantity remains unchanged despite changes in shape — mastered in Concrete Operations (ages 7–11). This 8-year-old should be developing it but hasn't yet. Object permanence (A) is a sensorimotor concept. Formal operations (C) involves abstract thinking (not relevant here). Animism (D) is attributing life to inanimate objects. Distractor: A is tempting because object permanence sounds like it relates to 'objects' staying constant, but it refers to objects existing when hidden."
+  },
+  {
+    "id": "ch03_q_002",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A 4-year-old child watches a magic show and says, 'The rabbit is hiding inside the magician because the magician is magic and wants the rabbit.' This statement BEST illustrates which Piagetian concept?",
+    "options": [
+      "Conservation",
+      "Reversibility",
+      "Animism",
+      "Egocentrism"
+    ],
+    "correct_index": 2,
+    "rationale": "Animism is attributing lifelike, intentional qualities to inanimate objects or events — occurring in the Preoperational stage (2–7 years). The child sees the magician as intentionally 'wanting' something from a rabbit. Egocentrism (D) would involve the child being unable to see others' perspectives, but this statement is more about attributing inner motives to objects. Conservation (A) and Reversibility (B) are both Concrete Operations concepts and don't apply to a 4-year-old."
+  },
+  {
+    "id": "ch03_q_003",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "During a counseling intake, a 15-year-old client insists that his parents 'can't possibly understand what he's going through' because 'no one has ever felt this way before.' According to Erikson, this client is most likely in which stage?",
+    "options": [
+      "Industry vs Inferiority",
+      "Identity vs Role Confusion",
+      "Intimacy vs Isolation",
+      "Generativity vs Stagnation"
+    ],
+    "correct_index": 1,
+    "rationale": "Erikson's Stage 5 (Identity vs Role Confusion) covers adolescence. Adolescents experiment with roles, feel uniquely misunderstood, and are working toward a coherent self-concept. Failure = identity crisis. Industry vs Inferiority (A) is ages 6–12. Intimacy vs Isolation (C) is early adulthood (23–34). Generativity vs Stagnation (D) is middle adulthood. Distractor: Industry vs Inferiority (A) is tempting because it involves peer comparison, but the age doesn't fit."
+  },
+  {
+    "id": "ch03_q_004",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A 65-year-old client in counseling spends sessions ruminating on regrets — career paths not taken, relationships damaged, dreams unfulfilled. According to Erikson, this client is struggling with which stage?",
+    "options": [
+      "Generativity vs Stagnation",
+      "Intimacy vs Isolation",
+      "Integrity vs Despair",
+      "Initiative vs Guilt"
+    ],
+    "correct_index": 2,
+    "rationale": "Integrity vs Despair is Erikson's final stage (age 60+). Successful resolution = sense that life was worthwhile (integrity). Failure = despair — regret that life was wasted. This client's rumination on regrets reflects despair. Generativity vs Stagnation (A) is ages 35–60. Distractor: Generativity vs Stagnation is tempting because it also involves life review, but it centers on productivity/raising the next generation, not life-review regret."
+  },
+  {
+    "id": "ch03_q_005",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A researcher shows a child two identical glasses of water. She then pours one glass into a tall, thin cylinder. The child says the tall cylinder has more water. The researcher repeats this experiment with hundreds of children across five countries, always finding the same age range for mastery. This approach to research is BEST described as:",
+    "options": [
+      "Idiographic",
+      "Nomothetic",
+      "Phenomenological",
+      "Ethnographic"
+    ],
+    "correct_index": 1,
+    "rationale": "Nomothetic research studies large groups to establish general principles that apply across populations. Studying hundreds of children across cultures to identify universal age norms is nomothetic. Idiographic (A) examines individual cases in depth (like Freud or Piaget's original observations of his own children). Phenomenological (C) explores subjective lived experience. Ethnographic (D) involves cultural immersion research."
+  },
+  {
+    "id": "ch03_q_006",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "According to Kohlberg's theory, a teenager who says 'I shouldn't steal because I could get caught and punished' is operating at which level and stage?",
+    "options": [
+      "Conventional level, Stage 3 (good boy/good girl orientation)",
+      "Preconventional level, Stage 1 (punishment/obedience orientation)",
+      "Postconventional level, Stage 5 (social contract)",
+      "Preconventional level, Stage 2 (naive hedonism)"
+    ],
+    "correct_index": 1,
+    "rationale": "Stage 1 of the Preconventional level is the punishment/obedience orientation — moral decisions are driven by avoiding punishment. The teenager's reasoning is entirely about consequences for the self (getting caught), not about rules, relationships, or principles. Naive hedonism (D) would focus on personal reward/exchange ('if I'm nice, others will be nice to me'). Good boy/girl (A) would focus on approval from others. Distractor: Naive hedonism (D) is tempting because it is also preconventional and self-focused, but it emphasizes reward/reciprocity, not punishment avoidance."
+  },
+  {
+    "id": "ch03_q_007",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A counselor working with a family in crisis after a house fire should focus FIRST on which aspect of Maslow's hierarchy?",
+    "options": [
+      "Self-esteem — helping family members feel capable and valued",
+      "Love and belonging — strengthening family bonds during the crisis",
+      "Self-actualization — helping members find meaning in the experience",
+      "Physiological and safety needs — food, shelter, and immediate security"
+    ],
+    "correct_index": 3,
+    "rationale": "Maslow's hierarchy requires lower-order needs to be met before higher-order needs become relevant. A family who just lost their home needs immediate physiological and safety needs addressed first. Addressing self-esteem, belonging, or self-actualization would be premature before basic survival needs are stabilized. Distractor: Love and belonging (B) is very tempting because the counselor might naturally want to support family cohesion, but Maslow is clear that safety/physiological needs come first."
+  },
+  {
+    "id": "ch03_q_008",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "Harry Harlow's infant monkey experiments demonstrated that the primary basis for attachment is:",
+    "options": [
+      "Food provision — monkeys bonded to whichever surrogate provided milk",
+      "Contact comfort — monkeys preferred the terry-cloth mother even when it provided no milk",
+      "Classical conditioning — monkeys learned to associate milk with the wire mother",
+      "Visual imprinting — monkeys followed the first object they saw after birth"
+    ],
+    "correct_index": 1,
+    "rationale": "Harlow's key finding: infant monkeys overwhelmingly preferred the terry-cloth surrogate mother (contact comfort) even when the wire mother dispensed milk. This challenged the behaviorist view that attachment is based on food reinforcement. The 165-day experiment showed monkeys spent 16 hours/day with terry-cloth, only 1.5 hours with wire mother. Visual imprinting (D) is Lorenz's work with goslings, not Harlow's monkeys. Distractor: Classical conditioning (C) is tempting because behaviorists would predict milk = bonding, but Harlow disproved this."
+  },
+  {
+    "id": "ch03_q_009",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A school counselor is working with a group of students at different grade levels. Research suggests that peer conformity pressure is HIGHEST for which group?",
+    "options": [
+      "A group of 19-year-old college freshmen",
+      "A group of 13-year-old middle school students",
+      "A group of 17-year-old high school seniors",
+      "A group of 10-year-old elementary students"
+    ],
+    "correct_index": 1,
+    "rationale": "Research consistently shows conformity peaks in early adolescence (approximately age 13). Middle school students are the most susceptible to peer conformity pressure. College students (A) and high school seniors (C) have moved past the peak. Elementary students (D) are younger and less socially comparison-focused. Distractor: High school seniors (C) are tempting because adolescence is generally associated with peer pressure, but the peak is specifically early adolescence."
+  },
+  {
+    "id": "ch03_q_010",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "Konrad Lorenz allowed newly hatched goslings to follow him around instead of their mother. The goslings then bonded with Lorenz. This phenomenon BEST illustrates:",
+    "options": [
+      "Operant conditioning — the goslings were reinforced for following Lorenz",
+      "The zone of proximal development",
+      "Imprinting during a critical period",
+      "Contact comfort as the basis of attachment"
+    ],
+    "correct_index": 2,
+    "rationale": "Imprinting is an instinctual behavior in which newborn animals follow the first moving object they encounter (normally the mother). It occurs during a critical period — a time-limited window when the behavior must be learned or it cannot be learned at all. Lorenz demonstrated this by substituting himself as the first moving object. Contact comfort (D) is Harlow's concept. Zone of proximal development (B) is Vygotsky's concept about learning with guidance."
+  },
+  {
+    "id": "ch03_q_011",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A 40-year-old male client comes to counseling expressing a sense of emptiness, questioning whether his career and family choices were meaningful, and feeling like 'time is running out.' According to developmental theory, this client is MOST likely experiencing:",
+    "options": [
+      "Erikson's Stage 5: Identity vs Role Confusion",
+      "A midlife crisis as described by Levinson",
+      "Kohlberg's postconventional moral crisis",
+      "Piaget's disequilibrium in formal operations"
+    ],
+    "correct_index": 1,
+    "rationale": "Levinson's research found that 80% of men experience a moderate to severe midlife crisis, typically between ages 35–45. This client's age, questioning of life choices, and sense of urgency about time are classic midlife crisis features. Levinson viewed this as potentially positive — avoiding it can lead to stagnation in the 50s. Identity vs Role Confusion (A) is adolescence. Distractor: Erikson's Generativity vs Stagnation (not listed) also covers this age range — Levinson's midlife crisis overlaps with Erikson's Stage 7."
+  },
+  {
+    "id": "ch03_q_012",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A counselor asks a client who recently lost his job about his childhood relationship with his parents. The client becomes tearful and says he feels 'just like that helpless kid again.' The Freudian concept BEST describing this return to earlier behavior is:",
+    "options": [
+      "Fixation",
+      "Transference",
+      "Regression",
+      "Repression"
+    ],
+    "correct_index": 2,
+    "rationale": "Regression is returning to an earlier developmental stage under stress — the person had progressed past that stage but retreats to it when overwhelmed. Fixation (A) is getting stuck in a stage and never fully moving past it — distinct from regression. Transference (B) involves projecting feelings about past relationships onto the counselor. Repression (D) is unconsciously blocking painful memories from consciousness. Distractor: Fixation (A) is very frequently confused with regression; the key distinction is that fixation means never leaving, regression means returning after having left."
+  },
+  {
+    "id": "ch03_q_013",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A client presents with chronic alcoholism and a pack-a-day smoking habit. From a Freudian perspective, this client would MOST likely be conceptualized as:",
+    "options": [
+      "Fixated at the anal stage",
+      "Fixated at the oral stage",
+      "Fixated at the phallic stage",
+      "Regressed to the latency stage"
+    ],
+    "correct_index": 1,
+    "rationale": "The oral stage (birth–1yr) involves the mouth as the primary source of gratification. Excessive oral behavior in adulthood (alcohol, smoking, overeating) is interpreted as fixation at the oral stage. The anal stage (A) produces stinginess/orderliness. The phallic stage (C) produces issues around sexuality and gender identity. Latency (D) is the stage least focused on sexuality — a regression there wouldn't explain mouth-focused behaviors."
+  },
+  {
+    "id": "ch03_q_014",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "Lev Vygotsky disagreed with Piaget primarily because Vygotsky believed that:",
+    "options": [
+      "Children can skip developmental stages when highly intelligent",
+      "Moral development is more important than cognitive development",
+      "Developmental stages are driven by educational intervention, not natural biological unfolding",
+      "The zone of proximal development applies only to adolescents"
+    ],
+    "correct_index": 2,
+    "rationale": "Vygotsky's core disagreement with Piaget was that cognitive development doesn't simply unfold naturally/biologically — it is driven by social interaction and educational intervention. The Zone of Proximal Development illustrates this: what a child can do with guidance is the frontier of development. Piaget believed stages were biologically programmed to unfold in sequence. Vygotsky believed teaching accelerates development. Distractor: Skipping stages (A) would contradict both theorists — both believed stages are sequential."
+  },
+  {
+    "id": "ch03_q_015",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A parent tells a counselor, 'I never punish my son — I want him to have high self-esteem.' Based on Coopersmith's research, which response is MOST accurate?",
+    "options": [
+      "The parent's approach is supported by research — consistent absence of punishment raises self-esteem",
+      "Research supports punishment only when using positive reinforcement simultaneously",
+      "High self-esteem is actually correlated with clear rules and discipline, with punishment focused on the behavior rather than the child",
+      "Self-esteem is primarily determined by genetics and is unaffected by parenting style"
+    ],
+    "correct_index": 2,
+    "rationale": "Coopersmith's study found that children with HIGH self-esteem had MORE rules, not fewer, and were punished just as often as low self-esteem children — but punishment targeted the behavior ('that was a bad choice') not the child ('you are bad'). Parents were also democratic, explaining rules. This challenges the assumption that permissiveness builds self-esteem. Distractor: Option A (no punishment = high self-esteem) reflects a very common misconception directly contradicted by Coopersmith."
+  },
+  {
+    "id": "ch03_q_016",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A teenager tells her counselor that everything is 'either totally right or totally wrong' and that her professor must have 'the right answer.' According to William Perry, this thinking style reflects:",
+    "options": [
+      "Kohlberg's postconventional moral reasoning",
+      "Dualistic thinking — a common cognitive style in adolescence",
+      "Relativistic thinking — the ability to see multiple perspectives",
+      "Erikson's initiative vs guilt stage"
+    ],
+    "correct_index": 1,
+    "rationale": "Perry's model describes dualistic thinking as characteristic of adolescents and young adults — the world is black-and-white, good-or-bad, with authority figures holding 'the answer.' Relativistic thinking (C) is the developmental advance where the person recognizes ambiguity and multiple valid perspectives. This develops as the person moves into adulthood. Distractor: Relativistic thinking (C) sounds right because teenagers CAN argue — but Perry's point is that dualistic thinkers still believe in a single correct answer, just held by authority."
+  },
+  {
+    "id": "ch03_q_017",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "Which statement about suicide is MOST accurate for the NCE?",
+    "options": [
+      "Women complete suicide more often than men because they are more likely to seek help",
+      "Clients who have threatened suicide in the past are rarely at risk for future attempts",
+      "Men complete suicide more often than women; women attempt suicide more often than men",
+      "The risk of suicide is highest at the deepest point of a depressive episode"
+    ],
+    "correct_index": 2,
+    "rationale": "Men complete suicide more often (typically using more lethal methods like firearms); women attempt suicide more often. Suicide risk may actually INCREASE as depression begins to lift (D is incorrect) — the person gains enough energy to act on suicidal ideation. A history of suicide threats/attempts (B) is one of the STRONGEST predictors of future risk. Distractor: Option D is very commonly believed but factually incorrect — risk rises as depression lifts, not at its nadir."
+  },
+  {
+    "id": "ch03_q_018",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A client is described as highly stingy with money, extremely organized, and very controlling of his environment. From a Freudian perspective, this personality cluster is MOST consistent with:",
+    "options": [
+      "Oral fixation",
+      "Anal retentive fixation",
+      "Phallic stage fixation",
+      "Genital stage development"
+    ],
+    "correct_index": 1,
+    "rationale": "The anal retentive character (fixation during the anal stage's retention phase) is classically described as stingy, orderly, stubborn, and controlling — often called 'cheap.' The oral character (A) presents as dependent, addictive, mouth-focused. The genital stage (D) represents mature, healthy adult sexuality. Phallic fixation (C) relates to gender identity and sexuality concerns. Distractor: Genital stage (D) sounds like it might mean adult behavior, but it actually refers to healthy development, not pathology."
+  },
+  {
+    "id": "ch03_q_019",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A newborn baby turns her head toward sounds and automatically grasps objects placed in her palm. According to Piaget, these behaviors are MOST characteristic of which developmental stage?",
+    "options": [
+      "Preoperational stage — symbolic schema is being formed",
+      "Sensorimotor stage — the child learns through reflexes and sensory interaction",
+      "Concrete Operations — conservation and counting are developing",
+      "Formal Operations — hypothetical reasoning is beginning"
+    ],
+    "correct_index": 1,
+    "rationale": "The Sensorimotor stage (birth–2yr) is characterized by reflexive behaviors and learning through sensory and motor interaction with the environment. Piaget described this stage as 'practical intelligence.' Key milestones: object permanence (~8 months), beginning of symbolic thought. Preoperational (A) begins at age 2 with language and symbolic play. Distractor: Preoperational (A) is tempting because it includes 'schema formation,' but the newborn is clearly in sensorimotor, not preoperational."
+  },
+  {
+    "id": "ch03_q_020",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "question": "A researcher believes that human development consists primarily of quantitative, measurable changes in behavior driven by environmental learning. This perspective is MOST aligned with:",
+    "options": [
+      "Organicism — development consists of qualitative stage-based changes",
+      "Maturationism — heredity unfolds inborn potential",
+      "Empiricism — development is measurable and environmentally driven",
+      "Epigenetics — each stage emerges from the previous stage"
+    ],
+    "correct_index": 2,
+    "rationale": "Empiricism (rooted in John Locke) holds that all knowledge comes from objective, measurable experience — the forerunner of behaviorism. Empiricists view development as quantitative (measurable incremental changes). Organicism (A) views development as qualitative (stage-by-stage, internal changes). Maturationism (B) stresses heredity and biological readiness. Epigenetics (D) describes sequential stage emergence. Distractor: Maturationism (B) is tempting because it also downplays learning, but it emphasizes biological unfolding rather than environmental learning."
+  }
+]

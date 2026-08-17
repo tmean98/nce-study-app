@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ch10_fc_001",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "ACA name history: APGA → AACD → ACA",
+    "back": "American Personnel and Guidance Association (APGA): founded July 1952. Renamed to American Association for Counseling and Development (AACD) in 1983 (members disliked 'personnel' and 'guidance'). Renamed to American Counseling Association (ACA) in July 1992 (adopted by mail vote). ACA ≈ 55,000 members. ACA's accrediting body = CACREP (formed 1981).",
+    "difficulty": "easy",
+    "confusable_with": "APGA → AACD (1983) → ACA (1992) — the sequence is tested; don't confuse AACD with ACA or APGA"
+  },
+  {
+    "id": "ch10_fc_002",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "NBCC and NCC credential",
+    "back": "National Board for Certified Counselors (NBCC): formed 1982. NCC (National Certified Counselor): generic certification (general/all types of counselors); requires passing the NCE; valid for 5 years; renewal requires 100 CE hours or retaking the NCE. Certifications are national (not state-specific). As of Jan 1, 2022, NCC applicants must have a CACREP master's degree or higher. Specialty certs (CCMHC, NCSC, MAC) require NCC status first.",
+    "difficulty": "medium",
+    "confusable_with": "NCC = generic (all counselors); CCMHC = specialty (mental health); NCSC = school counseling specialty — all require NCC first"
+  },
+  {
+    "id": "ch10_fc_003",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "CACREP — accreditation body",
+    "back": "Council for Accreditation of Counseling and Related Educational Programs: ACA affiliate formed 1981. Accredits counseling PROGRAMS (not individual counselors). Programs accredited include school counseling, mental health counseling, marriage/family counseling, career counseling, doctoral programs. CACREP and CORE (rehabilitation) merged. CACREP graduates get NCC without 2-year supervised experience requirement. Accreditation = voluntary; costly; curriculum determined by accreditation org.",
+    "difficulty": "medium",
+    "confusable_with": "CACREP accredits programs; NBCC certifies individuals — two different organizations doing two different things"
+  },
+  {
+    "id": "ch10_fc_004",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Licensure vs. certification vs. accreditation",
+    "back": "License: granted by STATE government; legal requirement to use a title; state-specific. Certification: granted by national organization (NBCC); title recognition; national but not legally mandated; NBCC cannot revoke your state license (but can contact state licensing board). Accreditation: applies to PROGRAMS, not individuals; voluntary; governed by organizations, NOT state law. CRC (Certified Rehabilitation Counselor): specialty requiring CACREP/CORE program + experience + exam.",
+    "difficulty": "medium",
+    "confusable_with": "License = state law; certification = organizational credential; accreditation = program quality stamp — three distinct concepts often confused"
+  },
+  {
+    "id": "ch10_fc_005",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Counselor licensure history and Virginia 1976",
+    "back": "Virginia was the FIRST state to license counselors in 1976. ACES (Association for Counselor Education and Supervision) was the APGA division most instrumental in pushing for licensure; set up licensure commission in 1975. Licensure drive: psychologists (who were already licensed) were restricting counselors' ability to receive third-party/insurance payments. Reciprocity/endorsement: allows practice in a new state based on existing credentials without retaking exam.",
+    "difficulty": "medium",
+    "confusable_with": "ACES pushed hardest for licensure (not ASCA or other divisions); Virginia was first in 1976 (the year after ACES formed the commission in 1975)"
+  },
+  {
+    "id": "ch10_fc_006",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Psychologists vs. counselors — licensure conflict",
+    "back": "Psychologists were most instrumental in opposing counselor licensure — they wanted a monopoly on nonmedical mental health services and third-party payments. Psychology programs required that graduate work be 'primarily psychological in nature,' excluding counseling graduates from EPPP (Examination for Professional Practice in Psychology). This created the need for counselors to have their own separate license. The term 'psychology' can only be used if the helper is a licensed psychologist.",
+    "difficulty": "easy",
+    "confusable_with": "Psychologists (not psychiatrists or social workers) were the primary opposition group to counselor licensure"
+  },
+  {
+    "id": "ch10_fc_007",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Ethics — definition and key principles",
+    "back": "Ethics = standards of conduct imposed by professional organizations (ACA, NBCC). NOT universal (may differ between organizations) and NOT automatically laws. Exception: ~20 states use ACA Code as law. Ethics originated: APA 1953; NASW 1960; ACA predecessor 1961. Six ACA 2014 foundational principles: autonomy (client self-direction), nonmaleficence (do no harm), beneficence (good of client/society), justice (fair/equal treatment), fidelity (keep promises), veracity (truthfulness). Aspirational ethics = highest possible standards.",
+    "difficulty": "medium",
+    "confusable_with": "Ethics ≠ laws — violating ethics can cost your license or certification but NOT result in criminal imprisonment (unless it's also a crime)"
+  },
+  {
+    "id": "ch10_fc_008",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Confidentiality — definition and most common ethical dilemma",
+    "back": "Confidentiality: counselor will not reveal client information without specific authorization; 'entrusted secrets.' Most ethical dilemmas relate to confidentiality. Relative/qualified confidentiality: exceptions exist. Counselor must protect confidentiality of the deceased (stated in informed consent). Key: confidentiality is relative to the situation — several recognized exceptions allow/require breaking it.",
+    "difficulty": "easy",
+    "confusable_with": "Confidentiality (ethical obligation) ≠ privileged communication (legal right) — confidentiality can be broken by professional judgment; privilege is controlled by the client in court"
+  },
+  {
+    "id": "ch10_fc_009",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Privileged communication — definition and who holds it",
+    "back": "Privileged communication: LEGAL term protecting client from having confidential therapeutic interactions revealed in court without their consent. KEY: THE CLIENT holds the privilege (not the counselor, not the court). Memory: 'It is the client's privilege to reveal.' Varies by state — some states do NOT cover the counselor-client relationship. Based on LICENSURE status, not degree level or certification. If client waives privilege, counselor must testify.",
+    "difficulty": "hard",
+    "confusable_with": "Privileged communication ≠ confidentiality — confidentiality is ethical; privilege is legal; and the CLIENT (not the counselor) controls privilege"
+  },
+  {
+    "id": "ch10_fc_010",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Exceptions to privileged communication and confidentiality",
+    "back": "Privilege does NOT apply: child abuse/neglect/exploitation, suicide/homicide threats, criminal intentions, court-ordered hospitalization need, malpractice suit against counselor, minors (guardian holds it), mental incompetence. Other confidentiality exceptions: client releases information, court orders, supervision, clerical processing, legal/clinical consultation, elderly abuse, insurance company requests diagnosis, contagious fatal disease endangering others. Refusing to testify when privilege doesn't apply → held in contempt of court.",
+    "difficulty": "hard",
+    "confusable_with": "Past crimes (e.g., robbery 6 months ago) with no current danger = keep confidential; Tarasoff applies only when there's FUTURE danger to a SPECIFIC identifiable victim"
+  },
+  {
+    "id": "ch10_fc_011",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Tarasoff v. Board of Regents (1969/1976) — duty to warn",
+    "back": "1969: Prosenjit Poddar (UC Berkeley student) revealed in counseling that he intended to kill Tatiana Tarasoff. Therapist notified campus police; Tarasoff not directly warned. Poddar killed Tarasoff. California Supreme Court ruled for parents in 1976: mental health professionals have a DUTY TO WARN identifiable intended victims of serious and foreseeable harm. ACA replaced 'clear and imminent danger' with 'serious and foreseeable harm' (broader scope). Hedlund case: also warn third parties who might be in danger.",
+    "difficulty": "medium",
+    "confusable_with": "Tarasoff is a California case — some states do NOT have duty to warn laws; check state laws for licensing exams"
+  },
+  {
+    "id": "ch10_fc_012",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Mandated reporting — child abuse",
+    "back": "Counselors are MANDATED reporters for child abuse, neglect, sexual abuse, and exploitation — it is the law; no choice in the matter. Report via state child abuse/neglect hotline. Mandated reporting applies only while performing professional duties (not in a grocery store). Perpetrators: sexual abuse = primarily males; physical abuse = primarily females. Elderly abuse is also an exception to confidentiality. Failure to report may carry legal penalties.",
+    "difficulty": "easy",
+    "confusable_with": "Mandated = no discretion; counselor MUST report regardless of clinical judgment — unlike duty to warn, which allows some clinical judgment about imminence"
+  },
+  {
+    "id": "ch10_fc_013",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Minimal disclosure principle",
+    "back": "When breaking confidentiality is necessary, reveal ONLY the minimum amount of information required for the specific purpose. When possible, inform the client before disclosing confidential information. Example: warning about a homicidal threat — disclose only details related to the specific danger, not the entire session content.",
+    "difficulty": "easy",
+    "confusable_with": "Minimal disclosure is about how MUCH to reveal when breaking confidentiality — separate from the decision OF whether to break it"
+  },
+  {
+    "id": "ch10_fc_014",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Informed consent and statement of disclosure",
+    "back": "Informed consent: informing the client of what will take place (qualifications, techniques, fees, billing, emergency procedures, confidentiality limits) so the client can decide whether to consent. Applies to both counseling AND research. Statement of disclosure may be legally required in some states. Must disclose use of collection agencies before counseling begins. Can terminate client for nonpayment IF disclosed in advance in the initial disclosure statement.",
+    "difficulty": "easy",
+    "confusable_with": "Informed consent includes confidentiality limits, billing policies, emergency procedures — but NOT the counselor's list of graduate courses"
+  },
+  {
+    "id": "ch10_fc_015",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Dual / multiple relationships (noncounseling relationships)",
+    "back": "Dual relationship: counselor has another significant relationship with the client that could impair objectivity (romantic, business, family, supervisory). ACA 2005: replaced 'dual relationships' with 'noncounseling roles and relationships' (some can be beneficial, e.g., attending client's graduation). NBCC uses 'multiple relationship.' Document rationale and discuss potential benefits/harms before engaging. Sexual or romantic relationship with ANY current client = always unethical. Cannot supervise relatives (NBCC). Cannot refer agency clients to own private practice (self-referral).",
+    "difficulty": "medium",
+    "confusable_with": "ACA 2014 no longer prohibits ALL noncounseling relationships — some (like hospital visits) can be beneficial with documentation; sexual relationships remain always prohibited"
+  },
+  {
+    "id": "ch10_fc_016",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Sexual relationships with clients — post-termination rules",
+    "back": "Sexual/romantic relationship with CURRENT client: always unethical and illegal in most states. Post-termination minimums: NBCC = 2 years after last session; ACA = 5 years after last session (and must document why not exploitative). Insurance companies pay reduced settlements or no settlement for sexual misconduct cases and typically cancel the counselor's insurance afterward. A single inappropriate behavior = sexual harassment per NBCC.",
+    "difficulty": "hard",
+    "confusable_with": "NBCC = 2 years; ACA = 5 years — these are different standards; exam questions specify which organization's standard applies"
+  },
+  {
+    "id": "ch10_fc_017",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Abandonment vs. negligence vs. malpractice",
+    "back": "Abandonment: counselor stops providing services and does NOT refer the client to another helper. Negligence: counselor fails to perform a required professional duty (e.g., not warning parents of suicidal teen). Malpractice: legal action taken against a counselor for professional negligence or misconduct. Leading causes of malpractice: confidentiality violations and dual relationships (sometimes sexual issues = #1). Excessive self-disclosure can constitute malpractice.",
+    "difficulty": "medium",
+    "confusable_with": "Abandonment = stopping care without referral; negligence = failing to act when required — abandonment is a type of negligence"
+  },
+  {
+    "id": "ch10_fc_018",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Defamation: libel vs. slander",
+    "back": "Defamation: communication that damages a person's reputation. Can constitute malpractice even without malicious intent. Libel = WRITTEN defamation. Slander = VERBAL defamation. Counselors should avoid psychological jargon when communicating about clients and only communicate when necessary (duty to warn, release of information) to avoid defamation allegations.",
+    "difficulty": "easy",
+    "confusable_with": "Libel = written (think: 'libel' has a letter 'l' like 'letter'); slander = spoken (verbal)"
+  },
+  {
+    "id": "ch10_fc_019",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Scope of practice",
+    "back": "Counselors should only practice techniques and treat clients for which they have been properly trained and qualified. Treating a client outside your training (e.g., conducting classical psychoanalysis without analytic training, treating eating disorders without experience) = misrepresentation and ethics violation. NCC, LPC, or doctorate status alone does NOT authorize practice beyond your training.",
+    "difficulty": "easy",
+    "confusable_with": "Scope of practice limits what you DO (techniques/populations), not what credentials you hold — credentials don't automatically expand scope"
+  },
+  {
+    "id": "ch10_fc_020",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Bartering ethics",
+    "back": "Bartering: exchanging goods or services for counseling/testing instead of money. GENERALLY DISCOURAGED due to objectivity concerns (e.g., if client does poor work, counselor's objectivity suffers). Currently ALLOWED if: (1) client requests it, (2) written contract is in place, (3) no harm results, (4) relationship is not exploitative, and (5) cultural considerations are taken into account.",
+    "difficulty": "medium",
+    "confusable_with": "Bartering is not automatically unethical in the 2014 ACA Code — it is allowed with specific safeguards, but the default is discouraged"
+  },
+  {
+    "id": "ch10_fc_021",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Release of information rules",
+    "back": "Need a SIGNED, DATED release of information form before sending any client records. Release must specify: whether one-time or time period. Do NOT use a photocopy of a signature. Do NOT send records you received from another source (e.g., information from a homeless shelter in your file — patient must get a release from the original source). Recording or observing sessions requires client permission. Also called: consent to disclose or transfer records.",
+    "difficulty": "medium",
+    "confusable_with": "You can only send records YOU collected — if you received them from another agency, you cannot forward them; the client must obtain directly from that agency"
+  },
+  {
+    "id": "ch10_fc_022",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Countertransference and sexual attraction to clients",
+    "back": "Countertransference: counselor's unresolved personal issues/feelings directed toward the client, often including romantic or sexual feelings. If sexual attraction has NOT yet hindered treatment: seek personal therapy and/or professional supervision; do NOT tell the client. If attraction IS hindering treatment: explain to client and REFER to another provider (do not continue and do not simply ignore it). Even one inappropriate behavior = sexual harassment per NBCC.",
+    "difficulty": "medium",
+    "confusable_with": "Transference = client's feelings toward counselor; countertransference = counselor's feelings toward client — direction determines which is which"
+  },
+  {
+    "id": "ch10_fc_023",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Suicidal warning signs and statistics",
+    "back": "Warning signs: repeatedly joking about self-harm, giving away prized possessions after prolonged depression, previous suicide attempt, detailed specific plan. 75-80% of suicidal clients give warning signs. U.S. statistics: 10th leading cause of death overall; #2 or #3 for ages 15-24; older adults = 2-3x the general population rate. More common in rural areas, economic downturns, spring (end of April/May). Firearms = most common method. Famous person's suicide → national rate temporarily increases.",
+    "difficulty": "medium",
+    "confusable_with": "Suicide is higher among older adults (not just youth) — this surprises students who associate suicide primarily with adolescents"
+  },
+  {
+    "id": "ch10_fc_024",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Consultation — definition and Caplan's 4 types",
+    "back": "Consultation: voluntary relationship between a professional helper and a help-needing individual, group, or social unit to solve client or work-related problems. Consultant encourages growth/self-direction — should NOT create dependency. Caplan's 4 mental health consultation types: (1) Client-centered: focus on helping a specific client; (2) Consultee-centered case consultation: focus on improving consultee's skills for a client; (3) Consultee-centered administrative: sharpen consultee's administrative skills; (4) Program-centered administrative: create/design/evaluate a program.",
+    "difficulty": "hard",
+    "confusable_with": "Client-centered consultation ≠ client-centered therapy (Rogers) — same adjective, completely different concepts"
+  },
+  {
+    "id": "ch10_fc_025",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Schein's doctor-patient consultation model",
+    "back": "Edgar Schein's doctor-patient (purchase-of-expertise) consultation model: four stages — Entry, Diagnosis, Implementation, Evaluation. The consultee must: (1) accurately describe symptoms, (2) trust the consultant's diagnosis, (3) carry out the consultant's directives. Consultant focuses on content (knowledge imparted) OR process (communication dynamics). Most closely associated with Schein.",
+    "difficulty": "hard",
+    "confusable_with": "Caplan's types describe the TARGET of consultation; Schein's model describes the PROCESS/stages of consultation — different frameworks"
+  },
+  {
+    "id": "ch10_fc_026",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "DSM and ICD — nosological systems",
+    "back": "Nosology: a system of classification. DSM (Diagnostic and Statistical Manual): published by American Psychiatric Association (APA — NOT the psychologists' APA). ICD (International Classification of Diseases): published by World Health Organization (WHO). Both used by counselors who bill insurance. Strict Rogerians oppose formal diagnosis. Formal diagnosis is most closely tied to the medical model. Behaviorists prefer operational definitions over DSM categories.",
+    "difficulty": "easy",
+    "confusable_with": "DSM = American Psychiatric Association; APA also refers to American Psychological Association — two different organizations with the same initials"
+  },
+  {
+    "id": "ch10_fc_027",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "DSM-5 code format and V codes",
+    "back": "DSM-5: no longer uses multiaxial system or GAF scale. Codes have 4-5 digits; decimal point occurs after the 3rd digit (e.g., 296.22, 300.3). A single code can represent multiple conditions — always write the condition name in the chart. V codes: life problems that are NOT psychiatric disorders (e.g., acculturation problem, academic problem, occupational problem, parent-child problem, malingering). PTSD is NOT a V code — it is a diagnosable condition.",
+    "difficulty": "medium",
+    "confusable_with": "V codes = real-life problems (not psychiatric); PTSD is a genuine clinical diagnosis — common exam trick to list PTSD with V codes"
+  },
+  {
+    "id": "ch10_fc_028",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "CPT codes and superbill (insurance billing)",
+    "back": "CPT (Current Procedural Terminology) codes: AMA codes specifying WHAT TYPE of service was provided (individual therapy, group therapy, biofeedback, etc.) and duration. Required for insurance/third-party payments alongside ICD diagnosis code. Superbill: billing statement given at session's end; must include client name, date, ICD diagnosis, CPT code, provider name/license. Third-party payments = insurance payments. Copayment = client's portion of the fee.",
+    "difficulty": "medium",
+    "confusable_with": "ICD = WHAT diagnosis; CPT = WHAT service was performed — both required for insurance billing but serve different functions"
+  },
+  {
+    "id": "ch10_fc_029",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Referral fees, advertising, and testimonials",
+    "back": "Referral fees: counselors CANNOT ethically accept referral fees. Testimonials: counselors CANNOT solicit testimonials from clients. Advertising: IS ethical (Yellow Pages, newspapers, websites). However: leaders/executives cannot list their names as available counseling providers when they are NOT practicing (e.g., out of country doing research). Diverting agency clients to own private practice = unethical (self-referral). Publishing own textbook for own class = ethical.",
+    "difficulty": "medium",
+    "confusable_with": "Advertising itself is ethical; the ethics violation is misrepresentation (listing as available when unavailable) or soliciting testimonials"
+  },
+  {
+    "id": "ch10_fc_030",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Journal publication ethics",
+    "back": "Multiple/duplicate submission: submitting the same article to more than one journal simultaneously = UNETHICAL. Submit to ONE journal at a time. Once published, you may NOT republish elsewhere without express permission of the first publisher. Counseling journals use APA (American Psychological Association) Publication Manual style. Primary source = citing original author's own work; Secondary source = citing another text's description of the original.",
+    "difficulty": "easy",
+    "confusable_with": "Ethics prohibit SIMULTANEOUS submission to multiple journals — submitting to a new journal after rejection is fine and expected"
+  },
+  {
+    "id": "ch10_fc_031",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "CMC vs. CAC — computer use in counseling",
+    "back": "CMC (Computer-Managed Counseling): computer manages practice operations — scheduling clients, bookkeeping, billing, referral lists. Well-received by counselors (reduces paperwork). CAC (Computer-Assisted Counseling): computer software conducts the actual counseling interaction. Controversial; seen as cold/depersonalizing; conflicts with humanistic values of empathy and positive regard. Mixed reaction in the field.",
+    "difficulty": "easy",
+    "confusable_with": "CMC = management functions (administrative); CAC = actual counseling functions — the key distinction is whether the computer assists with administration or clinical work"
+  },
+  {
+    "id": "ch10_fc_032",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Impaired professional and paraprofessional",
+    "back": "Impaired professional: a counselor whose personal issues (substance abuse, burnout, mental health problems, brain damage) cause deterioration in their ability to function as a counselor. Paraprofessional: a helper who does NOT possess the education and experience necessary to secure professional credentials. Mesomorph/ectomorph/endomorph: Sheldon's outdated somatotype personality theory (unrelated to impairment; may appear as a distractor).",
+    "difficulty": "easy",
+    "confusable_with": "Impaired professional = capable person whose functioning is compromised; paraprofessional = person without full professional qualifications — two different concepts"
+  },
+  {
+    "id": "ch10_fc_033",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Screening groups and paradoxical interventions — ethics",
+    "back": "Ethics state that counselors should SCREEN all clients before placing them in group counseling — some clients are inappropriate for group work. Experimental treatments: must explain purpose, goals, and techniques to client and obtain informed consent. Paradoxical interventions (telling client to exaggerate a symptom): CONTRAINDICATED for suicidal or homicidal clients — this is a key safety rule.",
+    "difficulty": "medium",
+    "confusable_with": "Screening for groups is ethically required — not optional; paradoxical techniques are never appropriate with active suicide/homicide risk"
+  },
+  {
+    "id": "ch10_fc_034",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "FERPA and school counseling records",
+    "back": "FERPA (Family Educational Rights and Privacy Act, 1974, Buckley Amendment / PL 93-380): parents can see their child's school records; students 18+ can see their own records and can request corrections. School counselors: keep counseling notes SEPARATE from cumulative student files; ensure other teachers cannot access counseling notes. Courts CAN still subpoena counseling notes or compel testimony despite FERPA protections.",
+    "difficulty": "medium",
+    "confusable_with": "FERPA covers educational records; HIPAA covers medical/mental health records — school counselors may navigate both in different contexts"
+  },
+  {
+    "id": "ch10_fc_035",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "PL 94-142 (Education for All Handicapped Children Act) and ADA",
+    "back": "PL 94-142 (1975, one year before Virginia's licensure law): guarantees free appropriate education for all disabled children ages 5-21; least restrictive environment (LRE); Individualized Education Plan (IEP) for each child. Enforcement via funding denial. 'Disabled' is now preferred over 'handicapped.' ADA (Americans with Disabilities Act, 1990): employers with 15+ employees cannot discriminate against disabled persons.",
+    "difficulty": "medium",
+    "confusable_with": "PL 94-142 = educational rights (school settings); ADA = employment rights (workplaces with 15+ employees) — different settings, different laws"
+  },
+  {
+    "id": "ch10_fc_036",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Sliding fee scales and fee splitting",
+    "back": "Sliding fee scales (income-sensitive): ethical and legal; common in not-for-profit agencies; difficult to administer fairly. ACA 2014: if normal fee would cause client financial hardship, adjust the fee when possible. Fee splitting: using a percentage of fees as office rent = UNETHICAL. Charging a set office fee (flat amount) = ethical. Pro bono: free lectures, reduced fees, or post-disaster services (expanded ACA 2014 definition).",
+    "difficulty": "medium",
+    "confusable_with": "Sliding fees (variable by income) = ethical; fee splitting (sharing income as percentage) = unethical; the distinction is in the structure of the arrangement"
+  },
+  {
+    "id": "ch10_fc_037",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "ACA 2014 Code — key technology and social media provisions",
+    "back": "Do NOT 'friend' clients on social media — privacy invasion. Maintain separate professional and personal social media pages. Never post client information on social media. Distance counseling: use client verification (code word, special number, unique graphic); have informed consent describing technology failures, response time, risks, time zones, emergency protocols. Chronic suicidal clients = poor fit for electronic counseling. Skype = NOT HIPAA compliant (not encrypted). PHI (public health information) must be encrypted. Cloud storage must be backed up and secure.",
+    "difficulty": "hard",
+    "confusable_with": "Skype is not HIPAA compliant; encrypted platforms are required — many counselors use unencrypted tools unknowingly"
+  },
+  {
+    "id": "ch10_fc_038",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "ACA 2014 Code — key practice provisions",
+    "back": "Cannot refer client due to personal values — only due to lack of knowledge/competence. Cannot discriminate based on sexual orientation or gender identity. Cannot use conversion/reparative therapy. Cannot make clients 'friends' online. Cannot solicit testimonials. Cannot accept referral fees. Must wait 5 years before romantic relationship with former client (ACA); 2 years (NBCC). Cannot evaluate and counsel the same individual (e.g., court evaluation + counseling). Cannot take fees for placing students in practicum settings.",
+    "difficulty": "hard",
+    "confusable_with": "Referring for lack of competence = ethical; referring because of counselor's personal religious/values objection = unethical (ACA 2014)"
+  },
+  {
+    "id": "ch10_fc_039",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Behavioral counseling — ethical concerns",
+    "back": "Behavioral counseling has historically caused the most ethical concerns because it can control, manipulate, and shape behavior. Ethical questions include: aversive conditioning (electrical shocks, drugs), token economy systems, and operant contingencies that alter speaking, working, dressing, or social behavior. Some clients in token economy systems have questioned the legality of these contingencies.",
+    "difficulty": "easy",
+    "confusable_with": "Behavioral approaches raise the most ethics concerns; humanistic (Rogerian) approaches raise the fewest — because humanistic counselors follow the client's lead"
+  },
+  {
+    "id": "ch10_fc_040",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Professional counseling history — key dates and milestones",
+    "back": "First counselors: post-Civil War deans/advisors in college settings for women. Wilhelm Wundt: first psychology lab, 1879, Leipzig, Germany (structuralism). Frank Parsons: 'father of guidance'; Boston Vocational Guidance Bureau; Choosing a Vocation (1909). 'Counseling' term popularized: 1931 Workbook in Vocations (Proctor, Benefield, Wrenn). Rogers: Counseling and Psychotherapy (1942). 1950s = developmental psychology decade. 1958 NDEA: financial aid for counseling programs, expanded school guidance. 1960s = group movement. 1962: Wrenn's The Counselor in a Changing World (urged developmental focus). 1975: ACES licensure commission. 1976: Virginia first state to license counselors. 1980s = professionalism/credentialing emphasis.",
+    "difficulty": "hard",
+    "confusable_with": "Parsons is 'father of guidance' (not 'father of counseling') — Rogers is associated with popularizing counseling; Parsons with vocational guidance"
+  },
+  {
+    "id": "ch10_fc_041",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Nonmaleficence vs. beneficence vs. justice",
+    "back": "Nonmaleficence: the counselor will do NO HARM — never use strategies that could harm the client. Beneficence: counselor acts for the GOOD of the client AND society. Justice: all clients are treated FAIRLY and equitably. Veracity: counselor is TRUTHFUL (e.g., provides accurate diagnosis). Fidelity: counselor keeps PROMISES. Autonomy: client has the RIGHT to control their own life and decisions.",
+    "difficulty": "medium",
+    "confusable_with": "Nonmaleficence (avoid harm) and beneficence (do good) are complementary but distinct — nonmaleficence is 'first, do no harm'; beneficence is 'actively promote good'"
+  },
+  {
+    "id": "ch10_fc_042",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Impaired professional — what to do",
+    "back": "If you observe a colleague behaving unethically (whether or not certified): attempt to rectify via institutional channels first; if that fails, report to regulatory organizations. Cannot simply ignore it. NBCC: the colleague can be ANY mental health professional (not just certified counselors). Counselors should rely on continuing education to maintain competence.",
+    "difficulty": "easy",
+    "confusable_with": "Report first through institutional channels (internal), then external regulatory bodies if that fails — not the reverse"
+  },
+  {
+    "id": "ch10_fc_043",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Referral ethics — when and how",
+    "back": "Must refer when: (1) you cannot help the client, (2) the issue is outside your scope of practice, (3) countertransference is hindering treatment. When referring: provide client with alternative referral sources; you are NOT obligated to continue a relationship you initiated if you genuinely cannot help. Client cannot force you to continue by claiming you are the best. Cannot refer client for personal values — only for lack of competence. Cannot refer agency clients to own private practice.",
+    "difficulty": "medium",
+    "confusable_with": "Referring for competence gaps = ethical; refusing to refer and continuing treatment you cannot provide = unethical; refusing a referral because client insists you continue = ethical"
+  },
+  {
+    "id": "ch10_fc_044",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Contagious disease and confidentiality",
+    "back": "If a client has a contagious, life-threatening (fatal) disease that could endanger a specific third party, the counselor IS justified in warning that third party — this is an exception to confidentiality (Tarasoff principle extended). ACA 2014: removed the requirement to verify the medical condition before warning (previous 2005 code required verification; removed as unrealistic). Must first determine if client has already warned the person or plans to in a reasonable time.",
+    "difficulty": "hard",
+    "confusable_with": "Not every health issue warrants breaking confidentiality — it must be contagious, fatal, and endangering an IDENTIFIABLE third party"
+  },
+  {
+    "id": "ch10_fc_045",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "National Defense Education Act (NDEA) 1958",
+    "back": "Passed 1958; provided: (1) financial aid for graduate education in counseling, (2) expanded school guidance services, (3) improved guidance for gifted students. Created many pilot programs; funding gradually extended to serving economically disadvantaged youth. Also abbreviated NDEA on exams. Context: post-Sputnik concern about U.S. educational performance drove federal investment in guidance.",
+    "difficulty": "medium",
+    "confusable_with": "NDEA (1958, guidance/education funding) ≠ PL 94-142 (1975, disabled children's education rights) — different laws, different purposes, different populations"
+  },
+  {
+    "id": "ch10_fc_046",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Stereotyping and discrimination in counseling",
+    "back": "Discrimination: not treating all clients equally due to racial, religious, ethnic, sexual, or cultural prejudice. Stereotyping: viewing all persons of a given classification in a biased manner (e.g., all women are nonassertive managers). ACA 2014: counselors cannot refuse to counsel someone based on sexual orientation or gender identity. Cannot refer due to personal values — only due to competence gaps. Making career recommendations based on Jensen's IQ research for African Americans = stereotyping and discrimination.",
+    "difficulty": "easy",
+    "confusable_with": "Counselors can refer for lack of knowledge/training — but NOT because of their personal religious or cultural values about a client's identity"
+  },
+  {
+    "id": "ch10_fc_047",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Narcan, Vivitrol, Lithium, Suboxone — medication basics",
+    "back": "Narcan (Naloxone): reverses opioid overdose; no serious side effects; does not produce a high. Vivitrol: treats alcoholism. Lithium: treats bipolar disorder. Suboxone: treats opioid dependence. Common NCE distractor: Narcan is for opioids, NOT schizophrenia. Antipsychotics treat schizophrenia.",
+    "difficulty": "medium",
+    "confusable_with": "Narcan blocks opioids — it is NOT for schizophrenia or alcohol; the exam may list it with an incorrect condition as the distractor"
+  },
+  {
+    "id": "ch10_fc_048",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "C. Gilbert Wrenn and the counseling literature",
+    "back": "C. Gilbert Wrenn: The Counselor in a Changing World (1962 APGA publication). Urged counselors to emphasize DEVELOPMENTAL concerns rather than focusing solely on crises and remediation of emotional illness. Called for a broader, proactive role. This book was instrumental in steering counseling toward a developmental/preventive model in the 1960s.",
+    "difficulty": "medium",
+    "confusable_with": "Wrenn (1962, developmental focus) vs. Parsons (1909, vocational guidance) vs. Rogers (1942, nondirective counseling) — three different people who each redirected the profession"
+  },
+  {
+    "id": "ch10_fc_049",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "Malpractice — how to reduce risk",
+    "back": "Reduce malpractice risk: (1) maintain informed consent; (2) consult with colleagues AND ethical codes (legal standards are often based on peer behavior); (3) do not engage in dual/sexual relationships; (4) keep accurate records; (5) avoid excessive self-disclosure (can constitute malpractice if it serves counselor rather than client); (6) follow duty to warn; (7) refer when unable to help. In malpractice cases, judged by what peers (fellow professionals) would do in same situation.",
+    "difficulty": "medium",
+    "confusable_with": "Ethics codes alone are insufficient for malpractice defense — peer standard (what colleagues would do) is the legal benchmark used in court"
+  },
+  {
+    "id": "ch10_fc_050",
+    "domain": "Professional Orientation & Ethics",
+    "chapter": 10,
+    "front": "PTSD — clinical features and most at-risk group",
+    "back": "Post-Traumatic Stress Disorder (PTSD): follows trauma such as abduction, natural disasters, accidents, combat. Statistically, combat veterans are MOST likely to develop PTSD. Symptoms often DELAYED — do not manifest immediately following trauma. Classic symptoms: reliving the event via flashbacks and dreams. PTSD is a clinical diagnosis (NOT a V code). V codes = life problems that do not rise to the level of a psychiatric disorder.",
+    "difficulty": "medium",
+    "confusable_with": "PTSD is a clinical diagnosis requiring treatment — V codes (like occupational problem or academic problem) are NOT psychiatric disorders and typically don't require clinical intervention"
+  }
+]

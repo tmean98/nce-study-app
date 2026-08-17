@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ch05_q_001",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A client who has an abusive father begins calling her counselor 'Dad' and reacting with intense anger when the counselor is a few minutes late — the same anger she always felt when her father forgot to pick her up from school. This phenomenon is best described as:",
+    "options": [
+      "Countertransference, because the counselor is overreacting to the client",
+      "Projection, because the client is imagining hostility that isn't there",
+      "Transference, because the client is displacing feelings from a past relationship onto the counselor",
+      "Resistance, because the client is avoiding productive therapeutic work"
+    ],
+    "correct_index": 2,
+    "rationale": "Transference occurs when a client unconsciously displaces feelings from a significant past relationship (here, her father) onto the counselor. The anger is a re-experiencing of old relational dynamics. Countertransference (choice A) is the reverse — the counselor's unresolved feelings projected onto the client. Resistance (choice D) is tempting because the behavior disrupts therapy, but resistance specifically means blocking the therapeutic process (e.g., refusing free association), not displacing feelings."
+  },
+  {
+    "id": "ch05_q_002",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A counselor who works with sexual abuse survivors begins to notice that he feels strong romantic attraction to a new female client who reminds him of his ex-partner. He finds himself scheduling extra-long sessions and giving her gifts. This is MOST accurately described as:",
+    "options": [
+      "Empathy — the counselor is deeply attuned to the client's need for affirmation",
+      "Countertransference — the counselor's unresolved personal feelings are being displaced onto the client",
+      "Positive transference — the client is projecting warm feelings onto the counselor",
+      "Accurate congruence — the counselor is being authentic about his real feelings"
+    ],
+    "correct_index": 1,
+    "rationale": "Countertransference is when the counselor displaces his own unresolved emotional material onto the client. This is a clinical and ethical problem requiring supervision. Transference (choice C) flows from client to counselor, not the other way around. Congruence (choice D) refers to the counselor being authentic in a healthy, therapeutic way — not acting on personal attraction. This scenario also raises serious ethical concerns about boundary violations."
+  },
+  {
+    "id": "ch05_q_003",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A client with a severe spider phobia is first taught diaphragmatic breathing and progressive muscle relaxation. The counselor then helps him rank spider-related situations from least to most anxiety-provoking on a 0–100 scale. The client next imagines each scene while relaxed, and finally practices near real spiders. This approach is:",
+    "options": [
+      "Flooding, because the client is eventually exposed to real spiders",
+      "Implosive therapy, because the client uses imagination to confront the fear",
+      "Systematic desensitization, progressing through the standard steps in correct order",
+      "Covert sensitization, because imagination is used to pair the fear with relaxation"
+    ],
+    "correct_index": 2,
+    "rationale": "Wolpe's systematic desensitization follows the exact steps described: (1) relaxation training, (2) anxiety hierarchy with SUDS (0–100 scale), (3) desensitization in imagination, (4) in vivo exposure. The 0–100 scale is the SUDS (Subjective Units of Distress Scale). Flooding (choice A) is a tempting distractor because it also involves real exposure, but flooding provides immediate full-intensity exposure without relaxation or a gradual hierarchy. Implosive therapy (choice B) uses imagination but never moves to real exposure."
+  },
+  {
+    "id": "ch05_q_004",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A client with obsessive-compulsive disorder spends 3 hours per day checking that appliances are unplugged. Rather than trying to stop the checking, the counselor instructs him to deliberately check appliances 50 times per day instead of his usual 30. This technique is called:",
+    "options": [
+      "Systematic desensitization, because the hierarchy moves gradually from less to more checking",
+      "Paradoxical intention, because the client is directed to exaggerate the dysfunctional behavior",
+      "Behavioral rehearsal, because the client is practicing a new behavior in real life",
+      "Covert sensitization, because the checking behavior is made aversive through repetition"
+    ],
+    "correct_index": 1,
+    "rationale": "Paradoxical intention (Frankl) instructs the client to intentionally perform or exaggerate the very behavior causing distress. By prescribing the symptom, the anticipatory anxiety that sustains OCD is disrupted. Frankl is considered the father of paradoxical intention, though it is now categorized as a behavioral technique. Systematic desensitization (choice A) would not increase the symptom — it reduces anxiety through gradual hierarchy exposure. Behavioral rehearsal (choice C) refers to practicing desired, healthy behaviors in session."
+  },
+  {
+    "id": "ch05_q_005",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A teenager in a residential treatment facility earns plastic coins each time he completes his schoolwork. He can exchange ten coins for 30 minutes of video game time. The 30 minutes of video game time is BEST classified as:",
+    "options": [
+      "A primary reinforcer, because it is inherently rewarding",
+      "A negative reinforcer, because it removes academic pressure",
+      "A back-up reinforcer, because it is an activity that can be purchased with tokens",
+      "A conditioned reinforcer, because the teenager had to learn to value it"
+    ],
+    "correct_index": 2,
+    "rationale": "A back-up reinforcer is any item or activity that can be purchased using tokens in a token economy. The coins are the secondary (token) reinforcers; the video game time is the back-up reinforcer — the actual desired reward. Primary reinforcers (choice A) are inherently reinforcing (food, water) and do not require tokens. Negative reinforcement (choice B) increases behavior by removing something aversive — that is not what is happening here. Choice D is partially true (video games are conditioned reinforcers) but 'back-up reinforcer' is the more specific and preferred term in this context."
+  },
+  {
+    "id": "ch05_q_006",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "Which reinforcement schedule produces behavior that is MOST resistant to extinction?",
+    "options": [
+      "Fixed ratio, because reinforcement is predictable and consistent",
+      "Fixed interval, because behavior is reinforced on a time-based schedule",
+      "Variable interval, because the time between reinforcements is unpredictable",
+      "Variable ratio, because both the number of responses and timing are unpredictable"
+    ],
+    "correct_index": 3,
+    "rationale": "Variable ratio (VR) is the most resistant to extinction and the most effective schedule of reinforcement. The unpredictability of the number of responses needed means the person never knows when reinforcement is coming, so they keep responding. Slot machines operate on a VR schedule. Fixed interval (choice B) is the LEAST effective of the four intermittent schedules. The effectiveness ranking is: VR > VI > FR > FI. Fixed ratio (choice A) is tempting because it sounds reliable, but predictability actually makes extinction easier."
+  },
+  {
+    "id": "ch05_q_007",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A counselor treating a client's fear of flying uses Wolpe's systematic desensitization. Which scene should appear FIRST in the anxiety hierarchy?",
+    "options": [
+      "Imagining taking off from the runway",
+      "Imagining boarding the plane at the gate",
+      "Imagining calling the airline to make a reservation",
+      "Sitting in an actual airplane while it is parked at the gate"
+    ],
+    "correct_index": 2,
+    "rationale": "The anxiety hierarchy is ordered from LEAST to MOST anxiety-arousing. Calling the airline is the most distant, abstract, and least threatening step — far less anxiety-producing than boarding or takeoff. The ideal hierarchy contains 10–15 evenly spaced items using the SUDS (0–100). In vivo exposure (choice D) is actually the final stage of systematic desensitization and should not begin until the client has been desensitized to at least 75% of the hierarchy items."
+  },
+  {
+    "id": "ch05_q_008",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A flood survivor comes to counseling in acute distress. She describes the horror of watching her home destroyed. Her counselor responds warmly: 'Oh you poor thing — that is absolutely catastrophic! I can't imagine how you could possibly go on!' This response is an example of:",
+    "options": [
+      "Additive empathy, because it validates the depth of the client's pain",
+      "Accurate empathy, because it reflects the client's emotional experience",
+      "Sympathy, because it expresses pity rather than entering the client's frame of reference",
+      "Congruence, because the counselor is genuinely expressing his own emotional reaction"
+    ],
+    "correct_index": 2,
+    "rationale": "Sympathy involves expressing pity or compassion from the outside — feeling sorry FOR the client. Accurate empathy (choice B) requires the counselor to enter the client's subjective world and communicate understanding of it, without projecting or catastrophizing. The counselor's response is emotionally overwrought and evaluative, which is sympathy (or even unhelpful counter-reaction), not empathy. Congruence (choice D) refers to authentic self-expression by the counselor, but that authenticity must still be therapeutically appropriate."
+  },
+  {
+    "id": "ch05_q_009",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A client says to her gestalt therapist: 'It is just impossible to express feelings to my husband.' The therapist's MOST appropriate gestalt-informed response would be to ask the client to:",
+    "options": [
+      "Explore how her parents communicated emotions in her childhood",
+      "Imagine her husband in an empty chair and speak directly to him",
+      "Rephrase her statement as an 'I' statement: 'I find it impossible to express feelings to my husband'",
+      "Identify the irrational belief underlying her communication difficulty"
+    ],
+    "correct_index": 2,
+    "rationale": "A core gestalt technique is eliminating 'it talk' and replacing it with 'I statements' to promote personal responsibility and awareness. Saying 'it is impossible' externalizes the problem; saying 'I find it impossible' brings it back to the person's own experience. The empty chair technique (choice B) is also a gestalt technique but is used to engage with another person or part of the self — not the appropriate first response here. Identifying irrational beliefs (choice D) is REBT, not gestalt."
+  },
+  {
+    "id": "ch05_q_010",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "Carl Rogers identified three core conditions necessary for therapeutic growth. Which of the following is TRUE about these conditions?",
+    "options": [
+      "Empathy is the most important of the three conditions",
+      "Congruence (genuineness) is the most important, while UPR and empathy are also necessary",
+      "Unconditional positive regard is the most foundational condition",
+      "All three conditions are equally weighted and none takes priority"
+    ],
+    "correct_index": 1,
+    "rationale": "Rogers stated that congruence — the counselor being genuine and authentic, without a professional facade — is the MOST important of the three conditions. The three conditions are: (1) Congruence/genuineness (most important), (2) Unconditional positive regard (nonpossessive warmth, nonjudgmental acceptance), (3) Empathic understanding. While many counselor educators emphasize empathy as critical, Rogers himself prioritized congruence. This is a frequently tested distinction."
+  },
+  {
+    "id": "ch05_q_011",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A client in REBT tells his counselor: 'I lost my promotion and it is the worst possible thing that could ever happen to me. My life is ruined.' According to Ellis, which irrational thinking pattern is this client exhibiting?",
+    "options": [
+      "Musturbation — the client is imposing unrealistic demands with 'musts' and 'shoulds'",
+      "Awfulizing/catastrophizing — the client is magnifying the severity of the situation beyond reality",
+      "Projection — the client is attributing his own failures to external forces",
+      "Free-floating anxiety — the client's distress is not connected to a specific stimulus"
+    ],
+    "correct_index": 1,
+    "rationale": "Awfulizing (also called terriblizing or catastrophizing) occurs at point B in the ABC model — the client's belief that the situation is the absolute worst possible outcome. This is an irrational cognition that creates emotional disturbance at point C. Musturbation (choice A) is a different Ellis concept involving rigid 'should/must/ought' language — the client doesn't use those words here. Projection (choice C) is a psychoanalytic defense mechanism and is unrelated. The goal of REBT disputing (D) would be to challenge this belief."
+  },
+  {
+    "id": "ch05_q_012",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "Albert Beck's cognitive therapy differs from Ellis's REBT most notably in that Beck:",
+    "options": [
+      "Uses the ABC model to identify and dispute irrational beliefs",
+      "Views the therapeutic relationship as irrelevant to outcome",
+      "Describes maladaptive thinking as 'too absolute and broad' rather than 'irrational'",
+      "Focuses on unconscious material and dream interpretation"
+    ],
+    "correct_index": 2,
+    "rationale": "Beck deliberately avoided the word 'irrational' — he felt clients' distorted cognitions were better described as 'too absolute, broad, or extreme' rather than irrational. He preferred to examine 'rules' or 'formulas for living' and used Socratic questioning to help clients test them. The ABC model (choice A) belongs to Ellis's REBT. Beck's cognitive triad of depression focuses on negative views of self, world, and future — not unconscious material (choice D). Both approaches are cognitive-behavioral, but this terminology distinction is a common exam item."
+  },
+  {
+    "id": "ch05_q_013",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A counselor has a prestigious office with framed diplomas, awards, and published books on prominent display. A new client thinks to himself, 'This person really knows what they're doing.' According to Stanley Strong's social influence model, the client is responding to the counselor's:",
+    "options": [
+      "Competence, because the client is evaluating the counselor's actual clinical skills",
+      "Expertness, because the client perceives the counselor as knowledgeable based on environmental cues",
+      "Attractiveness, because the counselor's credentials make him appealing to the client",
+      "Trustworthiness, because the formal setting signals reliability and professionalism"
+    ],
+    "correct_index": 1,
+    "rationale": "Expertness in Strong's social influence model (1968) refers to how the CLIENT perceives the counselor's knowledge — not the counselor's actual competence. Diplomas and awards are environmental cues that create the perception of expertise. A counselor can be perceived as expert without being truly competent. The EAT formula: Expertness, Attractiveness, Trustworthiness. Competence (choice A) refers to the counselor's self-perception of adequacy, not the client's perception. Attractiveness (choice C) involves positive feelings and perceived similarity."
+  },
+  {
+    "id": "ch05_q_014",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "William Glasser's reality therapy would be MOST likely to differ from classical psychoanalysis in which of the following ways?",
+    "options": [
+      "Reality therapy emphasizes exploring early childhood trauma to understand present behavior",
+      "Reality therapy rejects formal diagnosis, avoids the unconscious, and focuses on here-and-now behavior",
+      "Reality therapy relies heavily on the client's free association to uncover repressed material",
+      "Reality therapy considers the transference relationship the primary vehicle of change"
+    ],
+    "correct_index": 1,
+    "rationale": "Reality therapy differs from psychoanalysis on virtually every major dimension. Glasser rejected: (1) diagnosis/DSM (labels give 'permission to act sick'), (2) the unconscious (not a meaningful concept in reality therapy), (3) past exploration (the past is not the problem — focus on present successes), (4) transference. Instead, reality therapy focuses on the here and now, responsible behavior, a therapeutic friendship, and choice theory. Choices A, C, and D all describe psychoanalytic features that Glasser explicitly rejected."
+  },
+  {
+    "id": "ch05_q_015",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A client with intense health anxiety notices she feels dizzy and her heart races whenever she thinks about doctors. A gestalt therapist's MOST likely response is to:",
+    "options": [
+      "Teach her diaphragmatic breathing to manage the physiological symptoms",
+      "Explore early childhood experiences of illness to uncover the root cause",
+      "Ask her to 'stay with the feeling' and increase her awareness of the bodily sensation",
+      "Help her identify the irrational belief that doctors represent danger"
+    ],
+    "correct_index": 2,
+    "rationale": "Gestalt therapy emphasizes staying with the present-moment experience rather than analyzing, avoiding, or immediately problem-solving it. When a client tries to escape a feeling, the gestalt therapist encourages contact with it — 'stay with the feeling.' This promotes awareness, which is the vehicle of change in gestalt therapy. Teaching breathing (choice A) is behavioral and avoidant. Exploring childhood (choice B) is psychoanalytic — gestalt focuses on the here and now. Identifying irrational beliefs (choice D) is REBT."
+  },
+  {
+    "id": "ch05_q_016",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "Viktor Frankl developed logotherapy after surviving Nazi concentration camps. The central premise of logotherapy is that:",
+    "options": [
+      "Repressed memories from childhood cause neurotic symptoms in adulthood",
+      "Humans are fundamentally determined by their biological drives and early experiences",
+      "The primary human motivation is the will to find meaning, and neurosis results from its frustration",
+      "Behavioral conditioning explains all psychological suffering and can cure it"
+    ],
+    "correct_index": 2,
+    "rationale": "Frankl's logotherapy (logos = meaning) holds that the primary human motivational force is the will to meaning. Noogenic neurosis = the existential frustration of that will to meaning. Frankl believed that even the worst suffering (e.g., concentration camp imprisonment) cannot rob a person of the freedom to choose one's response, and suffering itself can be given meaning. This contrasts sharply with psychoanalysis (choice A/B), which is deterministic. Logotherapy is existential-humanistic in orientation."
+  },
+  {
+    "id": "ch05_q_017",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "Prochaska's Transtheoretical Model (TTM) identifies stages of change. A client who says 'I know my drinking is a problem and I've been thinking about quitting for months, but I'm not ready to do anything about it yet' is MOST likely in which stage?",
+    "options": [
+      "Precontemplation — the client is unaware or in denial about having a problem",
+      "Contemplation — the client acknowledges the problem and is ambivalent but not yet taking action",
+      "Preparation — the client is actively planning how to change",
+      "Action — the client is beginning to make behavioral changes"
+    ],
+    "correct_index": 1,
+    "rationale": "Contemplation involves awareness of the problem and ambivalence about changing — the person is 'getting ready' but has not yet committed to action or made a plan. Precontemplation (choice A) involves not acknowledging the problem or being ready to change. Preparation (choice C) involves actively developing a change plan. Action (choice D) involves actually taking steps. Matching interventions to the client's current stage is the clinical utility of the TTM — a client in contemplation may not respond well to action-stage interventions."
+  },
+  {
+    "id": "ch05_q_018",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A client with severe PTSD from a car accident reports that vivid flashbacks have significantly decreased after several sessions of a treatment in which she followed the counselor's finger moving side-to-side while mentally revisiting the traumatic memory. This treatment is:",
+    "options": [
+      "Systematic desensitization, because the client is gradually exposed to the traumatic memory",
+      "EMDR (eye movement desensitization and reprocessing), developed by Francine Shapiro",
+      "Implosive therapy (Stampfl), because imagination is used to process the trauma",
+      "Flooding, because the client is fully exposed to the traumatic memory without gradual steps"
+    ],
+    "correct_index": 1,
+    "rationale": "EMDR (Eye Movement Desensitization and Reprocessing) was developed by Francine Shapiro in 1987, initially inspired by her observation that disturbing memories lessened when her eyes moved back and forth on a walk. The therapist guides bilateral eye movements while the client processes traumatic memories. Research indicates EMDR works even without the eye movements (extinction is the likely mechanism, per dismantling studies). Joseph Wolpe endorsed EMDR before his death. It is effective for PTSD, anxiety, and trauma. Systematic desensitization (choice A) uses a formal hierarchy and relaxation training."
+  },
+  {
+    "id": "ch05_q_019",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "In Transactional Analysis, a supervisor says to an employee: 'You really should know better than to make that mistake. What were you thinking?' and the employee responds: 'You're right. I'll do better next time.' A TA therapist would classify this as:",
+    "options": [
+      "A complementary transaction from Parent to Child, with a Child-to-Parent response — healthy communication",
+      "A crossed transaction, because the employee's Adult should have responded to the Parent",
+      "An ulterior transaction, because there is a hidden Child-to-Child message beneath the surface",
+      "A parallel transaction between two Adult ego states"
+    ],
+    "correct_index": 0,
+    "rationale": "In TA, a complementary (parallel) transaction occurs when the response comes from the expected ego state and the communication vectors run parallel. The supervisor's Critical Parent message directed at the Child ego state is met with a Child response ('I'll do better') — the vectors are parallel, so communication continues. This is 'healthy' in TA terms because there is no communication breakdown, even if the content is critical. A crossed transaction (choice B) would result in a deadlock — e.g., if the employee's Adult responded critically back. An ulterior transaction (choice C) has a hidden second-level message."
+  },
+  {
+    "id": "ch05_q_020",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "question": "A counselor is treating a client's tension headaches using a device that gives real-time readings of muscle activity in the forehead. The reading beeps when the frontalis muscle exceeds a tension threshold. This is an example of:",
+    "options": [
+      "Thermal biofeedback, used primarily for migraine prevention by raising hand temperature",
+      "EEG neurofeedback, used to train the production of alpha brain waves",
+      "EMG biofeedback, which provides feedback directly on muscle tension levels",
+      "GSR biofeedback, which measures galvanic skin response as an index of arousal"
+    ],
+    "correct_index": 2,
+    "rationale": "EMG (electromyogram) biofeedback measures electrical activity in specific muscle groups — exactly what is happening here with the frontalis muscle. The 'M' in EMG stands for muscle — a useful memory device. Thermal biofeedback (choice A) measures hand temperature and is used to prevent migraines (Menninger Clinic). EEG/neurofeedback (choice B) monitors brain waves (alpha = 8–12 cycles per second; relaxed-waking state) and is used for ADHD among other conditions. GSR (choice D) measures skin electrical resistance and has limited clinical use."
+  }
+]

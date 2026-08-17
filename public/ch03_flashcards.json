@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ch03_fc_001",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Freud's psychosexual stages (in order)",
+    "back": "Oral (birth\u20131yr) \u2192 Anal (1\u20133yr) \u2192 Phallic (3\u20136yr) \u2192 Latency (6\u201312yr) \u2192 Genital (12+). Key: Latency is the ONLY stage NOT primarily sexual \u2014 sexual drives go dormant, replaced by social interests.",
+    "difficulty": "basic recall",
+    "confusable_with": "Erikson's psychosocial stages \u2014 Freud = psychoSEXUAL, Erikson = psychoSOCIAL"
+  },
+  {
+    "id": "ch03_fc_002",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Erikson's 8 Psychosocial Stages (in order with approximate ages)",
+    "back": "1. Trust vs Mistrust (0\u20131yr)\n2. Autonomy vs Shame & Doubt (1\u20133yr)\n3. Initiative vs Guilt (3\u20136yr)\n4. Industry vs Inferiority (6\u201312yr)\n5. Identity vs Role Confusion (adolescence)\n6. Intimacy vs Isolation (23\u201334yr)\n7. Generativity vs Stagnation (35\u201360yr)\n8. Integrity vs Despair (60+)\nKey: Only theory covering the ENTIRE life span from birth to death.",
+    "difficulty": "basic recall",
+    "confusable_with": "Freud's 5 stages only go to age 12 (genital stage); Erikson's go to old age"
+  },
+  {
+    "id": "ch03_fc_003",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Piaget's 4 Cognitive Development Stages (in order)",
+    "back": "1. Sensorimotor (birth\u20132yr) \u2014 reflexes, object permanence\n2. Preoperational (2\u20137yr) \u2014 egocentrism, animism, centration, symbolic play\n3. Concrete Operations (7\u201311yr) \u2014 conservation, reversibility, logical thinking\n4. Formal Operations (11+yr) \u2014 abstract thought, hypothetical reasoning\nMemory trick: Stages always occur in same order; age may vary by culture.",
+    "difficulty": "basic recall",
+    "confusable_with": "Conservation belongs to Concrete Operations (not Preoperational); abstract thinking belongs to Formal Operations (not Concrete)"
+  },
+  {
+    "id": "ch03_fc_004",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Conservation (Piaget)",
+    "back": "The understanding that a substance's weight, mass, and volume remain the same even if its shape changes. Mastered during Concrete Operations (ages 7\u201311). Order of mastery: Mass first \u2192 Weight \u2192 Volume. Memory trick: Conservation, Counting, Concrete all start with 'C'.",
+    "difficulty": "applied",
+    "confusable_with": "Object permanence (sensorimotor stage) \u2014 different concept; conservation is about substance constancy across shape changes"
+  },
+  {
+    "id": "ch03_fc_005",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Object Permanence (Piaget)",
+    "back": "The understanding that objects continue to exist even when not visible. Develops during the Sensorimotor stage (~8 months+). A child without it thinks 'out of sight = out of mind.' Also called 'object constancy.'",
+    "difficulty": "basic recall",
+    "confusable_with": "Conservation \u2014 both involve object understanding but at different stages; object permanence = sensorimotor, conservation = concrete operations"
+  },
+  {
+    "id": "ch03_fc_006",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Egocentrism (Piaget, Preoperational stage)",
+    "back": "The child's inability to view the world from anyone else's perspective. NOT selfishness \u2014 the child literally cannot take another's point of view. Classic example: child says 'the rain is following me.' Demonstrated by Piaget's 'Three Mountains Task.'",
+    "difficulty": "applied",
+    "confusable_with": "Centration \u2014 also preoperational, but centration = focusing on one feature of an object; egocentrism = inability to take others' perspectives"
+  },
+  {
+    "id": "ch03_fc_007",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Centration (Piaget)",
+    "back": "The tendency to focus exclusively on one salient feature of an object or situation while ignoring all others. Occurs in the Preoperational stage (ages 2\u20137). Example: child focuses only on a clown's red nose, ignoring all other features.",
+    "difficulty": "basic recall",
+    "confusable_with": "Egocentrism \u2014 both preoperational; egocentrism = perspective-taking failure, centration = attention narrowing to one feature"
+  },
+  {
+    "id": "ch03_fc_008",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Animism (Piaget)",
+    "back": "A child attributes lifelike qualities to inanimate objects (e.g., a rock is 'talking'). Occurs in the Preoperational stage (ages 2\u20137).",
+    "difficulty": "basic recall",
+    "confusable_with": "Egocentrism \u2014 both preoperational; animism = projecting life onto objects, egocentrism = inability to take others' views"
+  },
+  {
+    "id": "ch03_fc_009",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Assimilation, Accommodation, and Equilibration (Piaget)",
+    "back": "Assimilation: Taking in new information and fitting it into existing cognitive schemas.\nAccommodation: Modifying existing schemas to handle new information that doesn't fit.\nEquilibration (Equilibrium): The balance between assimilation and accommodation. When schemas can't process new info, 'disequilibrium' occurs, prompting accommodation.",
+    "difficulty": "applied",
+    "confusable_with": "These three work together; equilibration is the balancing mechanism, not a stage"
+  },
+  {
+    "id": "ch03_fc_010",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Kohlberg's 3 Levels and 6 Stages of Moral Development",
+    "back": "Level 1 \u2014 Preconventional (premoral):\n  Stage 1: Punishment/obedience orientation\n  Stage 2: Naive hedonism ('if I'm nice, others will be nice to me')\nLevel 2 \u2014 Conventional (morality of conformity):\n  Stage 3: Good boy/good girl orientation\n  Stage 4: Authority, law & order\nLevel 3 \u2014 Postconventional (self-accepted principles):\n  Stage 5: Social contract (democratically accepted law)\n  Stage 6: Universal ethical principles\nKey: Many people NEVER reach Level 3.",
+    "difficulty": "basic recall",
+    "confusable_with": "Piaget's moral stages (heteronomous vs autonomous) \u2014 Piaget has 2 stages, Kohlberg has 6 stages in 3 levels"
+  },
+  {
+    "id": "ch03_fc_011",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Heinz Dilemma (Kohlberg)",
+    "back": "A moral story used by Kohlberg to assess a person's stage of moral development. Key: It is the REASONING behind the decision (not the decision itself) that determines the moral stage. The dilemma involves a husband stealing a drug to save his dying wife.",
+    "difficulty": "applied",
+    "confusable_with": "It's not the answer (steal or not) that matters \u2014 it's the WHY. This distinguishes Kohlberg's method from simple rule-following."
+  },
+  {
+    "id": "ch03_fc_012",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Fixation (Freud)",
+    "back": "When a child is severely traumatized, emotional development stops and the person becomes 'stuck' at that psychosexual stage. Physical and cognitive development may continue normally. The person returns to the safety of that stage under stress.",
+    "difficulty": "basic recall",
+    "confusable_with": "Regression \u2014 regression is returning to an earlier stage under stress AFTER having moved past it; fixation is never fully leaving the stage"
+  },
+  {
+    "id": "ch03_fc_013",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Oedipus Complex vs Electra Complex (Freud)",
+    "back": "Oedipus Complex (boys): Unconscious wish to marry the mother, rage toward the father. Occurs during the Phallic stage (ages 3\u20135). Memory: Phallic and Oedipus both contain 'p.'\nElectra Complex (girls): Analogous fantasy directed toward the opposite-sex parent.\nResolution: Child identifies with same-sex parent \u2192 superego/conscience is formed.",
+    "difficulty": "applied",
+    "confusable_with": "Occurs in the PHALLIC stage (not latency). Both involve fantasies about opposite-sex parent."
+  },
+  {
+    "id": "ch03_fc_014",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Freud's Structural Theory of the Mind: Id, Ego, Superego",
+    "back": "Id: 'Pleasure principle' \u2014 seat of sex and aggression; irrational, unconscious, chaotic. No sense of time or morality.\nEgo: 'Reality principle' \u2014 logical, rational; mediates id impulses against reality.\nSuperego: Moralistic, idealistic portion; conscience. Corresponds to Berne's 'Parent ego state.'\nEgo psychologists (like Erikson) emphasize the ego, not the id.",
+    "difficulty": "basic recall",
+    "confusable_with": "Erikson (ego psychologist) stresses ego control; Freud stressed the id/instincts"
+  },
+  {
+    "id": "ch03_fc_015",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "John Bowlby \u2014 Attachment & Bonding",
+    "back": "British psychiatrist who saw bonding/attachment as having innate survival value. Key claims:\n\u2022 Child must bond with an adult before age 3 for normal social development\n\u2022 Failure to bond = 'object loss' \u2192 breeding ground for psychopathology\n\u2022 Sequence of object loss: Protest \u2192 Despair \u2192 Detachment\nMemory: Bowlby = Bonding (both start with 'B').",
+    "difficulty": "basic recall",
+    "confusable_with": "Harlow studied attachment in monkeys (contact comfort); Bowlby focused on human bonding theory"
+  },
+  {
+    "id": "ch03_fc_016",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Harry Harlow \u2014 Rhesus Monkey Experiments",
+    "back": "Demonstrated that 'contact comfort' is more important than food in attachment. Infant monkeys preferred terry-cloth mothers over wire mothers even when wire mothers provided milk. Monkeys raised in isolation developed autistic-like behavior. Concluded: Attachment is innate, not learned (Skinnerian food-based explanation rejected).",
+    "difficulty": "applied",
+    "confusable_with": "Bowlby \u2014 both deal with attachment; Harlow = animal experiments/contact comfort, Bowlby = human bonding theory"
+  },
+  {
+    "id": "ch03_fc_017",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Konrad Lorenz \u2014 Imprinting and Ethology",
+    "back": "Ethology: Study of animals' behavior in their natural environment (vs. comparative psychology = lab research).\nImprinting: Instinctual behavior in newborn animals to follow the first moving object encountered (normally the mother). Illustrates 'critical periods' \u2014 if certain behaviors are not learned during a specific window, they may never be learned.",
+    "difficulty": "basic recall",
+    "confusable_with": "Critical period vs sensitive period \u2014 critical period = behavior cannot be learned at all if missed; sensitive period = learning is easier during this window but possible later"
+  },
+  {
+    "id": "ch03_fc_018",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Zone of Proximal Development (Vygotsky)",
+    "back": "The difference between what a child can do alone vs. what they can do with teacher guidance. Vygotsky argued developmental stages emerge through educational intervention (disagreed with Piaget's view that stages unfold naturally/biologically).",
+    "difficulty": "basic recall",
+    "confusable_with": "Piaget believed stages unfold naturally regardless of instruction; Vygotsky believed instruction drives development"
+  },
+  {
+    "id": "ch03_fc_019",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Maslow's Hierarchy of Needs",
+    "back": "From lowest to highest:\n1. Physiological (food, water, shelter)\n2. Safety & Security\n3. Love, Affection & Belonging\n4. Self-Esteem\n5. Self-Actualization\nKey: Lower-order needs must be met before higher-order needs become motivating. Higher-order needs (non-physiological) are sometimes called 'metaneeds.' Maslow = Humanistic/'Third Force' psychology.",
+    "difficulty": "basic recall",
+    "confusable_with": "Self-esteem comes BEFORE self-actualization; love/belonging comes before self-esteem"
+  },
+  {
+    "id": "ch03_fc_021",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Maturation Theory",
+    "back": "Behavior is guided primarily by hereditary factors, but specific behaviors won't manifest until environmental stimuli are present and neural development is sufficiently mature. Associated with Arnold Gesell (who pioneered the one-way mirror for child observation). Contrasts with behaviorism, which emphasizes environment.",
+    "difficulty": "basic recall",
+    "confusable_with": "Nature vs nurture: maturationists lean toward nature/heredity; behaviorists lean toward nurture/environment"
+  },
+  {
+    "id": "ch03_fc_022",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Idiographic vs Nomothetic Approaches",
+    "back": "Idiographic: Studies the individual in depth (e.g., Freud, Piaget \u2014 case study methods).\nNomothetic: Studies large groups to create general principles applicable to a population (e.g., behaviorism, DSM classification).",
+    "difficulty": "applied",
+    "confusable_with": "Easy to confuse directions: IDIOgraphic = IDIOsyncratic individual study; NOMOthetic = NORMS from groups"
+  },
+  {
+    "id": "ch03_fc_023",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Epigenetic Principle",
+    "back": "Each developmental stage emerges from the previous one in a fixed, systematic order. Associated with Erikson, Kohlberg, and Maslow. Also: contemporary definition includes that environmental factors can influence genetic expression.",
+    "difficulty": "basic recall",
+    "confusable_with": "Epigenetic \u2260 genetics alone; it means stages build sequentially AND environment can influence genetic expression"
+  },
+  {
+    "id": "ch03_fc_024",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Ren\u00e9 Spitz \u2014 Anaclitic Depression",
+    "back": "Children reared in impersonal institutions who experienced maternal deprivation between 6\u20138 months of life cried more, had sleep difficulties, health problems, and great difficulty forming relationships. Called this 'anaclitic depression.'",
+    "difficulty": "basic recall",
+    "confusable_with": "Harlow's monkey studies showed similar results; Spitz studied human infants in institutional settings"
+  },
+  {
+    "id": "ch03_fc_025",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Margaret Mahler \u2014 Separation-Individuation Theory",
+    "back": "Theory of child development focusing on the child's psychological 'birth' through separation from the mother. Calls the child's absolute dependence on the female caretaker 'symbiosis.' Difficulties in symbiotic relationship \u2192 adult psychosis.",
+    "difficulty": "basic recall",
+    "confusable_with": "Bowlby's attachment theory \u2014 both address early mother-child bonds, but Mahler focuses on symbiosis/individuation, Bowlby focuses on attachment security"
+  },
+  {
+    "id": "ch03_fc_026",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Daniel Levinson \u2014 Midlife Crisis",
+    "back": "Yale research: 80% of men studied experienced moderate to severe midlife crises. Levinson wrote 'Seasons of a Man's Life' and 'Seasons of a Woman's Life.' Viewed midlife crisis as somewhat positive \u2014 avoiding it can lead to stagnation in one's 50s. Midlife crisis typically: men ages 35\u201345, women about 5 years earlier.",
+    "difficulty": "basic recall",
+    "confusable_with": "Erikson's Generativity vs Stagnation (ages 35\u201360) covers similar developmental territory; Levinson's model is more focused on adult transitions"
+  },
+  {
+    "id": "ch03_fc_027",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Robert Havighurst \u2014 Developmental Tasks Theory",
+    "back": "Proposed developmental tasks at each life stage:\n\u2022 Infancy & early childhood: walking, eating solid foods\n\u2022 Middle childhood (6\u201312): learning to get along with peers, developing conscience\n\u2022 Adolescence (12\u201318): preparing for marriage, economic career\n\u2022 Early adulthood (19\u201330): selecting mate, starting family\n\u2022 Middle age (30\u201360): civic responsibility, guiding teenagers\n\u2022 Later maturity (60+): adjusting to retirement, death of spouse",
+    "difficulty": "basic recall",
+    "confusable_with": "Erikson's stages \u2014 both cover full life span; Havighurst focuses on tasks/skills, Erikson focuses on psychosocial crises"
+  },
+  {
+    "id": "ch03_fc_028",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Robert Perry \u2014 Dualistic vs Relativistic Thinking",
+    "back": "Perry's model of adult cognitive development in college students:\n\u2022 Dualistic thinking (common in teens): things are good/bad, right/wrong \u2014 black-and-white, no ambiguity. Students assume the professor has 'the answer.'\n\u2022 Relativistic thinking (adulthood): not everything is right or wrong; answers exist relative to situations. Multiple worldviews are possible.",
+    "difficulty": "basic recall",
+    "confusable_with": "Robert Kegan also studies adult cognitive development; Kegan focuses on interpersonal/constructive development, Perry focuses on epistemological development"
+  },
+  {
+    "id": "ch03_fc_029",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Robert Kegan \u2014 Constructive Model of Development",
+    "back": "Individuals construct reality throughout the life span. 6 stages: incorporative, impulsive, imperial, interpersonal, institutional, interindividual. Concept of 'holding environment': a therapeutic space where clients can make meaning in the face of crisis and find new direction.",
+    "difficulty": "basic recall",
+    "confusable_with": "Robert Perry \u2014 both study adult development; Perry = epistemological (how we know), Kegan = meaning-making/interpersonal construction"
+  },
+  {
+    "id": "ch03_fc_030",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Harry Stack Sullivan \u2014 Interpersonal Relations Theory",
+    "back": "Proposed stages: infancy, childhood, juvenile era, preadolescence, early adolescence, late adolescence. Similar to Erikson in that biological determinism is less important than interpersonal and sociocultural factors. Key focus: social influences on development.",
+    "difficulty": "basic recall",
+    "confusable_with": "Erikson \u2014 both emphasize social/interpersonal factors over biology; Sullivan focuses on interpersonal relationships, Erikson on psychosocial crises"
+  },
+  {
+    "id": "ch03_fc_031",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Identity Crisis (Erikson)",
+    "back": "Occurs in Erikson's Stage 5: Identity vs Role Confusion (adolescence). Adolescents experiment with various roles trying to discover who they are. Failure to integrate roles into a single self-concept = role confusion = identity crisis. Term 'identity crisis' was coined by Erikson.",
+    "difficulty": "basic recall",
+    "confusable_with": "Midlife crisis (Levinson) \u2014 different developmental period; identity crisis = adolescence, midlife crisis = 35\u201345"
+  },
+  {
+    "id": "ch03_fc_032",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Generativity vs Stagnation (Erikson Stage 7)",
+    "back": "Ages 35\u201360. Generativity = productive concern for establishing and guiding the next generation; includes raising a family, creative work, career. Failure = self-centeredness/self-absorption. Memory: 'Generativity' sounds like 'generation' \u2014 planning for the next generation.",
+    "difficulty": "basic recall",
+    "confusable_with": "Integrity vs Despair (Stage 8, age 60+): that stage is about reviewing one's life; generativity is about being productive for others"
+  },
+  {
+    "id": "ch03_fc_033",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Formal Operations Stage (Piaget)",
+    "back": "Begins approximately age 11\u201312. Characteristics: abstract thought, hypothetical/deductive reasoning, ability to consider multiple hypotheses simultaneously. Key: Abstract concepts of time and distance (e.g., 'what was life like 500 years ago?') can only be understood in this stage. Many people never fully reach this stage.",
+    "difficulty": "basic recall",
+    "confusable_with": "Concrete Operations \u2014 can think logically but only about concrete/tangible things; Formal Operations = abstract and hypothetical"
+  },
+  {
+    "id": "ch03_fc_034",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Cephalocaudal Development",
+    "back": "Bodily development proceeds from head to tail (head to foot). The head of the fetus develops earlier than the legs. Development begins at conception (not birth).",
+    "difficulty": "basic recall",
+    "confusable_with": "Proximodistal development (center outward) \u2014 different developmental principle"
+  },
+  {
+    "id": "ch03_fc_035",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Nature vs Nurture Debate",
+    "back": "Nature = heredity/genetic makeup. Nurture = environment. The classic debate about which has greater impact on development. Modern view: both play significant roles. Behaviorists (Skinner) lean toward nurture/environment; maturationists (Gesell) lean toward nature/heredity.",
+    "difficulty": "basic recall",
+    "confusable_with": "Empiricism vs organicism: empiricists (behaviorists) believe change is measurable via environment; organicists believe change is internal/qualitative"
+  },
+  {
+    "id": "ch03_fc_036",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Piaget's Moral Development: Heteronomous vs Autonomous",
+    "back": "Heteronomous morality (ages 4\u20137): Rules are absolutes handed down by authority; violations automatically result in punishment.\nAutonomous morality (begins ~age 10): Rules are relative and can be changed; intentions matter, not just consequences.\nKohlberg expanded on Piaget's moral development work.",
+    "difficulty": "applied",
+    "confusable_with": "Kohlberg's 3 levels \u2014 Piaget has 2 stages of moral development, Kohlberg expanded to 6 stages"
+  },
+  {
+    "id": "ch03_fc_037",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Learned Helplessness (Seligman)",
+    "back": "Pattern in which repeated exposure to uncontrollable situations leads a person to believe they have no control over their environment, even when control is possible. Associated with depression. Seligman demonstrated this by giving inescapable electric shocks to harnessed dogs \u2014 they didn't try to escape even when the harness was removed.",
+    "difficulty": "basic recall",
+    "confusable_with": "Seligman is associated with BOTH learned helplessness (problem) AND positive psychology (solution/strengths focus)"
+  },
+  {
+    "id": "ch03_fc_038",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Suicide Statistics \u2014 Key Facts for NCE",
+    "back": "\u2022 Males complete suicide more often; females attempt more often (males use more lethal methods, e.g., firearms)\n\u2022 Suicide = 2nd or 3rd leading cause of death in teens\n\u2022 U.S. suicide rate \u2248 12/100,000 overall\n\u2022 Lowest rate: African American females (\u22482/100,000)\n\u2022 Suicidal risk may INCREASE as depression begins to LIFT\n\u2022 MMPI-2 and Rorschach are NOT good predictors of suicide\n\u2022 Always take suicide threats seriously",
+    "difficulty": "applied",
+    "confusable_with": "Adolescent suicide rate \u2014 suicide is concerning but statistically rare compared to other causes of teen death"
+  },
+  {
+    "id": "ch03_fc_039",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Coopersmith Study \u2014 Self-Esteem in Children",
+    "back": "Study of middle-class boys (ages 10\u201312). Key finding: Children with HIGH self-esteem:\n\u2022 Were punished just as often as low self-esteem kids\n\u2022 Had MORE rules, not fewer\n\u2022 Punishment emphasized bad BEHAVIOR, not bad child\n\u2022 Parents were democratic \u2014 explained rules and listened to arguments",
+    "difficulty": "applied",
+    "confusable_with": "Common misconception: permissiveness raises self-esteem. Coopersmith found clear limits + democratic explanation = high self-esteem"
+  },
+  {
+    "id": "ch03_fc_040",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Sex Differences Research (Maccoby & Jacklin)",
+    "back": "Reviewed literature and found few differences attributable to genetics/biology. Key findings:\n\u2022 Girls: better verbal skills, better at reading nonverbal cues at any age, use more feeling words by age 2, smile more\n\u2022 Boys: better visual-perceptual skills, more physically active and aggressive\n\u2022 Math advantage for males (if any) doesn't appear until high school/college\n\u2022 Most sex-role differences are due to socialization (child-rearing), not biology\n\u2022 Exception: male aggression may have a biological component",
+    "difficulty": "applied",
+    "confusable_with": "Sandra Bem \u2014 also studied gender; Bem focused on androgyny and gender stereotyping, Maccoby/Jacklin studied actual sex differences in behavior"
+  },
+  {
+    "id": "ch03_fc_041",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Down Syndrome (Trisomy 21)",
+    "back": "Caused by chromosomal abnormality (extra chromosome 21 = three copies). Characterized by broad facial profile, short stature, IQ typically 50\u201380 (100 is average). Intelligence can be improved by early intervention, environment, and education. Other genetic conditions to know: PKU, Klinefelter's syndrome, Turner's syndrome.",
+    "difficulty": "basic recall",
+    "confusable_with": "Klinefelter's (XXY male \u2014 extra X chromosome) vs Turner's (female, no sex hormones) \u2014 all are genetic/chromosomal"
+  },
+  {
+    "id": "ch03_fc_042",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Reversibility (Piaget, Concrete Operations)",
+    "back": "The ability to mentally reverse an action \u2014 understanding that an operation can be undone. Example: understanding that water poured from one container back to the original returns to original volume. Mastered in the Concrete Operations stage along with conservation.",
+    "difficulty": "basic recall",
+    "confusable_with": "Conservation \u2014 related but distinct: conservation = substance quantity unchanged, reversibility = mental undoing of an action"
+  },
+  {
+    "id": "ch03_fc_043",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Conformity and Peer Pressure by Developmental Stage",
+    "back": "Conformity peaks in early adolescence (early teens, approximately age 13). This is a key NCE/CPCE fact \u2014 a 13-year-old is most likely to conform to peer pressure compared to college students, adult professionals, or older adolescents.",
+    "difficulty": "applied",
+    "confusable_with": "Identity crisis (adolescence) \u2014 conformity peaks in early teens, while identity formation spans broader adolescence"
+  },
+  {
+    "id": "ch03_fc_044",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Anal Retentive vs Oral Character (Freud)",
+    "back": "Oral character: Fixation at oral stage \u2192 excessive dependency, smoking, alcoholism, overeating (all involve the mouth).\nAnal retentive character: Fixation at anal stage (retention phase) \u2192 stingy, orderly, stubborn, cheap.\nAnal expulsive: messy, disorganized, reckless.",
+    "difficulty": "applied",
+    "confusable_with": "Oral = mouth-related behaviors (drinking, smoking); Anal retentive = holding on (money, emotions)"
+  },
+  {
+    "id": "ch03_fc_045",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Manifest vs Latent Dream Content (Freud)",
+    "back": "Manifest content: The dream as experienced and remembered by the dreamer \u2014 the surface story.\nLatent content: The hidden, unconscious meaning of the dream. Freudians consider latent content far more therapeutically important.",
+    "difficulty": "basic recall",
+    "confusable_with": "Manifest = surface/visible (like manifest on a ship's cargo list); Latent = hidden/latent (like the latency stage where sexuality is hidden)"
+  },
+  {
+    "id": "ch03_fc_046",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Eros and Thanatos (Freud)",
+    "back": "Eros: The life instinct (libido \u2014 sexual/creative energy that sustains life).\nThanatos: The death/self-destructive instinct (aggression turned inward). Both are drives housed in the id.",
+    "difficulty": "basic recall",
+    "confusable_with": "Libido is often equated only with sexuality, but technically it is the energy of Eros (life instinct)"
+  },
+  {
+    "id": "ch03_fc_047",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Stranger Anxiety & Depth Perception in Infants",
+    "back": "\u2022 Stranger anxiety develops at approximately 8 months (child can now discriminate familiar from unfamiliar faces).\n\u2022 Depth perception research: Eleanor Gibson's 'visual cliff' apparatus \u2014 by 6 months most infants will NOT cross a simulated drop-off, suggesting depth perception is innate.",
+    "difficulty": "basic recall",
+    "confusable_with": "Object permanence also develops around 8 months \u2014 distinguish: stranger anxiety = social recognition, object permanence = understanding objects exist when hidden"
+  },
+  {
+    "id": "ch03_fc_048",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Empiricism vs Organicism (Development)",
+    "back": "Empiricism: Grew from John Locke; only objective, measurable facts count; views development as quantitative changes. Forerunner of behaviorism.\nOrganicism: Views development as qualitative changes (stages); associated with Gestalt psychology and organicists like Kurt Goldstein. Emphasizes holistic model; no mind-body distinction.",
+    "difficulty": "applied",
+    "confusable_with": "Quantitative = empiricism/behaviorism; Qualitative = organicism/stage theorists"
+  },
+  {
+    "id": "ch03_fc_049",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Alfred Adler \u2014 Individual Psychology",
+    "back": "Founder of Individual Psychology. Key concepts:\n\u2022 Inferiority complex: Everyone starts life feeling inferior (small, weak child) and compensates.\n\u2022 Organ inferiority: Striving to compensate for physical weaknesses.\n\u2022 Social interest (Gemeinschaftsgef\u00fchl): A healthy person has concern for the community.\n\u2022 Adler emphasized birth order's role in personality.",
+    "difficulty": "basic recall",
+    "confusable_with": "Freud \u2014 Adler was originally a Freudian disciple but broke away; Adler rejected the primacy of sexuality, emphasizing social factors and inferiority instead"
+  },
+  {
+    "id": "ch03_fc_050",
+    "domain": "Human Growth & Development",
+    "chapter": 3,
+    "front": "Elementary School Counseling \u2014 Historical Development",
+    "back": "\u2022 Secondary school counseling/guidance was popular since early 1900s (Frank Parsons)\n\u2022 Elementary school counseling gained momentum in the 1960s (NOT early 1900s)\n\u2022 In the 1980s, some state departments of education made elementary school counselors mandatory\n\u2022 Middle school/junior high counseling is even MORE recent than elementary\n\u2022 Approximately 260,000 school counselors in the United States\n\u2022 Only organized profession focused purely on prevention and developmental standpoints",
+    "difficulty": "basic recall",
+    "confusable_with": "Frank Parsons \u2192 secondary/vocational guidance (early 1900s); elementary counseling didn't take off until the 1960s"
+  }
+]

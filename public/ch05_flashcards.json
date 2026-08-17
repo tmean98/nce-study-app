@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ch05_fc_001",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Freud's structural model of personality",
+    "back": "Three structures: Id (primitive drives, pleasure principle), Ego (reality principle, mediates id and superego), Superego (moral conscience, internalized parental values). Corresponds to TA's Child/Adult/Parent.",
+    "difficulty": "medium",
+    "confusable_with": "Freud's topographical model (conscious/preconscious/unconscious)"
+  },
+  {
+    "id": "ch05_fc_002",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Freud's topographical model of the mind",
+    "back": "Three levels of awareness: Conscious (currently aware), Preconscious (can be brought to awareness), Unconscious (repressed material; drives behavior without awareness). Distinct from the structural model (id/ego/superego).",
+    "difficulty": "medium",
+    "confusable_with": "Freud's structural model (id/ego/superego)"
+  },
+  {
+    "id": "ch05_fc_003",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Repression (defense mechanism)",
+    "back": "The most important/foundational defense mechanism. Involuntary exclusion of anxiety-producing material from consciousness. The basis of all other defense mechanisms. Differs from suppression (conscious, voluntary forgetting).",
+    "difficulty": "medium",
+    "confusable_with": "Suppression (conscious/voluntary vs. unconscious/involuntary)"
+  },
+  {
+    "id": "ch05_fc_004",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Rationalization (defense mechanism) \u2014 sour grapes vs. sweet lemon",
+    "back": "Creating logical-sounding excuses for unacceptable behavior. Sour grapes = devaluing something you can't have ('I didn't want it anyway'). Sweet lemon = convincing yourself something bad is actually good ('I'm glad my car broke down; I needed the exercise').",
+    "difficulty": "hard",
+    "confusable_with": "Intellectualization (removing emotion from thinking about a problem)"
+  },
+  {
+    "id": "ch05_fc_005",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Transference vs. countertransference",
+    "back": "Transference: client unconsciously displaces feelings from a past relationship (e.g., parent) onto the counselor. Countertransference: counselor displaces own unresolved feelings onto the client. Both must be managed; countertransference can be harmful if unrecognized.",
+    "difficulty": "medium",
+    "confusable_with": "Projection (attributing one's feelings to another person)"
+  },
+  {
+    "id": "ch05_fc_006",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Free association (psychoanalytic technique)",
+    "back": "Client says whatever comes to mind without censorship. Primary technique of classical psychoanalysis. Resistance occurs when client blocks free association, revealing material the unconscious is defending against.",
+    "difficulty": "easy",
+    "confusable_with": "Dream interpretation (another primary psychoanalytic technique)"
+  },
+  {
+    "id": "ch05_fc_008",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Classical conditioning key terms (Pavlov)",
+    "back": "UCS (unconditioned stimulus) = meat; UCR (unconditioned response) = salivation; CS (conditioned stimulus) = bell; CR (conditioned response) = salivation to bell. Also called respondent conditioning. Extinction = CS presented without UCS until CR disappears; Spontaneous recovery = CR reappears after a rest period.",
+    "difficulty": "medium",
+    "confusable_with": "Operant conditioning (involves voluntary behavior, not reflexes)"
+  },
+  {
+    "id": "ch05_fc_009",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Stimulus generalization vs. stimulus discrimination",
+    "back": "Stimulus generalization: responding to stimuli similar to the CS (e.g., fearing all dogs after one bite). Stimulus discrimination: responding only to the specific CS, not similar stimuli. Experimental neurosis occurs when discrimination is made too difficult.",
+    "difficulty": "medium",
+    "confusable_with": "Higher-order conditioning (new stimulus paired with CS takes on CS properties)"
+  },
+  {
+    "id": "ch05_fc_010",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Positive vs. negative reinforcement (operant conditioning)",
+    "back": "BOTH increase/strengthen behavior. Positive reinforcement: something desirable is ADDED (e.g., praise after homework). Negative reinforcement: something aversive is REMOVED (e.g., nagging stops when room is cleaned). Neither is punishment \u2014 punishment DECREASES behavior.",
+    "difficulty": "hard",
+    "confusable_with": "Punishment (decreases behavior); negative reinforcement is NOT punishment"
+  },
+  {
+    "id": "ch05_fc_011",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Little Albert experiment (Watson) & Mary Cover Jones",
+    "back": "Watson conditioned Little Albert to fear a white rat (CS) by pairing it with a loud noise (UCS). Mary Cover Jones later demonstrated a cure for childhood phobia (Peter and the rabbit) using counterconditioning \u2014 considered the first behavior therapist.",
+    "difficulty": "medium",
+    "confusable_with": "Wolpe's systematic desensitization (later elaboration of counterconditioning)"
+  },
+  {
+    "id": "ch05_fc_012",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Reinforcement schedules: ratio vs. interval; fixed vs. variable",
+    "back": "Ratio schedules: reinforcement based on NUMBER of responses. Interval schedules: based on TIME elapsed. Fixed: reinforcement after a set number/time. Variable: reinforcement after an average number/time. Effectiveness ranking (most \u2192 least resistant to extinction): VR > VI > FR > FI.",
+    "difficulty": "hard",
+    "confusable_with": "Continuous reinforcement (reinforcing every single response \u2014 easiest to extinguish)"
+  },
+  {
+    "id": "ch05_fc_013",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Systematic desensitization (Wolpe) \u2014 steps and mechanism",
+    "back": "Steps in order: (1) relaxation training, (2) construct anxiety hierarchy using SUDS (0\u2013100), (3) desensitization in imagination (interposition), (4) in vivo desensitization. SUDS = Subjective Units of Distress Scale. Based on counterconditioning; actually works via extinction. Not effective for free-floating anxiety.",
+    "difficulty": "hard",
+    "confusable_with": "Flooding (no relaxation; not gradual; immediate full exposure)"
+  },
+  {
+    "id": "ch05_fc_014",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Flooding vs. implosive therapy (Stampfl)",
+    "back": "Both expose client to feared stimulus at full intensity without gradual hierarchy. Flooding = in vivo (real exposure). Implosive therapy = always in the imagination (mnemonic: 'implosive' starts with 'i' like 'imagination'). Implosive may use psychoanalytic symbolism. Both work via extinction, not relaxation.",
+    "difficulty": "hard",
+    "confusable_with": "Systematic desensitization (gradual, uses relaxation and hierarchy)"
+  },
+  {
+    "id": "ch05_fc_015",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Biofeedback types: thermal, EMG, EEG, EKG, GSR",
+    "back": "Thermal training: hand temperature; treats migraines (Menninger Clinic). EMG (electromyogram): measures muscle tension. EEG (electroencephalogram) / neurofeedback: brain waves; alpha waves = 8\u201312 cps (relaxed/awake); used for ADHD. EKG: heart. GSR (galvanic skin response): skin electrical resistance. Jacobson relaxation = alternating muscle tension/release.",
+    "difficulty": "hard",
+    "confusable_with": "Jacobson relaxation (no electronic device; just muscle tension/release)"
+  },
+  {
+    "id": "ch05_fc_016",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Premack principle (Grandma's Rule)",
+    "back": "Any high-probability behavior (HPB) can reinforce a low-probability behavior (LPB). Example: 'If you eat your veggies (LPB), you can have dessert (HPB).' The efficient reinforcer is what the client LIKES to do. Used in behavior modification planning.",
+    "difficulty": "medium",
+    "confusable_with": "Token economy (uses secondary reinforcers/tokens, not directly HPB)"
+  },
+  {
+    "id": "ch05_fc_017",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Token economy / back-up reinforcers / secondary reinforcement",
+    "back": "Secondary reinforcement: a neutral stimulus that acquires reinforcement value by being paired with a primary reinforcer (e.g., money, praise, tokens). Token economy: system using tokens (secondary reinforcers) exchangeable for back-up reinforcers (actual desired items/activities).",
+    "difficulty": "medium",
+    "confusable_with": "Primary reinforcers (inherently reinforcing: food, water, shelter)"
+  },
+  {
+    "id": "ch05_fc_018",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Aversive conditioning vs. covert sensitization",
+    "back": "Aversive conditioning (in vivo): pairing an unwanted behavior with an unpleasant stimulus in real life (e.g., Antabuse + alcohol \u2192 nausea). Covert sensitization: client imagines the aversive consequence (covert = imagination). Both aim to reduce undesired behavior. Ethical concerns apply to aversive conditioning.",
+    "difficulty": "hard",
+    "confusable_with": "Punishment (which also decreases behavior but is not based on pairing a CS)"
+  },
+  {
+    "id": "ch05_fc_019",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "EMDR \u2014 Eye Movement Desensitization and Reprocessing (Shapiro)",
+    "back": "Created by Francine Shapiro in 1987 (accidentally noticed during a walk). Client follows counselor's finger to induce lateral eye movements while processing traumatic memories. Effective for anxiety, PTSD, trauma. Works via extinction even without eye movements (dismantling research). Endorsed by Wolpe.",
+    "difficulty": "medium",
+    "confusable_with": "Systematic desensitization (also treats anxiety/PTSD but uses hierarchy + relaxation)"
+  },
+  {
+    "id": "ch05_fc_020",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Yerkes-Dodson Law",
+    "back": "Moderate arousal IMPROVES performance. Very high or very low arousal impairs performance (inverted-U curve). High arousal is more appropriate for SIMPLE tasks; moderate arousal is optimal for complex tasks (e.g., a licensing exam). Clinical implication: some test anxiety can be beneficial.",
+    "difficulty": "medium",
+    "confusable_with": "Systematic desensitization rationale (which aims to reduce anxiety, not just optimize it)"
+  },
+  {
+    "id": "ch05_fc_021",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Rogers' three core conditions for therapeutic growth",
+    "back": "(1) Congruence/genuineness \u2014 counselor is authentic, not playing a role (Rogers said this is the MOST important). (2) Unconditional positive regard (UPR) \u2014 nonjudgmental, nonpossessive warmth, accepting the whole person. (3) Empathic understanding \u2014 experiencing the client's subjective world and communicating this.",
+    "difficulty": "hard",
+    "confusable_with": "Social influence core (EAT: Expertness, Attractiveness, Trustworthiness \u2014 per Strong 1968)"
+  },
+  {
+    "id": "ch05_fc_022",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Person-centered therapy: three name changes (Rogers)",
+    "back": "1940s: Nondirective counseling (contrast to analytic/directive). 1951: Client-centered therapy (emphasizes personality theory and client-not-patient). 1974: Person-centered therapy (emphasizes power of person, group behavior). Also called 'self theory' or 'third force psychology' (reaction to behaviorism and psychoanalysis).",
+    "difficulty": "medium",
+    "confusable_with": "Humanistic vs. existential labels (Rogers is humanistic; Frankl/May are existential)"
+  },
+  {
+    "id": "ch05_fc_023",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Empathy vs. sympathy",
+    "back": "Empathy: ability to experience the client's subjective world and communicate this understanding (accurate empathy). Sympathy: compassion or pity \u2014 feeling sorry FOR the client. Sympathy implies evaluating the situation rather than entering the client's frame of reference. Counselors should strive for empathy.",
+    "difficulty": "easy",
+    "confusable_with": "Congruence/genuineness (another core condition; about counselor's own authenticity)"
+  },
+  {
+    "id": "ch05_fc_024",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Carkhuff empathy scale (1\u20135)",
+    "back": "Robert Carkhuff's scale rates empathy, genuineness, concreteness, and respect. Level 1 = not attending/detracts from client. Level 2 = subtracts noticeable affect. Level 3 = interchangeable with client's meaning (MINIMUM acceptable level). Level 4 = counselor adds noticeably to affect. Level 5 = counselor adds significantly to surface and underlying feelings.",
+    "difficulty": "hard",
+    "confusable_with": "Gazda's Global Scale (also 1\u20134; similar purpose)"
+  },
+  {
+    "id": "ch05_fc_025",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Social influence core (EAT) \u2014 Stanley Strong, 1968",
+    "back": "Three factors that prevent clients from discrediting the counselor: Expertness (client's perception of counselor's knowledge \u2014 NOT counselor's actual competence), Attractiveness (positive feelings; similarity), Trustworthiness (violation of confidentiality nearly always destroys this). A counselor can appear expert but be incompetent.",
+    "difficulty": "hard",
+    "confusable_with": "Human relations core (empathy, positive regard, genuineness \u2014 Rogers' conditions)"
+  },
+  {
+    "id": "ch05_fc_026",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Paraphrasing vs. parroting",
+    "back": "Paraphrasing: counselor restates client's thoughts and feelings in the COUNSELOR'S OWN WORDS. Parroting: restating the client's message VERBATIM \u2014 a misuse of paraphrasing. Research shows parroting causes clients to feel bored, angry, and uncomfortable. Paraphrasing is a core counseling skill.",
+    "difficulty": "easy",
+    "confusable_with": "Reflection (focuses on feelings; paraphrasing focuses on content/thoughts)"
+  },
+  {
+    "id": "ch05_fc_027",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Logotherapy (Frankl) and paradoxical intention",
+    "back": "Viktor Frankl: logotherapy = 'healing through meaning' (logos = meaning). Existential therapy; survived Nazi concentration camps. Paradoxical intention: client is instructed to exaggerate the dysfunctional behavior in imagination (or do it more) \u2014 works by removing the anticipatory anxiety. Frankl also called 'father of paradoxical intention.'",
+    "difficulty": "medium",
+    "confusable_with": "Reality therapy (Glasser) \u2014 also present-focused, rejects past trauma"
+  },
+  {
+    "id": "ch05_fc_028",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Existential three worlds (Binswanger/Boss)",
+    "back": "Umwelt = physical/biological world. Mitwelt = relationship/social world (mnemonic: 'mi' sounds like 'my' as in 'my relationships'). Eigenwelt = self-identity world (mnemonic: sounds like 'ego/identity'). Existential counseling focuses on phenomenology (client's personal experience) and ontology (philosophy of being and existing).",
+    "difficulty": "hard",
+    "confusable_with": "Freud's topographical model (three levels of awareness, not three worlds)"
+  },
+  {
+    "id": "ch05_fc_029",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "I-Thou relationship (Buber) in counseling",
+    "back": "Martin Buber's concept of a horizontal, egalitarian relationship where both parties are seen as whole persons. Used by Rogers (person-centered) and existential therapists. Contrasted with I-It relationship (treating the other as an object). In counseling it implies equality, not the counselor as expert authority.",
+    "difficulty": "medium",
+    "confusable_with": "Vertical relationship (counselor as expert authority \u2014 NOT I-Thou)"
+  },
+  {
+    "id": "ch05_fc_030",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Reality therapy (Glasser): core principles",
+    "back": "Choice theory: we control our own behavior; behavior is our best attempt to control perceptions to satisfy genetic needs (survival, love/belonging, power, freedom, fun). No unconscious. No formal diagnosis (rejects DSM \u2014 labels give 'permission to act sick'). Focus on here and now. Past explored only for successes. No punishment (step 7 of 8 steps). Therapeutic friendship is step 1.",
+    "difficulty": "hard",
+    "confusable_with": "Existential therapy (also present-focused and avoids determinism)"
+  },
+  {
+    "id": "ch05_fc_031",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Success identity vs. failure identity (Glasser)",
+    "back": "Success identity: person feels worthy and significant to others; meets needs responsibly. Failure identity: irresponsible person frustrated in attempting to feel loved and worthwhile; develops faulty perception of reality. Identity is the most important psychological need in reality therapy.",
+    "difficulty": "medium",
+    "confusable_with": "Self-actualization (Maslow/Rogers) \u2014 similar concept of reaching potential"
+  },
+  {
+    "id": "ch05_fc_032",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "REBT: ABC theory (Albert Ellis)",
+    "back": "A = Activating event. B = Belief system (irrational vs. rational). C = Emotional consequence. D = Disputing irrational beliefs at B. E = Effective new emotional consequence / new philosophy of life. Key insight: A does NOT cause C \u2014 it is B (irrational beliefs) that causes C. Epictetus: 'Men are disturbed not by things, but by the views they take of them.'",
+    "difficulty": "hard",
+    "confusable_with": "Beck's cognitive therapy (similar but uses 'automatic thoughts' and 'dysfunctional rules' not 'irrational beliefs')"
+  },
+  {
+    "id": "ch05_fc_033",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Musturbation and awfulizing (Ellis/REBT)",
+    "back": "Musturbation: excessive use of 'shoulds,' 'oughts,' and 'musts' in thinking \u2014 leads to emotional disturbance. Ellis coined the term. Awfulizing/terriblizing/catastrophizing: telling oneself how terrible, awful, and horrendous a situation is. Both are irrational thinking patterns at point B in the ABC model.",
+    "difficulty": "medium",
+    "confusable_with": "Beck's automatic thoughts (similar concept but Beck avoids calling them 'irrational')"
+  },
+  {
+    "id": "ch05_fc_034",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Bibliotherapy and homework in REBT",
+    "back": "Bibliotherapy: use of self-improvement books/writings as a therapeutic intervention (e.g., Ellis's 'A Guide to Rational Living'). Considered a form of homework \u2014 assignments done outside the session. REBT is a didactic (teaching) model. Therapies that 'teach' clients are called didactic models.",
+    "difficulty": "easy",
+    "confusable_with": "Directive vs. nondirective distinction (REBT is directive; Rogers is nondirective)"
+  },
+  {
+    "id": "ch05_fc_035",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Beck's cognitive therapy (CT/CBT) and cognitive triad",
+    "back": "Aaron Beck: dysfunctional beliefs are 'too absolute and broad' \u2014 not necessarily 'irrational' (distinction from Ellis). Cognitive triad of depression: (1) negative view of SELF (worthless), (2) negative view of the WORLD (unfair), (3) negative view of the FUTURE (hopeless). Uses Socratic questioning. Created Beck Depression Inventory (BDI).",
+    "difficulty": "hard",
+    "confusable_with": "REBT (Ellis) \u2014 both are cognitive-behavioral but differ on 'irrational' vs. 'dysfunctional'"
+  },
+  {
+    "id": "ch05_fc_036",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Meichenbaum's stress inoculation training",
+    "back": "Donald Meichenbaum: self-instructional training with three phases: (1) Educational phase \u2014 client monitors impact of inner dialogue on behavior; (2) Rehearsal phase \u2014 client practices new self-talk; (3) Application phase \u2014 new inner dialogue used in actual stressful situations. Classified as a cognitive-behavioral approach.",
+    "difficulty": "medium",
+    "confusable_with": "REBT cognitive disputation (Ellis) \u2014 both change self-talk but different structure"
+  },
+  {
+    "id": "ch05_fc_037",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Transactional Analysis (TA) ego states (Berne)",
+    "back": "Parent (exteropsyche): values from significant others; Nurturing Parent (caring), Critical Parent (shoulds/oughts), Prejudicial Parent (biases). Resembles Freud's superego. Adult (neopsyche): rational, fact-based, no feelings. Resembles Freud's ego. Child (archaeopsyche): Natural Child (spontaneous), Adapted Child (compliant), Little Professor (intuitive/creative). Resembles Freud's id.",
+    "difficulty": "hard",
+    "confusable_with": "TA life positions (I'm OK\u2013You're OK) \u2014 different concept within same framework"
+  },
+  {
+    "id": "ch05_fc_038",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "TA complementary vs. crossed transactions",
+    "back": "Complementary (parallel) transaction: response comes from the expected ego state \u2014 communication vectors are parallel; healthy. Crossed transaction: response comes from an unexpected ego state \u2014 vectors cross; results in communication deadlock or hurt feelings. Games involve ulterior (hidden, dual-level) transactions.",
+    "difficulty": "hard",
+    "confusable_with": "TA life positions (separate concept about self/other perception)"
+  },
+  {
+    "id": "ch05_fc_039",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "TA life positions (Harris: I'm OK\u2013You're OK)",
+    "back": "I'm OK\u2013You're OK = healthy winner's position. I'm Not OK\u2013You're OK = masochistic/suicidal tendency; most common neurotic position. I'm OK\u2013You're Not OK = paranoid/criminal; blames others. I'm Not OK\u2013You're Not OK = most pessimistic; schizoid/murder-suicide risk. Life positions determine how a person seeks strokes/recognition.",
+    "difficulty": "medium",
+    "confusable_with": "TA ego states (P-A-C) \u2014 different level of TA analysis"
+  },
+  {
+    "id": "ch05_fc_040",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "TA games, rackets, and Karpman drama triangle",
+    "back": "Game: ulterior transaction with predictable negative outcome; prevents intimacy. Degrees: 1st (minimal hurt), 2nd (more serious), 3rd (permanent/deadly). Racket: unpleasant feeling after a game; manipulating others to relive a childhood feeling. Life script: life drama based on early unconscious decisions (injunctions). Karpman drama triangle: three roles \u2014 persecutor, rescuer, victim.",
+    "difficulty": "hard",
+    "confusable_with": "TA transactions (complementary/crossed) \u2014 games specifically involve hidden/ulterior transactions"
+  },
+  {
+    "id": "ch05_fc_041",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Gestalt therapy key concepts (Fritz Perls)",
+    "back": "Focus on awareness in the here and now. Unfinished business: unexpressed emotions (resentment, rage, guilt) that interfere with present functioning. Top dog: authoritarian inner voice (shoulds/oughts). Underdog: weak, passive, excuse-making voice. Retroflection: doing to self what you wish to do to another (e.g., suicide as displaced anger). Gestalt = form/configuration, 'whole greater than sum of parts.'",
+    "difficulty": "hard",
+    "confusable_with": "Existential therapy (both focus on here-and-now but existential emphasizes meaning and choice)"
+  },
+  {
+    "id": "ch05_fc_042",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Gestalt techniques: empty chair, playing the projection, I-statements",
+    "back": "Empty chair: client speaks to imagined person/part of self in an empty chair. Playing the projection: client acts out the person they are projecting onto to recognize it in themselves. Converting questions to I statements: 'Don't all people feel scared?' \u2192 'I feel scared.' 'It is hard' \u2192 'I find it hard.' Dream work: recount dreams in present tense; everything = projection of self.",
+    "difficulty": "medium",
+    "confusable_with": "Psychodrama (Moreno) \u2014 uses role-playing but is a distinct approach"
+  },
+  {
+    "id": "ch05_fc_043",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Gestalt five layers of neurosis (Perls \u2014 peeling the onion)",
+    "back": "1. Phony layer: playing roles. 2. Phobic layer: fear others will reject uniqueness. 3. Impasse layer: feeling stuck. 4. Implosive layer: willingness to expose true self. 5. Explosive layer: authenticity; relief and genuine contact with self and others.",
+    "difficulty": "hard",
+    "confusable_with": "Freud's defense mechanisms (different model for layers of psychological avoidance)"
+  },
+  {
+    "id": "ch05_fc_044",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Prochaska's Transtheoretical Model (TTM) of change",
+    "back": "Stages: (1) Precontemplation \u2014 not ready, does not acknowledge problem; (2) Contemplation \u2014 ambivalent, getting ready; (3) Preparation \u2014 developing plan for change; (4) Action \u2014 taking steps to improve; (5) Maintenance \u2014 behaviors to prevent relapse. Used to match interventions to client's readiness stage.",
+    "difficulty": "medium",
+    "confusable_with": "Motivational interviewing (related in spirit but different model)"
+  },
+  {
+    "id": "ch05_fc_045",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Consultation models (Caplan, Schein, Bandura, triadic)",
+    "back": "Caplan (psychodynamic): consultant advises consultee who works with client; consultant is ethically responsible. Bandura (behavioral): consultant designs behavior change programs for consultee. Schein (process): focus is on HOW problems are solved, not content; doctor-patient model. Triadic: consultant \u2192 mediator \u2192 client. No unified theory of consultation exists.",
+    "difficulty": "hard",
+    "confusable_with": "Supervision (consultant doesn't directly treat client, unlike supervisor)"
+  },
+  {
+    "id": "ch05_fc_046",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "NLP \u2014 Neurolinguistic Programming (Bandler & Grinder)",
+    "back": "Based on modeling Erickson, Perls, and Satir. Key techniques: Reframing (perceive situation in a new light to change emotional reaction) and Anchoring (associate a desired emotional state with an outside stimulus \u2014 similar to classical conditioning). Emphasizes eye movements as indicators of representational systems.",
+    "difficulty": "medium",
+    "confusable_with": "EMDR (also uses eye movements but for trauma processing, not representational systems)"
+  },
+  {
+    "id": "ch05_fc_047",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Ivey's three types of empathy",
+    "back": "Basic empathy: counselor's response matches client's level \u2014 neither adds nor subtracts. Subtractive empathy: counselor's response does not fully convey understanding; falls short of what client communicated. Additive empathy: MOST desirable; counselor adds to client's understanding and awareness, going beyond surface meaning.",
+    "difficulty": "medium",
+    "confusable_with": "Carkhuff's 5-point scale (different rating system; level 3 = basic/minimum acceptable)"
+  },
+  {
+    "id": "ch05_fc_048",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Summarization vs. paraphrasing vs. reflection",
+    "back": "Paraphrasing: restating client's content in counselor's own words (single exchange). Reflection: mirroring back the emotional content/feelings. Summarization: bringing together multiple ideas across the session or multiple sessions; Ivey recommends at 2-3 points per session and at close. Summarization = synthesis of session's overall tone/feeling.",
+    "difficulty": "medium",
+    "confusable_with": "Clarification (asking client to make a vague statement more specific)"
+  },
+  {
+    "id": "ch05_fc_049",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Closed-ended vs. open-ended questions",
+    "back": "Closed-ended: can be answered with yes/no (e.g., 'Is your depression lifting?'). Open-ended: require elaboration, produce more information (e.g., 'Tell me about what you find depressing.'). Counselors should prefer open-ended questions. Parroting (restating verbatim) is always inappropriate. Silence is most threatening for both client and counselor.",
+    "difficulty": "easy",
+    "confusable_with": "Paraphrasing (paraphrasing uses the counselor's own words, not a question)"
+  },
+  {
+    "id": "ch05_fc_050",
+    "domain": "Helping Relationships",
+    "chapter": 5,
+    "front": "Historical periods of counseling (key eras)",
+    "back": "1950s: Counseling (not testing) became the key guidance function; golden age of developmental psychology. Late 1960s: PEAK competition between schools of therapy; field inundated with competing psychotherapies. 1970s: Biofeedback, behavior modification, crisis hotlines flourished. 1980s: Professionalism \u2014 licensing and professional organizations improved.",
+    "difficulty": "medium",
+    "confusable_with": "School counseling history (different timeline emphasis)"
+  }
+]

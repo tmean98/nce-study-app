@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ch11_f_001",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Identified patient (IP) in family therapy",
+    "back": "The family member who is presented as 'the problem.' Most family therapists reject this label \u2014 they view the ENTIRE FAMILY SYSTEM as the IP, not just the presenting individual. The IP's symptoms are seen as expressing the dysfunction of the whole system.",
+    "difficulty": "easy",
+    "confusable_with": "The individual psychopathology model, which locates the problem within one person"
+  },
+  {
+    "id": "ch11_f_002",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Linear causality vs. circular causality",
+    "back": "LINEAR: A causes B (e.g., abuse in childhood \u2192 abusive parent). Standard in individual therapy. CIRCULAR (reciprocal): Everyone influences everyone else \u2014 the dog that bites the man who kicked it. Introduced to family therapy by Gregory Bateson after WWII. Family therapists prefer circular causality: the problem resides IN THE FAMILY, not in one person.",
+    "difficulty": "medium",
+    "confusable_with": "Linear causality (used in individual counseling) vs. circular causality (used in family therapy)"
+  },
+  {
+    "id": "ch11_f_003",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Cybernetics \u2014 who coined it and what it means in family therapy",
+    "back": "Coined by MIT mathematician Norbert Wiener (from Greek 'steersman') in the early 1940s, teaming with John von Neumann. Applied to families by Gregory Bateson. In family therapy: the family has FEEDBACK LOOPS that self-correct the system \u2014 like a thermostat maintaining homeostasis. Family therapy pioneer connection: Bateson \u2192 cybernetics \u2192 circular causality \u2192 systems theory.",
+    "difficulty": "medium",
+    "confusable_with": "Gregory Bateson (applied cybernetics to families) vs. Norbert Wiener (invented the term)"
+  },
+  {
+    "id": "ch11_f_004",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Homeostasis in family therapy",
+    "back": "A balanced, stable state in the family system \u2014 but NOT necessarily healthy. A dysfunctional pattern (e.g., an abusive cycle) can be homeostatic. The family resists change to maintain its equilibrium. Compare: ADAPTABILITY = the family's ability to change when needed. A thermostat and a missile guidance system both maintain homeostasis.",
+    "difficulty": "easy",
+    "confusable_with": "Healthy family stability vs. pathological homeostasis (both are balance, only one is functional)"
+  },
+  {
+    "id": "ch11_f_005",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Morphostasis vs. morphogenesis",
+    "back": "MORPHOSTASIS = family's capacity for STABILITY (maintaining the status quo). MORPHOGENESIS = family's capacity for CHANGE (growing and evolving). ADAPTABILITY = the family's balance between morphostasis and morphogenesis. Memory: 'morpho-STASIS = STAYS the same; morpho-GENESIS = GENErates new patterns.'",
+    "difficulty": "medium",
+    "confusable_with": "Homeostasis (overall balance) vs. morphostasis (specifically stability component)"
+  },
+  {
+    "id": "ch11_f_006",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Nonsummativity",
+    "back": "The family system is GREATER than the sum of its parts (the individual members). It is necessary to examine patterns between members, not just each individual's behavior in isolation. This is a core systems theory principle from Ludwig von Bertalanffy, the biologist who popularized systems theory and the connectedness of all living things.",
+    "difficulty": "medium",
+    "confusable_with": "Synergy (group therapy) \u2014 same logic, different context"
+  },
+  {
+    "id": "ch11_f_007",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Enmeshment vs. disengagement (Minuchin)",
+    "back": "ENMESHMENT: Family members are over-involved; individuals lose autonomy; diffuse/permeable boundaries. Example: mother accompanies adult daughter on dates. DISENGAGEMENT: Family members are emotionally distant and isolated; rigid boundaries. Example: husband says 'you're on your own' during wife's crisis. Clear boundaries = IDEAL (firm yet flexible).",
+    "difficulty": "easy",
+    "confusable_with": "Fusion (Bowen) \u2014 also over-involvement but specifically intellectual/emotional merging"
+  },
+  {
+    "id": "ch11_f_008",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Virginia Satir \u2014 approach and 4 dysfunctional stress communication styles",
+    "back": "EXPERIENTIAL CONJOINT FAMILY THERAPY. Goal: improve intrafamily communication. Joined families in 1951 (social worker). Died 1988 (pancreatic cancer). 4 dysfunctional stress postures: (1) PLACATING = people pleaser, fears rejection; (2) BLAMING = 'It's your fault'; (3) OVERLY REASONABLE = computer-like, intellectualizes; (4) IRRELEVANT = distracts with off-topic talk. 'Conjoint' = 2+ members in session.",
+    "difficulty": "medium",
+    "confusable_with": "Carl Whitaker (also experiential but symbolic/atheoretical)"
+  },
+  {
+    "id": "ch11_f_009",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Family sculpting (Satir)",
+    "back": "Experiential technique pioneered by Virginia Satir: a family member physically places other members in spatial positions that symbolize their relationships. Then places themselves. Helps the therapist understand family dynamics that a verbal discussion might miss. Used in experiential family therapy \u2014 NOT behavioral.",
+    "difficulty": "easy",
+    "confusable_with": "Genogram (Bowen) \u2014 also maps family structure but uses a diagram, not physical positioning"
+  },
+  {
+    "id": "ch11_f_010",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Carl Whitaker \u2014 approach and key concepts",
+    "back": "DEAN of EXPERIENTIAL/SYMBOLIC family therapy. ATHEORETICAL (theory keeps therapists emotionally distant). Key ideas: Experience > education changes families; best way to access the unconscious is symbolically; CO-THERAPIST recommended (provides feedback, allows therapist to participate actively). Famous technique: PSYCHOTHERAPY OF THE ABSURD (e.g., tug-of-war for couples in power struggle). Psychiatrist by training.",
+    "difficulty": "medium",
+    "confusable_with": "Virginia Satir (also experiential) \u2014 Whitaker is symbolic/absurd; Satir is communication-focused"
+  },
+  {
+    "id": "ch11_f_012",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Quid pro quo (Latin: 'this for that')",
+    "back": "In family therapy: a BEHAVIORAL CONTINGENCY CONTRACT where one family member agrees to do something in exchange for another doing something comparable. Example: 'Every time you cut the grass, Dad will take you golfing.' Also appears in SEXUAL HARASSMENT context: a supervisor offering professional benefits in exchange for sexual favors. Know BOTH contexts for the exam.",
+    "difficulty": "medium",
+    "confusable_with": "Premack's principle (one person, LPB\u2192HPB) vs. quid pro quo (two parties exchanging behaviors)"
+  },
+  {
+    "id": "ch11_f_013",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Baseline in behavioral family therapy",
+    "back": "The measurement of a behavior BEFORE any treatment or intervention begins. In ABAB notation: A = baseline (no treatment), B = intervention. Example: charting how many times a child says 'no' for 2 weeks before starting behavior modification. Establishes the pre-treatment rate to compare against treatment effects.",
+    "difficulty": "easy",
+    "confusable_with": "ABAB design (which alternates A=baseline and B=treatment phases)"
+  },
+  {
+    "id": "ch11_f_014",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Reciprocity in marriage (behavioral family therapy)",
+    "back": "The principle that marriage partners reinforce each other at APPROXIMATELY EQUAL LEVELS over time. When the exchange becomes grossly unequal (e.g., one partner does everything, receives nothing), marital discord results and the undervalued partner is likely to leave. Basis of behavioral approaches to marriage counseling.",
+    "difficulty": "medium",
+    "confusable_with": "Reciprocity in licensing (one state accepting another's credential) \u2014 entirely different meaning"
+  },
+  {
+    "id": "ch11_f_015",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Jay Haley and strategic family therapy",
+    "back": "Key figure: JAY HALEY (arts/communications background, NOT mental health). Also: CLOE MADANES. Also called the MRI MODEL (Mental Research Institute, Palo Alto) or COMMUNICATIONS MODEL. Influenced by Milton Erickson. Core ideas: directives/prescriptions; the person with POWER is spoken to FIRST in session; pragmatic/symptom-focused; paradox; reframing. Haley coined 'strategic therapy.'",
+    "difficulty": "medium",
+    "confusable_with": "MRI model (also associated with Watzlawick, Weakland, Fisch)"
+  },
+  {
+    "id": "ch11_f_016",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Double-bind",
+    "back": "A NO-WIN situation created by TWO CONTRADICTORY MESSAGES. Example: 'Never smoke again \u2014 now smoke as many as you can for three days.' Bateson believed pathological double-binds from parents \u2192 schizophrenia. In therapy, double-binds are used THERAPEUTICALLY (paradoxically). When the client follows the directive, the behavior is under therapeutic control.",
+    "difficulty": "medium",
+    "confusable_with": "Prescribing the symptom (a type of paradoxical intervention that may use a double-bind)"
+  },
+  {
+    "id": "ch11_f_017",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Paradoxical interventions (strategic therapy)",
+    "back": "PRESCRIBING THE SYMPTOM: Tell clients to exaggerate or engage in the very behavior they want to eliminate. RESTRAINING: Warn the family about the negative consequences of change ('maybe it's better if you don't change'). POSITIONING: Accept the predicament and exaggerate it even further ('Your depression may be hopeless; you may never get better'). All defy common sense \u2014 hence 'paradoxical.'",
+    "difficulty": "medium",
+    "confusable_with": "Reframing (also used in strategic therapy, but puts problem in a positive light rather than prescribing it)"
+  },
+  {
+    "id": "ch11_f_018",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Reframing / Relabeling",
+    "back": "Redefining a behavior or situation in a POSITIVE OR DIFFERENT CONTEXT to evoke a new emotional response. Example: 'Research shows that when she yells at you it is because she loves you so much.' Used by strategic and structural therapists. Also called REDEFINING. Memory: 'Put the picture in a new frame \u2014 same picture, different look.'",
+    "difficulty": "easy",
+    "confusable_with": "Prescribing the symptom (also strategic) \u2014 reframing redefines; prescribing tells client to do the symptom"
+  },
+  {
+    "id": "ch11_f_019",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Cloe Madanes \u2014 incongruous hierarchy and pretend technique",
+    "back": "INCONGRUOUS HIERARCHY: A child is in control of a parent rather than vice versa. Example: daughter breaks a cup to snap mother out of depression \u2014 the child is controlling the parent's mood. PRETEND TECHNIQUE: Family enacts a make-believe scenario of the problem (more gentle than traditional paradox). Symptoms serve a FUNCTION \u2014 must find more direct ways to meet that need.",
+    "difficulty": "hard",
+    "confusable_with": "Perverse triangle (Haley) \u2014 also involves cross-generational coalition but is a specific alliance, not hierarchy reversal"
+  },
+  {
+    "id": "ch11_f_020",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Perverse triangle (Haley)",
+    "back": "A coalition between two family members at DIFFERENT LEVELS of the family hierarchy (usually a parent and a child) against another family member. Example: father and 14-year-old son pressure mother to quit her job. The cross-generational alliance undermines the other parent's power. Haley: a malfunctioning hierarchy is evident in most dysfunctional families.",
+    "difficulty": "medium",
+    "confusable_with": "Triangulation (Bowen) \u2014 also involves a third party, but the triangle stabilizes a tense dyad rather than forming an aggressive coalition"
+  },
+  {
+    "id": "ch11_f_021",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Nathan Ackerman \u2014 psychoanalytic family therapy",
+    "back": "Analytically trained CHILD PSYCHIATRIST. As early as 1938, recommended studying the family rather than just the identified child. Considered the TRUE BEGINNING of the family therapy movement. Unlike other family therapists, Ackerman was concerned with INTERNAL feelings/thoughts of each individual AND the dynamics between them. Prior to Ackerman, including family in analytic sessions was considered inappropriate.",
+    "difficulty": "medium",
+    "confusable_with": "Bowen (also looks across generations) \u2014 Ackerman is psychoanalytic/individual internal focus; Bowen is systemic/differentiation focus"
+  },
+  {
+    "id": "ch11_f_022",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Object relations in family therapy",
+    "back": "OBJECT = a significant other (person or body part) with whom one wishes to bond to satisfy needs. INTROJECTS = internalized positive and negative characteristics of objects that become part of self-image \u2192 determine how one relates to others in adulthood. SPLITTING = seeing an object as ALL GOOD or ALL BAD (not realistic). Removing dysfunctional childhood introjects is curative. Key figures: Framo, Skynner (British).",
+    "difficulty": "hard",
+    "confusable_with": "Transference (also involves projecting past relationships) \u2014 splitting specifically means all-good or all-bad perception"
+  },
+  {
+    "id": "ch11_f_023",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Murray Bowen \u2014 intergenerational family therapy",
+    "back": "Key concepts: (1) TRIANGULATION = when a stressed dyad recruits a 3rd person to stabilize it (usually makes it worse). (2) DIFFERENTIATION = ability to separate intellect from emotion (healthy); opposite is FUSION (pathological merger of intellect/emotion). (3) NUCLEAR FAMILY EMOTIONAL SYSTEM = current family influenced by all previous generations. (4) GENOGRAM = 3-generation family map.",
+    "difficulty": "medium",
+    "confusable_with": "Transactional analysis (also has 3 parts) vs. Bowen's triangulation (3-person system dynamic)"
+  },
+  {
+    "id": "ch11_f_024",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Genogram",
+    "back": "A THREE-GENERATION pictorial diagram of the family system. Uses: squares = males, circles = females, horizontal lines = marriages, vertical lines = children. Introduced by Murray Bowen. Resembles an electronics schematic. Should depict 3+ generations. Helps identify recurring patterns, roles, alliances, and cut-offs across generations. Distinct from a sociogram (which maps group relationships).",
+    "difficulty": "easy",
+    "confusable_with": "Sociogram (maps peer/group relationships) and family sculpting (physical positioning, not a diagram)"
+  },
+  {
+    "id": "ch11_f_025",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Boszormenyi-Nagy \u2014 contextual/intergenerational therapy",
+    "back": "Hungarian, analytically trained. Key concepts: RELATIONAL ETHICS = fairness and accountability between family members; a healthy family can negotiate imbalances. FAMILY LEGACY = expectations handed down across generations. FAMILY LEDGER = multigenerational balance sheet tracking who gave/owes what to whom. Pronunciation: 'Naahge.' Also intergenerational like Bowen, but focuses on fairness/ethics rather than differentiation.",
+    "difficulty": "hard",
+    "confusable_with": "Bowen (also intergenerational) \u2014 Boszormenyi-Nagy focuses on relational ethics/ledger; Bowen focuses on differentiation/triangulation"
+  },
+  {
+    "id": "ch11_f_026",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Mara Selvini-Palazzoli \u2014 Milan systematic family therapy",
+    "back": "Associated with the MILAN SYSTEMATIC approach to family therapy. The Milan group used long-interval sessions (sometimes monthly), positive connotation (reframing the symptom positively), and hypothesizing before sessions. The team behind a one-way mirror was common. Distinct from strategic therapy despite some overlap.",
+    "difficulty": "hard",
+    "confusable_with": "Jay Haley/Strategic therapy (also uses one-way mirror and paradox, but is the MRI/communications model)"
+  },
+  {
+    "id": "ch11_f_027",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Salvador Minuchin \u2014 structural family therapy",
+    "back": "FATHER of STRUCTURAL family therapy. Memory: 'Salvador starts with S, so does Structural.' Key ideas: individual behavior is only interpretable within the family interaction context; change in communication/interaction patterns is required. At Philadelphia Child Guidance Clinic with Haley. Techniques: joining, enactment, boundary marking. Trained even untrained helpers effectively.",
+    "difficulty": "easy",
+    "confusable_with": "Jay Haley (also at Philadelphia Child Guidance) \u2014 Haley = strategic/directives; Minuchin = structural/boundaries"
+  },
+  {
+    "id": "ch11_f_028",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Joining and mimesis (Minuchin's structural therapy)",
+    "back": "JOINING: Therapist meets, greets, and BONDS with the family in the INITIAL SESSION to build confidence and reduce resistance. Uses language similar to the family's. MIMESIS: Therapist MIMICS or copies the family's communication style (pace, posture, language) to join the system. After joining, the therapist challenges dysfunctional patterns. Joining occurs at the START; challenging occurs later.",
+    "difficulty": "medium",
+    "confusable_with": "Enactment (also structural, but happens after joining \u2014 family re-enacts their problem)"
+  },
+  {
+    "id": "ch11_f_029",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Enactment (Minuchin's structural therapy)",
+    "back": "The therapist asks the family to RE-ENACT a problematic interaction IN THE SESSION. Example: 'Act out what happens at home when the subject of your daughter's boyfriend comes up.' This allows the therapist to directly observe family dynamics rather than hearing second-hand descriptions. It is an 'instant replay' of the problem.",
+    "difficulty": "easy",
+    "confusable_with": "Role play (similar concept in individual therapy) \u2014 enactment is specifically Minuchin's structural technique with families"
+  },
+  {
+    "id": "ch11_f_030",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Boundaries in structural family therapy: clear, rigid, diffuse",
+    "back": "CLEAR (IDEAL): Firm yet flexible; members are supported AND individuated. RIGID: Too firm, disengaged \u2014 husband says 'you're on your own.' Members seek support outside the family. DIFFUSE: Too permeable, enmeshed \u2014 mother accompanies adult daughter on dates. Members lose autonomy. Boundary marking technique: change seating to change boundaries.",
+    "difficulty": "medium",
+    "confusable_with": "Enmeshment (= diffuse boundaries) and disengagement (= rigid boundaries)"
+  },
+  {
+    "id": "ch11_f_031",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "First-order vs. second-order change (Watzlawick, Weakland, Fisch)",
+    "back": "FIRST-ORDER: Superficial behavioral changes occur, but the STRUCTURE of the family system does NOT change. Symptoms may temporarily improve but relapse. SECOND-ORDER: The actual STRUCTURE of the family changes, altering the problematic pattern permanently. Second-order is MORE DESIRABLE. Analogy: First-order = moving furniture in a burning house; second-order = putting out the fire.",
+    "difficulty": "medium",
+    "confusable_with": "Strategic paradox (changes symptom but may not change structure) vs. second-order change (changes structure)"
+  },
+  {
+    "id": "ch11_f_032",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Greek chorus (Peggy Papp)",
+    "back": "A CONSULTANT or SUPERVISORY TEAM that observes a family therapy session from behind a ONE-WAY MIRROR and sends messages to the therapist or the family during the session. The therapist may ACCEPT or REJECT the team's input. Popular with strategic therapists. Similar concept to Tom Anderson's reflecting team (postmodern approach), but the reflecting team speaks IN FRONT of the family.",
+    "difficulty": "hard",
+    "confusable_with": "Tom Anderson's reflecting team (same mirror setup, but the reflecting team speaks openly in front of the family)"
+  },
+  {
+    "id": "ch11_f_033",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Solution-focused brief therapy (de Shazer, O'Hanlon, Berg, Weiner Davis)",
+    "back": "FUTURE-FOCUSED \u2014 puts little or no emphasis on understanding the problem. Key techniques: MIRACLE QUESTION ('If a miracle happened overnight and the problem disappeared, what would be different?') \u2014 popularized by Steve de Shazer; SKELETON KEYS = stock interventions that work for multiple different problems; COMPLIMENT = written positive note given to client; PAST SUCCESSES = highlighting prior client victories.",
+    "difficulty": "medium",
+    "confusable_with": "Narrative therapy (also postmodern/constructivist) \u2014 solution-focused = future/miracle; narrative = stories/externalization"
+  },
+  {
+    "id": "ch11_f_034",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Narrative therapy (Michael White, Cheryl White, David Epston)",
+    "back": "POSTMODERN / CONSTRUCTIVIST approach. Core idea: clients construct a STORY about their lives and can RE-AUTHOR those stories in therapy. Technique: EXTERNALIZATION = separating the problem from the person ('the violence' not 'the violent husband'). Therapist teams up with family to fight the enemy (the problem). In intimate partner violence: verbal abuse typically precedes physical abuse.",
+    "difficulty": "medium",
+    "confusable_with": "Solution-focused (also postmodern) \u2014 narrative = story/externalization; solution-focused = future/miracle question"
+  },
+  {
+    "id": "ch11_f_035",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Tom Anderson \u2014 reflecting team (postmodern family therapy)",
+    "back": "Norwegian psychiatrist. Became disenchanted with traditional therapy where the team behind the mirror discussed the family WITHOUT the family knowing. Innovation: asked the family if they'd like to HEAR what the team was saying. Family said yes \u2192 the REFLECTING TEAM discusses the case IN FRONT of the family; then therapist processes the family's reaction. More transparent and less hierarchical.",
+    "difficulty": "medium",
+    "confusable_with": "Greek chorus (Papp) \u2014 team behind mirror sends hidden messages; reflecting team speaks openly in front of family"
+  },
+  {
+    "id": "ch11_f_036",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Feminist therapy",
+    "back": "Criticizes traditional theories for being: ANDROCENTRIC (male viewpoint used to analyze all personality), GENDERCENTRIC (two separate developmental tracks), HETEROSEXIST (debases same-sex relationships). Core idea: 'The personal is political' \u2014 problems may be in the environment/political system, not the individual. GENDER-FREE: sex differences = socialization, not biology. Techniques: bibliotherapy, assertiveness training, appropriate therapist self-disclosure. Egalitarian therapist-client relationship.",
+    "difficulty": "medium",
+    "confusable_with": "Multicultural counseling (also addresses systemic oppression) \u2014 feminist therapy specifically focuses on gender/patriarchy"
+  },
+  {
+    "id": "ch11_f_037",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Circumplex model (Olson, Sprenkle, Russell)",
+    "back": "Describes family functioning on TWO DIMENSIONS: COHESION (level of emotional bonding between members) and ADAPTABILITY (how rigid, structured, flexible, or chaotic the family is \u2014 balance between morphostasis and morphogenesis). KEY: balance in BOTH dimensions is essential. Extremes of either are pathological (e.g., very enmeshed OR very disengaged; very chaotic OR very rigid).",
+    "difficulty": "medium",
+    "confusable_with": "Minuchin's boundary types (also describes enmeshment/disengagement) \u2014 circumplex adds adaptability as a second axis"
+  },
+  {
+    "id": "ch11_f_038",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 11,
+    "front": "Cultural encapsulation (Gilbert Wrenn)",
+    "back": "A counselor who: (1) treats all cultural groups the same, ignoring key differences, AND (2) imposes goals/values from their OWN culture onto clients from OTHER cultures. Coined by counseling pioneer Gilbert Wrenn (also credited with 1962 developmental focus for school counselors). Opposite of cultural sensitivity. Considered an ethics violation in multicultural counseling.",
+    "difficulty": "easy",
+    "confusable_with": "Stereotyping (assumes all members of a group are the same) vs. cultural encapsulation (also imposes counselor's own cultural values)"
+  },
+  {
+    "id": "ch11_f_039",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 11,
+    "front": "Native American families \u2014 counseling considerations",
+    "back": "Over 550 state-recognized tribes (220+ in Alaska) \u2014 extremely DIVERSE, NOT homogeneous. Extended family and tribe are highly significant. High rates: SUICIDE = 2nd leading cause of death ages 10\u201334; ALCOHOL involved in 69% of suicides (highest of all groups). Identity confusion common due to high rates of foster/adoption placement in non-Native homes. Counselors must respect tribal collectivist values.",
+    "difficulty": "medium",
+    "confusable_with": "Other minority groups' suicide rates \u2014 Native Americans specifically have the highest alcohol-related suicide rate"
+  },
+  {
+    "id": "ch11_f_040",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 11,
+    "front": "African American families \u2014 counseling considerations",
+    "back": "Second largest U.S. minority (Latino/a = largest). Less likely to seek professional mental health treatment \u2014 rely on EXTENDED FAMILY and CHURCH for support (seen as a strength). Fewer African Americans are getting married. Less concern with traditional gender roles. Best therapeutic approaches: BOWEN, MINUCHIN, or HALEY \u2014 brief, problem-focused, or multigenerational.",
+    "difficulty": "medium",
+    "confusable_with": "Latino/a families (also underserved, but prefer brief medical-model approach and have highest poverty/education gap)"
+  },
+  {
+    "id": "ch11_f_041",
+    "domain": "Social & Cultural Diversity",
+    "chapter": 11,
+    "front": "Asian American families \u2014 counseling considerations",
+    "back": "Wang et al. study: 8.6% had mental health symptoms (vs. 17.9% general population) \u2014 arguably mentally HEALTHIER. Of those with a DSM diagnosis: only 34.1% sought treatment (vs. 41.1% general population) \u2014 LESS LIKELY to seek treatment. BEST approach: solution-focused/problem-focused modalities. Large variation within the group \u2014 not homogeneous.",
+    "difficulty": "medium",
+    "confusable_with": "African Americans (also less likely to seek formal treatment, but rely on church/family; Asian Americans rely on cultural stigma avoidance)"
+  },
+  {
+    "id": "ch11_f_042",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Gottman's 6 predictors of divorce",
+    "back": "(1) Harsh START-UP of the marriage. (2) Negativity: criticism, contempt, defensiveness, STONEWALLING (the 'Four Horsemen'). (3) FLOODING: sudden, overwhelming negativity. (4) Body language changes (e.g., pulse 110\u2013165). (5) FAILED REPAIR attempts. (6) Lack of FOND MEMORIES from early relationship. Note: Gottman did NOT use true experiments \u2014 a common criticism. Ellen Langer = 'Counter Clockwise' biomarker reversal study.",
+    "difficulty": "hard",
+    "confusable_with": "Haley's predictors of dysfunction (hierarchy/power) vs. Gottman's (communication/affect predictors of divorce)"
+  },
+  {
+    "id": "ch11_f_043",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Mandatory vs. aspirational ethics",
+    "back": "MANDATORY ETHICS: Strictly enforced, clear-cut, no gray areas. Violations have consequences. Also called STANDARDS OF PRACTICE. Example: 'Never have sex with a current client.' ASPIRATIONAL ETHICS: Describe IDEAL/OPTIMAL practice but are difficult to enforce. Example: pro bono services (seeing clients for free). Most ethics codes contain both types. Your exam may ask about pro bono work \u2192 aspirational.",
+    "difficulty": "medium",
+    "confusable_with": "Ethics violations (mandatory) vs. suboptimal but not punishable practice (aspirational)"
+  },
+  {
+    "id": "ch11_f_045",
+    "domain": "Research & Program Evaluation",
+    "chapter": 11,
+    "front": "Pre-experimental design notation (XO, OXO, O1O2O3XO4O5O6)",
+    "back": "O = observation/measurement (DV); X = treatment; R = random; NR = no random. XO = one-group posttest only (no pretest). OXO = one-group pretest-posttest. TIME-SERIES = O1O2O3XO4O5O6 (multiple pre/post measurements, quasi-experimental). SOLOMON 4-GROUP: two pairs of E/C groups \u2014 one pair gets pretest, one doesn't \u2192 controls for pretest effects \u2192 TRUE EXPERIMENT (randomly assigned).",
+    "difficulty": "hard",
+    "confusable_with": "ABAB (single-subject) design vs. time-series (group, multiple observations before/after)"
+  },
+  {
+    "id": "ch11_f_046",
+    "domain": "Research & Program Evaluation",
+    "chapter": 11,
+    "front": "Coefficient of nondetermination",
+    "back": "The proportion of variance in Y NOT explained by X. Formula: 1 - r\u00b2 (or 100% - coefficient of determination). Example: r = .60 \u2192 r\u00b2 = .36 (36% shared variance) \u2192 coefficient of nondetermination = 64% (unique variance in Y not explained by X). Complements the coefficient of determination \u2014 they always add to 100%.",
+    "difficulty": "hard",
+    "confusable_with": "Coefficient of determination (r\u00b2 = shared variance) vs. nondetermination (1-r\u00b2 = unique variance)"
+  },
+  {
+    "id": "ch11_f_047",
+    "domain": "Career Development",
+    "chapter": 11,
+    "front": "Social Cognitive Career Theory (SCCT)",
+    "back": "SELF-EFFICACY BELIEFS influence career decisions. Example: a woman with strong math skills may avoid math careers due to the belief ('I can't do this'). Core question: 'Can I really do this and what will happen if I try?' Self-efficacy = personal belief in one's capacity to perform a specific task. Even strong abilities don't lead to career pursuit if self-efficacy is low. Related to Bandura's social learning theory.",
+    "difficulty": "medium",
+    "confusable_with": "Krumboltz's social learning career theory (also Bandura-based, but focuses on learning experiences, not self-efficacy beliefs)"
+  },
+  {
+    "id": "ch11_f_048",
+    "domain": "Career Development",
+    "chapter": 11,
+    "front": "Theory of Work Adjustment (TWA) \u2014 Dawis and Lofquist",
+    "back": "TWA = Theory of Work Adjustment. Key concept: PEC = PERSON-ENVIRONMENT CORRESPONDENCE (the match between person and work environment must be HIGH). Works BOTH WAYS: (1) person must fit the job AND (2) the job must meet the person's needs. Higher correspondence \u2192 higher work satisfaction \u2192 greater productivity. Criticism: doesn't account for how the person AND environment change over time.",
+    "difficulty": "medium",
+    "confusable_with": "Holland's RIASEC (also person-environment fit, but based on personality types, not work needs/correspondence)"
+  },
+  {
+    "id": "ch11_f_049",
+    "domain": "Career Development",
+    "chapter": 11,
+    "front": "Interactive vs. noninteractive career activities",
+    "back": "NONINTERACTIVE (LINEAR): Client has MORE control \u2014 reading a book/pamphlet, watching a video, listening to a speech. INTERACTIVE (NONLINEAR): Client has LESS control \u2014 job shadowing, field visit to a business, interviewing workers, computer-based guidance systems. Interactive = more expensive, reduces client control. Memory: 'When you visit a company, you can't control their hours \u2014 they control you.'",
+    "difficulty": "medium",
+    "confusable_with": "The terms 'linear' and 'nonlinear' are counterintuitive \u2014 noninteractive = linear; interactive = nonlinear"
+  },
+  {
+    "id": "ch11_f_050",
+    "domain": "Helping Relationships",
+    "chapter": 11,
+    "front": "Marriage/family statistics for the exam",
+    "back": "Divorce: ~50% first marriages; ~65% second marriages; ~70%+ third marriages. Average divorce: after 8 YEARS of marriage. Average remarriage: 3\u20134 YEARS after divorce. 4 in 10 new marriages are REMARRIAGES. Fastest growing counseling clientele = marriage/family problems (AAMFT views marriage/family therapy as separate profession; IAMFC/ACA views it as a counseling specialty). Family therapy tends to be BRIEFER than individual therapy.",
+    "difficulty": "easy",
+    "confusable_with": "Exact divorce percentages \u2014 first=50%, second=65%, third=70%+"
+  }
+]
