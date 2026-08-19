@@ -239,11 +239,6 @@ export default function App() {
               </div>
             )}
 
-            {/* Quote */}
-            <blockquote className="home-quote">
-              <p>{quote.text}</p>
-              <cite>– {quote.author}</cite>
-            </blockquote>
 
           </aside>
 
