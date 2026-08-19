@@ -1,10 +1,22 @@
 import { useState, useEffect } from 'react'
 import FlashcardView from './components/FlashcardView'
 import QuizView from './components/QuizView'
+import ExamView from './components/ExamView'
 import Leaderboard from './components/Leaderboard'
 import LandingPage from './components/LandingPage'
 import { supabase } from './lib/supabase'
 import './App.css'
+
+const EXAM_DOMAINS = [
+  { chId: 'ch03', count: 24 },
+  { chId: 'ch04', count: 22 },
+  { chId: 'ch05', count: 52 },
+  { chId: 'ch06', count: 14 },
+  { chId: 'ch07', count: 22 },
+  { chId: 'ch08', count: 26 },
+  { chId: 'ch09', count: 16 },
+  { chId: 'ch10', count: 24 },
+]
 
 const CHAPTERS = [
   { id: 'ch03', name: 'Ch 3', title: 'Human Growth & Development' },
@@ -42,6 +54,22 @@ export default function App() {
     setData(json)
     setActiveChapter(ch)
     setView(mode === 'flashcards' ? 'flashcards' : 'quiz')
+    setLoading(false)
+  }
+
+  async function openExam() {
+    setLoading(true)
+    const allData = await Promise.all(
+      EXAM_DOMAINS.map(({ chId }) => fetch(`/${chId}_quiz.json`).then(r => r.json()))
+    )
+    const pool = []
+    allData.forEach((questions, i) => {
+      const { count } = EXAM_DOMAINS[i]
+      const shuffled = [...questions].sort(() => Math.random() - 0.5)
+      pool.push(...shuffled.slice(0, Math.min(count, shuffled.length)))
+    })
+    setData(pool.sort(() => Math.random() - 0.5))
+    setView('exam')
     setLoading(false)
   }
 
@@ -86,6 +114,15 @@ export default function App() {
     )
   }
 
+  if (view === 'exam' && data) {
+    return (
+      <div className="app">
+        <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
+        <ExamView questions={data} onBack={goHome} user={user} />
+      </div>
+    )
+  }
+
   if (view === 'leaderboard') {
     return (
       <div className="app">
@@ -108,6 +145,10 @@ export default function App() {
           </div>
           <button className="btn btn-secondary" onClick={() => setView('leaderboard')}>🏆 Leaderboard</button>
         </div>
+
+        <button className="btn btn-exam" onClick={openExam} disabled={loading}>
+          {loading ? 'Loading…' : '📋 NCE Practice Exam — 200 Questions · 4 Hours'}
+        </button>
         <div className="chapter-grid">
           {CHAPTERS.map(ch => (
             <div key={ch.id} className="chapter-card">
