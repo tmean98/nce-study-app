@@ -4,16 +4,19 @@ import { supabase } from '../lib/supabase'
 import { useStarred } from '../lib/useStarred'
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E']
-const SESSION_SIZES = [10, 20, 40, 'All']
+const SESSION_SIZES = [10, 20, 40]
 
-function buildPool(questions, size, starredSet, starredOnly) {
-  const source = starredOnly ? questions.filter(q => starredSet.has(q.id)) : questions
+function buildPool(questions, size, masteredSet, mode, starredSet, starredOnly) {
+  let source = questions
+  if (starredOnly) source = questions.filter(q => starredSet.has(q.id))
+  else if (mode === 'unmastered') source = questions.filter(q => !masteredSet.has(q.id))
   const shuffled = [...source].sort(() => Math.random() - 0.5)
   return size === 'All' ? shuffled : shuffled.slice(0, Math.min(size, shuffled.length))
 }
 
-export default function QuizView({ questions, chapterName, chapterId, onBack, user }) {
+export default function QuizView({ questions, chapterName, chapterId, onBack, user, mastery, markMastered }) {
   const [sessionSize, setSessionSize] = useState(null)
+  const [sessionMode, setSessionMode] = useState('unmastered')
   const [pool, setPool] = useState([])
   const [index, setIndex] = useState(0)
   const [selected, setSelected] = useState(null)
@@ -25,24 +28,34 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
   const [starredOnly, setStarredOnly] = useState(false)
   const { starred, toggle } = useStarred()
 
+  const masteredSet = mastery || new Set()
+  const masteredCount = questions.filter(q => masteredSet.has(q.id)).length
+  const unmasteredCount = questions.length - masteredCount
+  const masteryPct = Math.round((masteredCount / questions.length) * 100)
+  const allMastered = unmasteredCount === 0
+
   const q = pool[index]
   const total = pool.length
   const answered = selected !== null
 
-  function startSession(size) {
+  function startSession(size, mode) {
     setSessionSize(size)
-    setPool(buildPool(questions, size, starred, starredOnly))
+    setSessionMode(mode)
+    setPool(buildPool(questions, size, masteredSet, mode, starred, starredOnly))
     setIndex(0); setSelected(null); setScore(0); setDone(false); setSaved(false)
   }
 
   function choose(i) {
     if (answered) return
     setSelected(i)
-    if (i === q.correct_index) setScore(s => s + 1)
+    if (i === q.correct_index) {
+      setScore(s => s + 1)
+      markMastered?.(q.id, chapterId)
+    }
   }
 
   function next() {
-    if (index + 1 >= total) { setDone(true) }
+    if (index + 1 >= total) setDone(true)
     else { setIndex(i => i + 1); setSelected(null) }
   }
 
@@ -69,33 +82,89 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
     setIndex(0); setSelected(null); setScore(0); setDone(false); setSaved(false)
   }
 
-  // Start screen
+  // ── Start screen ──────────────────────────────────────────────────────────
   if (!sessionSize) {
     const starredCount = questions.filter(q => starred.has(q.id)).length
+    const unmasteredSizes = SESSION_SIZES.filter(s => s < unmasteredCount)
+
     return (
       <div className="quiz-view">
         <div className="study-header">
           <button className="btn btn-ghost" onClick={onBack}>← Back</button>
           <h2 className="study-title">{chapterName} — Quiz</h2>
         </div>
+
         <div className="quiz-start">
-          <p className="quiz-start-label">How many questions?</p>
-          <div className="quiz-size-grid">
-            {SESSION_SIZES.map(s => (
-              <button
-                key={s}
-                className="btn btn-secondary quiz-size-btn"
-                onClick={() => { setStarredOnly(false); startSession(s) }}
-              >
-                {s === 'All' ? `All ${questions.length}` : s}
-              </button>
-            ))}
+
+          {/* Mastery bar */}
+          <div className="mastery-progress">
+            <div className="mastery-progress-header">
+              <span className="mastery-progress-label">
+                {allMastered ? '✓ Chapter Complete — All Questions Mastered' : 'Mastery Progress'}
+              </span>
+              <span className="mastery-progress-count">{masteredCount} / {questions.length}</span>
+            </div>
+            <div className="mastery-bar-wrap">
+              <div className="mastery-bar-fill" style={{ width: `${masteryPct}%` }} />
+            </div>
           </div>
+
+          {!allMastered ? (
+            <>
+              {/* Primary: unmastered */}
+              <p className="quiz-section-label">Study unmastered — {unmasteredCount} left</p>
+              <div className="quiz-size-grid">
+                {unmasteredSizes.map(s => (
+                  <button key={s} className="btn btn-secondary quiz-size-btn"
+                    onClick={() => { setStarredOnly(false); startSession(s, 'unmastered') }}>
+                    {s}
+                  </button>
+                ))}
+                <button className="btn btn-secondary quiz-size-btn"
+                  onClick={() => { setStarredOnly(false); startSession('All', 'unmastered') }}>
+                  All {unmasteredCount}
+                </button>
+              </div>
+
+              {/* Secondary: review all */}
+              <div className="quiz-section-divider" />
+              <p className="quiz-section-label quiz-section-label-dim">Review all {questions.length} questions</p>
+              <div className="quiz-size-grid">
+                {SESSION_SIZES.map(s => (
+                  <button key={s} className="btn btn-ghost quiz-size-btn"
+                    onClick={() => { setStarredOnly(false); startSession(s, 'all') }}>
+                    {s}
+                  </button>
+                ))}
+                <button className="btn btn-ghost quiz-size-btn"
+                  onClick={() => { setStarredOnly(false); startSession('All', 'all') }}>
+                  All {questions.length}
+                </button>
+              </div>
+            </>
+          ) : (
+            <>
+              <p className="mastery-complete-note">
+                You've mastered every question in this chapter. Keep reviewing to stay sharp.
+              </p>
+              <div className="quiz-size-grid">
+                {SESSION_SIZES.map(s => (
+                  <button key={s} className="btn btn-secondary quiz-size-btn"
+                    onClick={() => { setStarredOnly(false); startSession(s, 'all') }}>
+                    {s}
+                  </button>
+                ))}
+                <button className="btn btn-secondary quiz-size-btn"
+                  onClick={() => { setStarredOnly(false); startSession('All', 'all') }}>
+                  All {questions.length}
+                </button>
+              </div>
+            </>
+          )}
+
           {starredCount > 0 && (
-            <button
-              className="btn btn-ghost quiz-starred-btn"
-              onClick={() => { setStarredOnly(true); startSession('All') }}
-            >
+            <button className="btn btn-ghost quiz-starred-btn"
+              onClick={() => { setStarredOnly(true); startSession('All', 'all') }}>
               ★ Starred only ({starredCount})
             </button>
           )}
@@ -104,8 +173,8 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
     )
   }
 
-  // Empty starred pool
-  if (starredOnly && total === 0) {
+  // ── Empty pool ────────────────────────────────────────────────────────────
+  if (total === 0) {
     return (
       <div className="quiz-view">
         <div className="study-header">
@@ -113,16 +182,17 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
           <h2 className="study-title">{chapterName} — Quiz</h2>
         </div>
         <div className="empty-state">
-          <p>No starred questions in this chapter yet.</p>
+          <p>No questions in this set.</p>
           <button className="btn btn-secondary" onClick={restart}>Back to Start</button>
         </div>
       </div>
     )
   }
 
-  // Score screen
+  // ── Score screen ──────────────────────────────────────────────────────────
   if (done) {
     const pct = Math.round((score / total) * 100)
+    const updatedMastered = questions.filter(q => masteredSet.has(q.id)).length
     return (
       <div className="score-screen">
         <div className="score-circle">
@@ -131,6 +201,9 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
         </div>
         <h2>{pct >= 75 ? 'Great work!' : pct >= 50 ? 'Keep studying!' : 'More review needed'}</h2>
         <p>{pct}% correct on {chapterName}</p>
+        <p className="score-mastery-note">
+          {updatedMastered} / {questions.length} questions mastered in this chapter
+        </p>
 
         {supabase && user && !saved && !starredOnly && (
           <div className="save-score-box">
@@ -140,7 +213,7 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
             </button>
           </div>
         )}
-        {saved && <p className="save-confirmed">Score saved to leaderboard!</p>}
+        {saved && <p className="save-confirmed">Score saved!</p>}
 
         <div className="score-actions">
           <button className="btn btn-secondary" onClick={onBack}>← Chapters</button>
@@ -150,7 +223,7 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
     )
   }
 
-  // Quiz in progress
+  // ── Quiz in progress ──────────────────────────────────────────────────────
   return (
     <div className="quiz-view">
       <div className="study-header">
@@ -169,7 +242,10 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
 
       <div className="quiz-question-box">
         <div className="quiz-q-header">
-          <div className="quiz-q-number">Question {index + 1}</div>
+          <div className="quiz-q-number">
+            Question {index + 1}
+            {masteredSet.has(q.id) && <span className="q-mastered-badge">✓ mastered</span>}
+          </div>
           <div style={{ display: 'flex', gap: 6 }}>
             <button
               className={`icon-btn star-btn${starred.has(q.id) ? ' starred' : ''}`}

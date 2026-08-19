@@ -1105,6 +1105,84 @@
 .lb-chapter { font-size: 12px; color: #64748b; }
 .lb-score { font-weight: 700; color: #60a5fa; text-align: right; }
 
+/* ── Mastery ── */
+.mastery-progress {
+  width: 100%;
+  max-width: 400px;
+  background: #111f38;
+  border: 1px solid #1E3048;
+  border-radius: 10px;
+  padding: 14px 16px;
+  margin-bottom: 4px;
+}
+.mastery-progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.mastery-progress-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #94a3b8;
+}
+.mastery-progress-count {
+  font-size: 13px;
+  font-weight: 700;
+  color: #e2e8f0;
+}
+.mastery-bar-wrap {
+  height: 6px;
+  background: #1E3048;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.mastery-bar-fill {
+  height: 100%;
+  background: #2F6FED;
+  border-radius: 3px;
+  transition: width 0.4s ease;
+}
+.quiz-section-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #94a3b8;
+  align-self: flex-start;
+  width: 100%;
+  max-width: 400px;
+}
+.quiz-section-label-dim { color: #4A6080; }
+.quiz-section-divider {
+  width: 100%;
+  max-width: 400px;
+  border: none;
+  border-top: 1px solid #1E3048;
+  margin: 4px 0;
+}
+.mastery-complete-note {
+  font-size: 14px;
+  color: #94a3b8;
+  text-align: center;
+  max-width: 340px;
+}
+.q-mastered-badge {
+  font-size: 11px;
+  font-weight: 600;
+  color: #22c55e;
+  margin-left: 8px;
+  letter-spacing: .03em;
+}
+.score-mastery-note {
+  font-size: 13px;
+  color: #94a3b8;
+  margin-top: -8px;
+}
+.chapter-card-complete { border-color: #22c55e44 !important; }
+
 /* ── Quiz Start Screen ── */
 .quiz-start {
   display: flex;

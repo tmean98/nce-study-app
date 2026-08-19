@@ -6,6 +6,7 @@ import Leaderboard from './components/Leaderboard'
 import LandingPage from './components/LandingPage'
 import WelcomeModal from './components/WelcomeModal'
 import { supabase } from './lib/supabase'
+import { useMastery } from './lib/useMastery'
 import './App.css'
 
 const EXAM_DOMAINS = [
@@ -49,6 +50,7 @@ export default function App() {
   const [userStats, setUserStats] = useState(null)
   const [chapterScores, setChapterScores] = useState({})
   const [showWelcome, setShowWelcome] = useState(false)
+  const { mastered, masteredByChapter, markMastered } = useMastery(user?.id)
 
   useEffect(() => {
     if (!supabase) { setUser(null); return }
@@ -161,6 +163,9 @@ export default function App() {
   const recentChapterScore = recentChapter && chapterScores[recentChapter.id]
     ? chapterScores[recentChapter.id].bestPct
     : null
+  const totalQuestions = CHAPTERS.reduce((sum, c) => sum + c.questions, 0)
+  const totalMastered = Object.values(masteredByChapter).reduce((sum, n) => sum + n, 0)
+  const overallMasteryPct = Math.round((totalMastered / totalQuestions) * 100)
 
   return (
     <div className="app">
@@ -176,7 +181,7 @@ export default function App() {
         <FlashcardView cards={data} chapterName={chapterLabel} onBack={goHome} />
       )}
       {view === 'quiz' && data && (
-        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} />
+        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} />
       )}
       {view === 'exam' && data && (
         <ExamView questions={data} onBack={goHome} user={user} />
@@ -202,20 +207,20 @@ export default function App() {
               <p className="sidebar-label">YOUR PROGRESS</p>
               <div className="progress-stats-grid">
                 <div className="pstat">
-                  <span className="pstat-num">{userStats ? `${userStats.overallPct}%` : '—'}</span>
-                  <span className="pstat-label">Overall Progress</span>
+                  <span className="pstat-num">{totalMastered > 0 ? `${overallMasteryPct}%` : '—'}</span>
+                  <span className="pstat-label">Mastery</span>
                 </div>
                 <div className="pstat">
-                  <span className="pstat-num">{userStats ? userStats.totalAnswered : '—'}</span>
-                  <span className="pstat-label">Questions Answered</span>
+                  <span className="pstat-num">{totalMastered > 0 ? totalMastered : '—'}</span>
+                  <span className="pstat-label">Questions Mastered</span>
                 </div>
                 <div className="pstat">
                   <span className="pstat-num">{userStats ? `${userStats.avgScore}%` : '—'}</span>
                   <span className="pstat-label">Average Score</span>
                 </div>
                 <div className="pstat">
-                  <span className="pstat-num">—</span>
-                  <span className="pstat-label">Day Streak</span>
+                  <span className="pstat-num">{totalMastered > 0 ? `${totalQuestions - totalMastered}` : '—'}</span>
+                  <span className="pstat-label">Remaining</span>
                 </div>
               </div>
             </div>
@@ -277,21 +282,23 @@ export default function App() {
               </div>
               <div className="chapter-grid">
                 {CHAPTERS.map(ch => {
-                  const score = chapterScores[ch.id]
-                  const bestPct = score ? score.bestPct : null
-                  const started = bestPct != null
+                  const chMastered = masteredByChapter[ch.id] || 0
+                  const chTotal = ch.questions
+                  const chPct = Math.round((chMastered / chTotal) * 100)
+                  const complete = chMastered === chTotal
+                  const started = chMastered > 0
                   return (
-                    <div key={ch.id} className="chapter-card">
+                    <div key={ch.id} className={`chapter-card${complete ? ' chapter-card-complete' : ''}`}>
                       <div className="chapter-card-num">{ch.num}</div>
                       <div>
                         <p className="chapter-card-title">{ch.title}</p>
-                        <p className="chapter-card-meta">50 FLASHCARDS · {ch.questions} QUESTIONS</p>
+                        <p className="chapter-card-meta">50 FLASHCARDS · {chTotal} QUESTIONS</p>
                         <div className="chapter-card-bar-wrap">
-                          <div className="chapter-card-bar" style={{ width: `${bestPct || 0}%` }} />
+                          <div className="chapter-card-bar" style={{ width: `${chPct}%`, background: complete ? '#22c55e' : undefined }} />
                         </div>
                         <div className="chapter-card-footer">
                           <span className="chapter-card-score">
-                            {started ? `${bestPct}% best score` : 'Not started'}
+                            {complete ? '✓ Complete' : started ? `${chMastered} / ${chTotal} mastered` : 'Not started'}
                           </span>
                           <div className="chapter-card-actions">
                             <button className="ch-link" onClick={() => openView(ch, 'flashcards')}>Cards</button>
@@ -301,8 +308,8 @@ export default function App() {
                           </div>
                         </div>
                       </div>
-                      <div className="chapter-card-pct" style={{ color: started ? '#2F6FED' : '#1E3048' }}>
-                        {started ? `${bestPct}%` : '—'}
+                      <div className="chapter-card-pct" style={{ color: complete ? '#22c55e' : started ? '#2F6FED' : '#1E3048' }}>
+                        {complete ? '✓' : started ? `${chPct}%` : '—'}
                       </div>
                     </div>
                   )
