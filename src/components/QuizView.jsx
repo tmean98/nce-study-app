@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import FlagModal from './FlagModal'
 import { supabase } from '../lib/supabase'
+import { useStarred } from '../lib/useStarred'
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E']
 
@@ -13,9 +14,12 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
   const [flagged, setFlagged] = useState(null)
   const [saved, setSaved] = useState(false)
   const [saving, setSaving] = useState(false)
+  const [starredOnly, setStarredOnly] = useState(false)
+  const { starred, toggle } = useStarred()
 
-  const q = shuffled[index]
-  const total = shuffled.length
+  const pool = starredOnly ? shuffled.filter(q => starred.has(q.id)) : shuffled
+  const q = pool[index]
+  const total = pool.length
   const answered = selected !== null
 
   function choose(i) {
@@ -50,6 +54,30 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
     setIndex(0); setSelected(null); setScore(0); setDone(false); setSaved(false)
   }
 
+  function switchFilter(starredOnlyNext) {
+    setStarredOnly(starredOnlyNext)
+    setIndex(0)
+    setSelected(null)
+    setScore(0)
+    setDone(false)
+    setSaved(false)
+  }
+
+  if (starredOnly && total === 0) {
+    return (
+      <div className="quiz-view">
+        <div className="study-header">
+          <button className="btn btn-ghost" onClick={onBack}>← Back</button>
+          <h2 className="study-title">{chapterName} — Quiz</h2>
+        </div>
+        <div className="empty-state">
+          <p>No starred questions in this chapter yet.</p>
+          <button className="btn btn-secondary" onClick={() => switchFilter(false)}>Show All Questions</button>
+        </div>
+      </div>
+    )
+  }
+
   if (done) {
     const pct = Math.round((score / total) * 100)
     return (
@@ -61,7 +89,7 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
         <h2>{pct >= 75 ? 'Great work!' : pct >= 50 ? 'Keep studying!' : 'More review needed'}</h2>
         <p>{pct}% correct on {chapterName}</p>
 
-        {supabase && user && !saved && (
+        {supabase && user && !saved && !starredOnly && (
           <div className="save-score-box">
             <p>Save to leaderboard as <strong>{user.user_metadata?.display_name || user.email.split('@')[0]}</strong>?</p>
             <button className="btn btn-success" onClick={saveScore} disabled={saving}>
@@ -73,11 +101,13 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
 
         <div className="score-actions">
           <button className="btn btn-secondary" onClick={onBack}>← Chapters</button>
-          <button className="btn btn-primary" onClick={restart}>Retake Quiz</button>
+          <button className="btn btn-primary" onClick={restart}>Retake</button>
         </div>
       </div>
     )
   }
+
+  const starredCount = shuffled.filter(q => starred.has(q.id)).length
 
   return (
     <div className="quiz-view">
@@ -87,7 +117,12 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
       </div>
 
       <div className="card-toolbar">
-        <span />
+        <button
+          className={`toolbar-btn${starredOnly ? ' active' : ''}`}
+          onClick={() => switchFilter(!starredOnly)}
+        >
+          ★ {starredOnly ? 'All Questions' : `Starred (${starredCount})`}
+        </button>
         <span className="progress-label">{index + 1} / {total}</span>
       </div>
 
@@ -98,7 +133,16 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
       <div className="quiz-question-box">
         <div className="quiz-q-header">
           <div className="quiz-q-number">Question {index + 1}</div>
-          <button className="icon-btn flag-btn" onClick={() => setFlagged(q)} title="Flag this question">⚑</button>
+          <div style={{ display: 'flex', gap: 6 }}>
+            <button
+              className={`icon-btn star-btn${starred.has(q.id) ? ' starred' : ''}`}
+              onClick={() => toggle(q.id)}
+              title={starred.has(q.id) ? 'Unstar' : 'Star for review'}
+            >
+              {starred.has(q.id) ? '★' : '☆'}
+            </button>
+            <button className="icon-btn flag-btn" onClick={() => setFlagged(q)} title="Flag this question">⚑</button>
+          </div>
         </div>
         <div className="quiz-question-text">{q.question}</div>
       </div>
