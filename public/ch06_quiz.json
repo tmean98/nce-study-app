@@ -1,282 +1,1402 @@
 [
   {
-    "id": "ch06_q_001",
+    "id": "ch06_q_401",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A counseling group at an outpatient clinic has been running for 12 weeks. Members know each other well and work cohesively on shared goals. A new counselor asks why closed groups are preferred over open groups for this type of work. The BEST explanation is:",
+    "question": "Prior to the 1960s most counseling took place",
     "options": [
-      "Closed groups are more cost-effective because the agency does not need to recruit new members",
-      "Closed groups foster greater cohesiveness and trust because the membership remains stable",
-      "Closed groups protect confidentiality better because no information is shared with outsiders",
-      "Closed groups always have more members than open groups over time"
+      "in a group setting.",
+      "with the entire family present.",
+      "in a dyadic relationship.",
+      "in behavior therapy clinics."
+    ],
+    "correct_index": 2,
+    "rationale": "A dyad is a unit of two functioning as a pair. In this case the counselor and the counselee form the pair. The popularity of family therapy and behavior therapy was not evident in the 1950s. I cannot forego mentioning that counselors often confuse the word dyadic with didactic which means to teach. Special note: Despite my aforementioned remarks, group leaders often put members in smaller groups during experiential experiences and this practice is often labeled as pairing."
+  },
+  {
+    "id": "ch06_q_402",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group has",
+    "options": [
+      "a membership which can be defined.",
+      "some degree of unity and interaction.",
+      "a shared purpose.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Put the choices together and you have a fine definition of the word group. A group is really a cluster of people in a recognizable unit. An alternative definition of a group would be: three or more people who meet with a conscious cause or purpose. Exam point saver: Although group work is very beneficial, preliminary meta-analysis research indicates that individual counseling still generally produces better results for depressed clients. At this time, however, the data are by no means 100% convincing. In general, group counseling is approximately as effective as individual work."
+  },
+  {
+    "id": "ch06_q_403",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The term group therapy was coined in 1931 by",
+    "options": [
+      "Frank Parsons, the father of guidance (also referred to as vocational guidance).",
+      "Jacob Moreno, the father of psychodrama.",
+      "E. G. Williamson, associated with the Minnesota Viewpoint.",
+      "Fritz Perls, the father of gestalt therapy."
     ],
     "correct_index": 1,
-    "rationale": "The primary advantage of a closed group is that its stable membership — no new members joining after the group begins — allows members to build stronger trust and cohesion over time. Choice A is actually incorrect; closed groups lose revenue when members drop out and cannot be replaced (open groups are more cost-effective in that regard). Choice D is also incorrect — closed groups actually risk having fewer members over time if dropouts occur. Choice C is a benefit of confidentiality norms in general, not specific to closed vs. open groups."
+    "rationale": "(d) First, although Frank Parsons did not coin the term group therapy, his work did help set the stage for this practice since he relied on groups to conduct group work related to career and vocational choice, and thus he has indeed been considered a mover, a shaker, and a serious player in the history of the group movement. Jacob Moreno is the correct answer. Ten years before psychiatrist Jacob Levy Moreno coined the term group therapy he noted that individuals in Vienna involved in theatrical productions without scripts experienced a cathartic reaction which seemed to be curative. In psychodrama the client expresses spontaneous feelings via role-playing. Hence the literature often talks about Moreno’s Theatre of Spontaneity in the 1920s, which relied on improvisation and drama as healing forces. Psychodramatic techniques are appropriate for family therapy as well as group work. Perls, although he did not coin the term group therapy either, is considered a major figure in the history of group therapy; especially his work at Esalen Institute in Big Sur, California when he began practicing gestalt therapy in 1964. The name Joseph H. Pratt might also find its way onto your exam. Pratt, a top Boston physician, formed what might well be the first counseling/therapy groups from approximately 1905 to 1923. The groups dealt with the issue of tuberculosis. Freud’s Group Psychology and the Analysis of the Ego was published in 1921; however, his interest in individual treatment seemingly kept him from becoming a major player in the history of groups and from creating a comprehensive model of group therapy. Key hint: The first mutual aid, self-help support group, AA (Alcoholics Anonymous), was founded in 1935 by a stock broker, Bill Wilson (aka Bill W) and Dr. Bob Smith (aka Dr. Bob) in Akron, Ohio. Membership of AA worldwide is now thought to top two million. Counseling exams often refer to AA as a 12-step group."
   },
   {
-    "id": "ch06_q_002",
+    "id": "ch06_q_404",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "During the second week of a newly formed counseling group, members begin making cutting remarks to each other, openly questioning the leader's competence, and splitting into competing factions. According to group stage theory, this MOST likely indicates the group is in:",
+    "question": "Noted psychotherapy author and scholar Raymond Corsini once referred to the early 1940s as the “modern era” of group work. In the 1940s the two organizations for group therapy were created and group work became a legitimate specialty. The groups are",
     "options": [
-      "The initial/forming stage, where approach-avoidance behavior is dominant",
-      "The transition/storming/power and control stage, characterized by conflict and hierarchy formation",
-      "The working/norming/cohesion stage, where members test boundaries before deeper work",
-      "The termination stage, where separation anxiety manifests as hostility"
+      "NASW and NBCC.",
+      "ASGW and AAS.",
+      "the American Society for Group Psychotherapy and Psychodrama (ASGPP) spawned by the work of Jacob Moreno in 1942 and the American Group Psychotherapy Association (AGPA) which resulted from the effort of Samuel Richard Slavson in 1943.",
+      "AACD and APA."
+    ],
+    "correct_index": 3,
+    "rationale": "Abbreviations, acronyms, or so-called alphabet soup language seems endless in our field. Choice “b” mentions the ASGW (Association for Specialists in Group Work). This is the division of the ACA that focuses primarily on group intervention. The ASGW journal, The Journal for Specialists in Group Work, is the publication you will need to keep you updated in this area. Other abbreviations are the National Association of Social Workers (NASW), established in 1955, and the American Association of Suicidology (AAS). By now you should be familiar with the others."
+  },
+  {
+    "id": "ch06_q_405",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Which theorist’s (or theorists’) work has been classified as a preface to the group movement?",
+    "options": [
+      "Sigmund Freud. (c)",
+      "C. G. Jung.",
+      "Alfred Adler and Jesse B. Davis.",
+      "Marsha Linehan, who created dialectical behavior therapy (DBT), originally used to deal with suicidal behaviors."
+    ],
+    "correct_index": 2,
+    "rationale": "Dr. Jesse Buttrick Davis (a high school principal in Grand Rapids, Michigan) is cited as a pioneer in school guidance counseling and often as America’s first school guidance counselor. In 1912 Davis had each high school student attend a class each week where he relied on groups to explore careers and values. His systematic work resulted in the National Vocational Guidance Association (today named the National Career Development Association or NCDA.) Adler (known for his individual psychology) was actually engaging in group treatment during the early 1920s at his child guidance facilities located in Vienna. His rationale for group work was simply that “man’s problems and conflicts are recognized in their social nature.” Marsha Linehan created dialectical behavior therapy (DBT), originally used to deal with suicidal behaviors."
+  },
+  {
+    "id": "ch06_q_406",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Primary groups are",
+    "options": [
+      "preventive and attempt to ward off problems.",
+      "always follow a person-centered paradigm.",
+      "generally utilized for long-term psychotherapy.",
+      "always focused on the client’s childhood."
+    ],
+    "correct_index": 3,
+    "rationale": "Examinations and literature in the area of group processes will often classify groups using a model popularized by community mental health experts such as Gerald Caplan, a pioneer in the crisis intervention movement. The three classifications are primary, secondary, and tertiary. A primary group stresses a healthy lifestyle or coping strategies which can reduce the occurrence of a given difficulty. Primary groups are often labeled as prevention groups. A terrific little memory device you can rely on is that primary starts with a “p” and so does the word prevention. Memory devices don’t get much easier than that folks! A primary group attempts to stop a problem before it occurs. A group which teaches birth control to prevent teen pregnancy would be a fine example. In a secondary group a problem or disturbance is present but not usually severe. The secondary group works to reduce the severity or length of a problem and generally includes aspects of prevention. Thus, a group that deals with grief or shyness might fall into this category. The tertiary group deals more with individual difficulties that are more serious and longstanding. (The word tertiary literally means the third rank.) Choices “c” and “d” would apply mainly to groups categorized as tertiary. The terms primary, secondary, and tertiary can often be used to classify community prevention programs. A note on graduate preparation: According to CACREP, a student should participate in a small group activity within the program for at least 10 clock hours during a given semester."
+  },
+  {
+    "id": "ch06_q_407",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group is classified as secondary. This implies that",
+    "options": [
+      "it is preventive and attempts to ward off problems. (a)",
+      "a difficulty or disturbance is present.",
+      "two therapists are utilized.",
+      "all of the above."
     ],
     "correct_index": 1,
-    "rationale": "Conflict, attacks on the leader, rivalry between subgroups, and hierarchy/pecking order formation are all hallmarks of the second group stage — called Transition, Storming, or Power and Control by various theorists (Tuckman: Storming; Garland, Jones & Kolodny: Power and Control). Garland et al. aptly called this stage 'power and control.' The initial/forming stage (choice A) is characterized by tentative approach-avoidance behavior and efforts to fit in, not open conflict. The leader's best response is to distinguish 'challenge' from 'attack' (Corey & Corey)."
+    "rationale": "Choice “a” is not entirely false since a secondary group does have preventive qualities. Nevertheless, this is not the major feature; hence, this is not the best answer. When two counselors are used in a group setting the procedure is known as “coleadership” or “cofacilitation.”"
   },
   {
-    "id": "ch06_q_003",
+    "id": "ch06_q_408",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A group leader notices that one member, Dave, is consistently criticized and blamed by every other group member for the group's lack of progress. The leader recognizes this pattern and stops it by intervening directly. The leader is using which group technique?",
+    "question": "When comparing a tertiary group with a primary or secondary group",
     "options": [
-      "Linking, to connect Dave's experience with other members' common concerns",
-      "Summarization, to consolidate the group's feedback to Dave",
-      "Blocking, to stop the counterproductive behavior that is harming a group member",
-      "Clarification, to help the group articulate what it really needs from Dave"
+      "the tertiary group focuses less on individual members.",
+      "the tertiary group focuses more on the here and now.",
+      "the tertiary group is less likely to deal with severe pathology.",
+      "the tertiary group is more likely to deal with severe pathology."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” stands incorrect because the tertiary group focuses more on the individual than the primary or secondary group. In reference to choice “b,” a counselor dealing with the here and now often relies on the skill of “immediacy,” which takes place (in a group or an individual session) when the counselor explores the client–counselor relationship as it is transpiring right at that moment. Immediacy relates to the counselor’s ability to convey what is happening between the counselor and the client."
+  },
+  {
+    "id": "ch06_q_409",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Group norms",
+    "options": [
+      "exist only in encounter groups.",
+      "exist only in career counseling groups.",
+      "are not related to group cohesiveness.",
+      "govern acceptable behavior and group rules."
+    ],
+    "correct_index": 3,
+    "rationale": "Let’s not make this complicated. Norms are explicit and implicit (i.e., not verbalized) rules which tell group members how to behave and how not to behave in a given situation. Group specialists are quick to point out that all groups have norms, though often they are not formally presented to group members. Singing loudly while taking the NCE or CPCE would be violating a norm, although I doubt whether anyone will specifically tell you not to sing at the onset of the exam! Norms actually refer to “expected behaviors.” Now of course norms vary depending upon your role in a group. In an educational class group, for example, the norms for the teacher may indeed be different than for the student."
+  },
+  {
+    "id": "ch06_q_410",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Group therapy initially flourished in the United States due to",
+    "options": [
+      "Freud’s lectures in this country.",
+      "a shortage of competent career counselors.",
+      "a shortage of individual therapists during World War II.",
+      "pressure from nondirective therapists pushing encounter groups."
     ],
     "correct_index": 2,
-    "rationale": "Blocking is the leader's intervention to stop a negative or counterproductive behavior that could harm another group member. The pattern described — all members ganging up on one person — is scapegoating, which is precisely the type of behavior that requires blocking. Linking (choice A) connects one person's predicament to another's to promote cohesion — it would not be used to stop an attack. Summarization (choice B) brings together ideas from a session — not an intervention to stop harm. Clarification (choice D) is about understanding a message, not stopping scapegoating."
+    "rationale": "During World War II, as well as after the war, many soldiers were plagued with severe psychological problems, yet a personnel shortage made it impossible for each and every person to be treated using individual therapy. Jacob Moreno had brought the idea of group therapy to the United States in 1925, but the supply and demand issues sparked by the war effort were the catalysts which generated this idea, whose time had come."
   },
   {
-    "id": "ch06_q_004",
+    "id": "ch06_q_411",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A group leader is planning a new group and deliberately chooses a leadership style that allows members to set their own agenda and direct the discussion with minimal interference. This describes which leadership style, and in what situation is it MOST appropriate?",
+    "question": "Group content refers to material discussed in a group setting. Group process refers to",
     "options": [
-      "Autocratic leadership; most appropriate when members are in acute crisis",
-      "Democratic leadership; most appropriate for most group situations",
-      "Laissez faire leadership; most appropriate when the group is already committed to a plan and is functioning well",
-      "Laissez faire leadership; most appropriate in the initial stage when trust is being built"
+      "analysis of the unconscious.",
+      "analysis of the ego.",
+      "the T-group paradigm.",
+      "the manner in which discussions and transactions occur."
     ],
-    "correct_index": 2,
-    "rationale": "Laissez faire leadership (from the French meaning 'let do') is a hands-off style in which the leader participates minimally and the group takes responsibility for its direction. Research by Lewin, Lippitt & White (1939) found it works best when a group is already committed to a decision. Autocratic leadership (choice A) is best for emergencies requiring immediate decisions. Democratic leadership (choice B) is most appropriate for most situations — not laissez faire. Choice D is incorrect: the initial stage is exactly when trust is being built and members need more leader guidance, making laissez faire inappropriate there."
+    "correct_index": 3,
+    "rationale": "Group content refers to what the group is discussing. Group process refers to analyzing the communications, interactions, and transactions. The process is the way in which the discussion takes place. Choice “c,” or T-group, merely means “training group.” The first T-group was conducted in 1946. Originally, T-groups were used in industrial and organizational settings to process personnel interactions and improve efficiency. A wealth of work in this area was done by National Training Laboratories (NTL) in Bethel, Maine, created by Leland Bradford, Kenneth Benne, and Ronald Lippitt."
   },
   {
-    "id": "ch06_q_005",
+    "id": "ch06_q_412",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A school counselor is forming a new group for 8th graders (ages 13–14) dealing with academic stress. She wants to run it well. Based on best-practice guidelines, which group composition and logistical choices are MOST appropriate?",
+    "question": "Group cohesiveness refers to",
     "options": [
-      "12 members, 2-hour sessions, only students aged 11–16",
-      "5–6 members, 1.5–2 hour sessions, students within a 2-year age range",
-      "8 members, 3-hour sessions to allow depth work, mixed ages acceptable",
-      "5–6 members, short frequent sessions, heterogeneous age range preferred"
+      "forces which tend to bind group members together.",
+      "an analysis of group content.",
+      "a common coleadership style.",
+      "a style of leadership."
+    ],
+    "correct_index": 0,
+    "rationale": "Cohesiveness is a sense of caring for the group and the other group members. The term cohesiveness is associated with Kurt Lewin’s “field theory” in which cohesiveness was seen as a binding force among group members. Lewin called the binding force between group members “positive valence.” When cohesiveness goes up, absenteeism and other negative factors go down. High cohesiveness leads to high group productivity and commitment. Lewin was a key player in the T-group movement in the United States. And here’s a helpful tidbit of information. Often when a group displays little or no cohesiveness the group will be viewed as “fragmented.” Just for review, you will recall that choice “c” (coleadership) is implemented when two persons lead the group."
+  },
+  {
+    "id": "ch06_q_413",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Some theorists feel that group therapy differs from group counseling (which is also called an interpersonal problem-solving group) in that",
+    "options": [
+      "group counseling would be of longer duration.",
+      "group therapy, also dubbed as a personality reconstruction group, would be of longer duration.",
+      "group counseling requires far more training. 201",
+      "group therapy addresses a less-disturbed population of clients."
     ],
     "correct_index": 1,
-    "rationale": "Adolescent groups should be slightly smaller than adult groups — about 5–6 members. Sessions of 1.5–2 hours are appropriate for adolescents (adults also use this range). Children's groups in particular benefit from an age span of no more than 2 years (so adolescent groups should keep ages fairly close as well for developmental appropriateness). Choice A is too large (12) and has too wide an age span. Choice C has an inappropriately long session. Choice D correctly mentions smaller size and short sessions, but 'heterogeneous age range preferred' is the opposite of what is recommended."
+    "rationale": "George Gazda proposes a typology of three distinctive types of groups: guidance, counseling, and psychotherapy. A guidance group is a primary group in the sense that it is mainly preventive. Listen carefully, however. Some exams and texts no longer use the term guidance group. Instead, you may see the term affective education group or psychological education group, or even psychoeducational group. Guidance groups, which originated in the public school system, do not deal with remediation of severe psychological pathology. Guidance/psychoeducational groups are preventative and provide instruction about a potential problem; for example, drug abuse or improving study skills. In most cases they are time limited and occasionally use videos and guest speakers to enhance the experience. Exam hint: In the last several years the term psychoeducational group has replaced the term guidance group since the term guidance group has become associated with negative practices such as excessive advice giving. Here is another key point: In individual treatment the words counseling and therapy are often used interchangeably. However, in the context of group work, therapy is implied when the problem is more severe and more individual work is needed for a longer duration. Psychotherapy groups are commonly used in inpatient psychiatric hospitals and residential facilities for patients with in-depth psychological problems. The psychotherapy group is tertiary and may emphasize the role of the unconscious mind and childhood experiences more than a counseling group. A counseling group would not tend to be psychodynamic and therefore would focus primarily on conscious concerns. A counseling group generally has less structure than a guidance group. In terms of education, the assumption is that the leader of a counseling group needs more training than an individual running a guidance group. That being said (and yes this sounds a bit contradictory) experts will concede that at times a counseling group may overlap with the features of a guidance/psychoeducational group. The group therapy leader must have the most training because he or she may need to treat people who are not functioning in the range of “normality.”"
   },
   {
-    "id": "ch06_q_006",
+    "id": "ch06_q_414",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A group member named Ken consistently tells long, rambling, tangential stories that consume the group's time. Members are growing frustrated. Which role is Ken playing, and what is the BEST leader response?",
+    "question": "Most experts would agree that overall",
     "options": [
-      "Ken is playing the scapegoat role; the leader should use blocking to stop other members from attacking him",
-      "Ken is playing the storyteller role; the leader should help him get to the point or ask how the story serves the group",
-      "Ken is playing the gatekeeper role; the leader should invite him to facilitate the group for a session",
-      "Ken is playing the isolate role; the leader should use linking to connect his stories to other members"
+      "structured exercises are more effective than unstructured techniques.",
+      "structured exercises are less effective than unstructured techniques.",
+      "all well-trained therapists favor structured exercises over unstructured techniques.",
+      "ethical guidelines must forbid unstructured techniques because they can be dangerous to the depressed or anxious client."
     ],
     "correct_index": 1,
-    "rationale": "The storyteller is a named group role in which a member monopolizes time with often irrelevant tales. The appropriate leader response is to redirect the storyteller — help the person get to the point or ask explicitly how the story is productive in the group context. The scapegoat (choice A) is a person everyone attacks — Ken is doing the talking, not being attacked. The gatekeeper (choice C) tries to get others to participate. The isolate (choice D) is ignored and receives no attention — the opposite of Ken, who is taking up too much space."
+    "rationale": "A structured group exercise is like an assignment for group members. The leader says, “today we will do so and so….” The benefit is that the exercise helps to speed up group interaction and can help the group focus on a specific issue. Although structured group exercises are very popular and beneficial, they are generally not as effective as unstructured methods. This answer could surprise you if you are new to group work. The well-known existentialist and group theorist Irvin Yalom pointed out that structured exercises can create a situation where group stages are passed over. In addition, the exercise itself often serves to purge feelings too rapidly when members are not emotionally equipped to handle this. Also keep in mind that the excessive use of structured exercises can cause the group to lean on or rely too strongly on the leader for support and direction. Perhaps the crowning blow in regard to relying too heavily on structured group exercises came out of an encounter group project by Lieberman, Yalom, and Miles. The project demonstrated that leaders who utilized many structured exercises were more popular than leaders who did not; nevertheless, the outcome for the group participants was lower! Here is an excellent rule of thumb: Group exercises must correspond to the level of group development. In a beginning group, for example, exercises which build openness and trust are desirable. In the later stages, the focus of the exercises ideally switches to critical feedback."
   },
   {
-    "id": "ch06_q_007",
+    "id": "ch06_q_415",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A researcher studying group counseling measures outcomes before and after a 12-week anger management group using an outside observer who rates behavioral changes in each member. This measurement approach is BEST described as:",
+    "question": "One advantage of group work is that a counselor can see more clients in a given period of time. One disadvantage is that a counselor can be too focused on group processes and",
     "options": [
-      "A global measure, because standardized instruments are being used across all members",
-      "A group-specific measure, because all members are assessed as a group",
-      "A member-specific measure, because it assesses change in individual group members",
-      "A process measure, because it evaluates the mechanism by which the group achieved change"
+      "individual issues are not properly examined.",
+      "the group becomes too behavioristic.",
+      "a and b.",
+      "the group focuses too much on content."
+    ],
+    "correct_index": 0,
+    "rationale": "Choice “a” is especially apt to occur if the leader is process oriented. Remember: Content is the material discussed, while process focuses on the way it is being discussed. A word to the wise: The word process can also refer to a type of program review (conducted while a study or a program is in progress or ongoing) and a type of note taking (i.e., psychotherapy notes). You’ll need to zero in on the context of the question on your exam. Choice “d” is certainly not the best answer since a leader focusing on content would not be process oriented."
+  },
+  {
+    "id": "ch06_q_416",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "According to the risky shift phenomenon, a group decision will",
+    "options": [
+      "be less conservative than the average group member’s decision, prior to the group discussion.",
+      "be more conservative than the average group member’s decision, prior to the group discussion.",
+      "often be aggressive or illegal.",
+      "violate the group’s confidentiality norms."
+    ],
+    "correct_index": 0,
+    "rationale": "Perhaps what I’m about to suggest is a bit scary to think about but bear with me anyway. Think back for a moment to when you were a teenager. (If you can’t remember that far back, think of a teenager with whom you are currently familiar, such as a relative or a client.) For the most part, your decisions and behavior were probably fairly rational—conservative if you will. Now think about your behavior when you got together with a bunch of your friends, say for a party or a night out on the town. Wouldn’t you have to admit that the group’s decisions and behavior were not as conservative as your views prior to the group interaction? In other words, weren’t group decisions, well, just a bit more “risky”? If your answer to the aforementioned questions was “yes,” then you have the social psychology theory of the “risky shift phenomenon,” to explain (not condone!) the behavior of your wild and crazy teen peer group. The risky shift phenomenon dispels the popular notion that groups are very conservative. Some newer research indicates that the group behavior is not necessarily more risky, but does at least shift more toward the social norm than an individual decision made prior to group participation. Social psychology research also indicates that the group experience can polarize decisions such that they are more in line with members’ initial views. This tendency is known as “group polarity” or “group polarization.” In essence, group polarization predicts a person’s views may become more extreme after they participate in a group."
+  },
+  {
+    "id": "ch06_q_417",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "T-groups often stress ways employees can express themselves in an effective manner. The “T” in Tgroups merely stands for",
+    "options": [
+      "techniques.",
+      "taxonomy.",
+      "training.",
+      "testing."
     ],
     "correct_index": 2,
-    "rationale": "Member-specific measures are designed to assess change (or lack of it) in an INDIVIDUAL group member — which is exactly what an outside observer rating each member's behavior does. Notably, an outside observer rating is considered superior to self-ratings for member-specific measurement. Group-specific measures (choice B) measure change in ALL participants as a whole. Global measures (choice A) use standardized tests that may assess traits beyond the group's specific goals (e.g., giving the MMPI-2 to a weight loss group). Process measures (choice D) address HOW the group works, not outcome."
+    "rationale": "The “T” merely stands for “training.” It is not unusual for T-groups (i.e., training groups) to be called “laboratory training groups” or even at times “sensitivity groups.” Such a group will focus not on mental health issues but rather on human relations processes between personnel in a business setting. Shared leadership is a common area of concern. Occasionally, a short encounter group or sensitivity group will be termed a “microlab.” Taxonomy (choice “b”) is the science of classification. In the field of counseling, the most common method of determining a client’s classification (which is termed a diagnosis) is to compare the client’s symptoms with those listed in the American Psychiatric Association’s Diagnostic and Statistical Manual (DSM). The DSM, combined with the International Classification of Disease (ICD), is generally used for third-party and insurance payments or research purposes so that mental health professionals will mean the same thing when referring to a client with a given diagnosis. Hint: The exam you will be taking may use the word nosology in place of the word taxonomy, since nosology is the classification of disease."
   },
   {
-    "id": "ch06_q_008",
+    "id": "ch06_q_418",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "In a therapy group, a member named Linda rarely speaks, never initiates, and is never addressed by other members. Meanwhile, another member, Tom, receives constant criticism and blame from peers. Which role distinction is MOST accurate?",
+    "question": "A counselor suggests that her client join an assertiveness training group. Most assertiveness training groups are",
     "options": [
-      "Both Linda and Tom are isolates — both are marginalized within the group",
-      "Linda is the scapegoat; Tom is the isolate",
-      "Linda is the isolate (silent one); Tom is the scapegoat — they differ because the scapegoat receives negative attention while the isolate receives none",
-      "Linda is the follower; Tom is the gatekeeper — both contribute to group dysfunction"
+      "unstructured.",
+      "psychodynamic or person-centered.",
+      "focused heavily on existential concerns.",
+      "behavioristic and highly structured."
     ],
-    "correct_index": 2,
-    "rationale": "The critical distinction: the isolate (also called 'the silent one') receives NO attention from other group members — she is ignored. The scapegoat, in contrast, receives significant attention — but it is hostile and negative. Tom (receiving constant criticism and blame) is the scapegoat; Linda (never addressed) is the isolate. Both are marginalized, but in fundamentally different ways. Choice A incorrectly merges both into the 'isolate' category. Choice B reverses the roles. Choice D misidentifies both with incorrect roles."
+    "correct_index": 3,
+    "rationale": "Groups that rely on numerous exercises are considered “structured” groups, while those which have few exercises or tasks are often known as “unstructured.” Behavioral groups such as an assertiveness training group are generally highly structured. You should be aware that some experts shy away from the term unstructured, stating that a group cannot “not” possess structure. Such theorists would simply say that a given group has a low degree of structure or “less structure.” Nondirective groups, psychodynamic groups (choice “b”), and existential groups (choice “c”) generally would lean toward a low degree of structure. Therapies that stress directive techniques and concrete treatment objectives generally have a high degree of structure. Some theorists use the term structured group only when discussing a group which focuses on a specific topic or theme, for example, assertiveness training, stress management, or coping with test anxiety."
   },
   {
-    "id": "ch06_q_009",
+    "id": "ch06_q_419",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "Before a new group session begins, Irvin Yalom's position on what a group leader needs in terms of personal preparation is BEST summarized as:",
+    "question": "Weight Watchers is a",
     "options": [
-      "Only a doctoral degree and advanced theoretical training are sufficient preparation",
-      "A group leader needs self-exploration through personal therapy to manage countertransference",
-      "Detailed knowledge of group stage theories is the single most critical preparation",
-      "Group leaders need primarily extensive experience with individual counseling before running groups"
+      "T-group, also called a training group.",
+      "self-help or support group, as is AA.",
+      "psychotherapy group.",
+      "marathon group."
     ],
     "correct_index": 1,
-    "rationale": "Yalom explicitly stated that self-exploration — including personal therapy — is generally necessary for group leaders to deal with personal issues that could cause countertransference. Gerald Corey also recommends personal participation in a therapeutic group (as a member) as essential training. Degrees alone (choice A) are insufficient — specific group training is required (CACREP mandates 10+ clock hours in small group activity). Theoretical knowledge (choice C) and individual counseling experience (choice D) are helpful but not Yalom's central recommendation."
+    "rationale": "A self-help group (also known as a “mutual aid group”) is composed of a group of people who are all attempting to cope with a given issue (e.g., alcoholism, gambling addiction, or weight control). These groups have become much more popular in the last 25 years. Members have a common goal or problem and learn from each other. The group is not led by a professional, though a self-help group may indeed rely on a professional for consultation purposes. And believe me, self-help groups are extremely popular. It is currently estimated that over 500,000 self-help groups exist in the United States and serve the needs of approximately 15 million members. Most self-help groups are voluntary and make an excellent adjunct to professional counseling. Many of these groups follow the 12 steps in Alcoholics Anonymous and therefore are referred to as “12-step groups.” What in the world is thirteenth stepping? Good question! The term suggests that established members in AA and other 12-step groups sometimes exploit new members for sexual purposes. The term marathon group introduced in choice “d” is an easy one to remember. A marathon race is a long race, and a marathon group is one long group. A marathon group—somewhat like a marathon race—plays on the theme that after an extended period of time defenses and facades will drop and the person can become honest, genuine, and real. A marathon group generally lasts a minimum of 24 hours and may be conducted over a weekend or a period of several days. The marathon group paradigm is usually credited to Frederick Stoller and George Bach, who created the idea in the 1960s. Splitting hairs—well—maybe? Some advanced exams will split hairs and make you discern a self-help group from a support group although the terms are generally synonymous. The distinction is that a support group is conducted by an organization (say AA or Weight Watchers) and might charge fees, while a self-help group (say a group of neighbors getting together to brainstorm ways to clean up after a flood) would not have either or both of these features."
   },
   {
-    "id": "ch06_q_010",
+    "id": "ch06_q_420",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A group leader is debating between using many structured exercises versus a more unstructured approach. Research (Lieberman, Yalom & Miles) on this question found that:",
+    "question": "The ACA and the ASGW division recommend screening for potential group members",
     "options": [
-      "Leaders who used many structured exercises had lower popularity ratings but superior client outcomes",
-      "Leaders who used many structured exercises were more popular AND had superior client outcomes",
-      "Leaders who used many structured exercises were more popular, but participants had LOWER outcomes than with less-structured leaders",
-      "Structured and unstructured approaches produced identical outcomes, so popularity is the only differentiating factor"
+      "for all groups.",
+      "only when the group is in a hospital inpatient setting.",
+      "only when the group is composed of minors.",
+      "only if the group deals with chemical dependency."
+    ],
+    "correct_index": 0,
+    "rationale": "Screening is easy enough to define. A professional counselor uses a screening process in order to determine who is appropriate and who will not be appropriate for a given group. Simply put, the membership of a group can determine the success or failure of that particular group. If a prospective group member is undergoing individual counseling and therapy, the group leader, after securing the client’s permission, should contact the person performing the individual treatment before making a final decision."
+  },
+  {
+    "id": "ch06_q_421",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A counselor is conducting a screening for clients who wish to participate in a counseling group which will meet Tuesday nights at his private practice office. Which client would most likely be the poorest choice for a group member?",
+    "options": [
+      "A shy librarian.",
+      "An anxious salesman with no group experience.",
+      "An extremely hostile and belligerent construction worker.",
+      "A student with 16 hours toward her M.Ed in counseling."
     ],
     "correct_index": 2,
-    "rationale": "The Lieberman, Yalom & Miles study found the counterintuitive result: structured-exercise leaders were more POPULAR with group members, but their participants showed LOWER outcome compared to less-structured leaders. This is a critical research finding — popularity does not equal effectiveness in group leadership. Structured exercises can cause members to rely too heavily on the leader, skip natural group stage development, and purge feelings before members are ready to process them. Choice B (more popular AND better outcomes) is the incorrect popular assumption the research dispels."
+    "rationale": "Let me help you think this one through. First, the individual’s occupation and the time of the group (i.e., Tuesday nights) are irrelevant. The key factor in answering the question is to identify a personality pattern which may not lend itself to group work. Hostile individuals who act out aggressively (choice “c”), persons who are actively suicidal or homicidal, paranoid clients, those who are totally self-centered, or psychotic individuals (psychotic implies that the person is not in touch with reality) are not appropriate for most counseling groups. I have purposely hedged and used the word most since there are certainly psychotherapy groups which cater to the aforementioned populations (e.g., a group for hospitalized schizophrenics, an anger management group, or a group for suicide attempters). Remember that psychotherapy groups focus more on individual concerns, deal with remediation of more serious pathology, and are of longer duration. Nevertheless, it is still possible that if an individual is too dysfunctional in one of the aforementioned areas, he or she would be inappropriate even for a psychotherapy group and the treatment of choice should be an individual modality. Clients who are very verbal, open to feedback from others, and believe in group therapy often make excellent group members."
   },
   {
-    "id": "ch06_q_011",
+    "id": "ch06_q_422",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A counselor is planning a group in a community mental health center for recently diagnosed cancer patients who want emotional support and coping skills. Which type of group is MOST appropriate?",
+    "question": "A counselor is screening clients for a new group at the college counseling center. Which client would most likely be the poorest choice for a group member?",
     "options": [
-      "A T-group (training group), focused on improving interpersonal communication in professional settings",
-      "A psychotherapy/personality reconstruction group for in-depth exploration of unconscious conflicts",
-      "A secondary-level counseling group, addressing a present difficulty that is moderate in severity",
-      "A primary/psychoeducational group, because cancer diagnosis is a preventive health concern"
+      "A first-year student who is suicidal and sociopathic.",
+      "A second-year student who stutters.",
+      "A graduate student with a facial tic.",
+      "A fourth-year student with obsessive-compulsive (OCD) tendencies."
+    ],
+    "correct_index": 0,
+    "rationale": "If you missed this one then you failed to read the answer from the previous question. I can’t stress strongly enough that you will need to understand the practical application of counseling theory—in all eight areas, not just groups—to do well on your exam! Questions of this nature require understanding rather than just rote memory to answer correctly."
+  },
+  {
+    "id": "ch06_q_423",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A screening for group members can be done in a group or privately. Although private screening interviews are not as cost effective or as time efficient as group screening, many group leaders feel that private screening sessions are superior",
+    "options": [
+      "because they intensify transference.",
+      "because they encourage catharsis.",
+      "because they intensify abreaction.",
+      "in terms of counselor–client interaction."
+    ],
+    "correct_index": 3,
+    "rationale": "A pre-group interview for screening and orientation can be very beneficial. In essence, the client’s needs must match the goals for the group. Ethical standards and guidelines do not, however, discuss specific selection processes. An individual screening interview allows the client to voice concerns regarding what he or she wants from the group and the procedures that will be implemented. The person also can ascertain whether he or she has faith in the leader’s ability. Some of the literature emphasizes that screening is a two-way process (i.e., the leader can decide whether the member is appropriate and the member can decide whether the group and the leader are appropriate). Individual screening modalities also can serve to build trust. However, I’m sure you’ve come across clients as well as acquaintances whose behavior is markedly different in a group as opposed to an individual situation."
+  },
+  {
+    "id": "ch06_q_424",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Most experts in the field of group counseling would agree that the most important trait for group members is the ability",
+    "options": [
+      "to open up.",
+      "to listen.",
+      "to trust.",
+      "to convey empathy."
     ],
     "correct_index": 2,
-    "rationale": "A counseling group (Gazda's typology) / secondary-level group (Caplan's typology) is appropriate for a problem that is present but not severe, and focuses on coping and interpersonal problem-solving with conscious concerns. Cancer patients with support/coping needs fit this level — they have a real problem but are generally functioning and not in need of intensive personality reconstruction. A T-group (choice A) is for industrial/organizational settings. A psychotherapy group (choice B) deals with severe pathology, unconscious material, and long-term work. A primary/psychoeducational group (choice D) would be prevention — but the problem already exists here."
+    "rationale": "Expert Irvin Yalom feels that the main factor in selecting participants for a group is that members can feel cohesive (a sense of we-ness, if you will). Research indicates that high denial, low motivation, and low intelligence are associated with premature termination from group therapy."
   },
   {
-    "id": "ch06_q_012",
+    "id": "ch06_q_425",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A group leader notices that during the transition/storming stage, one faction of members is in conflict with another. The MOST effective leader strategy is to:",
+    "question": "Groups can be open or closed. The two differ in that",
     "options": [
-      "Adopt an autocratic style to end the conflict immediately and restore order",
-      "Remain laissez faire and allow the group to resolve the conflict independently",
-      "Assign a shared task that requires all members to work together to accomplish it",
-      "Remove the most hostile member from the group to protect cohesiveness"
+      "open groups are limited to hospital settings.",
+      "in an open group, members can socialize between group meetings.",
+      "closed groups always employ coleaders.",
+      "closed groups allow no new members after the group begins."
     ],
-    "correct_index": 2,
-    "rationale": "Research on group dynamics suggests that conflict between member factions can be reduced when the leader prescribes a shared task that requires collaborative effort. This shifts the group's energy from conflict to cooperation. An autocratic style (choice A) is appropriate for emergencies but not for managing group stage conflict — it would likely increase resentment. A laissez faire approach (choice B) during a high-conflict stage leaves members without needed guidance. Removing a member (choice D) is an extreme intervention that skips less intrusive options."
+    "correct_index": 3,
+    "rationale": "You absolutely must be familiar with this important distinction in group work if you want to do well on your exam. A closed group can be likened to a room with a closed door—no new persons can enter. In a closed group the decision is made initially that no new members can join for the life of the group. So, here’s a simple little memory device: “closed groups” have “a closed door policy” regarding new members. Most of your graduate classes would fall into this category. Would a new student be permitted to join your group practice class 8 weeks into a 16-week semester? Hey, in most cases I’d have to say, I don’t think so! An open group simply abides by an “open door policy,” if you will, by allowing new members to join."
   },
   {
-    "id": "ch06_q_013",
+    "id": "ch06_q_426",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "Which of the following would MOST likely be an INAPPROPRIATE candidate for a standard outpatient counseling group, based on selection criteria?",
+    "question": "One major advantage of a closed group versus an open group is",
     "options": [
-      "A shy, anxious 28-year-old who has never been in a group before",
-      "A verbose professional who tends to dominate conversations",
-      "A paranoid, actively suicidal client who is hostile to others",
-      "A client with obsessive-compulsive tendencies who is functioning in the community"
-    ],
-    "correct_index": 2,
-    "rationale": "Poor candidates for most counseling groups include: actively suicidal or homicidal individuals, paranoid clients, those who are extremely hostile, psychotic individuals, and the totally self-centered. This client combines multiple contraindications: paranoia, active suicidal ideation, and hostility. Choice A (shy and anxious) is actually a GOOD candidate — group exposure helps social anxiety. Choice B (dominant) is a management challenge but not an exclusion criterion. Choice D (OCD, community-functioning) can benefit from a counseling group. Note: some psychotherapy groups specifically serve these high-risk populations, but a standard outpatient counseling group is not appropriate."
-  },
-  {
-    "id": "ch06_q_014",
-    "domain": "Group Work",
-    "chapter": 6,
-    "question": "A counselor is running a coleadership group. Her coleader has unresolved issues with authoritarian figures, and a highly directive group member keeps triggering his countertransference. The MOST appropriate use of coleadership in this situation is:",
-    "options": [
-      "Terminate the coleader's involvement to protect the group from countertransference contamination",
-      "Allow the countertransference-affected coleader to process the feelings with the group openly",
-      "Have the unaffected coleader take the lead with that particular member while the affected coleader seeks supervision",
-      "Reassign the triggering member to a different group facilitated by another counselor"
-    ],
-    "correct_index": 2,
-    "rationale": "One key advantage of coleadership is exactly this: when one leader is experiencing countertransference toward a specific member, the co-leader can step in and work with that member, while the affected leader seeks supervision outside the session. This protects the client and the group while allowing the affected leader to address the countertransference. Terminating the coleader (choice A) is disproportionate. Processing countertransference publicly in the group (choice B) could harm the client. Reassigning the member (choice D) denies the member their group experience unnecessarily."
-  },
-  {
-    "id": "ch06_q_015",
-    "domain": "Group Work",
-    "chapter": 6,
-    "question": "A group therapist tells members during the first session: 'Our group focuses on improving interpersonal relationships. Participation is voluntary. However, I want you to know that I cannot promise that everything said here will remain private — I have no control over what other members share outside this room.' This statement is BEST described as:",
-    "options": [
-      "A violation of ethics, because the therapist is undermining group trust before it develops",
-      "Informed consent, specifically disclosing a known risk of group participation",
-      "Blocking, to prevent confidentiality breaches from occurring in future sessions",
-      "Norm-setting, which should be deferred to the second or third session"
+      "cost effectiveness.",
+      "it promotes cohesiveness.",
+      "it lessens counselor burnout.",
+      "it allows the members to meet less frequently."
     ],
     "correct_index": 1,
-    "rationale": "Informed consent requires the leader to disclose the group's purpose, risks, and the leader's qualifications. Inability to guarantee confidentiality is a specific, known risk of group intervention that ethical standards require leaders to disclose. This is a model of proper informed consent. Choice A is incorrect — this disclosure is ethically required, not undermining. Blocking (choice C) is a real-time intervention to stop harmful behavior, not a pre-session disclosure. Norm-setting (choice D) is related but different from the broader informed consent requirement, and ethical standards don't defer it."
+    "rationale": "Generally a closed group will have more cohesiveness or “unity” since the membership is more stable (i.e., new members are not joining) and members get to know each other. Nevertheless, a closed group is not a panacea. Since the closed group does not accept new members after the group is up and running individuals may drop out, and this lessens the overall amount of group interaction. In terms of cost effectiveness (choice “a”), the closed group is at a disadvantage. The agency or private practitioner loses revenue when clients leave and are not replaced."
   },
   {
-    "id": "ch06_q_016",
+    "id": "ch06_q_427",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A group leader connects the struggles of one member who feels unlovable with a similar theme expressed by two other members earlier in the session. This is an example of:",
+    "question": "One major disadvantage of a closed group versus an open group is that",
     "options": [
-      "Blocking, because the leader is interfering with individual member work",
-      "Clarification, because the leader is seeking to understand each member's message better",
-      "Linking, because the leader is connecting common patterns across members to promote cohesion",
-      "Horizontal intervention, because the leader is addressing all members simultaneously"
+      "if everyone quits, you will be left with no group members.",
+      "closed groups cannot provide depth therapy.",
+      "it promotes paranoid feelings in group members.",
+      "closed groups are much more structured."
+    ],
+    "correct_index": 0,
+    "rationale": "It doesn’t take a mathematician to discern that if you have six group members and six members quit you are left with no group! In reference to choice “b,” there is no evidence to demonstrate that a closed group could not provide excellent in-depth therapy. Since the closed group promotes cohesiveness (yes, I’m repeating myself, but I want to be certain you grasp this concept) and trust (well, that eliminates choice “c” because trust reduces paranoid ideation in many cases) it could be an excellent modality for intensive therapy. And although a closed group could be more structured than an open group, this is not always the case: So much for choice “d.”"
+  },
+  {
+    "id": "ch06_q_428",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The number of people in an open group is generally",
+    "options": [
+      "more stable than in a closed group.",
+      "much smaller after an extended period of time than in a closed group.",
+      "significantly larger than in a closed group.",
+      "more dependent on the group leader’s marketing skills than in a closed group."
+    ],
+    "correct_index": 3,
+    "rationale": "This is the type of question you might quibble with on an exam; however, it would be mighty difficult to defend any answer except choice “a.” Yes, I agree that some of the literature uses the term stability to describe the membership in a closed group. The stability, of course, comes from the policy of not allowing new members. If you read this particular question very, very carefully it speaks of the “number of people in an open group.” Remember the hypothetical situation discussed in the last answer. You have a closed group of six members and six members leave the group. You are left with nobody. I’d hardly call that stability, would you? This question is asking you to choose the group strategy, open or closed, which would keep that number of six members stable. In the open group, if six people drop out you could replace them with six new members. I rest my case. Remember that regardless of which exam you must tangle with, a word could be used in a different context than you have encountered in the past."
+  },
+  {
+    "id": "ch06_q_429",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "One distinct disadvantage of an open group is that",
+    "options": [
+      "new members are not accepted after the first meeting.",
+      "the leader does not control the screening process.",
+      "a member who begins after the first meeting has missed information or experiences.",
+      "the group is generally too behavioristic for depth therapy to occur."
+    ],
+    "correct_index": 0,
+    "rationale": ""
+  },
+  {
+    "id": "ch06_q_430",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "When a group member is speaking, it is best for the counselor to",
+    "options": [
+      "try to face the group member.",
+      "not face the group member, as this does not appear genuine in a group setting.",
+      "smile while listening.",
+      "suppress genuine emotion."
+    ],
+    "correct_index": 0,
+    "rationale": "(c) Choice “a” is often difficult to accomplish as groups are frequently set up such that members sit in a circular fashion; yet when it is possible, it fosters good “attending behavior” on the part of the group leader. In reference to choice “d,” the qualities which enhance individual counseling are also beneficial when doing group work. Genuineness, which is also known as congruence or authenticity, is advisable in all therapeutic settings."
+  },
+  {
+    "id": "ch06_q_431",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group setting has a flexible seating arrangement in which clients are free to sit wherever they wish. In this setting it is likely that",
+    "options": [
+      "an African American client and a white leader would sit close together.",
+      "a Latino/a client and an African American leader would sit close together.",
+      "an Asian American client and an African American leader would sit close together. 209",
+      "an Asian American leader and an Asian American client would sit close together."
+    ],
+    "correct_index": 3,
+    "rationale": "Generally persons who are similar will sit next to each other. In this case, choice “d” is the only choice that mentions two persons of the same race. Now I want to introduce you to two important terms which are related to group composition. In a group where the members are very similar or alike the group composition displays what is known as “homogeneity.” Weight Watchers would be a case in point. Groups which have “homogeneity” are said to be “homogeneous.” Since everybody really has the difficulty or concern (e.g., weight control in this case or alcoholism in AA) people often feel a greater degree of “we-ness” or cohesiveness. Some experts are convinced that homogeneity in terms of intelligence and level of development is desirable. In children’s groups, this would mean an age span of no more than two years (e.g., 10–12-year-olds). A “heterogeneous” group or a group which has “heterogeneity” has members who are dissimilar. A general therapy group which has clients with various problems and backgrounds would be an example. Although homogeneous groups have higher attendance rates, the heterogeneous group is more like a microcosm of the social system most of us live in. Moreover, when you combine people you discover that people can learn from each other and this is said to facilitate personality change."
+  },
+  {
+    "id": "ch06_q_432",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group setting has a flexible seating arrangement in which clients are free to sit wherever they wish. In this setting it is likely that",
+    "options": [
+      "a male client in a designer suit and a female client in cutoff jeans will sit close together.",
+      "a Cuban male client in a designer suit and an Asian male client in another brand of designer suit will sit close together.",
+      "a white female client in a designer outfit and a white male client in a pair of old jeans and an undershirt will sit close together.",
+      "a male client in a designer suit and a female client in a jogging suit and old tennis shoes with holes in them will sit close together."
+    ],
+    "correct_index": 1,
+    "rationale": "Forget the poles of a magnet; in groups “likes” attract. The likelihood is that people who are similar or believe they have “something in common” initially will sit together. Some evidence points to the fact that social class means more than race in terms of group seating."
+  },
+  {
+    "id": "ch06_q_433",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Which statement made by a doctoral-level counselor is illustrative of a leader focused on process rather than product?",
+    "options": [
+      "“Jim seems more relaxed today.”",
+      "“Sally seems a bit self-critical this evening.”",
+      "“I hear a lot of sadness in Betty’s voice.”",
+      "“You wince whenever Jane raises her voice.”"
+    ],
+    "correct_index": 3,
+    "rationale": "The counselor’s level of education is totally irrelevant. Process focuses on the “process,” or manner in which the communication transpires. All of the other choices focus primarily on the analysis of the client’s material, or what is called “content.”"
+  },
+  {
+    "id": "ch06_q_434",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Which statement made by a group leader in a residential center for adolescents focuses on product rather than process?",
+    "options": [
+      "“Ken has not stolen for a week and thus is eligible for supplementary tokens.”",
+      "“Karen looks down when Bill discusses relationships.”",
+      "“It sounds like there is a deep sense of hurt….”",
+      "“Oh, so you fold your arms and sort of close up when Carey mentions the angry side of your personality.”"
+    ],
+    "correct_index": 0,
+    "rationale": "Can you guess what is irrelevant in terms of answering this question?"
+  },
+  {
+    "id": "ch06_q_435",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Groups promote the concept of universality, which suggests that",
+    "options": [
+      "we are unique and so are our problems.",
+      "there is a universal way to solve nearly any difficulty.",
+      "a and b.",
+      "we are not the only ones in the world with a given problem."
+    ],
+    "correct_index": 3,
+    "rationale": "It is therapeutic just to know that you are not the only person in the world who has a given problem! In this respect the group model has an advantage over individual treatment. There is a likely possibility your exam might substitute the word mutuality for universality."
+  },
+  {
+    "id": "ch06_q_436",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "In the late 1930s researchers identified three basic leadership styles:",
+    "options": [
+      "directive, nondirective, and semi-passive.",
+      "autocratic, democratic, and laissez faire.",
+      "relaxed, anxious, and tense.",
+      "assertive, nonassertive, and aggressive."
+    ],
+    "correct_index": 1,
+    "rationale": "The classic study regarding leadership styles was conducted by Lewin, Lippitt, and White in 1939. The importance of the study was that it demonstrated that leadership styles do make a difference. In this famous study, 10- and 11-year-old children met with an adult who behaved in an autocratic (authoritarian), democratic (participative), or laissez faire fashion. The French term laissez faire implies that group members can do as they please without leader interference or direction. Children displayed the best behavior when treated in a democratic fashion, while aggressive behavior occurred in response to the other two leadership styles. Generally, the autocratic style where leaders often gave orders, proved to be the style members liked least. The study revealed that hostility was 30 times greater in autocratic groups than it was for the other two. This study set the stage for the National Training Laboratories (NTL) mentioned in a previous question. Do not, however, assume that the democratic style is always best. It is not. The autocratic mode seems to be superior when an immediate decision is necessary. When a group has made a decision, and is committed to it, the laissez faire style is usually the leadership model with the most merit. It is interesting to note that although member satisfaction is often highest in response to democratic leadership, this style does not necessarily lend itself to high productivity, according to Ralph Stogdill, who reviewed the major research studies related to this topic. Your exam might also mention the charismatic leadership style in which the leader uses his or her personal power, charisma, and attractiveness to foster facilitation. Just for review purposes, choice “d” describes the three communication modes used by assertiveness trainers to determine or discriminate (as it is often called) client response patterns. A legitimate criticism of the famous Lewin, Lipptt, and White findings would be that the study was not a counseling group, but rather an after school activity group, and all the leaders were male. On rare occasions your exam might mention: • Impersonal leaders who are distant, but aggressive. • Energizers, leaders who emotionally stimulate group members and are charismatic. • Managers or leaders who exert executive control. • Providers are very high in caring."
+  },
+  {
+    "id": "ch06_q_437",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The autocratic or authoritarian leader may give orders to the group, while the laissez faire leader",
+    "options": [
+      "assigns a group member as the authoritarian.",
+      "has a hands-off policy and participates very little, with the group basically taking responsibility for itself.",
+      "has the most desirable style of leadership.",
+      "nearly always run open-ended groups."
+    ],
+    "correct_index": 1,
+    "rationale": "Laissez faire counselors are nonthreatening. Choice “d” refers to a group that does not sport a given number of sessions or an ending date. If you missed this question please review the previous answer. Stick this sentence on your mirror at home and read it every morning: Effective leaders have discovered that modeling appropriate behaviors improves group participation, even when the members are resistant."
+  },
+  {
+    "id": "ch06_q_438",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "When comparing the autocratic, democratic, and laissez faire styles,",
+    "options": [
+      "the autocratic is the most desirable.",
+      "the laissez faire is the most desirable.",
+      "the democratic, or what Sam Gladding called a facilitator, is the most desirable.",
+      "there is no discernible difference in effectiveness."
     ],
     "correct_index": 2,
-    "rationale": "Linking is the technique of connecting one person's experience/predicament to another's, illuminating areas of mutual concern. When done well, it enhances group interaction and promotes cohesion and universality. Blocking (choice A) stops harmful behavior — that is the opposite of what's happening here. Clarification (choice B) makes a vague message more understandable — not the same as drawing cross-member connections. Horizontal intervention (choice D) addresses the group as a whole — but that is the broader category; 'linking' is the specific technique being used."
+    "rationale": "Here is every test taker’s nightmare. The question is vague. It decidedly does not delineate the specific group situation. Hence, the best way to answer this question is to think in terms of “most situations.” Again, the democratic style is not the most effective in every case; however, it probably lends itself to more situations than the other two. Leaders that focus primarily on the here and now are now being called “speculative leaders” on some exams."
   },
   {
-    "id": "ch06_q_017",
+    "id": "ch06_q_439",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "Irvin Yalom identified several curative factors in group therapy. Which of the following is NOT one of Yalom's curative factors?",
+    "question": "A group with more than one leader is said to utilize coleaders. Coleadership is desirable because 212",
     "options": [
-      "Altruism — helping other group members produces therapeutic benefit",
-      "Instillation of hope — observing others improve gives members hope",
-      "Interpretation of manifest dream content and insight into the unconscious mind",
-      "Imitative behavior — modeling the behavior of the therapist or successful members"
+      "the group can go on even if one leader is absent.",
+      "two leaders can focus on group dynamics better than one leader since two individuals will have better observational skills.",
+      "leaders can process their feelings between sessions.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Coleadership (i.e., the use of two group leaders) has a number of advantages. In addition to those listed in choices “a,” “b,” and “c,” I could add that two leaders can supply more feedback (two points of view) to group members than one leader. They can learn from each other and can model effective communication for the group."
+  },
+  {
+    "id": "ch06_q_440",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Coleadership",
+    "options": [
+      "reduces burnout and helps ensure safety.",
+      "increases burnout.",
+      "has no impact on burnout.",
+      "should not be used for open groups."
+    ],
+    "correct_index": 0,
+    "rationale": "Noted authors on group practice Marianne Schneider Corey and her husband Gerald Corey mention their preference for coleadership but indicate that many leaders do in fact work best on their own. Coleaders work best when each leader has a similar philosophy and group style. It is generally accepted that it is best for coleaders to physically sit on opposite sides of the group rather than next to each other."
+  },
+  {
+    "id": "ch06_q_441",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Coleadership",
+    "options": [
+      "is helpful when one leader is experiencing counter-transference.",
+      "exacerbates the harm of countertransference.",
+      "has no impact on the issue of countertransference.",
+      "eliminates all difficulties associated with counter-transference."
+    ],
+    "correct_index": 0,
+    "rationale": "If you have an issue that is unresolved and it is having a negative impact on your intervention (i.e., countertransference) then your coleader can deal with this particular person or issue. A coleader also provides a second role model for participants. Reminder: Transference refers to a client’s issue, while countertransference implies that the helper has issues that are interfering with the treatment process."
+  },
+  {
+    "id": "ch06_q_442",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Coleadership, also referred to as cofacilitation, can be a disadvantage when",
+    "options": [
+      "leaders are working against each other; this can fragment the group.",
+      "leaders are intimate with each other.",
+      "leaders question each other’s competence.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "It is generally accepted that if there are problems between coleaders, it is best if such difficulties are aired in a format that models effective conflict resolution during the session rather than “pretending everything is wonderful.” The best advice is to pick your coleader wisely and meet with this person before and after sessions whenever possible."
+  },
+  {
+    "id": "ch06_q_443",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Coleaders are apt to work at cross purposes when",
+    "options": [
+      "they do not meet between group sessions.",
+      "they do meet between group sessions.",
+      "they are master’s-level practitioners.",
+      "they are doctoral-level practitioners."
+    ],
+    "correct_index": 0,
+    "rationale": "Choice “b” is recommended for coleaders, while choices “c” and “d” are irrelevant. Coleadership is an excellent way for new leaders to learn the ropes, if they can be paired with a seasoned professional."
+  },
+  {
+    "id": "ch06_q_444",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Gerald Corey, who has written extensively on group therapy, believes ________ is necessary for an effective group leader.",
+    "options": [
+      "a master’s degree in guidance and counseling",
+      "a doctorate in counselor education",
+      "participation in a therapeutic group and participation in a leader’s group (even if the individual is well-educated and is licensed and certified)",
+      "three credit hours in a graduate course in group theory"
     ],
     "correct_index": 2,
-    "rationale": "Yalom is an existential-humanistic therapist, and his curative factors reflect that orientation: altruism, universality, catharsis, cohesiveness, instillation of hope, imitative behavior, interpersonal learning, reenactment of family experiences, existential factors, and socialization. Interpretation of manifest dream content and insight into the unconscious (choice C) are PSYCHOANALYTIC curative factors — not Yalom's. This distinction is commonly tested. The other choices (A, B, D) are genuine Yalom curative factors."
+    "rationale": "Sorry folks, but according to some experts a wall filled with degrees, plaques, and certifications is not enough; specific training in group work is necessary in order to become a group leader. The 2016 CACREP guidelines addressing the issue of professional identity in counseling stipulate “direct experiences in which students participate as group members in a small group activity, approved by the program, for a minimum of 10 clock hours over the course of one academic term” are required. Moreover, a group practice course is generally required prior to taking a licensing exam. A training group for future group leaders is one solution to this dilemma. A training group is composed of “leader trainees,” and unlike a therapeutic group it is focused on leadership skills. Irvin Yalom has gone on record as saying that self-exploration (e.g., personal therapy) is generally necessary for potential group leaders to help them deal with issues which could cause countertransference."
   },
   {
-    "id": "ch06_q_018",
+    "id": "ch06_q_445",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "The 'risky shift phenomenon' refers to which tendency in group decision-making?",
+    "question": "Most experts would agree that an effective adult counseling group has ________ members.",
     "options": [
-      "Groups tend to make more conservative decisions than individuals acting alone",
-      "Group decisions tend to be less conservative (more risky) than individual decisions made before group discussion",
-      "Groups tend to avoid any decision that could create conflict among members",
-      "Groups become increasingly risk-averse as cohesiveness increases"
+      "9 to 12",
+      "3 to 5",
+      "11 to 16",
+      "5 or 6 to 8"
     ],
-    "correct_index": 1,
-    "rationale": "The risky shift phenomenon challenges the common belief that groups are conservative. Research shows that group decisions tend to be LESS conservative — more risky — than the average member's pre-group individual decision. Group polarization is a related concept: after group discussion, individuals' views may actually become MORE extreme and aligned with their initial positions. Choice A is the incorrect popular assumption (that groups are conservative). Choice D is the opposite — cohesiveness does not necessarily increase risk-aversion."
+    "correct_index": 3,
+    "rationale": "An ideal group would have about eight adults. An adolescent group might be slightly smaller, perhaps five or six members. Some experts feel that a group conducted over a long period of time (say six months) can safely have as many as 10 members."
   },
   {
-    "id": "ch06_q_019",
+    "id": "ch06_q_446",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "Which of the following is MOST accurate about when group therapy is NOT the recommended treatment modality?",
+    "question": "Most experts would agree that an effective counseling group for children has",
     "options": [
-      "Group therapy is not appropriate for clients with depression under any circumstances",
-      "Group therapy is contraindicated for clients who are in crisis, need test interpretation, or have extreme confidentiality needs",
-      "Group therapy is contraindicated for all clients with Axis I diagnoses",
-      "Group therapy should never be used as an adjunct to individual therapy"
+      "more members than an adult group.",
+      "less members than an adult group.",
+      "at least two group leaders.",
+      "9 to 12 members."
     ],
     "correct_index": 1,
-    "rationale": "Group therapy is NOT the treatment of choice when: the client is in a crisis state (individual intervention is preferred), the client needs an interpretation of psychological test results, the client requires maximum confidentiality for protection, or the client has a phobia of public speaking. Choice A is too broad — depression does not automatically preclude group work (though meta-analysis suggests individual may be superior for depression). Choice C (Axis I) is incorrect — many Axis I diagnoses are treated in groups. Choice D is incorrect — group can be an excellent adjunct to individual therapy (with the individual therapist's knowledge)."
+    "rationale": "Three or four children is usually recommended, versus about eight people in an adult group."
   },
   {
-    "id": "ch06_q_020",
+    "id": "ch06_q_447",
     "domain": "Group Work",
     "chapter": 6,
-    "question": "A group leader focuses predominantly on the communication patterns, transactional dynamics, and interactions between members — using the here and now — rather than doing individual work with each member in turn. This leadership style is described as:",
+    "question": "Although the length of group counseling sessions will vary, most experts would agree that ________ is plenty of time even when critical issues are being examined.",
     "options": [
-      "Vertical intervention (intrapersonal) because the leader is facilitating psychological depth",
-      "Horizontal intervention (interpersonal) because the leader addresses the group as a whole and its interactions",
-      "Autocratic leadership because the leader controls what the group discusses",
-      "Laissez faire leadership because the leader is not directing individual members"
+      "three hours per session",
+      "one hour per session",
+      "six hours per session",
+      "two hours per session"
+    ],
+    "correct_index": 3,
+    "rationale": "One and a half to two hours is sufficient for adult group work. Longer groups often beget fatigue in the group members. With children, the group leader should note the members’ attention span, which is generally shorter than for adults. Since a children’s group will have shorter sessions, it is often best to rely on more frequent group sessions."
+  },
+  {
+    "id": "ch06_q_448",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "In terms of group risks",
+    "options": [
+      "an ethical leader will discuss them during the initial session with a client.",
+      "an ethical leader should never discuss risks with a client.",
+      "research has demonstrated that the less said about them, the better the group will interact.",
+      "an ethical leader allows the group to discover risks and work through them at their own pace."
+    ],
+    "correct_index": 0,
+    "rationale": "Choices “b” and “d” are not desirable. According to ACA ethics, safeguarding clients is a must in the sense that the adept leader takes reasonable precautions to protect clients against psychological, emotional, and physical trauma. Hint: Although group confidentiality is desirable, leaders should inform participants that they cannot guarantee confidentiality. Lack of confidentiality is a risk of group intervention."
+  },
+  {
+    "id": "ch06_q_449",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "An adept group leader will",
+    "options": [
+      "attempt to safeguard clients against risks.",
+      "work to reduce risks and dangers.",
+      "a and b.",
+      "let the group handle the dangers on their own."
+    ],
+    "correct_index": 2,
+    "rationale": "Professional counselors should give clients “information” regarding the group so the clients can make “informed” decisions regarding whether or not the group is appropriate (e.g., the purpose of the group, the risks involved, and the leader’s qualifications). This practice technically is known as “informed consent,” and it is very likely that you will see an exam question related to this issue. Ideally, informed consent occurs during screening before the initial group session, although in the real world this is not always possible."
+  },
+  {
+    "id": "ch06_q_450",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group participant wants to drop out of a group. Since the group is “closed” most experts would agree that",
+    "options": [
+      "the leader must insist that the client stay.",
+      "the client is allowed to withdraw.",
+      "the leader should allow other members to put pressure on the participant to stay.",
+      "a and c."
     ],
     "correct_index": 1,
-    "rationale": "Horizontal intervention targets the group as a whole — focusing on group relationships, processes, tasks, and interactions in the here and now. This is called the 'interpersonal' approach. Vertical intervention (choice A) targets an individual member within the group — like doing individual counseling in a group setting — and is more likely to explore the past using psychodynamic notions. The autocratic/laissez faire distinction (choices C, D) refers to leadership style, not the intervention level (horizontal vs. vertical)."
+    "rationale": "The fact that the group is open or closed would have no impact on the answer. In the past, group leaders informed members that participation was voluntary and they could exit the group at any time. But was this guideline realistic? Consider a client who is “required” by the court to attend your group because he has perpetrated sexual abuse. In the literal sense this client is not a “voluntary participant.” When a client is required to go to counseling or therapy it is known as “mandatory treatment.” Today, textbooks are more apt to stress that leaders discuss the impact of participation with members. Quick quip: When a client is referred for treatment and is not enthusiastic about the intervention, the term reluctant client is usually applied."
+  },
+  {
+    "id": "ch06_q_451",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "During the initial session of a group the leader explains that no smoking and no cursing will be permitted. This is known as",
+    "options": [
+      "setting ground rules.",
+      "ambivalent transference.",
+      "blocking.",
+      "scapegoating."
+    ],
+    "correct_index": 3,
+    "rationale": "When ground rules become the standard of behavior then it is known as a “norm.” The leader can specify the ground rules early in the group. Examples might be no cussing or hitting another group member. The term ambivalent transference, choice “b,” is a psychoanalytic notion often thrown out in multicultural circles which suggests that a client will treat a therapist with ambivalence, as he or she would any person viewed as an authority figure. (Note: Ambivalence implies that the client will experience contradictory emotions, such as love and hate, alternating from one to the other.) Choice “c,” blocking, is a term often used in group work. Blocking occurs when a leader uses an intervention to stop —or block if you will—a negative or counterproductive behavior which could hurt another member or the group. Choice “d,” scapegoating, is precisely the type of behavior a leader would want to block. In scapegoating, members gang up on a single group member."
+  },
+  {
+    "id": "ch06_q_452",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Group norms refer to (a)",
+    "options": [
+      "a statistically normal group composed of 8 to 12 members.",
+      "a statistically normal group composed of 12 to 14 members.",
+      "a normal group with no cultural differences.",
+      "the range of acceptable behavior within the group."
+    ],
+    "correct_index": 3,
+    "rationale": "Norms are the written or unwritten do’s and don’ts of the group."
+  },
+  {
+    "id": "ch06_q_453",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The study of group operations is often called",
+    "options": [
+      "group desensitization.",
+      "the hot seat technique.",
+      "group dynamics.",
+      "structuring the group."
+    ],
+    "correct_index": 2,
+    "rationale": "Group dynamics refers to the study of the interrelationships and interactions between group members. Group stages, cohesiveness, leadership style, and decision making are prime examples of group dynamics. Any factor that has an impact on the group can be referred to legitimately as a dynamic. The hot seat, choice “b,” is a term popularized by Fritz Perl’s gestalt therapy groups. A person who is the target of the therapist’s interventions in the here and now is said to be on the “hot seat.” Choice “d,” or the structuring of the group, is determined by the presence (or lack of) structured tasks or exercises given to members by the group leader. Important point: Often when an exam uses the term structured group (not to be confused with the term group structure) it connotes a group which focuses on a given theme, such as a group for veterans."
+  },
+  {
+    "id": "ch06_q_454",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The word dynamic means the group is",
+    "options": [
+      "normal.",
+      "always changing.",
+      "static.",
+      "defined in an operational manner."
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “d” is used quite a bit in the social sciences. In order to “operationally define” something you must demonstrate the concrete steps necessary to illuminate the concept. It sounds complex, yet it really isn’t. To operationally define, say, positive reinforcement, you would first note how often a behavior is occurring. Then you might give the client a reward every time he or she performs a desirable behavior, and tabulate the fact that the behavior is occurring more often than before you instituted the procedure. To operationally define the action of writing the letter “t,” you could tell the person to first draw a vertical line of 1 inch in length and then draw a horizontal line 0.5 inch in length, perpendicular to and one third of an inch from the top of the vertical line. The idea of the operational definition is that another person can duplicate your actions (i.e., the exact steps) for therapeutic, research, or testing purposes. Behaviorists have emphasized the notion of operational definitions more than other therapeutic schools."
+  },
+  {
+    "id": "ch06_q_455",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Experts firmly believe that a common weakness in many groups is",
+    "options": [
+      "setting too many goals.",
+      "using a male and a female coleader.",
+      "that the leader uses a democratic style.",
+      "a lack of goal setting."
+    ],
+    "correct_index": 3,
+    "rationale": "Most experts see choice “b,” the use of a male and a female coleader, as a distinct advantage. Often goals are defined yet they are too vague."
+  },
+  {
+    "id": "ch06_q_456",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group leader who utilizes an abundance of group exercises is",
+    "options": [
+      "probably not running an assertiveness training group.",
+      "is running an unstructured group.",
+      "is running a structured group.",
+      "is invariably running a self-help group."
+    ],
+    "correct_index": 2,
+    "rationale": "Look closely at choice “a.” An assertiveness training group would indeed generally use a lot of structured exercises. Choice “d” is also incorrect since a self-help group would not necessarily utilize a lot of structured exercises."
+  },
+  {
+    "id": "ch06_q_457",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Some theorists object to the word unstructured in group work because",
+    "options": [
+      "a group cannot not have structure.",
+      "only structured groups are effective.",
+      "unstructured groups are hardly therapeutic.",
+      "unstructured refers only to counseling and not to therapy groups."
+    ],
+    "correct_index": 0,
+    "rationale": "Some research indicates that structured exercises in the initial stages of the group can facilitate better communication."
+  },
+  {
+    "id": "ch06_q_458",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Some research demonstrates that",
+    "options": [
+      "structured exercises early in the group impaired later communication between group members.",
+      "structured exercises with feedback early in the group served to improve communication between group members.",
+      "autocratic or authoritarian leadership styles promote communication best.",
+      "structured exercises are never appropriate."
+    ],
+    "correct_index": 3,
+    "rationale": "If you marked choice “c,” then stop this very moment and review the answer to question 436. So far as choice “d” goes, beware of any answer which relies on adverbs like “always” or “never.” Answers sporting the word always are almost always incorrect, and those using never are almost never correct!"
+  },
+  {
+    "id": "ch06_q_459",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "In some literature, group cohesiveness, or “we-ness,” is known as",
+    "options": [
+      "group unity. (b)",
+      "a sociogram.",
+      "Karpman’s triangle.",
+      "the transition stage."
+    ],
+    "correct_index": 0,
+    "rationale": "The unity is actually a feeling of belonging, oneness, or togetherness. A sociogram (choice “b”) is simply a pictorial account of a group which serves to diagram member interaction. Choice “c,” Karpman’s drama triangle, is used most often in conjunction with transactional analysis (TA) as a teaching device to illuminate the roles of persecutor, rescuer, and victim in interpersonal relationships. The final choice, the transition stage, is the group stage which occurs after the first or so-called initial stage. In the initial stage members get acquainted and learn norms. In the second or transition stage members are often judgmental, resistant, or involved in a struggle for power to establish a hierarchy or “pecking order.”"
+  },
+  {
+    "id": "ch06_q_460",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Group members assume roles within a group. Which of the following is not a group role?",
+    "options": [
+      "Energizer.",
+      "Scapegoat.",
+      "Gatekeeper.",
+      "Reactive schizophrenia."
+    ],
+    "correct_index": 3,
+    "rationale": "In counseling the term reactive means that a given condition is the result of environmental stress. Hence, reactive schizophrenia would imply that the person experienced a psychotic episode following a traumatic experience. This would be in contrast to an individual who was seemingly always schizophrenic, and the pathology could not be traced to any given set of circumstances. Choices “a,” “b,” and “c” are common roles individuals will play in a group setting. The energizer stimulates enthusiasm in the group (e.g., “Come on folks this will be a lot of fun; and besides we’ll really learn a lot”). The scapegoat is the person everybody blames. He or she is invariably the target of severe anger and hostility (e.g., “Look Marv, we all agree that if it weren’t for you we would have solved the problem two weeks ago”). The gatekeeper tries to make certain that everyone is doing his or her task and is participating. This person may “secretly” or “unconsciously” want to lead the group and could even attempt to establish norms. The danger is that a gatekeeper often does not work on his or her own personal issues (e.g., “From now on I’d like everybody to bring a journal to the group and write down at least one positive thing which happened during the week”). Is that the leader speaking out or the gatekeeper blowing off steam? Only the group members know for sure!"
+  },
+  {
+    "id": "ch06_q_461",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group member who insists on asking other members inappropriate questions is known as a Peeping Tom or",
+    "options": [
+      "an energizer.",
+      "a scapegoat.",
+      "an interrogator.",
+      "a follower."
+    ],
+    "correct_index": 2,
+    "rationale": "The interrogator asks a never-ending string of questions, while the follower goes along with the rest of the group."
+  },
+  {
+    "id": "ch06_q_462",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The follower goes along with whatever the rest of the group thinks. From a personality standpoint the follower is",
+    "options": [
+      "aggressive.",
+      "assertive.",
+      "practicing excitation.",
+      "nonassertive."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “c” relates to Andrew Salter’s conditioned reflex therapy in which “excitation” or the practice of spontaneously experiencing and expressing true emotions (even negative ones) is seen as necessary in order to attain a state of positive mental health. “Inhibition,” or constipation of emotions, is seen as the opposite of excitation. Salter said: “However, in psychotherapy we need have no fear. The diagnosis is always inhibition.”"
+  },
+  {
+    "id": "ch06_q_463",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The ________ may secretly wish that he or she was running the group.",
+    "options": [
+      "follower",
+      "gatekeeper",
+      "social isolate",
+      "harmonizer"
+    ],
+    "correct_index": 1,
+    "rationale": "I joke with my students about adding a note to the university course catalog under my groups course which says “only former gatekeepers need to apply.” See answer 460 if you fail to see the humor! Choice “d” introduces the harmonizer role. Some books and exams bill this as the “conciliator,” or the person who tries to make certain that everything is going smoothly."
+  },
+  {
+    "id": "ch06_q_464",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Everybody picks on",
+    "options": [
+      "the gatekeeper.",
+      "the harmonizer, also known as the conciliator.",
+      "the scapegoat.",
+      "the storyteller, the intellectualizer, the attacker, and the joker."
+    ],
+    "correct_index": 2,
+    "rationale": "The storyteller, choice “d,” monopolizes a wealth of group time telling endless (often irrelevant) tales. A group leader will sometimes need to help this person get to the point or will need to ask the person precisely how the story is productive in the context of the group setting. This choice also lists a bevy of other self-explanatory roles members can play."
+  },
+  {
+    "id": "ch06_q_465",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A female group member is obviously not participating. A group member playing the ________ is most likely to mention this and urge her to participate.",
+    "options": [
+      "gatekeeper 220",
+      "interrogator",
+      "scapegoat",
+      "storyteller"
+    ],
+    "correct_index": 0,
+    "rationale": "One popular notion is that these roles relate to the person’s pattern of behavior in his or her nuclear family, and if appropriate the group leader can explore this hypothesis. In addition to the popular aforementioned roles is the “isolate role.” The isolate is ignored by others. Isolates generally feel afraid to reach out or do reach out and are genuinely rejected—for exam purposes keep in mind that the isolate is not the same as the scapegoat. Scapegoats receive attention, although it is not by any means overwhelmingly positive. Isolates—a negative group role often referred to as the “silent one”—on the other hand, receive little or no attention."
+  },
+  {
+    "id": "ch06_q_466",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Cohesiveness, or group unity, is desirable. It promotes bonding and a sense of “we-ness” between group members. When cohesiveness is strong, nevertheless, it also can be negative as",
+    "options": [
+      "it can stunt creativity.",
+      "it can boost conformity.",
+      "a and b.",
+      "it can cause the group to split into factions."
+    ],
+    "correct_index": 2,
+    "rationale": "Cohesiveness can stunt creativity or boost conformity since members want to fit in and go along with the wishes of most other group members. The word faction in choice “d” describes a clique or a group of people within a group. You might, for example, have a faction which does not wish to go along with a certain task or group exercise. The sociogram mentioned earlier can help identify group factions. A faction also may be called a “subgroup.”"
+  },
+  {
+    "id": "ch06_q_467",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "In a healthy group, members",
+    "options": [
+      "assume a role and never change it.",
+      "have no roles.",
+      "are flexible and can change roles.",
+      "spend a great deal of time practicing role reversal."
+    ],
+    "correct_index": 3,
+    "rationale": "In order to meet the “changing needs” of the group, members often need to “change roles.” Choice “d,” or role reversal, is a common behavioral role-playing technique. A client who is having difficulty communicating with another person in his or her life role-plays the person with whom he or she is having difficulty. Another group member (or the leader) plays the group member with the problem. This valuable technique gives the group member a new perspective on the situation and allows the person to learn via modeling alternative ways of behaving."
+  },
+  {
+    "id": "ch06_q_468",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "In a group, task roles",
+    "options": [
+      "help solve problems. (c)",
+      "aid in terms of goal setting and keep the group focused.",
+      "are seen as positive.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Here is a key concept: Group specialists classify member roles as: task roles, maintenance roles, and self-serving roles. (On some exams, self-serving roles will be identified as “individual roles.”) The distinctions are actually fairly easy to remember. In everyday life when we refer to a “task” we mean a job or something which needs to be accomplished. A task role (e.g., an information giver or a clarifier) simply helps the group carry out a task. A maintenance role (e.g., the follower, mentioned earlier, or an encourager) helps “maintain” or even strengthen group processes. The final category (i.e., the selfserving role) is seen as negative. The person who falls into this category meets his or her own “individual needs” at the expense of the group. A person who downright refuses to participate or a person who criticizes or disagrees with others would be a prime example. An entire group could be classified as a task group or perhaps a task/work group. A group of this nature focuses on accomplishing work goals. According to former ACA president, textbook author, and group expert Sam Gladding, an athletic team would fall into this category, as would a quality-circle-employee-run group attempting to improve a business. If you have a group of very immature participants, then the socalled situational leadership style is recommended. Here the leader tells members what to do and does not emphasize relationships among members."
+  },
+  {
+    "id": "ch06_q_469",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Maintenance roles, like task roles, are positive since such roles",
+    "options": [
+      "help to maintain the group.",
+      "are self-serving.",
+      "help promote autocratic leadership.",
+      "always stress the importance of the here and now."
+    ],
+    "correct_index": 0,
+    "rationale": "Remember: Maintenance really implies that the role maintains group interaction. Maintenance roles support the group’s livelihood and hence are seen as positive. Paul Hersey and Kenneth Blanchard point out that leader activities generally fall into “task actions” and “maintenance actions” (i.e., relationship concerns). Hersey and Blanchard believe that the most effective leadership approach depends on the group situation. The researchers speak of “maturity” in regard to a specific task. If a group member has low maturity—which is really a lack of achievement motivation—then the leader should use “high task” and “low relationship” behaviors. As maturity gets better, a “high task” and “high relationship” paradigm is ideal. And when group members display very high maturity, then a “low task” and “low relationship” leadership format would be desirable. Now listen closely: Task action leadership is said to be indicative of one-way communication (i.e., the leader tells the members about a task to accomplish) while relationship behavior is said to be the result of two-way communication (i.e., the leader provides emotional support for members). Hersey and Blanchard suggest that it is not atypical for a member to display maturity on one task and a distinct lack of maturity on the next. Now I want to stress two very important points here: When you see the words task and maintenance on your exam, the concepts could refer to either a group member’s role or the leader’s behavior. The other concept I want you to be familiar with is that conflict between group members can often be abated by having the leader prescribe a “task” on which all the members must work together in order to accomplish it."
+  },
+  {
+    "id": "ch06_q_470",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Self-serving or individual roles are negative inasmuch as",
+    "options": [
+      "they promote democratic leadership.",
+      "they work against the group.",
+      "they serve the individual and not the group.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Self-serving or so-called individual roles are counter-productive."
+  },
+  {
+    "id": "ch06_q_471",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Although task roles and maintenance roles are indeed positive, the group can suffer if the group is not flexible and remains in one or the other role too long since",
+    "options": [
+      "an effective group needs some self-serving roles.",
+      "if a group gets stuck in task roles, interaction suffers.",
+      "if a group gets stuck in maintenance roles, little work (or tasks) will be accomplished.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "I believe this clarifies the point made earlier that group members ideally will be flexible and able to change roles."
+  },
+  {
+    "id": "ch06_q_472",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Group specialists define role conflict as",
+    "options": [
+      "tension between two group members who have assumed different roles.",
+      "a situation in which there is a discrepancy between the way a member is expected to behave and the way he or she actually behaves.",
+      "tension between the group leader and a group member.",
+      "members criticizing other members between group sessions."
+    ],
+    "correct_index": 1,
+    "rationale": "The word conflict comes from the Latin word conflictus, which means “striking together with force.” Please do not confuse “role conflict” with the group term conflict of interest, which occurs when a group member maximizes his or her needs and interests at the expense of someone else."
+  },
+  {
+    "id": "ch06_q_473",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A major group dynamic is group development. This is usually expressed in terms of",
+    "options": [
+      "the number of hours of group conflict.",
+      "theories of group stages.",
+      "the Rosenthal effect.",
+      "the Hawthorne effect."
+    ],
+    "correct_index": 1,
+    "rationale": "Here is a very helpful hint. Do not—I repeat—do not attempt to memorize every single group stage theory ever invented. First, because you have better things to do with your time (I would hope!) and second because there are far too many. Most of the theories are very similar and thus if you know the basic format you will have a very good chance of answering the question correctly. The first stage generally is known simply as the “initial stage.” (Now there’s one that’s so simple you won’t need a memory device!) Others have termed this stage as “orientation and exploration,” or “preaffiliation,” or “forming.” The next stage usually is designated as the “transition stage,” though you will often see it termed “power and control” or “storming,” which logically comes after “forming.” The third major stage is the “working stage,” “norming stage,” “cohesion stage,” or “negotiation, intimacy, and frame of reference.” The final stage is sometimes known as the “separation stage,” the “termination stage,” “the closure stage,” or “adjourning.” Choices “c” (no relation to yours truly!) and “d” will be covered in the sections on research."
+  },
+  {
+    "id": "ch06_q_474",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Irvin Yalom is a famous existentialist therapist and a pioneer in the group movement. He suggested these four group stages: orientation, conflict, cohesion, and termination. In 1977 Tuckman and Jensen reviewed 25 years of research and came up with five stages: forming, storming, norming, performing, and adjourning. Which stage in Tuckman and Jensen’s paradigm is similar to Yalom’s orientation stage?",
+    "options": [
+      "Forming.",
+      "Storming.",
+      "Norming.",
+      "Performing."
+    ],
+    "correct_index": 0,
+    "rationale": "Okay, you deserved an easy one. Note that different group theories have differences in the number of stages. Your best bet on the exam is to try to note the similarities between the major theories. For example, the initial “group formation” stage examined in this question (i.e., orientation, forming, preparation, engagement, and who knows what some creative theorist will dare call it next!) is focused on the establishment of norms and approach–avoidance behavior of group members. Members will be tentative and size up other members. Members will identify or get acquainted with others based on culture, language, mode of dress, or occupation."
+  },
+  {
+    "id": "ch06_q_475",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The final stage suggested by theories of group stages generally deals with issues of",
+    "options": [
+      "group tasks.",
+      "transition.",
+      "power and control.",
+      "separation and termination."
+    ],
+    "correct_index": 3,
+    "rationale": "The final stage is said to represent a time of breaking away, or in plain, simple, everyday English: saying goodbye. Group members can experience loss and need to establish bonds outside of the group setting. The ideal situation would be that termination takes place after the group and its members have reached their goals (e.g., greater insight, improved self-esteem, accomplishment, and awareness) and have no further unfinished business. Certainly, in reality (such as when a client needs to leave a hospital group because his or her insurance has run out) this is not always the case. Additional referrals may be necessary."
+  },
+  {
+    "id": "ch06_q_476",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The initial group stage has been called forming, orientation, or the preaffiliation stage. This stage is characterized by",
+    "options": [
+      "avoidance–avoidance conflicts.",
+      "a tendency for members to compete with the leader for power.",
+      "approach–avoidance behavior.",
+      "members working on the interpretation of unconscious behavior."
+    ],
+    "correct_index": 2,
+    "rationale": "Yes, I’m being redundant with the words I’m using in my questions and my answers, but this will help you become more accustomed to the lingo of group work, and I’ve got this uncanny suspicion that it’s working! In the first stage people want to be accepted but are scared to participate: Now, what about choice “a”? Well, an avoidance–avoidance conflict exists when you have two alternatives which are both unattractive, such as when your boss says you can either take a pay cut or lose your job. The approach– avoidance situation taking place in the initial group stage is a conflict wherein you are attracted and repelled by the same goal. In an analogous situation: You want to meet group members, but it’s scary to think about the fact that you could be rejected."
+  },
+  {
+    "id": "ch06_q_477",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A client would generally feel the most suspicious of others in",
+    "options": [
+      "the final stage of separation or termination.",
+      "the intimacy stage.",
+      "the group formation/exploratory stage.",
+      "a group with coleadership, also known as cofacilitation."
+    ],
+    "correct_index": 2,
+    "rationale": "Safety comes from seeking common ground. That is to say, the new group member seeks out others of similar social status. Like Erikson’s first psychosocial stage of development, the initial group stage hosts the “trust versus mistrust” drama."
+  },
+  {
+    "id": "ch06_q_478",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Fights between subgroups and members showing rebellion against the leader generally occur in",
+    "options": [
+      "the second stage known as the control stage or the transition stage.",
+      "the first stage known as the orientation stage or formation stage.",
+      "the separation stage.",
+      "the intimacy stage."
+    ],
+    "correct_index": 0,
+    "rationale": "Garland, Jones, and Kolodny appropriately called stage 2 “power and control.” This is the stage in which the fireworks fly as group members verbally attack one another, not to mention the group leader."
+  },
+  {
+    "id": "ch06_q_479",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A hierarchy, or pecking order, among members occurs in",
+    "options": [
+      "the stage of storming, also known as the power–control stage.",
+      "the orientation stage. 225",
+      "the separation stage.",
+      "the intimacy stage."
+    ],
+    "correct_index": 0,
+    "rationale": "Ditto! This is the stage movies are made of. Members rank themselves in terms of status and factions (mentioned earlier). Isolated members who are not protected by the strong subgroup (faction) sometimes drop out. It should come as no surprise that some authors have called this the “high-anxiety” or “struggle for control stage.” And how is a leader to handle this turmoil? Corey and Corey appropriately suggest that the leader learns to distinguish between a “challenge” and an “attack.” Do not assume, say the Coreys, that every confrontation is an attack on your integrity as a leader. Leaders can model responsible assertive confrontation with open and truthful expression."
+  },
+  {
+    "id": "ch06_q_480",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Group planning occurs",
+    "options": [
+      "in the initial stage.",
+      "in the stage after the transition or conflict stage.",
+      "in the final stage, also known as the termination stage.",
+      "before the group begins and continues throughout the life of the group."
+    ],
+    "correct_index": 3,
+    "rationale": "The term ecological planning has been used to describe the process of obtaining information to determine whether a group is the most desirable form of treatment and, if it is, to decide the exact nature of the group experience. The counselor needs to look at demographics, community needs, and social considerations. After the group begins, program development or session-by-session planning is recommended. Planning can also include: (a) Whether to use a single facilitator or coleadership; (b) an assessment of the best surroundings (i.e., the room or rooms where the group will be held); (c) how the group will receive funding or payment for the group (e.g., will insurance pay for the service?); (d) whether a marketing or recruitment strategy is necessary; (e) what information can be useful from books, journals, or the Internet; (f) how the clients will be screened and prepared for the group; and (g) providing clients with informed consent documents."
+  },
+  {
+    "id": "ch06_q_481",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "The final group stage (also called the termination stage) is geared toward",
+    "options": [
+      "developing intimacy.",
+      "working through power and control issues.",
+      "exploration.",
+      "breaking away."
+    ],
+    "correct_index": 3,
+    "rationale": "This phase has been called “consolidation” and occurs after the working stage. The leader helps members make plans for the future. I must point out that group specialists feel that every group does not necessarily pass through every stage (even after an extended period of time) and that there is not always a clear-cut discernible line of demarcation separating one group stage from another."
+  },
+  {
+    "id": "ch06_q_482",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group therapist is constructing a diagram to better understand the dynamics between subgroups and members. This is called 226",
+    "options": [
+      "sculpturing.",
+      "ego state analysis.",
+      "charting a pictorial sociogram.",
+      "charting the variance."
+    ],
+    "correct_index": 2,
+    "rationale": "The study of measuring person-to-person relationships regarding what members in a group think or feel is known as “sociometry.” In essence, sociometry is a quantitative study of relationship concerns in a group. The sociogram, credited to Moreno and Jennings, graphically displays group members’ affiliations and interactions. Choice “a,” or family sculpturing, is a family therapy technique in which the family members are instructed to arrange themselves spatially to create a live representation of family members’ bonds, feelings of closeness (or lack of it), and sense of alliances. Choice “b” is a common practice in transactional analysis in which the counselor helps the client discern out of which ego state (i.e., Parent, Child, or Adult) he or she is primarily operating in a given situation."
+  },
+  {
+    "id": "ch06_q_483",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group leader who asks each group member to recapitulate what he or she has learned during a given session is promoting",
+    "options": [
+      "summarization, the act of briefly stating what has transpired or discussed.",
+      "clarification, the act of making certain that the leader and the group truly understand the key factors related to what a member is attempting to communicate.",
+      "blocking, the act of putting a halt to a group member’s actions that might have a negative impact on other group members.",
+      "linking, the act of pointing out similarities between clients."
+    ],
+    "correct_index": 0,
+    "rationale": "Summarization, which is also appropriate in individual work, is merely the act of bringing together a number of important thoughts, insights, feelings, or transactions."
+  },
+  {
+    "id": "ch06_q_484",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A leader who wishes to stop inappropriate discussion should rely on",
+    "options": [
+      "summarization.",
+      "clarification.",
+      "blocking.",
+      "linking."
+    ],
+    "correct_index": 2,
+    "rationale": "Blocking in groups is very much like blocking a punch in a boxing match. Blocking is used by the leader to stop (or block if you will) a hurtful behavior. Blocking in therapy is often necessary for the protection of group members. Blocking can be used in cases of gossiping or breaking confidentiality. Choice “b,” clarification, is another important skill group leaders must possess. A leader uses clarification to ferret out the important points in a client’s message. Clarification brings out the gist of a message and illuminates what was really said to lessen any confusion. Choice “d”, linking, is used to promote cohesion. A link is an attempt to bring together common patterns or themes within the group. Helpful hint on group verbiage: When a leader allows each group member to weigh in on a given topic we say that the leader is “making the rounds.”"
+  },
+  {
+    "id": "ch06_q_485",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "When a leader attempts to relate one person’s predicament to another person’s predicament, it is known as",
+    "options": [
+      "summarization.",
+      "clarification.",
+      "blocking.",
+      "linking."
+    ],
+    "correct_index": 3,
+    "rationale": "When used properly, linking illuminates areas of mutual concern. This often enhances group interaction."
+  },
+  {
+    "id": "ch06_q_486",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Strategies that approach the group as a whole are known as",
+    "options": [
+      "vertical interventions.",
+      "horizontal interventions.",
+      "crossed transactions.",
+      "parallel transactions."
+    ],
+    "correct_index": 3,
+    "rationale": "When working in a group setting, the leader needs to decide whether to work with the group as a whole (called a horizontal intervention) or with individuals within the group (called a vertical intervention— note choice “a”). Of course by now you realize how valuable memory devices are in terms of helping you to remember distinctions. Here’s the one I have found valuable in this case. If you picture a group in your mind it appears spread out “horizontally.” On the other hand, if you picture yourself doing counseling with an individual in a group, the individual is usually sitting up in a “vertical” position. In the case of the vertical intervention the leader is providing individual counseling in a group work setting. Techniques which focus on group relationships, processes, tasks, and interactions are said to be horizontal intervention strategies. The horizontal approach is often called the “interpersonal” method since it focuses on interactions. The vertical approach has been termed “intrapersonal” leadership. Shapiro, who suggested the intrapersonal–interpersonal leadership distinction, feels that a leader does not really choose one or the other but tends to behave on a continuum in this respect. Key point: You would do well to remember that interpersonal leaders favor here-and-now interventions while intrapersonal leaders are more likely to work on the past, sometimes employing psychodynamic notions. An effective counselor should rely on both types of interventions. If, for example, a leader stresses vertical intrapersonal interventions, members may be hesitant to speak or react in a spontaneous manner. In this case the group member might literally think, “It’s not my turn to speak yet Dr. X is working with Jane now.” The other side of the coin, however, is that the horizontal interpersonal leader may lose some power as an expert who can model or reinforce appropriate behavior."
+  },
+  {
+    "id": "ch06_q_487",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Strategies that focus on an individual member of the group are known as",
+    "options": [
+      "vertical interventions.",
+      "horizontal interventions. (b)",
+      "crossed transactions.",
+      "parallel transactions."
+    ],
+    "correct_index": 0,
+    "rationale": "Again, use your memory device. See that individual sitting or standing—she’s in a vertical position, of course. Choices “c” and “d” relate to transactional analysis (TA). A crossed transaction between two persons’ ego states is said to be dysfunctional, while a parallel transaction promotes healthy communication. Although quite frankly TA is a bit, well, let’s just say dated, it is conceivable that a question or two could still pop up on your exam."
+  },
+  {
+    "id": "ch06_q_488",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group therapist must make",
+    "options": [
+      "fewer decisions than an individual therapist.",
+      "the same number of decisions as an individual therapist.",
+      "modality changes for each group.",
+      "more decisions than an individual therapist."
+    ],
+    "correct_index": 3,
+    "rationale": "Thus, most experts would agree that it is more difficult to do productive group work than it is individual work. Nevertheless, in many settings the only way to reach all the people who need counseling in a finite period of time is to use group work."
+  },
+  {
+    "id": "ch06_q_489",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "When a counselor reads the journals in this field, it becomes evident that",
+    "options": [
+      "group counseling has more research than individual counseling.",
+      "researchers and practitioners are working very closely to provide accurate and effective group strategies.",
+      "a researcher/practitioner split exists in group work.",
+      "no journals focus solely on group work."
+    ],
+    "correct_index": 2,
+    "rationale": "Practical research about what exactly works best in a group setting is scarce. Moreover, many studies in the field of group work have not been well controlled. In many studies, the independent variable (i.e., the experimental variable) has not been scientifically defined. Say, for example, the independent variable in a study is a “T-group intervention.” This indeed could create a problem since a T-group to leader A might not seem like a Tgroup to leader B."
+  },
+  {
+    "id": "ch06_q_490",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Experts predict that in the future",
+    "options": [
+      "group leaders will be more like life-skills trainers.",
+      "group leaders will become more person-centered.",
+      "group leaders will return to a psychodynamic viewpoint.",
+      "groups will lose their popularity and eventually die out."
+    ],
+    "correct_index": 0,
+    "rationale": "The position has been taken that in the past groups have emphasized a narrow focus (e.g., a group for nonassertive bosses) and in the future groups should begin to deal with a broad spectrum of issues or what some call a “comprehensive model” of group work. A comprehensive educational life-skills model could stress preventive mental health skills, hopefully lowering the need for “therapeutic groups.” Therefore, ultimately the counselor of the life-skills group would act more like a trainer than a therapist."
+  },
+  {
+    "id": "ch06_q_491",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "According to researchers, groups are effective",
+    "options": [
+      "although researchers cannot pinpoint precisely why this is true.",
+      "due to increased transference in group work.",
+      "due to better morale in a group setting.",
+      "due to the emphasis on cognitive restructuring."
+    ],
+    "correct_index": 0,
+    "rationale": "Research in the area of group work is sometimes classified as “outcome research” or “product research.” Outcome research addresses the question of whether the group was able to reach a given set of goals or simply the desired “outcome.” An outcome study attempts to answer the question of whether or not the group was successful (i.e., does the group work). Process research is aimed at the question of “how groups work.” Process research asks, “What allows the group to reach a target outcome?”"
+  },
+  {
+    "id": "ch06_q_492",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A major limitation related to group work is that",
+    "options": [
+      "REBT cannot be utilized in group therapy.",
+      "it is not really cost effective.",
+      "gestalt therapy cannot be used in a group setting.",
+      "a group leader can lose control and members could experience emotional harm."
+    ],
+    "correct_index": 3,
+    "rationale": "Let me make certain that the purpose of this question is perfectly clear: You must know the strengths and limitations of group work for almost any comprehensive exam. Choice “d” depicts a major limitation. Other limitations include: (a) that a client may need individual therapy before he or she can benefit from group work; (b) that a client may not be capable of trusting others enough to reveal key material since he or she fears others may find it unacceptable; (c) that the group could become a substitute experience for the real world; (d) that the group counselor may not be as effective with a whole group of people as he or she is with just one person in individual treatment; (e) that some clients may feel pressure to replace their personal norms with those of the group; and (f) that disappointment can set in if the group is not helpful and the person loses faith in treatment without experiencing individual sessions. Group work can often be intimidating and this can squelch client disclosure. Clients also receive less time working with the counselor than in individual counseling. In today’s fastpaced world, the lack of flexibility in terms of meeting times for the sessions may prohibit someone from attending a group. Finally, lack of trust related to confidentially often sways clients to opt for individual treatment. Group therapy generally is not the treatment of choice when the client is in a state of crisis, needs an interpretation of his or her psychological tests, needs confidentiality for protection (groups are notorious for having more problems with confidentiality than individual treatment), or is phobic in regard to public speaking. Choices “a,” “b,” and “c” are totally false. P.S. If your client is seeing an individual therapist, that therapist needs to know that his or her client is planning to join your group."
+  },
+  {
+    "id": "ch06_q_493",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A major advantage of group work versus individual work is that",
+    "options": [
+      "members learn to give help in addition to receiving it and group sessions generally cost less (i.e., they are more economical) than individual counseling sessions.",
+      "the leader has a less complex role than that of an individual counselor.",
+      "the group leader nearly always possesses more training than an individual counselor.",
+      "all of the above."
+    ],
+    "correct_index": 0,
+    "rationale": "Group advantages include: (a) that group work allows for “in vivo” interpersonal work with a sense of belonging; (b) that it is cost effective and allows a trained counselor to help a greater number of people in a smaller amount of time; (c) that it promotes universality; (d) that it can be an effective support system; (e) that members get multiple feedback; and (f) that members can model successful communication and coping skills. Groups are like a microcosm of society that offers vicarious learning and support. And oh yes, although it would be nice if choice “c” were true (since group leaders generally need more training than individual helpers) the truth is that some people are running groups without any training whatsoever in group work."
+  },
+  {
+    "id": "ch06_q_494",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Which statement best depicts a major advantage of group work?",
+    "options": [
+      "Group work usually focuses on the here and now.",
+      "Group work is always time limited.",
+      "Group work is always superior for career counseling.",
+      "The group setting is somewhat analogous to the communication and interaction of everyday life."
+    ],
+    "correct_index": 3,
+    "rationale": "Overall, research would support the notion that groups work, and yes, they have advantages. However— and this is one important point folks—there is no body of research which would say that in general group work is superior to other forms of treatment. Please reread the previous sentence—yes, it’s that important! Pressure to conform, confidentiality, and unhealthy relationships with others in the group provide classic examples of the disadvantages of the group model."
+  },
+  {
+    "id": "ch06_q_495",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "Which of these factors is not delineated by Irvin Yalom as a curative factor?",
+    "options": [
+      "Altruism, universality, and existential learning.",
+      "Manifest dream content and insight into the unconscious mind.",
+      "Catharsis, cohesiveness, and instillation of hope.",
+      "Imitative behavior and reenactment of family experiences."
+    ],
+    "correct_index": 1,
+    "rationale": "Yalom is an existential therapist. Choice “b” is psychoanalytic."
+  },
+  {
+    "id": "ch06_q_496",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "In terms of research and the group leader’s personality,",
+    "options": [
+      "extroverts are the most effective leaders.",
+      "introverts are the most effective leaders.",
+      "qualities such as flexibility, enthusiasm, and common sense may be helpful to a very small degree. 231",
+      "qualities such as flexibility, enthusiasm, and common sense have a tremendous positive impact."
+    ],
+    "correct_index": 2,
+    "rationale": "Unfortunately, overall studies have turned up little in terms of “special characteristics” of group leaders’ personalities. So much for the concept of super leaders!"
+  },
+  {
+    "id": "ch06_q_497",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "R. K. Conyne suggested that group intervention is intended to",
+    "options": [
+      "ferret out unconscious material.",
+      "enhance rational self-talk.",
+      "illuminate dysfunctional nonverbal behavior.",
+      "prevent, correct, or enhance behavior."
+    ],
+    "correct_index": 3,
+    "rationale": "Conyne’s “group work grid” model includes four intervention levels: individual, interpersonal, organization, and community population. The intervention can be prevention, correction, or enhancement oriented for either personal or task functions."
+  },
+  {
+    "id": "ch06_q_498",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group leader who wishes to assess the impact of the group ideally would",
+    "options": [
+      "hand out a written evaluation form during the final session.",
+      "hold a follow-up session so members can share experiences.",
+      "have an outside “observer” sit in during group sessions and consequently rate the level of behavioral change.",
+      "give each member a pretest and a posttest utilizing a projective measure."
+    ],
+    "correct_index": 2,
+    "rationale": "Keep in mind that you are looking for the best answer here. All of the choices are correct; however, choice “c” is superior to the other three. Research in the area of group work has been criticized for not using independent observers. When taking your exam be aware that “member-specific measures” are designed to assess change (or lack of it) in an individual group member. Most member-specific measures, such as a self-rating or (better still) a rating by an outside observer, are not standardized. In contrast to the “member-specific measure,” researchers speak of “group-specific measures,” which are intended to measure the degree of change (or again, lack of it) in all persons participating in the group. Lastly, the so-called “global measures,” such as standardized tests, may well assess traits and factors not specifically addressed in the group. For example, giving members of a Weight Watchers group a preand post-MMPI-2 would constitute a global measurement."
+  },
+  {
+    "id": "ch06_q_499",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "A group leader who is counseling children under 10 years of age could best enhance the treatment process by",
+    "options": [
+      "involving parents and asking them for input.",
+      "keeping the parents uninvolved.",
+      "reminding the children to speak softly at all times",
+      "b and c."
+    ],
+    "correct_index": 0,
+    "rationale": "Corey and Corey suggest that parental involvement can reduce resistance and improve cooperation. They also warn counselors not to take sides with a child against a parent or institution."
+  },
+  {
+    "id": "ch06_q_500",
+    "domain": "Group Work",
+    "chapter": 6,
+    "question": "When an adolescent complains about his or her parents in the group it is best to",
+    "options": [
+      "jump on the bandwagon and agree with the child.",
+      "avoid taking sides but help him or her see the parents’ point of view via a therapeutic technique such as role-playing.",
+      "talk only about positive experiences.",
+      "immediately put the child on the hot seat."
+    ],
+    "correct_index": 1,
+    "rationale": "This principle is true for adolescents as well as children under 10 years old. When working with children and adolescents be careful what you say about confidentiality, since in the case of child abuse, sexual abuse, neglect, or exploitation you will be required ethically and legally obligated to break confidentiality (just as you would if you saw an elderly individual who is being abused). In addition, ethics would dictate that you do likewise if a child is suicidal or plans to seriously harm another individual. Of course, these last two points would apply to all age brackets, in group or individual treatment. In closing this section I can share the fact that literally hundreds of studies attest to the effectiveness of group work."
   }
 ]

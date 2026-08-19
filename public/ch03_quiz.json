@@ -1,282 +1,1402 @@
 [
   {
-    "id": "ch03_q_001",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_1",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "A counselor is working with an 8-year-old child who, when shown two equal balls of clay and then watches one ball be rolled into a long snake shape, insists the snake now has 'more clay.' According to Piaget, this child has NOT yet mastered:",
+    "question": "Freud’s stages are psychosexual while Erik Erikson’s stages are",
     "options": [
-      "Object permanence",
-      "Conservation",
-      "Formal operational thinking",
-      "Animism"
-    ],
-    "correct_index": 1,
-    "rationale": "Conservation is the understanding that quantity remains unchanged despite changes in shape — mastered in Concrete Operations (ages 7–11). This 8-year-old should be developing it but hasn't yet. Object permanence (A) is a sensorimotor concept. Formal operations (C) involves abstract thinking (not relevant here). Animism (D) is attributing life to inanimate objects. Distractor: A is tempting because object permanence sounds like it relates to 'objects' staying constant, but it refers to objects existing when hidden."
-  },
-  {
-    "id": "ch03_q_002",
-    "domain": "Human Growth & Development",
-    "chapter": 3,
-    "question": "A 4-year-old child watches a magic show and says, 'The rabbit is hiding inside the magician because the magician is magic and wants the rabbit.' This statement BEST illustrates which Piagetian concept?",
-    "options": [
-      "Conservation",
-      "Reversibility",
-      "Animism",
-      "Egocentrism"
-    ],
-    "correct_index": 2,
-    "rationale": "Animism is attributing lifelike, intentional qualities to inanimate objects or events — occurring in the Preoperational stage (2–7 years). The child sees the magician as intentionally 'wanting' something from a rabbit. Egocentrism (D) would involve the child being unable to see others' perspectives, but this statement is more about attributing inner motives to objects. Conservation (A) and Reversibility (B) are both Concrete Operations concepts and don't apply to a 4-year-old."
-  },
-  {
-    "id": "ch03_q_003",
-    "domain": "Human Growth & Development",
-    "chapter": 3,
-    "question": "During a counseling intake, a 15-year-old client insists that his parents 'can't possibly understand what he's going through' because 'no one has ever felt this way before.' According to Erikson, this client is most likely in which stage?",
-    "options": [
-      "Industry vs Inferiority",
-      "Identity vs Role Confusion",
-      "Intimacy vs Isolation",
-      "Generativity vs Stagnation"
-    ],
-    "correct_index": 1,
-    "rationale": "Erikson's Stage 5 (Identity vs Role Confusion) covers adolescence. Adolescents experiment with roles, feel uniquely misunderstood, and are working toward a coherent self-concept. Failure = identity crisis. Industry vs Inferiority (A) is ages 6–12. Intimacy vs Isolation (C) is early adulthood (23–34). Generativity vs Stagnation (D) is middle adulthood. Distractor: Industry vs Inferiority (A) is tempting because it involves peer comparison, but the age doesn't fit."
-  },
-  {
-    "id": "ch03_q_004",
-    "domain": "Human Growth & Development",
-    "chapter": 3,
-    "question": "A 65-year-old client in counseling spends sessions ruminating on regrets — career paths not taken, relationships damaged, dreams unfulfilled. According to Erikson, this client is struggling with which stage?",
-    "options": [
-      "Generativity vs Stagnation",
-      "Intimacy vs Isolation",
-      "Integrity vs Despair",
-      "Initiative vs Guilt"
-    ],
-    "correct_index": 2,
-    "rationale": "Integrity vs Despair is Erikson's final stage (age 60+). Successful resolution = sense that life was worthwhile (integrity). Failure = despair — regret that life was wasted. This client's rumination on regrets reflects despair. Generativity vs Stagnation (A) is ages 35–60. Distractor: Generativity vs Stagnation is tempting because it also involves life review, but it centers on productivity/raising the next generation, not life-review regret."
-  },
-  {
-    "id": "ch03_q_005",
-    "domain": "Human Growth & Development",
-    "chapter": 3,
-    "question": "A researcher shows a child two identical glasses of water. She then pours one glass into a tall, thin cylinder. The child says the tall cylinder has more water. The researcher repeats this experiment with hundreds of children across five countries, always finding the same age range for mastery. This approach to research is BEST described as:",
-    "options": [
-      "Idiographic",
-      "Nomothetic",
-      "Phenomenological",
-      "Ethnographic"
-    ],
-    "correct_index": 1,
-    "rationale": "Nomothetic research studies large groups to establish general principles that apply across populations. Studying hundreds of children across cultures to identify universal age norms is nomothetic. Idiographic (A) examines individual cases in depth (like Freud or Piaget's original observations of his own children). Phenomenological (C) explores subjective lived experience. Ethnographic (D) involves cultural immersion research."
-  },
-  {
-    "id": "ch03_q_006",
-    "domain": "Human Growth & Development",
-    "chapter": 3,
-    "question": "According to Kohlberg's theory, a teenager who says 'I shouldn't steal because I could get caught and punished' is operating at which level and stage?",
-    "options": [
-      "Conventional level, Stage 3 (good boy/good girl orientation)",
-      "Preconventional level, Stage 1 (punishment/obedience orientation)",
-      "Postconventional level, Stage 5 (social contract)",
-      "Preconventional level, Stage 2 (naive hedonism)"
-    ],
-    "correct_index": 1,
-    "rationale": "Stage 1 of the Preconventional level is the punishment/obedience orientation — moral decisions are driven by avoiding punishment. The teenager's reasoning is entirely about consequences for the self (getting caught), not about rules, relationships, or principles. Naive hedonism (D) would focus on personal reward/exchange ('if I'm nice, others will be nice to me'). Good boy/girl (A) would focus on approval from others. Distractor: Naive hedonism (D) is tempting because it is also preconventional and self-focused, but it emphasizes reward/reciprocity, not punishment avoidance."
-  },
-  {
-    "id": "ch03_q_007",
-    "domain": "Human Growth & Development",
-    "chapter": 3,
-    "question": "A counselor working with a family in crisis after a house fire should focus FIRST on which aspect of Maslow's hierarchy?",
-    "options": [
-      "Self-esteem — helping family members feel capable and valued",
-      "Love and belonging — strengthening family bonds during the crisis",
-      "Self-actualization — helping members find meaning in the experience",
-      "Physiological and safety needs — food, shelter, and immediate security"
+      "psychometric.",
+      "psychodiagnostic.",
+      "psychopharmacological.",
+      "psychosocial."
     ],
     "correct_index": 3,
-    "rationale": "Maslow's hierarchy requires lower-order needs to be met before higher-order needs become relevant. A family who just lost their home needs immediate physiological and safety needs addressed first. Addressing self-esteem, belonging, or self-actualization would be premature before basic survival needs are stabilized. Distractor: Love and belonging (B) is very tempting because the counselor might naturally want to support family cohesion, but Maslow is clear that safety/physiological needs come first."
+    "rationale": "Let’s begin with an easy one. Only one choice fits the bill here. The Freudian stages (oral, anal, phallic, latency, and genital) emphasize sexuality. Erik Erikson’s eight stages (e.g., trust versus mistrust or integrity versus despair) focus on social relationships and thus are described as psychosocial. To mention the other answer choices is to dispose of them. Psychometric simply refers to mental testing or measurement. Psychodiagnostic pertains to the study of personality through interpretation of behavior or nonverbal cues. In counseling, per se, it also can mean that the counselor uses the aforementioned factors or tests to label the client (e.g., using the DSM, a book listing the symptoms and descriptions for mental disorders) in a diagnostic category. Psychopharmacology studies the effects that medications or drugs have on psychological functions."
   },
   {
-    "id": "ch03_q_008",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_2",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "Harry Harlow's infant monkey experiments demonstrated that the primary basis for attachment is:",
+    "question": "(d) In Freud’s psychodynamic theory instincts are emphasized. Erik Erikson is an ego psychologist. Ego psychologists",
     "options": [
-      "Food provision — monkeys bonded to whichever surrogate provided milk",
-      "Contact comfort — monkeys preferred the terry-cloth mother even when it provided no milk",
-      "Classical conditioning — monkeys learned to associate milk with the wire mother",
-      "Visual imprinting — monkeys followed the first object they saw after birth"
+      "emphasize id processes.",
+      "refute the concept of the superego.",
+      "believe in man’s powers of reasoning to control behavior.",
+      "are sometimes known as radical behaviorists."
+    ],
+    "correct_index": 3,
+    "rationale": "Your first Rosenthal reminder: Psychodynamic theories focus on unconscious processes rather than cognitive factors when counseling clients. To say that the id is the bad boy of Freudian theory is to put it mildly! The id is the seat of sex and aggression. It is not rational or logical, and it is void of time orientation. The id is chaotic and concerned only with the body, not with the outside world. Freud emphasized the importance of the id, while Erikson stressed ego functions. The ego is logical, rational, and utilizes the power of reasoning and control to keep impulses in check. Simply put, ego psychologists, unlike the strict Freudians, accent the ego and the power of control. The term superego in choice “b” refers to the moralistic and idealistic portion of the personality. The behaviorists, mentioned in choice “d,” do not believe in concepts like the id, the ego, and the superego. In fact, radical behaviorists do not believe in mental constructs such as “the mind” nor do they believe in consciousness. The behaviorist generally feels that if it can’t be measured then it doesn’t exist."
+  },
+  {
+    "id": "ch03_q_3",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) The only psychoanalyst who created a developmental theory which encompasses the entire life span was",
+    "options": [
+      "Erik Erikson.",
+      "Milton H. Erickson.",
+      "A. A. Brill.",
+      "Jean Piaget, who created the four stage theory."
+    ],
+    "correct_index": 3,
+    "rationale": "In Freudian theory, the final stage (i.e., the genital stage) begins at age 12 and is said to continue throughout one’s life span. Many scholars do not feel that Freud’s theory truly covers the entire life span. They find it difficult to believe that a crisis at age 12 remains the central issue until senility sets in! Erik Erikson, also a psychoanalyst and a disciple of Freud’s, created a theory with eight stages in which each stage represents a psychosocial crisis or a turning point. Since the final stage does not even begin until age 60, most personality theorists believe that his theory actually covers the entire life of an individual. As for the other choices, Brill is analytic and will be discussed in the section on career theory. Milton H. Erickson, not to be confused with Erik Erikson, has a “c” in his name and is generally associated with brief psychotherapy and innovative techniques in hypnosis. Jean Piaget is the leading name in cognitive development in children. His four-stage cognitive development theory is based on epigenesis or the notion that successfully completing a previous stage is necessary for the stages that transpire next."
+  },
+  {
+    "id": "ch03_q_4",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) The statement “the ego is dependent on the id” would most likely reflect the work of",
+    "options": [
+      "Erik Erikson.",
+      "Sigmund Freud, who created psychodynamic theory.",
+      "Jay Haley.",
+      "Arnold Lazarus, William Perry, and Robert Kegan."
     ],
     "correct_index": 1,
-    "rationale": "Harlow's key finding: infant monkeys overwhelmingly preferred the terry-cloth surrogate mother (contact comfort) even when the wire mother dispensed milk. This challenged the behaviorist view that attachment is based on food reinforcement. The 165-day experiment showed monkeys spent 16 hours/day with terry-cloth, only 1.5 hours with wire mother. Visual imprinting (D) is Lorenz's work with goslings, not Harlow's monkeys. Distractor: Classical conditioning (C) is tempting because behaviorists would predict milk = bonding, but Harlow disproved this."
+    "rationale": "In Freudian theory the id is also called the pleasure principle and houses the animalistic instincts. The ego, which is known as the reality principle, is pressured by the id to succumb to pleasure or gratification regardless of consequences. Erik Erikson, an ego psychologist, would not emphasize the role of the id, but rather the power of control or the ego. Jay Haley is known for his work in strategic and problem-solving therapy, often utilizing the technique of paradox. He claims to have acquired a wealth of information by studying the work of Milton H. Erickson, who is mentioned in the previous question. Arnold Lazarus is considered a pioneer in the behavior therapy movement, especially in regard to the use of systematic desensitization, a technique which helps clients cope with phobias. Today his name is associated with multimodal therapy. Exam hint: (Throughout this text I will be giving you a wealth of exam hints. In fact, this edition contains considerably more exam hints than any earlier edition. These hints will often espouse concepts that go beyond merely answering the question because I have this uncanny notion that the extra information can boost your exam score. On occasion, I will repeat myself (often using a different explanation) because the concept is a tad fuzzy to grasp or just to make certain it won’t appear to be a foreign language if the material is presented in a unique manner on the exam. Okay, enough filibustering, time for the first hint). Robert Perry is known for his ideas related to adult cognitive development; especially regarding college students. For exam purposes I would commit to memory the fact that Perry stresses a concept known as dualistic thinking common to teens in which things are conceptualized as good or bad or right and wrong. Dualism has also been referred to as black and white thinking with virtually no ambiguity. Noted counseling author Ed Neukrug shares the fact that students in this stage assume that a professor has “the answer.” As they enter adulthood and move into relativistic thinking the individual now has the ability to perceive that not everything is right or wrong, but an answer can exist relative to a specific situation. In essence there is more than one way to view the world. Finally, Robert Kegan is another well-known figure in the area of adult cognitive development. Kegan’s model stresses interpersonal development. Kegan’s theory is billed as a “constructive model of development, meaning that individuals construct reality throughout the life span.”"
   },
   {
-    "id": "ch03_q_009",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_5",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "A school counselor is working with a group of students at different grade levels. Research suggests that peer conformity pressure is HIGHEST for which group?",
+    "question": "Jean Piaget’s idiographic approach created his theory with four stages. The correct order from stage 1 to stage 4 is",
     "options": [
-      "A group of 19-year-old college freshmen",
-      "A group of 13-year-old middle school students",
-      "A group of 17-year-old high school seniors",
-      "A group of 10-year-old elementary students"
-    ],
-    "correct_index": 1,
-    "rationale": "Research consistently shows conformity peaks in early adolescence (approximately age 13). Middle school students are the most susceptible to peer conformity pressure. College students (A) and high school seniors (C) have moved past the peak. Elementary students (D) are younger and less socially comparison-focused. Distractor: High school seniors (C) are tempting because adolescence is generally associated with peer pressure, but the peak is specifically early adolescence."
-  },
-  {
-    "id": "ch03_q_010",
-    "domain": "Human Growth & Development",
-    "chapter": 3,
-    "question": "Konrad Lorenz allowed newly hatched goslings to follow him around instead of their mother. The goslings then bonded with Lorenz. This phenomenon BEST illustrates:",
-    "options": [
-      "Operant conditioning — the goslings were reinforced for following Lorenz",
-      "The zone of proximal development",
-      "Imprinting during a critical period",
-      "Contact comfort as the basis of attachment"
+      "formal operations, concrete operations, preoperations, sensorimotor.",
+      "formal operations, preoperations, concrete operations, sensorimotor.",
+      "sensorimotor, preoperations, concrete operations, formal operations.",
+      "concrete operations, sensorimotor, preoperations, formal operations."
     ],
     "correct_index": 2,
-    "rationale": "Imprinting is an instinctual behavior in which newborn animals follow the first moving object they encounter (normally the mother). It occurs during a critical period — a time-limited window when the behavior must be learned or it cannot be learned at all. Lorenz demonstrated this by substituting himself as the first moving object. Contact comfort (D) is Harlow's concept. Zone of proximal development (B) is Vygotsky's concept about learning with guidance."
+    "rationale": "Idiographic approaches to theories such as Freud and Piaget examine individuals (not groups of people) in depth. Idiographic theories can be contrasted with nomothetic approaches such as behaviorism or the DSM where large numbers of people are studied to create general principles that apply to the population. Onward! Piaget was adamant that the order of the stages remains the same for any culture, although the age of the individual could vary. It is time for your first memory device. It would make sense that Piaget’s first stage emphasizes the senses and the child’s motoric skills, hence the name sensorimotor stage. I can remember the last stage by reminding myself that people seem to be more formal as they get older. The final stage is of course formal operations. As for the other two stages, the stage with “pre” (i.e., preoperations) must come before the remaining stage which is concrete operations. Do not automatically assume that my memory devices will be the best ones for you. Instead, experiment with different ideas. The memory strategies presented here are simply ones which my students and I have found helpful."
   },
   {
-    "id": "ch03_q_011",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_6",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "A 40-year-old male client comes to counseling expressing a sense of emptiness, questioning whether his career and family choices were meaningful, and feeling like 'time is running out.' According to developmental theory, this client is MOST likely experiencing:",
+    "question": "Some behavioral scientists have been critical of Swiss child psychologist Jean Piaget’s developmental research inasmuch as",
     "options": [
-      "Erikson's Stage 5: Identity vs Role Confusion",
-      "A midlife crisis as described by Levinson",
-      "Kohlberg's postconventional moral crisis",
-      "Piaget's disequilibrium in formal operations"
+      "he utilized the t test too frequently.",
+      "he failed to check for Type I or alpha errors.",
+      "he worked primarily with minority children.",
+      "his findings were often derived from observing his own children."
+    ],
+    "correct_index": 3,
+    "rationale": "Piaget was trained as a biologist and then worked with Alfred Binet in France. Binet created the first intelligence test. Piaget’s research methods, though very innovative, could be classified as informal ones. He sometimes utilized games and interviews. Who were his subjects? Well, often they were Lucienne, Laurent, and Jaqueline: his own children. Some researchers have been critical of his methods. Answer choice “a” is incorrect, as a t test is a parametric statistical test used in formal experiments to determine whether there is a significant difference between two groups. The “t” in t test should be written with a lower-case t and is technically utilized to ascertain if the means of the groups are significantly different from each other. When using the t test the groups must be normally distributed. Some books will refer to the t test as the Student’s t. Choice “b” will be discussed in much greater detail in the section on research and evaluation. This choice is incorrect inasmuch as Piaget generally did not rely on statistical experiments that would be impacted by type 1 or alpha errors."
+  },
+  {
+    "id": "ch03_q_7",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) A tall skinny pitcher of water is emptied into a small squatty pitcher. A child indicates that she feels the small pitcher has less water. The child has not yet mastered",
+    "options": [
+      "symbolic schema.",
+      "conservation.",
+      "androgynous psychosocial issues.",
+      "trust versus mistrust."
     ],
     "correct_index": 1,
-    "rationale": "Levinson's research found that 80% of men experience a moderate to severe midlife crisis, typically between ages 35–45. This client's age, questioning of life choices, and sense of urgency about time are classic midlife crisis features. Levinson viewed this as potentially positive — avoiding it can lead to stagnation in the 50s. Identity vs Role Confusion (A) is adolescence. Distractor: Erikson's Generativity vs Stagnation (not listed) also covers this age range — Levinson's midlife crisis overlaps with Erikson's Stage 7."
+    "rationale": "This is a must-know principle for any major test in counseling! In Piaget’s theory the term conservation refers to the notion that a substance’s weight, mass, and volume remain the same even if it changes shape. According to Piaget, the child masters conservation and the concept of reversibility during the concrete operations stage (ages 7–11 years). Now here is a super memory device. Both conservation and the ability to count mentally (i.e., without matching something up to something else physically) both occur in the concrete operational thought stage. Fortunately, conservation, counting, and concrete operations all start with a “c.” How convenient! And you thought memorizing these principles was going to be difficult. The other answer choices are ridiculous, and that’s putting it mildly. In Piaget’s theory, symbolic schema is a cognitive structure that grows with life experience. A schema is merely a system which permits the child to test out things in the physical world. Choice “c,” androgynous, is a term which implies that humans have characteristics of both sexes. (The Greek word andros means man while the Greek word for women is gyne.) And, of course, by now you know that trust versus mistrust is Erikson’s first psychosocial stage."
   },
   {
-    "id": "ch03_q_012",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_8",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "A counselor asks a client who recently lost his job about his childhood relationship with his parents. The client becomes tearful and says he feels 'just like that helpless kid again.' The Freudian concept BEST describing this return to earlier behavior is:",
+    "question": "In Piagetian literature, conservation would most likely refer to",
     "options": [
-      "Fixation",
-      "Transference",
-      "Regression",
-      "Repression"
+      "volume or mass.",
+      "defenses of the ego.",
+      "the sensorimotor intelligence stage.",
+      "a specific psychosexual stage of life."
     ],
-    "correct_index": 2,
-    "rationale": "Regression is returning to an earlier developmental stage under stress — the person had progressed past that stage but retreats to it when overwhelmed. Fixation (A) is getting stuck in a stage and never fully moving past it — distinct from regression. Transference (B) involves projecting feelings about past relationships onto the counselor. Repression (D) is unconsciously blocking painful memories from consciousness. Distractor: Fixation (A) is very frequently confused with regression; the key distinction is that fixation means never leaving, regression means returning after having left."
+    "correct_index": 3,
+    "rationale": "If you missed this question go back to square one! The answer given for question 7 clearly explains this principle. Again, a child who has not mastered conservation does not think in a very flexible manner. A child, for example, is shown a pie cut into two pieces. Next, the same pie is cut into 10 pieces. If the child has not mastered conservation he or she will say that the pie that is now cut into 10 pieces is bigger than when it was cut into just two pieces. You can’t fool a child who has mastered conservation, however. This child will know that the pie has not changed in volume and mass. In general, the statistical research of David Elkind supports Piaget’s notions regarding conservation. Piaget and Elkind report that mass is the first and most easily understood concept. The mastery of weight is next, and finally the notion of volume can be comprehended. (A good memory device might be MV, such as in most valuable player. The “M,” or mass, will come first and the “V,” or volume, will be the final letter. The “W,” or weight, can be squeezed in-between.)"
   },
   {
-    "id": "ch03_q_013",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_9",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "A client presents with chronic alcoholism and a pack-a-day smoking habit. From a Freudian perspective, this client would MOST likely be conceptualized as:",
+    "question": "(a) A child masters conservation in the Piagetian stage known as",
     "options": [
-      "Fixated at the anal stage",
-      "Fixated at the oral stage",
-      "Fixated at the phallic stage",
-      "Regressed to the latency stage"
+      "formal operations—12 years and older.",
+      "concrete operations—ages 7–11 years.",
+      "preoperations—ages 2–7 years.",
+      "sensorimotor intelligence—birth to 2 years."
+    ],
+    "correct_index": 3,
+    "rationale": "Remember your memory device: conservation begins with a “c” and so does concrete operations. The other three stages proposed by Jean Piaget do not begin with a “c.”"
+  },
+  {
+    "id": "ch03_q_10",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) ________ expanded on Piaget’s conceptualization of moral development.",
+    "options": [
+      "Erik Erikson",
+      "Lev Vygotsky",
+      "Lawrence Kohlberg",
+      "John B. Watson"
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “b” provides another key name. Vygotsky disagreed with Piaget’s notion that developmental stages take place naturally. Vygotsky insisted that the stages unfold due to educational intervention. Kohlberg (the correct answer) is perhaps the leading theorist in moral development. Kohlberg used stories to determine the level of moral development in children. Kohlberg’s, Erikson’s, and Maslow’s theories are said to be epigenetic in nature. Epigenetic is a biological term borrowed from embryology. This principle states that each stage emerges from the one before it. The process follows a given order and is systematic. Recently, the definition has focused on the fact that environmental factors can influence genetic expression. Watson, choice “d,” is the father of American behaviorism and coined the term behaviorism in 1912."
+  },
+  {
+    "id": "ch03_q_11",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) According to Jean Piaget, a child masters the concept of reversibility in the third stage, known as concrete operations or concrete operational thought. This notion suggests",
+    "options": [
+      "that heavier objects are more difficult for a child to lift.",
+      "the child is ambidextrous.",
+      "the child is more cognizant of mass than weight.",
+      "one can undo an action, hence an object (say a glass of water) can return to its initial shape."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “d” is the definition of reversibility. The word ambidextrous, in choice “b,” refers to an individual’s ability to use both hands equally well to perform tasks."
+  },
+  {
+    "id": "ch03_q_12",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) During a thunderstorm, a 6-year-old child in Piaget’s stage of preoperational thought (stage 2) says, “The rain is following me.” This is an example of",
+    "options": [
+      "egocentrism.",
+      "conservation.",
+      "centration.",
+      "abstract thought."
+    ],
+    "correct_index": 3,
+    "rationale": "Expect to see a question on the test like this one and you can’t go wrong. This is the typical or prototype question you will come across in order to ascertain whether you are familiar with the Piagetian concept of egocentrism. By egocentrism, Piaget was not really implying the child is selfcentered. Instead, egocentrism conveys the fact that the child cannot view the world from the vantage point of someone else. Choice “d” mentions abstract thought, which does not occur until Piaget’s final or fourth stage known as formal operations."
+  },
+  {
+    "id": "ch03_q_13",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) Lawrence Kohlberg suggested",
+    "options": [
+      "a single level of morality.",
+      "two levels of morality.",
+      "three levels of morality.",
+      "preoperational thought as the basis for all morality."
+    ],
+    "correct_index": 3,
+    "rationale": "Kohlberg’s theory has three levels of moral development: the preconventional, conventional, and postconventional (the latter is referred to in some texts as the personal integrity or morality of selfaccepted principles level). Each level can be broken down further into two stages."
+  },
+  {
+    "id": "ch03_q_14",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "The Heinz dilemma is to Kohlberg’s theory as",
+    "options": [
+      "a brick is to a house.",
+      "Freud is to Jung. (c)",
+      "the Menninger Clinic is to biofeedback.",
+      "a typing test is to the level of typing skill mastered."
+    ],
+    "correct_index": 3,
+    "rationale": "This is your first chance to wrestle with an analogy-type question. The Heinz dilemma is one method used by Lawrence Kohlberg to assess the level and stage of moral development in an individual. The story goes like this: A woman in Europe was dying of cancer. Only one drug (a form of radium) could save her. It was discovered by a local druggist. The druggist was charging $2,000, which was ten times his cost to make the drug. The woman’s husband, Heinz, could not raise the money and even if he borrowed from his friends, he could only come up with approximately half the sum. He asked the druggist to reduce the price or let him pay the bill later since his wife was dying but the druggist said, “No.” The husband was thus desperate and broke into the store to steal the drug. Should the husband have done that? Why? The individual’s reason for the decision (rather than the decision itself) allowed Kohlberg to evaluate the person’s stage of moral development. In short, the reasoning utilized to solve a moral dilemma such as the Heinz dilemma could be used to assess moral development. Kohlberg’s stages and levels are said to apply to all persons and not merely to those living in the U.S. Thus, it is evident that the Heinz dilemma is most like choice “d,” a typing test. C. G. Jung, mentioned in choice “b,” is the father of analytic psychology. Freud is the father of psychoanalysis. And lastly, the Menninger Psychiatric Clinic is a traditional psychoanalytic foothold as well as the site of landmark work in the area of biofeedback, which is a technique utilized to help individuals learn to control bodily processes more effectively using electronic devices. And, oh yes, before you go out and have a good cry, let me emphasize that the story of Heinz is fictional and simply used as a research tool."
+  },
+  {
+    "id": "ch03_q_15",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) The term identity crisis comes from the work of",
+    "options": [
+      "counselors who stress RS involvement issues with clients.",
+      "Erikson.",
+      "Adler.",
+      "Jung."
     ],
     "correct_index": 1,
-    "rationale": "The oral stage (birth–1yr) involves the mouth as the primary source of gratification. Excessive oral behavior in adulthood (alcohol, smoking, overeating) is interpreted as fixation at the oral stage. The anal stage (A) produces stinginess/orderliness. The phallic stage (C) produces issues around sexuality and gender identity. Latency (D) is the stage least focused on sexuality — a regression there wouldn't explain mouth-focused behaviors."
+    "rationale": "Let’s deal with choice “a” first, although it is incorrect. RS in our field means religious and spiritual. Addressing RS issues in counseling has increased in the last several years. In fact, the number of counselors who consider themselves spiritual (though not necessarily religious) is also climbing. RS factors are often examined by counselors who are attempting to integrate the practice of “positive psychology” into their work. Positive psychology is hot right now and I suspect you could see a question about it on your exam. The term, coined by Abraham Maslow and popularized by learned helplessness syndrome pioneer Martin Seligman, refers to the study of human strengths such as joy, wisdom, altruism, the ability to love, happiness, and wisdom. Keep in mind that I use the correct as well as correct answers to teach you key material. Now back to the correct answer for this question: Erik Erikson (b) felt that, in an attempt to find out who they really are, adolescents will experiment with various roles. Choice “c” refers to another name you should know, Alfred Adler, the founder of individual psychology, which stresses the inferiority complex."
   },
   {
-    "id": "ch03_q_014",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_16",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "Lev Vygotsky disagreed with Piaget primarily because Vygotsky believed that:",
+    "question": "Kohlberg’s three levels of morality are",
     "options": [
-      "Children can skip developmental stages when highly intelligent",
-      "Moral development is more important than cognitive development",
-      "Developmental stages are driven by educational intervention, not natural biological unfolding",
-      "The zone of proximal development applies only to adolescents"
+      "preconventional, conventional, postconventional.",
+      "formal, preformal, self-accepted.",
+      "self-accepted, other directed, authority directed.",
+      "preconventional, formal, authority directed."
+    ],
+    "correct_index": 3,
+    "rationale": "In the preconventional level the child responds to consequences. In this stage reward and punishment (i.e., selfish motives) greatly influence the behavior. In the conventional level the individual wants to meet the standards of the family, society, and even the nation. Kohlberg felt that many people never reach the final level of postconventional or self-accepted morality. A person who reaches this level is concerned with universal, ethical principles of justice, dignity, and equality of human rights. Kohlberg’s research indicated that under 40% of his middle-class urban males had reached the postconventional level. Ghandi, Socrates, and Martin Luther King Jr. have been cited as examples of individuals who have reached this level, in which the common good of society is a key issue."
+  },
+  {
+    "id": "ch03_q_17",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) Trust versus mistrust is",
+    "options": [
+      "an Adlerian notion of morality.",
+      "Erikson’s first stage of psychosocial development.",
+      "essentially equivalent to Piaget’s concept of egocentrism.",
+      "the basis of morality according to Kohlberg."
+    ],
+    "correct_index": 3,
+    "rationale": "Erik Erikson proposed eight stages in the formation of the ego identity and this is the first. This stage corresponds to Freud’s initial oral-sensory stage (birth to approximately 1 year). Each of Erikson’s stages is described using bipolar or opposing tendencies. Although Jean Piaget and Erikson are the most prominent stage theorists, you should also become familiar with the work of Harry Stack Sullivan, who postulated the stages of infancy, childhood, the juvenile era, preadolescence, early adolescence, and late adolescence. Sullivan’s theory, known as the psychiatry of interpersonal relations, is similar to Erikson’s theory in that biological determination is seen as less important than interpersonal issues and the sociocultural demands of society. Again, Sullivan focuses on social influences."
+  },
+  {
+    "id": "ch03_q_18",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) A person who has successfully mastered Erikson’s first seven stages would be ready to enter Erikson’s final or eighth stage,",
+    "options": [
+      "generativity versus stagnation.",
+      "initiative versus guilt.",
+      "identity crisis of the later years.",
+      "integrity versus despair."
+    ],
+    "correct_index": 3,
+    "rationale": "Each stage is seen as a psychosocial crisis or a turning point. Erik Erikson did not imply that the person either totally succeeds or fails. Instead, he says that the individual leans toward a given alternative (e.g., integrity or despair). The final stage begins at about age 60. An individual who has successfully mastered all the stages feels a sense of integrity in the sense that his or her life has been worthwhile."
+  },
+  {
+    "id": "ch03_q_19",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "In Kohlberg’s first or preconventional level, the individual’s moral behavior is guided by",
+    "options": [
+      "psychosexual urges.",
+      "consequences.",
+      "periodic fugue states.",
+      "counterconditioning."
+    ],
+    "correct_index": 3,
+    "rationale": "In the consequences stage (called premoral), an M&M, treat, or removal of a favorite toy is more important than societal expectations and the law. In choice “c” the term fugue state refers to an individual who experiences memory loss (amnesia) and leaves home, often with the intention of changing his or her job and identity. What does this have to do with answering the question regarding Lawrence Kohlberg, you ask? Nothing, that’s decidedly why it’s the wrong answer! In choice “d” you are confronted with the word counterconditioning. This is a behavioristic technique in which the goal is to weaken or eliminate a learned response by pairing it with a stronger or desirable response. Systematic desensitization is a good example, but more on that later."
+  },
+  {
+    "id": "ch03_q_20",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) Kohlberg’s second level of morality is known as conventional morality. This level is characterized by",
+    "options": [
+      "psychosexual urges.",
+      "a desire to live up to society’s expectations.",
+      "a desire to conform.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "At the conventional level the individual wishes to conform to the roles in society so that authority and social order can prevail. Kohlberg felt that attempts to upgrade the morals of our youth have failed and he has referred to some character-building education programs as “Mickey Mouse stuff!”"
+  },
+  {
+    "id": "ch03_q_21",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) Kohlberg’s highest level of morality is termed postconventional morality. Here the individual",
+    "options": [
+      "must truly contend with psychosexual urges.",
+      "has the so-called “good boy/good girl” orientation.",
+      "has self-imposed morals and ethics.",
+      "a and b."
     ],
     "correct_index": 2,
-    "rationale": "Vygotsky's core disagreement with Piaget was that cognitive development doesn't simply unfold naturally/biologically — it is driven by social interaction and educational intervention. The Zone of Proximal Development illustrates this: what a child can do with guidance is the frontier of development. Piaget believed stages were biologically programmed to unfold in sequence. Vygotsky believed teaching accelerates development. Distractor: Skipping stages (A) would contradict both theorists — both believed stages are sequential."
+    "rationale": "Only one answer is correct here, folks. Postconventional morality is the highest level where the individual creates his or her own moral principles rather than those set by society or family. It has been called a prior to society perspective. Choice “a” reflects the Freudian theory, while choice “b” is stage 3 of Kohlberg’s theory, which occurs at the conventional level. In the “good boy/good girl orientation” the person is concerned with approbation and the ability to please others in order to achieve recognition."
   },
   {
-    "id": "ch03_q_015",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_22",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "A parent tells a counselor, 'I never punish my son — I want him to have high self-esteem.' Based on Coopersmith's research, which response is MOST accurate?",
+    "question": "According to Lawrence Kohlberg, level 3, which is postconventional or self-accepted moral principles, 57",
     "options": [
-      "The parent's approach is supported by research — consistent absence of punishment raises self-esteem",
-      "Research supports punishment only when using positive reinforcement simultaneously",
-      "High self-esteem is actually correlated with clear rules and discipline, with punishment focused on the behavior rather than the child",
-      "Self-esteem is primarily determined by genetics and is unaffected by parenting style"
+      "refers to the naive hedonism stage.",
+      "operates on the premise that rewards guide morals.",
+      "a and b.",
+      "is the highest level of morality. However, some people never reach this level."
+    ],
+    "correct_index": 3,
+    "rationale": "Hedonism mentioned in choice “a” occurs in stage 2 of the preconventional level. Here the child says to himself, “If I’m nice others will be nice to me and I’ll get what I want.” Choice “b” actually refers to the first stage of the preconventional level, which is the punishment versus obedience orientation."
+  },
+  {
+    "id": "ch03_q_23",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) The zone of proximal development",
+    "options": [
+      "was pioneered by Lev Vygotsky.",
+      "was pioneered by Jean Piaget and Lawrence Kohlberg.",
+      "emphasized organ inferiority.",
+      "a, b, and c."
+    ],
+    "correct_index": 3,
+    "rationale": "The zone of proximal development describes the difference between a child’s performance without a teacher versus that which he or she is capable of with an instructor, and was pioneered by Vygotsky. In choice “c” the concept of organ inferiority is mentioned. This term is primarily associated with the work of Alfred Adler, who created individual psychology."
+  },
+  {
+    "id": "ch03_q_24",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) Freud and Erikson",
+    "options": [
+      "could be classified as behaviorists.",
+      "could be classified as maturationists.",
+      "agreed that developmental stages are psychosexual.",
+      "were prime movers in the dialectical behavior therapy or DBT movement."
+    ],
+    "correct_index": 3,
+    "rationale": "In the behavioral sciences, the concept of the maturation hypothesis (also known as the maturation theory) suggests that behavior is guided exclusively via hereditary factors, but that certain behaviors will not manifest themselves until the necessary stimuli are present in the environment. In addition, the theory suggests that the individual’s neural development must be at a certain level of maturity for the behavior to unfold. A counselor who believes in this concept strives to unleash inborn abilities, instincts, and drives. The client’s childhood and the past are seen as important therapeutic topics. In reference to choice “d” DBT focuses heavily on mindfulness (being aware of your own state of mind and the environment) and was created by Marsha M. Linehan and is useful for clients harboring feelings of self-harm and suicide. It is also useful with substance abuse issues."
+  },
+  {
+    "id": "ch03_q_25",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "John Bowlby, the British psychiatrist, is most closely associated with",
+    "options": [
+      "the work of psychologist and pediatrician, Arnold Gesell, a maturationist.",
+      "developmental stage theories.",
+      "bonding and attachment. (b)",
+      "the unconscious mind."
+    ],
+    "correct_index": 3,
+    "rationale": "Arnold Gesell was a pioneer in terms of using a one-way mirror for observing children. Maturationists such as Gesell feel that development is primarily determined via genetics/heredity. Hence, a child must be ready before he or she can accept a certain level of education (e.g., kindergarten). Bowlby’s name starts with a “B,” as does the word bonding. Aren’t memory devices wonderful? John Bowlby saw bonding and attachment as having survival value, or what is often called adaptive significance. Bowlby insisted that in order to lead a normal social life the child must bond with an adult before the age of 3. If the bond is severed at an early age, it is known as “object loss,” and this is said to be the breeding ground for abnormal behavior, or what is often called psychopathology. Margaret Mahler calls the child’s absolute dependence on the female caretaker “symbiosis.” Difficulties in the symbiotic relationship can result in adult psychosis. Mahler’s theory is known as separation-individual theory of child development."
+  },
+  {
+    "id": "ch03_q_26",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) In which Eriksonian stage does the midlife crisis occur?",
+    "options": [
+      "Generativity versus stagnation.",
+      "Integrity versus despair.",
+      "a and b.",
+      "Erikson’s stages do not address midlife issues."
+    ],
+    "correct_index": 0,
+    "rationale": "Most theorists believe that the midlife crisis occurs between ages 35 and 45 for men and about five years earlier for women, when the individual realizes his or her life is half over. Persons often need to face the fact that they have not achieved their goals or aspirations. Incidentally, the word generativity refers to the ability to be productive and happy by looking outside one’s self and being concerned with other people. Some exams may refer to this stage as “generativity versus self-absorption.” Daniel Levinson, who wrote Seasons of a Man’s Life and Seasons of a Woman’s Life, viewed the midlife crisis as somewhat positive, pointing out that individuals who do not face it may indeed stagnate or become stale during their fifties. In other words, avoiding or bypassing the crisis can lead to lack of vitality in later years."
+  },
+  {
+    "id": "ch03_q_27",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "The researcher who is well known for his work with maternal deprivation and isolation in rhesus monkeys is",
+    "options": [
+      "Harry Harlow.",
+      "John Bowlby.",
+      "Lawrence Kohlberg.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Harlow’s work is now well-known in the social sciences. Harlow believed that attachment was an innate tendency and not one which is learned. Monkeys placed in isolation developed autistic abnormal behavior. When these monkeys were placed in cages with normally reared monkeys some remission of the dysfunctional behavior was noted. Evidence that this is true in man comes from the work of René Spitz, who noted that children reared in impersonal institutions (and hence experienced maternal deprivation between the sixth and eighth months of life) cried more, experienced difficulty sleeping, and had more health-related difficulties. Spitz called this “anaclitic depression.” These infants would ultimately experience great difficulty forming close relationships."
+  },
+  {
+    "id": "ch03_q_28",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) The statement: “Males are better than females when performing mathematical calculations” is",
+    "options": [
+      "false.",
+      "true due to genetics.",
+      "true only in middle-aged men.",
+      "true according to research by Eleanor Maccoby and Carol Jacklin."
+    ],
+    "correct_index": 3,
+    "rationale": "Maccoby and Jacklin reviewed the literature and found very few differences that could be attributed to genetics and biological factors. The literature suggests that, where males outperformed females in mathematics, they did not do so until high school or perhaps college. Thus, the major impetus for sexrole differences may come from child-rearing patterns rather than bodily chemistry."
+  },
+  {
+    "id": "ch03_q_29",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) The Eriksonian stage that focuses heavily on sharing your life with another person is",
+    "options": [
+      "actually the major theme in all of Erikson’s eight stages.",
+      "generativity versus stagnation—ages 35–60 years.",
+      "intimacy versus isolation—ages 23–34 years.",
+      "a critical factor which Erikson fails to mention."
+    ],
+    "correct_index": 3,
+    "rationale": "If you didn’t know the answer, did you guess? Yes, of course I’m being serious. Remember no penalty is assessed for guessing on the NCE/CPCE. An educated guess based on the fact that intimacy implies sharing one’s life would have landed you a correct answer here. Counselors need to be aware that an individual who fails to do well in this stage may conclude that he or she can depend on no one but the self."
+  },
+  {
+    "id": "ch03_q_30",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) We often refer to individuals as conformists. Which of these individuals would most likely conform to his or her peers?",
+    "options": [
+      "A 19-year-old male college student.",
+      "A 23-year-old male drummer in a rock band.",
+      "A 57-year-old female stockbroker.",
+      "A 13-year-old male middle school student."
+    ],
+    "correct_index": 3,
+    "rationale": "Conformity seems to peak in the early teens."
+  },
+  {
+    "id": "ch03_q_31",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) In Harry Harlow’s experiments with baby monkeys",
+    "options": [
+      "a wire surrogate mother was favored by most young monkeys over a terry-cloth version.",
+      "the baby monkey was more likely to cling to a terry-cloth surrogate mother than a wire surrogate mother. 60",
+      "female monkeys had a tendency to drink large quantities of alcohol.",
+      "male monkeys had a tendency to drink large quantities of alcohol."
+    ],
+    "correct_index": 3,
+    "rationale": "Infant monkeys preferred the terry-cloth mothers to wire mothers even though the wire mothers were equipped to dispense milk. Harlow concluded that “contact comfort” is important in the development of the infant’s attachment to his or her mother. A 165-day experiment revealed that the monkeys were spending an average of 1.5 hours per day with the wire mother and 16 hours with the terry-cloth mother. John Bowlby, mentioned previously, would say that in humans the parents act as a “releaser stimulus” to elicit relief from hunger and tension through holding."
+  },
+  {
+    "id": "ch03_q_32",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) Freud postulated the psychosexual stages:",
+    "options": [
+      "id, ego, and superego.",
+      "oral, anal, phallic, latency, and genital.",
+      "eros, thanatos, regression, and superego.",
+      "manifest, latent, oral, and phallic."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” depicts Freud’s structural theory of the mind as being composed of the id, the ego, and the superego. In choice “c” the word eros refers to the Freudian concept of the life instinct while thanatos refers to the self-destructive death instinct. Analysis is just brimming with verbiage borrowed from Greek mythology. The term regression is used to describe clients who return to an earlier stage of development. In choice “d” you should familiarize yourself with the terms manifest and latent, which in psychoanalysis refer to the nature of a dream. Manifest content describes the dream material as it is presented to the dreamer. Latent content (which is seen as far more important by the Freudians) refers to the hidden meaning of the dream."
+  },
+  {
+    "id": "ch03_q_33",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) In adolescence",
+    "options": [
+      "females commit suicide more than males.",
+      "suicide is a concern but statistically very rare.",
+      "the teens who talk about suicide are not serious.",
+      "males commit suicide more often than females, but females attempt suicide more often."
+    ],
+    "correct_index": 3,
+    "rationale": "Males commit suicide more often than females. This answer would apply not just to adolescence but to nearly all age brackets. One theory is that males are more successful in killing themselves because they use firearms whereas females rely on less lethal methods. Choice “b” is false inasmuch as suicide is generally the tenth or eleventh leading cause of death in the U.S. as well as the second or third leading killer of teens each year. And as far as choice “c” is concerned, a counselor should always take it seriously when a client of any age threatens suicide. The truth is that the vast majority of those who have killed themselves have communicated the intent to do so in some manner. So take clients’ suicide threats seriously. Have I made myself clear?"
+  },
+  {
+    "id": "ch03_q_34",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) In the general U.S. population 61",
+    "options": [
+      "the suicide rate is 2/100,000.",
+      "suicide occurs at the beginning of a depressive episode, but rarely after the depression lifts.",
+      "suicide rates tend to increase with age.",
+      "suicide occurs at the beginning of a depressive episode, but rarely after the depression lifts, and suicide rates tend to increase with age."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “b” is way off the mark. Suicidal clients often make attempts after the depression begins to lift! Official statistics indicate about 41,000 suicides each year in the United States. Suicidologists (and yes there is such a word!) believe that the actual number may be closer to 75,000 due to complications in accurately coding the cases. Choice “a” reflects the approximate suicide rate in African American females, which checks in as the lowest of any racial gender. The overall suicide rate in the United States in any given year is about 12/100,000. Interestingly enough, personality measures such as the MMPI-2 and the Rorschach are not good predictors of suicide or for that matter of suicide attempts. In essence, test profiles of suicidal individuals generally are not distinguishable from those of persons who are not suicidal."
+  },
+  {
+    "id": "ch03_q_35",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) The fear of death",
+    "options": [
+      "is greatest during middle age.",
+      "is an almost exclusively male phenomenon.",
+      "is the number one psychiatric problem in the geriatric years.",
+      "surprisingly enough occurs in the teen years."
+    ],
+    "correct_index": 3,
+    "rationale": "In Erikson’s stages the individual would accept the finality of life better during the final ego identity versus despair stage rather than in the middle-age years."
+  },
+  {
+    "id": "ch03_q_36",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) In Freudian theory, attachment is a major factor",
+    "options": [
+      "in the preconscious mind.",
+      "in the mind of the child in latency.",
+      "which evolves primarily during the oral age.",
+      "a and b."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “c” would make sense from a logical standpoint, because the oral stage is the first Freudian psychosexual stage and occurs while the child is still an infant (i.e., the stage goes from birth to 1 year). As mentioned earlier, attachments in human as well as animal studies indicate that the bonding process takes place early in life."
+  },
+  {
+    "id": "ch03_q_37",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) When comparing girls to boys, it could be noted that, in general",
+    "options": [
+      "girls grow up to smile more.",
+      "girls are using more feeling words by age 2.",
+      "girls are better able to read people without verbal cues at any age. 62",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Boys, on the other hand, are sometimes more physically active and aggressive."
+  },
+  {
+    "id": "ch03_q_38",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) The Freudian developmental stage which “least” emphasizes sexuality is",
+    "options": [
+      "oral.",
+      "anal.",
+      "phallic.",
+      "latency."
+    ],
+    "correct_index": 3,
+    "rationale": "Here’s an easy one. Remember how I mentioned in question 32 that the word latent refers to the hidden meaning of the dream? Well in the developmental stages the sexual drive seems hidden (or at least not very prominent) during latency. Sexual interests are replaced by social interests like sports, learning, and hobbies. Now this is very important: Latency is the only Freudian developmental stage which is not primarily psychosexual in nature. It occurs roughly between ages 6 and 12."
+  },
+  {
+    "id": "ch03_q_39",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) In terms of parenting young children",
+    "options": [
+      "boys are punished more than girls.",
+      "girls are punished more than boys.",
+      "boys and girls are treated in a similar fashion.",
+      "boys show more empathy toward others."
+    ],
+    "correct_index": 3,
+    "rationale": "Hint: Before you sit for the NCE/CPCE or written or oral boards, take a moment to review the major theories and research related to child rearing. Stanley Coopersmith, for example, found that childrearing methods seem to have a tremendous impact on self-esteem. A study he conducted indicated that, surprisingly enough, children with high self-esteem were punished just as often as kids with low self-esteem. The children with high self-esteem, however, were provided with a clear understanding of what was morally right and wrong. This was not usually the case in children with low self-esteem. The children with high self-esteem actually had more rules than the kids with low self-esteem. When the child with high self-esteem was punished the emphasis was on the behavior being bad and not the child. Parents of children with high self-esteem were more democratic in the sense that they would listen to the child’s arguments and then explain the purpose of the rules. The Coopersmith study utilized middle-class boys, aged 10–12."
+  },
+  {
+    "id": "ch03_q_40",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) When developmental theorists speak of nature or nurture they really mean",
+    "options": [
+      "how much heredity or environment interact to influence development.",
+      "that the focus is skewed in favor of biological attributes.",
+      "a and b.",
+      "a theory proposed by B. F. Skinner’s colleagues."
+    ],
+    "correct_index": 0,
+    "rationale": "In this question the word nature refers to heredity and genetic makeup, while nurture refers to the environment. The age-old argument is whether heredity or environment has the greatest impact on the person’s development. This is the old nature versus nurture or heredity versus environment controversy. Today theorists shy away from an extremist position and admit that both factors play a major role. Just for the record, choice “d” mentioned B. F. Skinner, who was the prime mover in the behavioristic psychology movement. Behaviorists, like Skinner, tend to emphasize the power of environment. Today, clinical applications of Skinnerian principles (and those set forth by other prominent behaviorists) are called ABA or applied behavior analysis."
+  },
+  {
+    "id": "ch03_q_41",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "Stage theorists assume",
+    "options": [
+      "qualitative changes between stages occur.",
+      "differences surely exist but usually can’t be measured.",
+      "that humanistic psychology is the only model which truly supports the stage viewpoint.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “b” is incorrect inasmuch as differences can often be measured. Just ask any behaviorist! Choice “c” makes no sense because analysts (who are not considered humanistic) such as Freud and Erikson have supported the stage theory viewpoint."
+  },
+  {
+    "id": "ch03_q_42",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) Development",
+    "options": [
+      "begins at birth.",
+      "begins during the first trimester of pregnancy.",
+      "is a continuous process which begins at conception.",
+      "a and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Developmental psychologists are fond of looking at prenatal influences (i.e., smoking or alcohol consumption) that affect the fetus before birth."
+  },
+  {
+    "id": "ch03_q_43",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) Development is cephalocaudal, which means",
+    "options": [
+      "foot to head.",
+      "head to foot.",
+      "limbs receive the highest level of nourishment.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "The head of the fetus develops earlier than the legs. Cephalocaudal simply refers to bodily proportions between the head and tail."
+  },
+  {
+    "id": "ch03_q_44",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) Heredity is the transmission of traits from parents to their offspring and",
+    "options": [
+      "assumes the normal person has 23 pairs of chromosomes.",
+      "assumes that heredity characteristics are transmitted by chromosomes.",
+      "assumes that genes composed of DNA hold a genetic code. 64",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Here is a vest-pocket definition of heredity (choices “a,” “b,” and “c). You should also be familiar with the term heritability, which is the portion of a trait that can be explained via genetic factors."
+  },
+  {
+    "id": "ch03_q_45",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) Piaget’s final stage is known as the formal operational stage. In this stage",
+    "options": [
+      "abstract thinking emerges.",
+      "problems can be solved using deduction.",
+      "a and b.",
+      "the child has mastered abstract thinking but still feels helpless."
+    ],
+    "correct_index": 3,
+    "rationale": "Again, unfortunately, Piaget felt a large number of individuals never really reach this stage; hence, the difficulty with subjects like algebra, physics, and geometry. Another characteristic of the formal operations stage is that the child can think in terms of multiple hypotheses. If you ask a child to answer a question such as, “Why did someone shoot the president?” a child who has mastered formal operations (approximately age 11 and beyond) will give several hypotheses while a child in the previous stages would most likely be satisfied with one explanation. For exam purposes, remember that abstract concepts of time (e.g., what was life like 500 years ago?) or distance (e.g., how far is 600 miles?) can only be comprehended via abstract thinking, which occurs in this stage. Answer “d” is incorrect inasmuch as Piaget felt that when the child eventually reached the final stage he or she would be ready for adulthood and would not experience child-like feelings of helplessness,"
+  },
+  {
+    "id": "ch03_q_46",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) Kohlberg lists ________ stages of moral development which fall into ________ levels.",
+    "options": [
+      "6; 3",
+      "6; 6",
+      "3; 6",
+      "3; 3"
+    ],
+    "correct_index": 3,
+    "rationale": "Here is a vest-pocket review of the stages and levels. Preconventional level with stage 1: punishment/obedience orientation and stage 2: naive hedonism (also called instrumental or egotistic) orientation. The entire first level is sometimes called the “premoral level.” Conventional level with stage 3: good boy/good girl orientation and stage 4: authority, law, and order orientation. This entire level is often known as “morality of conventional rules and conformity.” Postconventional level with stage 5: democratically accepted law or “social contract” and stage 6: principles of self-conscience and universal ethics. The last level is sometimes termed the “morality of self-accepted principles level.”"
+  },
+  {
+    "id": "ch03_q_47",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "A person who lives by his or her individual conscience and universal ethical principles",
+    "options": [
+      "has, according to Kohlberg, reached the highest stage of moral development.",
+      "is in the preconventional level.",
+      "is in the postconventional level of self-accepted moral principles. (a)",
+      "a and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Still confused? Review answer given in question 46."
+  },
+  {
+    "id": "ch03_q_48",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) Freud’s Oedipus complex (or Oedipus stage)",
+    "options": [
+      "is the stage in which fantasies of sexual relations with the opposite-sex parent occur.",
+      "occurs during the phallic stage.",
+      "a and b.",
+      "is a concept Freud ultimately eliminated from his theory."
+    ],
+    "correct_index": 3,
+    "rationale": "The Oedipus complex or phase is the most controversial part of Freud’s theory and choices “a” and “b” roughly describe it. The Oedipus complex—the boy’s secret wish to marry his mother, paired with rage toward his father—is said to occur between ages 3 and 5. Looking for a good memory device? Well here it is. The Oedipus complex occurs during the phallic stage and both words conveniently contain the letter “p.” Some tests may actually refer to this stage as the phallic–oedipal stage. Freud chose the name based on the Greek myth in which Oedipus, the mythical king of Thebes, unknowingly killed his father and married his mother."
+  },
+  {
+    "id": "ch03_q_49",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) In girls the Oedipus complex may be referred to as",
+    "options": [
+      "systematic desensitization.",
+      "covert desensitization.",
+      "in vivo desensitization.",
+      "the Electra complex."
+    ],
+    "correct_index": 3,
+    "rationale": "In the Oedipus complex in boys and the Electra complex in girls (grounded in the Greek myth of Electra), the female child fantasizes about sexual relations with the parent of the opposite sex. This creates tension since this is generally not possible. Hence the child is said to have a fantasy in which he or she wishes to kill the parent of the opposite sex. Freud went on to hypothesize that eventually the child identifies with the parent of the same sex. This leads to internalization of parental values, and thus the conscience or superego is born. As for choices “a,” “b,” and “c,” they are all behavioral terms and hence incorrect. The term covert in choice “b” refers to any psychological process which cannot be directly observed, while in choice “c” I introduce you to “in vivo,” which means the client is exposed to an actual situation which might prove frightful or difficult. The word desensitization refers to behavior therapy techniques that help to ameliorate anxiety reactions."
+  },
+  {
+    "id": "ch03_q_50",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "The correct order of the Freudian psychosexual or libidinal stages is:",
+    "options": [
+      "oral, anal, phallic, latency, and genital.",
+      "oral, anal, genital, phallic, and latency.",
+      "oral, phallic, latency, genital, and anal.",
+      "phallic, genital, latency, oral, and anal."
+    ],
+    "correct_index": 0,
+    "rationale": "(d) Freud is the father of psychoanalysis, which is the most comprehensive theory of personality and therapy ever devised. Libidinal merely means related to libido which is the sexual impulse or desire."
+  },
+  {
+    "id": "ch03_q_51",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "Eleanor Gibson researched the matter of depth perception in children by utilizing",
+    "options": [
+      "Piaget’s concept of conservation.",
+      "Erikson’s trust versus mistrust paradigm.",
+      "Piaget’s formal operations.",
+      "an apparatus known as a visual cliff."
+    ],
+    "correct_index": 3,
+    "rationale": "It seems no child development book is complete without a picture of an infant crawling toward an experimenter on a visual cliff. The visual cliff is a device which utilizes a glass sheet which simulates a drop-off. Interestingly enough, by the sixth month of life most infants will not attempt to cross the drop-off, thus indicating that depth perception in humans is inherent (i.e., an inborn or so-called innate trait). By approximately 8 months of age the child begins to show stranger anxiety, meaning that he or she can discriminate a familiar person from a person who is unknown."
+  },
+  {
+    "id": "ch03_q_52",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) Theorists who believe that development merely consists of quantitative changes are referred to as",
+    "options": [
+      "organismic theorists.",
+      "statistical developmentalists.",
+      "empiricists.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Empiricism grew out of the philosophy of John Locke in the 1600s and is sometimes referred to as associationism. According to this theory, scientists can learn only from objective facts. The word empiricism comes from the Greek word meaning experience. This philosophy adheres to the principle that experience is the source for acquiring knowledge. Remember that empiricism is often said to be the forerunner of behaviorism and you could pick up a point on the test you’ll be taking. Choice “a” mentions the organismic viewpoint, which is slanted toward qualitative rather than quantitative factors that can be measured empirically. Strictly speaking, organismic psychologists do not believe in a mind– body distinction. Since empiricists believe developmental changes can be measured and the organicists feel that change can be internal, the two views are sometimes said to be opposing viewpoints."
+  },
+  {
+    "id": "ch03_q_53",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) An empiricist view of development would be",
+    "options": [
+      "psychometric.",
+      "behavioristic.",
+      "against the use of formal statistical testing.",
+      "a and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Here again, the empiricist view is behavioristic. Using a little logic you can see that answer “c” is false inasmuch as some behaviorists have literally gone on record as saying, “if you can’t measure it then it doesn’t exist!” In case I still haven’t made myself clear, behavioristic empiricist researchers value statistical studies and emphasize the role of the environment. Organismic supporters feel the individual’s actions are more important than the environment in terms of one’s development."
+  },
+  {
+    "id": "ch03_q_54",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) In the famous experiment by Harry Harlow, frightened monkeys raised via cloth and wire mothers",
+    "options": [
+      "showed marked borderline personality traits.",
+      "surprisingly enough became quite friendly.",
+      "demonstrated a distinct lack of emotion.",
+      "ran over and clung to the cloth and wire surrogate mothers."
+    ],
+    "correct_index": 3,
+    "rationale": "When given the choice of two cloth-covered mothers—one that provided milk and one that did not— the infant monkeys chose the one that gave milk. In a later experiment, Harlow and a colleague discovered that a warm mother and a mother who rocked were superior to a cool mother or a mother who did not rock. Ultimately, Harlow discovered that contact was even more important than milk and that monkeys preferred terry-cloth mothers over wire-frame mothers even when both dispensed milk."
+  },
+  {
+    "id": "ch03_q_55",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "A theorist who views developmental changes as quantitative is said to be an empiricist. The antithesis of this position holds that developmental strides are qualitative. What is the name given to this position?",
+    "options": [
+      "Behaviorism.",
+      "Organicism.",
+      "Statistical developmentalism.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "The term organismic also has been used to describe gestalt psychologists, such as Kurt Goldstein, who emphasize a holistic model."
+  },
+  {
+    "id": "ch03_q_56",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) In Piaget’s developmental theory, reflexes play the greatest role in the",
+    "options": [
+      "sensorimotor stage.",
+      "formal operational stage.",
+      "preoperational stage.",
+      "acquisition of conservation."
+    ],
+    "correct_index": 3,
+    "rationale": "It would make sense that the child would use reflexes in the first stage, which is termed sensorimotor intelligence. Piaget has said that the term practical intelligence captures the gist of this stage. Piaget emphasized the concept of “object permanence” here. A child who is beyond approximately 8 months of age will search for an object that is no longer in sight (e.g., hidden behind a parent’s back or under a blanket). The child learns that objects have an existence even when the child is not interacting with them."
+  },
+  {
+    "id": "ch03_q_57",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) A mother hides a toy behind her back and a young child does not believe the toy exists anymore. The child has not mastered",
+    "options": [
+      "object permanence.",
+      "reflexive response.",
+      "representational thought.",
+      "a and c."
+    ],
+    "correct_index": 3,
+    "rationale": "The child who has not mastered object permanence is still a victim of “out of sight, out of mind.” The child, needless to say, needs representational thought to master object permanence, which is also called object constancy. During this initial stage the child learns the concept of time (i.e., that one event takes place before or after another) and causality (e.g., that a hand can move an object)."
+  },
+  {
+    "id": "ch03_q_58",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) The schema (i.e., a mental representation of the real world) of permanency and constancy of objects occurs in the",
+    "options": [
+      "sensorimotor stage—birth to 2 years.",
+      "preoperational stage—ages 2–7 years.",
+      "concrete operational stage—ages 7–12 years.",
+      "formal operational stage—12 years and beyond."
+    ],
+    "correct_index": 3,
+    "rationale": "It’s the sensorimotor stage. If you missed this question take a break; you’ve probably been studying too long! After a little rest and relaxation, review questions 56 and 57. Incidentally, around the second month of age the child begins to smile in response to a face or a mask that resembles a face."
+  },
+  {
+    "id": "ch03_q_59",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) John Bowlby has asserted that",
+    "options": [
+      "attachment is not instinctual.",
+      "attachment is best explained via the Skinnerian principle.",
+      "a and b.",
+      "conduct disorders and other forms of psychopathology can result from inadequate attachment and bonding in early childhood."
+    ],
+    "correct_index": 3,
+    "rationale": "Remember, Bowlby starts with a “b” and so does bonding. Bowlby, a British psychoanalyst, felt that mothers should be the primary caretakers, while the father’s role is to support the mother emotionally rather than nurturing the child himself. Although this view was well accepted when it was proposed in the early 1950s, most counselors probably would not agree with it today."
+  },
+  {
+    "id": "ch03_q_60",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) The Harlow experiments utilizing monkeys demonstrated that animals placed in isolation during the first few months of life",
+    "options": [
+      "still developed in a normal fashion.",
+      "still related very well with animals reared normally.",
+      "appeared to be autistic.",
+      "were fixated in concrete operational thought patterns."
+    ],
+    "correct_index": 3,
+    "rationale": "People with autism often have trouble communicating with others and forming close social bonds."
+  },
+  {
+    "id": "ch03_q_61",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) According to the Freudians, if a child is severely traumatized, he or she may ________ a given psychosexual stage.",
+    "options": [
+      "skip",
+      "become fixated at",
+      "ignore",
+      "a and c"
+    ],
+    "correct_index": 3,
+    "rationale": "Here is a must-know term for any major exam. In psychoanalytic theory the word fixation implies that the individual is unable to go from one developmental stage to the next. The person literally becomes stuck (or fixated) in a stage where he or she feels safe. Therefore, when life becomes too traumatic, emotional development can come to a screeching halt, although physical and cognitive processes may continue at a normal pace."
+  },
+  {
+    "id": "ch03_q_62",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) An expert who has reviewed the literature on videos and violence would conclude that",
+    "options": [
+      "watching violence tends to make children more aggressive.",
+      "watching violence tends to make children less aggressive.",
+      "reality TV shows or videos have no impact on a child’s behavior.",
+      "what adults see as violent, children perceive as caring."
+    ],
+    "correct_index": 3,
+    "rationale": "Experiments have demonstrated that even nursery school age children display more violent behavior after observing violence. Other researchers emphasize that the more we see, hear, and read about violence, the less it bothers us; ergo, we behave in a more violent manner."
+  },
+  {
+    "id": "ch03_q_63",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) A counselor who utilizes the term instinctual technically means",
+    "options": [
+      "behavior results from unconscious aggression.",
+      "women will show the behavior to a higher degree than men.",
+      "a and b.",
+      "behavior that manifests itself in all normal members of a given species."
+    ],
+    "correct_index": 3,
+    "rationale": "Instincts (e.g., hunger) are species-specific innate behaviors that do not need to be practiced or learned. Instincts are not learned behavioral responses."
+  },
+  {
+    "id": "ch03_q_64",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) The word ethology, which is often associated with the work of Konrad Lorenz, refers to",
+    "options": [
+      "Piaget’s famous case study methodology.",
+      "the study of animals’ behavior in their natural environment.",
+      "studies on monkeys raised in Skinnerian air cribs.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "The study of ethology was developed by European zoologists who tried to explain behavior using Darwinian theory. Today, when counselors refer to ethology, it concerns field research utilizing animals (e.g., birds or fish). The term comparative psychology refers to laboratory research using animals and attempts to generalize the findings to humans. Konrad Lorenz is best known for his work on the process of imprinting, an instinctual behavior in goslings and other animals in which the infant instinctively follows the first moving object it encounters, which is usually the mother. Lorenz used himself as the first moving object, and the newborn geese followed him around instead of following the real mother! This illustrates the principle of “critical periods,” which states that certain behaviors must be learned at an early time in the animal’s development. Otherwise, the behaviors will never be learned at all. Just for the record, choice “c” mentions Burrhus Frederic Skinner’s air crib, which was a relatively bacteria-free, covered crib that Skinner relied on to help raise his daughter! Skinner is famous for his operant conditioning model. It will be examined in greater depth in future questions."
+  },
+  {
+    "id": "ch03_q_65",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) A child who focuses exclusively on a clown’s red nose but ignores the clown’s other features would be illustrating the Piagetian concept of",
+    "options": [
+      "egocentrism.",
+      "centration.",
+      "formal abstract reasoning.",
+      "deductive processes."
+    ],
+    "correct_index": 3,
+    "rationale": "Centration occurs in the preoperational stage and is characterized by focusing on a key feature of a given object or situation while not noticing the rest of it. Egocentrism in choice “a” refers to the preoperational child’s inability to see the world from anyone else’s vantage point. Piaget and his colleague Barbel Inhelder showed children a model mountain from all sides. The children then sat in front of the model and were asked to pick a picture that best described what the experimenter was seeing. The experimenter was sitting in a different location. Children continually picked pictures of their own view. The abstract reasoning in choice “c” takes place in the final formal operational stage. Deductive thinking processes in choice “d” allow an individual to apply general reasoning to specific situations."
+  },
+  {
+    "id": "ch03_q_66",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) Piaget felt",
+    "options": [
+      "that homework depresses the elementary child’s IQ.",
+      "strongly that the implementation of Glasser’s concepts in Schools Without Failure should be made mandatory in all elementary settings.",
+      "that teachers should lecture a minimum of four hours daily.",
+      "that teachers should lecture less, as children in concrete operations learn best via their own actions and experimentation."
+    ],
+    "correct_index": 3,
+    "rationale": "The only correct answer is “d” inasmuch as Piaget felt that before the final stage (i.e., formal operations, which begins at age 11 or 12) a child learns best from his or her own actions, not lectures, and his or her interactions and communications with peers rather than adults. Piaget, nevertheless, was quick to point out that he did not consider himself an educator but rather a genetic epistemologist. Epistemology is a branch of philosophy that attempts to examine how we know what we know. William Glasser in choice “b” is the Father of reality therapy with choice theory."
+  },
+  {
+    "id": "ch03_q_67",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) Piaget’s preoperational stage",
+    "options": [
+      "is the final stage, which includes abstract reasoning.",
+      "includes mastering conservation.",
+      "includes the acquisition of a symbolic schema.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Symbolic mental processes allow language and symbolism in play to occur. A milk carton can easily become a spaceship or a pie plate can become the steering wheel of an automobile. The preoperational stage occurs from ages 2 to 7 years. If you erroneously felt any of the other choices were correct review all the previous questions related to Piagetian theory."
+  },
+  {
+    "id": "ch03_q_68",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) Sigmund Freud and Erik Erikson agreed that",
+    "options": [
+      "each developmental stage needed to be resolved before an individual could move on to the next stage.",
+      "developmental stages are primarily psychosexual.",
+      "developmental stages are primarily psychosocial.",
+      "a person can proceed to a higher stage even if a lower stage is unsolved."
+    ],
+    "correct_index": 3,
+    "rationale": "Freud felt that the stages were psychosexual and his disciple Erikson felt that they were psychosocial, yet both agreed that individuals must resolve one stage before forging on to the next. Another wellknown figure in developmental processes is Robert J. Havinghurst, who proposed developmental tasks for infancy and early childhood (e.g., learning to walk or eat solid foods); tasks for middle childhood, ages 6–12 years (e.g., learning to get along with peers or developing a conscience); tasks of adolescence, ages 12–18 years (e.g., preparing for marriage and an economic career); tasks of early adulthood ages, 19–30 years (e.g., selecting a mate and starting a family); tasks of middle-age ages, 30–60 years (e.g., assisting teenage children to become responsible adults and developing leisure-time activities); and tasks of later maturity, age 60 and beyond (e.g., dealing with the death of a spouse and adjusting to retirement). Another popular stage theorist is Jane Loevinger, who focused on ego development via seven stages and two transitions, the highest level being “integrated” (being similar to Maslow’s selfactualized individual or Kohlberg’s self-accepted universal principles stage)."
+  },
+  {
+    "id": "ch03_q_69",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "The tendency for adult females in the United States to wear high heels is best explained by",
+    "options": [
+      "the principle of negative reinforcement.",
+      "sex-role socialization.",
+      "Lorenz’s studies on imprinting.",
+      "ethological data."
+    ],
+    "correct_index": 0,
+    "rationale": ""
+  },
+  {
+    "id": "ch03_q_70",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) The sequence of object loss, which goes from protest to despair to detachment, best describes the work of",
+    "options": [
+      "Freud.",
+      "Adler on birth order.",
+      "Erikson.",
+      "Bowlby."
+    ],
+    "correct_index": 3,
+    "rationale": "In psychoanalysis the term object describes the target of one’s love. Bowlby felt that if the child was unable to bond with an adult by age 3 he or she would be incapable of having normal social relationships as an adult."
+  },
+  {
+    "id": "ch03_q_71",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) A counselor who is seeing a 15-year-old boy who is not doing well in public speaking class would need to keep in mind that",
+    "options": [
+      "in general, boys possess better verbal skills than girls.",
+      "in general, girls possess better verbal skills than boys.",
+      "in general, boys have better visual–perceptual skills and are more active and aggressive than girls.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "The correct response is “d,” since choices “b” and “c” are both evident according to the research of Eleanor Maccoby and Carol Jacklin. Although I previously stated that most sex-role differences are the result of learning, not biological factors, the tendency for boys to be more aggressive is probably one of the behavioral differences that can be attributed to biological attributes. Actually, this is a very tricky question indeed. Assuming you could separate fact from male/female fiction, you still might have marked choice “b” feeling that choice “c” was irrelevant in terms of counseling the client. My feeling is that “c” nevertheless is relevant since you might wish to emphasize positive qualities that the client possesses. Thus, if you marked choice “b,” give yourself a grade of A-, or convince yourself that I’m just plain wrong. After all, that’s what makes baseball games, political elections, oral and written boards, or even licensing and certification exams. Of course, since you’re dealing with your perfectionism in a rational manner, it really won’t matter now, will it?"
+  },
+  {
+    "id": "ch03_q_72",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "Two brothers begin screaming at each other during a family counseling session. The term that best describes the phenomenon is",
+    "options": [
+      "the primal scene.",
+      "preconscious psychic processes.",
+      "sibling rivalry.",
+      "BASIC-ID."
+    ],
+    "correct_index": 3,
+    "rationale": "In counseling, sibling rivalry refers to competition between siblings (i.e., a brother and a brother, a brother and a sister, or a sister and a sister). The “primal scene” noted in choice “a” is a psychoanalytic concept that suggests that a young child witnesses his parents having sexual intercourse or is seduced by a parent. The incident, whether real or imagined, is said to provide impetus for later neuroses. Choice “b” is also an analytic term and is known as the “foreconscious” in some textbooks. The preconscious mind is deeper than the conscious but not as deep as the unconscious. Preconscious material is not conscious but can be recalled without the use of special psychoanalytic techniques. This will be examined in more detail in the Helping Relationships section. The final choice, BASIC-ID, is an acronym posited by behaviorist Arnold Lazarus who feels his approach to counseling is multimodal, relying on a variety of therapeutic techniques. BASIC-ID stands for: Behavior, Affective Responses, Sensations, Imagery, Cognitions, Interpersonal Relationships, and Drugs."
+  },
+  {
+    "id": "ch03_q_73",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) A preschool child’s concept of causality is said to be animistic. This means the child attributes human characteristics to inanimate objects. Thus, the child may fantasize that an automobile or a rock is talking to him. This concept is best related to",
+    "options": [
+      "Jung’s concepts of anima, animus.",
+      "Freud’s wish fulfillment.",
+      "Piaget’s preoperational period, ages 2–7 years.",
+      "ego identity."
+    ],
+    "correct_index": 3,
+    "rationale": "Animism occurs when a child acts as if nonliving objects have lifelike abilities and tendencies. Choice “a” mentions two concepts of the Swiss psychiatrist C. G. Jung, the father of analytic psychology. The anima represents the female characteristics of the personality while the animus represents the male characteristics. (Two super memory devices are that men generally have muscles [ani“mus”] and ma means mother, who is female [ani“ma”].) Jung calls the anima and the animus “archetypes,” which are inherited unconscious factors. Choice “b,” wish fulfillment, is a Freudian notion that dreams and slips of the tongue are actually wish fulfillments. The term ego identity, used in choice “d,” is most often associated with Erikson’s fifth stage: identity versus role confusion. When an adolescent is able to integrate all of his or her previous roles into a single self-concept, the person has achieved ego identity. An inability to accomplish this task results in role confusion, which is known as an identity crisis."
+  },
+  {
+    "id": "ch03_q_74",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "Elementary school counseling and guidance services",
+    "options": [
+      "have been popular since the early 1900s. (c)",
+      "became popular during World War II.",
+      "are a fairly new development which did not begin to gain momentum until the 1960s.",
+      "none of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” would be true for secondary school counseling and guidance fueled by the work of Frank Parsons. Elementary school counseling services increased rapidly in the 1960s. Now let’s turn our attention to elementary school counseling. Three key reasons have been cited for the slow development of elementary school counseling. First, the majority of people believed that schoolteachers could double as counselors. Second, counseling was conceptualized as focusing on vocational issues. This would not be a primary issue in the elementary years. Finally, secondary schools utilized social workers and psychologists who would intervene if emotional problems were still an issue as the child got older. In the 1980s some state departments of education made elementary school counselors mandatory and needless to say the number of jobs in this area flourished. Surprisingly, middle school/junior high counseling is an even more recent phenomenon than elementary school counseling. Except for the fact that these children (ages 10 to 14, also known as bubblegummers!) experience more anxiety than their elementary or high school counterparts, we know less about this population than any other in the K–12 system. There are over 260,000 school counselors in the United States."
+  },
+  {
+    "id": "ch03_q_75",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) Research related to elementary school counselors indicates that",
+    "options": [
+      "counselors of this ilk work hard, but just don’t seem to have an impact on youngsters’ lives.",
+      "these counselors are effective, do make a difference in children’s lives, and more counselors should be employed.",
+      "counselors of this ilk could be helpful if they would engage in more consultation work.",
+      "these counselors should be used primarily as disciplinarians, but this is not happening in most districts."
+    ],
+    "correct_index": 3,
+    "rationale": "In reference to choice “c” elementary counselors do indeed perform a host of useful consultation services with teachers and other professionals. Elementary school counseling has been defined as the only organized profession to work with individuals from a purely preventive and developmental standpoint. Let’s hear it for all those wonderful elementary school counselors out there!"
+  },
+  {
+    "id": "ch03_q_76",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) According to the Yale research by Daniel J. Levinson",
+    "options": [
+      "Erikson’s generativity versus stagnation stage simply doesn’t exist.",
+      "80% of the men in the study experienced moderate to severe midlife crises.",
+      "an “age 30 crisis” occurs in men when they feel it will soon be too late to make later changes.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Levinson and his colleagues were surprised to discover that adult developmental transitions in whitecollar and blue-collar men seemed to be relatively universal. Gail Sheehy has pointed out that both men and women tend to experience typical crises, or so-called “passages,” and each passage can be utilized to reach one’s potential."
+  },
+  {
+    "id": "ch03_q_77",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "Erikson’s middle-age stage (ages 35–60) is known as generativity versus stagnation. Generativity refers to",
+    "options": [
+      "the ability to do creative work or raise a family.",
+      "the opposite of stagnation.",
+      "the productive ability to create a career, family, and leisure time.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “d” gives you a thumbnail sketch of Erikson’s seventh (or second-to-last) stage. A person who does not master this stage well becomes self-centered; hence, you also will see the stage termed “generativity versus self-absorption.” A nice memory device here is that “generativity” sounds like “generation” and a successful individual in this stage plans for the next generation. Robert J. Havinghurst, mentioned earlier, would refer to this stage as the middle adult years (he also mentions young adult and old adult periods). Havinghurst, who created a developmental tasks theory, feels that the middle adult should achieve civic responsibility, maintain a home, guide adolescents, develop leisure, adjust to bodily changes, learn to relate to a spouse, and adjust to aging parents. Good advice, but if it seems a little dated, it is; 1952 vintage. The 1950s were the golden years for developmental psychology."
+  },
+  {
+    "id": "ch03_q_78",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) A person who can look back on his or her life with few regrets feels",
+    "options": [
+      "the burden of senile psychosis.",
+      "ego-integrity in Erikson’s integrity versus despair stage.",
+      "despair, which is the sense that he or she has wasted life’s precious opportunities.",
+      "the burden of generalized anxiety disorder as described in the Diagnostic and Statistical Manual of Mental Disorders (DSM), published by the American Psychiatric Association (APA)."
+    ],
+    "correct_index": 3,
+    "rationale": "According to Erikson, successful resolution of the integrity versus despair stage results in the belief that one’s life served a purpose. Choice “a” introduces the term senile psychosis, which is decidedly incorrect but a relevant term nevertheless. The word psychosis refers to a break from reality which can include hallucinations, delusions, and thought disorders. In senile psychosis this condition is brought on via old age. At times, the term will be used in a looser sense to imply a loss of memory. Choice “d” throws out two other “must-know” new terms. In counseling, anxiety (or generalized anxiety) refers to fear, dread, or apprehension without being able to pinpoint the exact reason for the feeling. Anxiety is in contrast to a phobia, in which the client can pinpoint the cause or source of fear (e.g., riding an elevator). The DSM is a manual used to classify and label mental disorders so that all mental health practitioners will mean roughly the same thing (i.e., regarding symptomatology, etc.) when they classify a client. The branch of medicine which concerns itself with the classification of disease is known as “nosology.” Thus counselors use the DSM as their primary nosological guide."
+  },
+  {
+    "id": "ch03_q_79",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "Sensorimotor is to Piaget as oral is to Freud, and as ________ is to Erikson.",
+    "options": [
+      "integrity versus despair (b)",
+      "Kohlberg",
+      "trust versus mistrust",
+      "play therapy"
     ],
     "correct_index": 2,
-    "rationale": "Coopersmith's study found that children with HIGH self-esteem had MORE rules, not fewer, and were punished just as often as low self-esteem children — but punishment targeted the behavior ('that was a bad choice') not the child ('you are bad'). Parents were also democratic, explaining rules. This challenges the assumption that permissiveness builds self-esteem. Distractor: Option A (no punishment = high self-esteem) reflects a very common misconception directly contradicted by Coopersmith."
+    "rationale": "This is the analogy question mentioned earlier, and identifying the correct answer is actually quite simple. The question matches Piaget’s name to his first stage (i.e., sensorimotor) and Freud’s name to his first stage (i.e., oral). Thus you will match Erikson’s name to his first stage, which is trust versus mistrust. Play therapy (choice “d”) and art therapy are often preferable to traditional counseling and therapy because cultural differences have less impact on these types of intervention."
   },
   {
-    "id": "ch03_q_016",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_80",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "A teenager tells her counselor that everything is 'either totally right or totally wrong' and that her professor must have 'the right answer.' According to William Perry, this thinking style reflects:",
+    "question": "Which theorist was most concerned with maternal deprivation?",
     "options": [
-      "Kohlberg's postconventional moral reasoning",
-      "Dualistic thinking — a common cognitive style in adolescence",
-      "Relativistic thinking — the ability to see multiple perspectives",
-      "Erikson's initiative vs guilt stage"
+      "A. Lazarus.",
+      "H. Harlow.",
+      "J. Wolpe.",
+      "A. Ellis."
+    ],
+    "correct_index": 3,
+    "rationale": "Harry Harlow was born in 1905 and died in 1981. He is best known for his work with rhesus monkeys at the University of Wisconsin. He used surrogate mothers made from terry cloth and others made of wood and wire. Although the terry-cloth mother was preferred, those raised by surrogates were more timid and had difficulty mating. Choice “c” mentions Joseph Wolpe, who pioneered the technique of systematic desensitization, a behavioristic technique used in both individual and group settings to ameliorate phobic reactions. Albert Ellis (choice “d”) was a New York clinical psychologist who developed a form of treatment known as rational-emotive behavior Therapy (REBT), which teaches clients to think in a more scientific and logical manner. Ellis was originally trained as an analyst and was a very prolific writer."
+  },
+  {
+    "id": "ch03_q_81",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) When development comes to a halt, counselors say that the client",
+    "options": [
+      "has “learned helplessness” syndrome.",
+      "suffers from a phobia.",
+      "suffers from fixation.",
+      "is displaying the risky shift phenomenon."
+    ],
+    "correct_index": 3,
+    "rationale": "This is primarily an analytic concept. Sigmund Freud felt that frustration and anxiety are normal when passing through a developmental stage, but when they become too powerful emotional growth will literally stop and the person becomes stuck (fixated) in the current stage. Learned helplessness in choice “a” connotes a pattern in which a person is exposed to situations that he or she is truly powerless to change and then begins to believe he or she has no control over the environment. Such a person can become easily depressed. This concept is generally associated with the work of positive psychology pioneer Martin E. P. Seligman, who experimentally induced learned helplessness in dogs via giving them electric shocks while placed in a harness. These dogs—unlike untrained dogs—did not even try to escape the painful shocks when the harnesses were removed. Choice “b” is phobia, which is a known persistent fear, such as a fear of furry animals or flying in an airplane. Key exam hint: In counseling, a phobia is often distinguished from anxiety. In an anxiety reaction, the client is unaware of the source of the fear. The final choice, risky shift phenomenon, describes the fact that a group decision is typically more liberal than the average decision of an individual group member prior to participation in the group. Simply put, the individual’s initial stance will generally be more conservative than the group’s decision."
+  },
+  {
+    "id": "ch03_q_82",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) Kohlberg proposed three levels of morality. Freud, on the other hand, felt morality developed from the",
+    "options": [
+      "superego.",
+      "ego.",
+      "id.",
+      "eros."
+    ],
+    "correct_index": 3,
+    "rationale": "Eric Berne, the father of transactional analysis, put Freudian lingo in everyday language and spoke of the Parent ego state, which is roughly equivalent to the superego. The Parent ego state is filled with the shoulds, oughts, and musts which often guide our morality."
+  },
+  {
+    "id": "ch03_q_83",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) Which theorist would be most likely to say that aggression is an inborn tendency?",
+    "options": [
+      "Carl Rogers.",
+      "B. F. Skinner.",
+      "Frank Parsons, the father of guidance.",
+      "Konrad Lorenz."
+    ],
+    "correct_index": 3,
+    "rationale": "Bad news, folks; Konrad Lorenz compared us to the wolf or the baboon and claimed that we are naturally aggressive. According to Lorenz, aggressiveness is part of our evolution and was necessary for survival. The solution according to Lorenz is for us to utilize catharsis and get our anger out, using methods such as competitive sports. Choices “a” and “c” cite two of the most influential names in the history of counseling. Carl Ransom Rogers created nondirective counseling, later called client-centered counseling, and more recently, person-centered counseling. Frank Parsons has been called the father of guidance. In the early 1900s Parsons set up centers to help individuals in search of work."
+  },
+  {
+    "id": "ch03_q_84",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) The statement “bad behavior is punished, good behavior is not” is most closely associated with",
+    "options": [
+      "Kohlberg’s premoral stage at the preconventional level.",
+      "Kohlberg’s conventional level.",
+      "the work of Carl Jung.",
+      "Piaget’s autonomous stage, which begins at about age 8."
+    ],
+    "correct_index": 3,
+    "rationale": "In the initial stage, morality is guided by a fear of punishment. Choice “d” is concerned with the Piagetian conceptualization of moral development. Piaget suggested two major stages: the heteronomous stage and the autonomous stage, which begins at approximately age 10. Heteronomous morality occurs between ages 4 and 7, when the child views rules as absolutes that result in punishment. Autonomous morality is characterized by the child’s perception that rules are relative and can be altered or changed."
+  },
+  {
+    "id": "ch03_q_85",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) A critical period",
+    "options": [
+      "makes imprinting possible.",
+      "emphasizes manifest dream content.",
+      "signifies a special time when a behavior must be learned or the behavior won’t be learned at all.",
+      "a and c."
+    ],
+    "correct_index": 3,
+    "rationale": "A critical period is a time when an organism is susceptible to a specific developmental process. A critical period marks the importance of heredity and environment on development. In humans, for example, language acquisition is thought to begin at around age 2 and ends at about age 14. For more on imprinting, see the next question."
+  },
+  {
+    "id": "ch03_q_86",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) Imprinting—rapid learning during a critical period of development—is an instinct in which a newborn will follow a moving object. The primary work in this area was done by",
+    "options": [
+      "Erik Erikson.",
+      "Milton H. Erickson.",
+      "Konrad Lorenz.",
+      "Harry Harlow."
+    ],
+    "correct_index": 3,
+    "rationale": "Some behavioral scientists refer to instinctual behavior as “species-specific,” meaning that the behavioral trait occurs in every member of the species. The behavior is unlearned and universal."
+  },
+  {
+    "id": "ch03_q_87",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) Marital satisfaction",
+    "options": [
+      "is usually highest when a child is old enough to leave home.",
+      "often decreases with parenthood and often improves after a child leaves home.",
+      "correlates high with performance IQ.",
+      "is highest among couples who have seven or more college-educated children."
+    ],
+    "correct_index": 3,
+    "rationale": "Many studies agree that in general marital satisfaction is highest at the time of the wedding. Newer research tends to illuminate the fact that the oft-quoted statistic which suggests that 50% of all marriages end in divorce is inflated."
+  },
+  {
+    "id": "ch03_q_88",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) Maslow, a humanistic psychologist, is famous for his “hierarchy of needs,” which postulates",
+    "options": [
+      "lower-order physiological and safety needs and higher-order needs, such as self-actualization.",
+      "that psychopathology rests within the id.",
+      "that unconscious drives control self-actualization.",
+      "that stimulus-response (S-R) psychology dictates behavioral attributes."
+    ],
+    "correct_index": 3,
+    "rationale": "Answers “b,” “c,” and “d” are necessarily incorrect inasmuch as Abraham Maslow rejected both analytic psychology and behaviorism (though he adhered to its tenets early in his career); he felt they dehumanized men and women. Maslow’s theory has been dubbed “humanistic psychology,” or a “third force” psychology. Maslow felt the person first needs to satisfy immediate or basic needs such as food and water. Next, safety and security must be dealt with. Next, a need for love, affection, and belonging emerges. The highest level or ultimate goal is termed self-actualization, meaning the person becomes all he or she can be. A word to the wise: Some tests may refer to higher-order needs (i.e., any need which is not physiological) as “metaneeds.” Maslow’s writings helped spawn the human potential movement, popular during the 1960s and 1970s."
+  },
+  {
+    "id": "ch03_q_89",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(a) To research the dilemma of self-actualization, Maslow",
+    "options": [
+      "used goslings as did Konrad Lorenz.",
+      "psychoanalyzed over 400 neurotics.",
+      "worked exclusively with schizophrenics in residential settings.",
+      "interviewed the best people he could find who escaped “the psychology of the average.”"
+    ],
+    "correct_index": 3,
+    "rationale": "You didn’t mark choice “a,” did you? Imagine trying to learn about self-actualization from studying baby goslings! No, Maslow didn’t utilize goslings, nor did he turn to persons with severe psychological problems. Maslow said if you research the “psychopathology of the average” you will have a sick theory of human behavior! The answer: work with those who have transcended the so-called average or normal existence."
+  },
+  {
+    "id": "ch03_q_90",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) Piaget is",
+    "options": [
+      "a maturationist.",
+      "a behaviorist.",
+      "a structuralist who believes stage changes are qualitative.",
+      "cognitive-behavioral."
+    ],
+    "correct_index": 3,
+    "rationale": "According to the structuralist viewpoint, each stage is a way of making sense out of the world. Choice “d,” cognitive-behavioral, generally applies to counselors who emphasize thought processes in terms of their impact on emotions as well as behavioristic strategies (e.g., reinforcement or homework assignments)."
+  },
+  {
+    "id": "ch03_q_91",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) ________ factors cause Down syndrome, the most common type known as trisomy 21.",
+    "options": [
+      "Environmental",
+      "Genetic (conditions passed through genes)",
+      "Chemical dependency",
+      "Unconscious"
+    ],
+    "correct_index": 3,
+    "rationale": "Persons with Down syndrome—also referred to as Down’s syndrome—have a broad facial profile and short stature. Down syndrome, which is the result of a chromosomal abnormality (such as trisomy 21, three chromosomes on chromosome 21) results in an IQ hovering between 50 and 80 (100 is normal). The intelligence aspect can be influenced by early intervention, the environment, proper medical care, and dedicated educators. Other genetic or hereditary conditions include: phenylketonuria (PKU), which is an amino acid metabolic difficulty that causes intellectual or physical disabilities unless the baby is placed on a special diet; Klinefelter’s syndrome, in which a male has an extra X chromosome (i.e., XXY), is tall, has a high-pitched voice, an IQ approximately 10 points below the norm, shows no masculinity at puberty, and may be infertile; and Turner’s syndrome, where a female has no gonads or sex hormones and is unable to have children. Hemophilia is a condition where blood coagulation is such that even a tiny injury could cause severe bleeding. Finally, sickle cell anemia, otherwise known as sickle cell disease (SCD), afflicts primarily African Americans and causes anemia, pain, short stature, reduced life span, and organ damage."
+  },
+  {
+    "id": "ch03_q_92",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(b) Piaget referred to the act of taking in new information as assimilation. This results in accommodation, which is a modification of the child’s cognitive structures (schemas) to deal with the new information. In Piagetian nomenclature, the balance between assimilation and accommodation is called",
+    "options": [
+      "counterbalancing.",
+      "equilibration.",
+      "balance theory.",
+      "ABA design."
     ],
     "correct_index": 1,
-    "rationale": "Perry's model describes dualistic thinking as characteristic of adolescents and young adults — the world is black-and-white, good-or-bad, with authority figures holding 'the answer.' Relativistic thinking (C) is the developmental advance where the person recognizes ambiguity and multiple valid perspectives. This develops as the person moves into adulthood. Distractor: Relativistic thinking (C) sounds right because teenagers CAN argue — but Perry's point is that dualistic thinkers still believe in a single correct answer, just held by authority."
+    "rationale": "Choice “a” refers to an experimental process in which a researcher varies the order of conditions to eliminate irrelevant variables such as fatigue or practice effects. Choice “c,” balance theory, suggests that individuals avoid inconsistent or incompatible beliefs. In other words, people prefer consistent beliefs. This is sometimes known as the tendency to maintain “cognitive consistency.” ABA design, noted in choice “d,” is experimental and research lingo. The A stands for the baseline, which is the behavior before an experimental or treatment procedure is introduced. B is the treatment. After the treatment is implemented the occurrence of A (the behavior in question) is measured to see if a change is evident."
   },
   {
-    "id": "ch03_q_017",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_93",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "Which statement about suicide is MOST accurate for the NCE?",
+    "question": "There are behavioral, structural, and maturational theories of development. The maturational viewpoint utilizes the plant growth analogy, in which the mind is seen as being driven by instincts while the environment provides nourishment, thus placing limits on development. Counselors who are maturationists",
     "options": [
-      "Women complete suicide more often than men because they are more likely to seek help",
-      "Clients who have threatened suicide in the past are rarely at risk for future attempts",
-      "Men complete suicide more often than women; women attempt suicide more often than men",
-      "The risk of suicide is highest at the deepest point of a depressive episode"
+      "conduct therapy in the here and now.",
+      "focus primarily on nonverbal behavior.",
+      "believe group work is most effective.",
+      "allow clients to work through early conflicts."
     ],
-    "correct_index": 2,
-    "rationale": "Men complete suicide more often (typically using more lethal methods like firearms); women attempt suicide more often. Suicide risk may actually INCREASE as depression begins to lift (D is incorrect) — the person gains enough energy to act on suicidal ideation. A history of suicide threats/attempts (B) is one of the STRONGEST predictors of future risk. Distractor: Option D is very commonly believed but factually incorrect — risk rises as depression lifts, not at its nadir."
+    "correct_index": 3,
+    "rationale": "Counselors of this persuasion allow the client to work through the old painful material. Theoretically, the counselor acts almost like a perfect nonjudgmental parent. And thus the client can explore the situation in a safe, therapeutic relationship. Psychoanalysts and psychodynamic therapists fall into this category."
   },
   {
-    "id": "ch03_q_018",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_94",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "A client is described as highly stingy with money, extremely organized, and very controlling of his environment. From a Freudian perspective, this personality cluster is MOST consistent with:",
+    "question": "(d) Ritualistic behaviors, which are common to all members of a species, are known as",
     "options": [
-      "Oral fixation",
-      "Anal retentive fixation",
-      "Phallic stage fixation",
-      "Genital stage development"
+      "hysteria.",
+      "pica.",
+      "fixed-action patterns elicited by sign stimuli.",
+      "dysfunctional repetition."
+    ],
+    "correct_index": 3,
+    "rationale": "Theoretically, a fixed-action pattern (abbreviated FAP) will result whenever a releaser in the environment is present. The preprogrammed action, or sequence of behavior, will not vary. In choice “a” the word hysteria is presented. Hysteria, a historical term today known as somatization disorder, is said to occur when an individual displays an organic symptom (e.g., blindness, paralysis, or deafness) yet no physiological causes are evident. Choice “b,” pica, is a condition in which a person wishes to eat items that are not food (i.e., the item has no nutritional value) such as consuming a pencil or perhaps a watch band. Just in case you’re wondering, fast-food consumption is not considered a sign of pica in our society—yet!"
+  },
+  {
+    "id": "ch03_q_95",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) Robert Kegan speaks of a “holding environment” in counseling in which",
+    "options": [
+      "the client is urged to relive a traumatic experience in an encounter group.",
+      "biofeedback training is highly recommended.",
+      "the client can make meaning in the face of a crisis and can find new direction.",
+      "the activity of meaning making is discouraged."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “d” is necessarily incorrect inasmuch as Kegan encourages “meaning making.” Kegan suggests six stages of life span development: incorporative, impulsive, imperial, interpersonal, institutional, and interindividual."
+  },
+  {
+    "id": "ch03_q_96",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) Most experts in the field of counseling agree that",
+    "options": [
+      "no one theory completely explains developmental processes; thus, counselors ought to be familiar with all the major theories.",
+      "Eriksonian theory should be used by counselors practicing virtually any modality.",
+      "a counselor who incorporates Piaget’s stages into his or her thinking would not necessarily need knowledge of rival therapeutic viewpoints.",
+      "a realistic counselor needs to pick one developmental theory in the same manner that he or she picks a psychotherapeutic persuasion."
+    ],
+    "correct_index": 0,
+    "rationale": "Since each theorist’s work has a slant to it (e.g., Freud—psychosexual factors; Kohlberg—moral factors; Piaget—intellectual/cognitive factors, etc.) a well-rounded counselor will necessarily need a basic knowledge of all the popular theories."
+  },
+  {
+    "id": "ch03_q_97",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "Equilibration is",
+    "options": [
+      "a term which emphasizes the equality between the sexes.",
+      "performed via the id according to the Freudians.",
+      "a synonym for concrete operational thought.",
+      "the balance between what one takes in (assimilation) and that which is changed (accommodation)."
+    ],
+    "correct_index": 3,
+    "rationale": "In case you haven’t caught on, I’m banking on the fact that repetition can do wonders for your exam review. So one more time, just for the record: Equilibration (or equilibrium) occurs when the child achieves a balance. When new information is presented which the child’s current cognitive structures, known as “schemas,” cannot process, a condition referred to as “disequilibrium” sets in. The child therefore changes the schemas to accommodate the novel information, and equilibration or equilibrium is mastered."
+  },
+  {
+    "id": "ch03_q_98",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(d) A counselor is working with a family who just lost everything in a fire. The counselor will ideally focus on",
+    "options": [
+      "Maslow’s higher-order needs, such as self-actualization.",
+      "building accurate empathy of family members.",
+      "Maslow’s lower-order needs, such as physiological and safety needs.",
+      "the identified patient."
+    ],
+    "correct_index": 3,
+    "rationale": "Maslow, a pioneer in third force or humanistic psychology, suggested the following hierarchy of needs: survival, security, safety, love, self-esteem, and self-actualization. The assumption is that lower-order needs must be fulfilled before the individual can be concerned with higher-order needs."
+  },
+  {
+    "id": "ch03_q_99",
+    "domain": "Human Growth and Development",
+    "chapter": 3,
+    "question": "(c) The anal retentive personality is",
+    "options": [
+      "charitable.",
+      "stingy.",
+      "kind.",
+      "thinks very little about money matters."
     ],
     "correct_index": 1,
-    "rationale": "The anal retentive character (fixation during the anal stage's retention phase) is classically described as stingy, orderly, stubborn, and controlling — often called 'cheap.' The oral character (A) presents as dependent, addictive, mouth-focused. The genital stage (D) represents mature, healthy adult sexuality. Phallic fixation (C) relates to gender identity and sexuality concerns. Distractor: Genital stage (D) sounds like it might mean adult behavior, but it actually refers to healthy development, not pathology."
+    "rationale": "To put it bluntly, the anal retentive character is said to be cheap!"
   },
   {
-    "id": "ch03_q_019",
-    "domain": "Human Growth & Development",
+    "id": "ch03_q_100",
+    "domain": "Human Growth and Development",
     "chapter": 3,
-    "question": "A newborn baby turns her head toward sounds and automatically grasps objects placed in her palm. According to Piaget, these behaviors are MOST characteristic of which developmental stage?",
+    "question": "From a Freudian perspective, a client who has a problem with alcoholism and excessive smoking would be",
     "options": [
-      "Preoperational stage — symbolic schema is being formed",
-      "Sensorimotor stage — the child learns through reflexes and sensory interaction",
-      "Concrete Operations — conservation and counting are developing",
-      "Formal Operations — hypothetical reasoning is beginning"
+      "considered an oral character.",
+      "considered an anal character.",
+      "considered a genital character.",
+      "fixated at the latency stage."
     ],
-    "correct_index": 1,
-    "rationale": "The Sensorimotor stage (birth–2yr) is characterized by reflexive behaviors and learning through sensory and motor interaction with the environment. Piaget described this stage as 'practical intelligence.' Key milestones: object permanence (~8 months), beginning of symbolic thought. Preoperational (A) begins at age 2 with language and symbolic play. Distractor: Preoperational (A) is tempting because it includes 'schema formation,' but the newborn is clearly in sensorimotor, not preoperational."
-  },
-  {
-    "id": "ch03_q_020",
-    "domain": "Human Growth & Development",
-    "chapter": 3,
-    "question": "A researcher believes that human development consists primarily of quantitative, measurable changes in behavior driven by environmental learning. This perspective is MOST aligned with:",
-    "options": [
-      "Organicism — development consists of qualitative stage-based changes",
-      "Maturationism — heredity unfolds inborn potential",
-      "Empiricism — development is measurable and environmentally driven",
-      "Epigenetics — each stage emerges from the previous stage"
-    ],
-    "correct_index": 2,
-    "rationale": "Empiricism (rooted in John Locke) holds that all knowledge comes from objective, measurable experience — the forerunner of behaviorism. Empiricists view development as quantitative (measurable incremental changes). Organicism (A) views development as qualitative (stage-by-stage, internal changes). Maturationism (B) stresses heredity and biological readiness. Epigenetics (D) describes sequential stage emergence. Distractor: Maturationism (B) is tempting because it also downplays learning, but it emphasizes biological unfolding rather than environmental learning."
+    "correct_index": 0,
+    "rationale": "Here is where good old common sense comes in handy. The oral region of the body (i.e., the mouth) would be the portion of the body most closely related to smoking and alcoholism."
   }
 ]

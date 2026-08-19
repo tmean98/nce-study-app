@@ -1,283 +1,1402 @@
 [
   {
-    "id": "ch10_q_001",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch10_q_801",
+    "domain": "Professional Orientation and Ethics",
     "chapter": 10,
-    "question": "A client discloses in session that she physically abused her 7-year-old son last week. She says she has calmed down and it will never happen again. The counselor's MOST appropriate response is to:",
+    "question": "Which group was most instrumental in opposing counselor licensure?",
     "options": [
-      "Keep the disclosure confidential because the abuse has already stopped",
-      "Consult with a supervisor before deciding whether to report",
-      "File a mandatory report with child protective services immediately",
-      "Warn the husband so he can protect the child from future harm"
+      "Social workers.",
+      "Psychiatrists.",
+      "Psychologists.",
+      "AAMFT members."
     ],
     "correct_index": 2,
-    "rationale": "Child abuse is a mandatory exception to confidentiality — the counselor MUST report regardless of whether the client promises it won't happen again, regardless of the counselor's clinical judgment, and regardless of supervisor consultation. Mandatory reporters have no discretion. Failure to report is itself a legal violation. This is distinct from the Tarasoff duty-to-warn, which involves identifiable third-party threats — child abuse has its own statutory reporting requirement."
+    "rationale": "Some hypothesize that psychologists wanted a monopoly on nonmedical mental health services, especially the right to collect third-party payments. Others point out that at one time psychologists were debased and called “junior psychiatrists,” and therefore the psychologists did to counselors what psychiatrists had done to them. In any case, the tide appears to be turning as “mental health coalitions” are popping up in which psychiatrists, psychologists, counselors, social workers, and related specialists (e.g., choice “d,” the American Association for Marriage and Family Therapy) meet to discuss mutual professional concerns. Psychologists have now secured prescription medication privileges in several parts of the country and both psychologists and social workers in some states are challenging counselors’ rights to diagnose clients and perform other services."
   },
   {
-    "id": "ch10_q_002",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch10_q_802",
+    "domain": "Professional Orientation and Ethics",
     "chapter": 10,
-    "question": "A client tells his counselor in confidence that he murdered someone five years ago and was never caught. He is remorseful and shows no intent to harm anyone in the future. The counselor should:",
+    "question": "In the late 1970s, AACD (known as ACA since 1992) began to focus very heavily on professional credentialing. This led to the formation of the",
     "options": [
-      "Report the crime to law enforcement — past crimes are never confidential",
-      "Warn the victim's family under the Tarasoff duty to warn",
-      "Maintain confidentiality — past crimes with no future threat do not require disclosure",
-      "Immediately terminate treatment and refer to a legal professional"
+      "CCMHC.",
+      "NBCC.",
+      "CACREP, formed in 1981.",
+      "APGA, formed in 1952."
     ],
-    "correct_index": 2,
-    "rationale": "Confidentiality exceptions apply to FUTURE harm, not past crimes. When a client discloses a past crime and shows no intent to harm others in the future, the counselor maintains confidentiality. The Tarasoff duty to warn requires an identifiable victim and serious, foreseeable FUTURE threat — neither is present here. Breaking confidentiality for a past crime with no ongoing threat would be a breach of the ACA Code of Ethics."
+    "correct_index": 3,
+    "rationale": "In 1982, the American Association for Counseling and Development (AACD), now the American Counseling Association (ACA), formed the National Board for Certified Counselors (NBCC). If you meet the educational/skill requirements and pass an exam (come on now you remember, probably the exam you are studying for this very minute!) you can use the title NCC—National Certified Counselor. This is a generic certification. The designation lasts for five years at which time the counselor must have 100 approved hours of continued professional development (e.g., workshops) or sit for the test again. (For some strange reason, I’m guessing you’ll choose the first option.) Other alphabet soup acronyms include choice “a,” Certified Clinical Mental Health Counselor; a specialty certification you might wish to snare by taking another exam(!). Choice “c,” the Council for the Accreditation of Counseling and Related Educational Programs, which is an ACA affiliate formed in 1981 that certifies counselor programs rather than individual counselors; and choice “d,” the major counseling organization, the American Personnel and Guidance Association, which later became the AACD and is now the ACA."
   },
   {
-    "id": "ch10_q_003",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch10_q_803",
+    "domain": "Professional Orientation and Ethics",
     "chapter": 10,
-    "question": "During a custody dispute, a court orders a counselor to testify about what a client disclosed in session. The client does not want the information released. The counselor should:",
+    "question": "By passing the NCE, a counselor can attain the ________, given via NBCC.",
     "options": [
-      "Testify fully — court orders override all confidentiality protections",
-      "Assert privileged communication on the client's behalf and await a ruling",
-      "Release only information that the counselor judges to be clinically relevant",
-      "Immediately report the client's disclosures to the judge in writing"
-    ],
-    "correct_index": 1,
-    "rationale": "Privileged communication belongs to the CLIENT, not the counselor. When the client wants to maintain privilege, the counselor's ethical obligation is to assert the privilege on the client's behalf and let the court rule on whether to compel testimony. The counselor does not unilaterally decide to testify or withhold — that is the court's determination after privilege is claimed. This differs from confidentiality: privilege is a legal concept; confidentiality is an ethical one."
-  },
-  {
-    "id": "ch10_q_004",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "question": "A client explicitly states to his therapist that he intends to kill his coworker, naming the specific person and method. The coworker is unaware of the threat. Based on the Tarasoff ruling, the counselor's PRIMARY legal duty is to:",
-    "options": [
-      "Hospitalize the client involuntarily without notifying the potential victim",
-      "Take reasonable steps to protect the identifiable third party, which may include warning the victim",
-      "Consult with a peer supervisor and document, but take no action without client consent",
-      "Notify the client's family members to keep watch over the coworker"
-    ],
-    "correct_index": 1,
-    "rationale": "Tarasoff v. Regents of University of California (1976) established the 'duty to protect' — when a client makes a serious, credible, foreseeable threat against an identifiable victim, the therapist has a legal duty to protect that potential victim. This may include directly warning the victim, notifying law enforcement, or hospitalization. The key elements: identifiable victim + serious and foreseeable harm. Tarasoff 1974 was 'duty to warn'; 1976 expanded to 'duty to protect.'"
-  },
-  {
-    "id": "ch10_q_005",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "chapter": 10,
-    "question": "A recently licensed counselor finds herself strongly attracted to a male client. She has not acted on the attraction. According to ethical guidelines, her FIRST step should be to:",
-    "options": [
-      "Immediately terminate the therapeutic relationship and refer the client",
-      "Disclose the attraction directly to the client in the next session",
-      "Seek supervision or personal counseling to address the countertransference",
-      "Continue without disclosure — feelings are normal and only actions are unethical"
-    ],
-    "correct_index": 2,
-    "rationale": "Sexual attraction to clients is not uncommon and not itself an ethics violation. The ACA Code of Ethics requires that counselors seek supervision or personal counseling when countertransference threatens to harm the therapeutic relationship. Immediate referral is premature if the counselor can manage the feelings. Disclosing the attraction to the client can be harmful to the client. The ethical path is professional self-monitoring through supervision, not unilateral termination or disclosure."
-  },
-  {
-    "id": "ch10_q_006",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "question": "A counselor terminates a 3-year therapeutic relationship with a client and begins a sexual relationship with her 18 months later. The client consented. Under ACA ethics, this is:",
-    "options": [
-      "Permissible — the therapeutic relationship had ended and the client is an adult",
-      "Permissible only if the counselor can demonstrate no exploitation occurred",
-      "A clear ethics violation — ACA requires a minimum 5-year post-termination waiting period",
-      "Not addressed by ACA — this is governed solely by state licensure boards"
-    ],
-    "correct_index": 2,
-    "rationale": "The ACA Code of Ethics prohibits sexual or romantic relationships with former clients for a minimum of 5 years post-termination — and even after 5 years, the counselor bears the burden of proving no exploitation. NBCC's code requires only a 2-year wait. At 18 months, this counselor has violated ACA's standard regardless of client consent, because the power differential from therapy may persist long after termination. Know the difference: NBCC = 2 years, ACA = 5 years."
-  },
-  {
-    "id": "ch10_q_007",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "question": "A National Certified Counselor (NCC) is found guilty of a serious ethics violation by NBCC. The client then files a complaint with the state licensure board. Which is MOST accurate?",
-    "options": [
-      "NBCC can revoke the NCC credential and the state license simultaneously",
-      "The state license revocation automatically revokes the NCC credential",
-      "NBCC can only revoke the NCC credential; it cannot revoke the state license",
-      "Only the state board has authority; NBCC has no enforcement power"
-    ],
-    "correct_index": 2,
-    "rationale": "NBCC is a private credentialing body — it can revoke the NCC national certification, but has NO authority over state licenses. The state licensure board is an independent regulatory body with exclusive jurisdiction over the license to practice. Revocation of the NCC does not automatically revoke the state license, and vice versa. A counselor could lose their NCC credential but retain their state license, or lose their state license but technically retain NCC status (until NBCC acts separately)."
-  },
-  {
-    "id": "ch10_q_008",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "question": "A counselor's caseload becomes unmanageable. She stops responding to a client's calls for 3 weeks and provides no referral or transition plan. This BEST illustrates:",
-    "options": [
-      "Negligence — the counselor failed to maintain a minimum standard of care",
-      "Abandonment — unilateral termination without adequate notice or referral",
-      "Malpractice — the client was harmed by a specific clinical error",
-      "Defamation — the counselor's silence damaged the client's reputation"
-    ],
-    "correct_index": 1,
-    "rationale": "Abandonment is the unilateral termination of the counseling relationship without adequate notice or referral — leaving a client without care when they still need it. This is the defining example. Negligence is broader: failure to meet the standard of care a reasonable practitioner would provide. Malpractice requires proving negligence caused demonstrable harm. Defamation (libel=written, slander=verbal) involves false statements damaging reputation — irrelevant here."
-  },
-  {
-    "id": "ch10_q_009",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "question": "A school counselor is subpoenaed for records of a 16-year-old student's counseling sessions. Under FERPA, who has the right to inspect these educational records?",
-    "options": [
-      "The student only — minors have exclusive access to their own counseling records",
-      "The parents only — minors cannot access their own records under FERPA",
-      "Parents have access; the student gains full rights at age 18",
-      "No one — school counseling records are entirely exempt from FERPA"
-    ],
-    "correct_index": 2,
-    "rationale": "Under FERPA (Family Educational Rights and Privacy Act), parents have the right to inspect and review their minor child's educational records. At age 18 (or upon entering post-secondary education), the rights transfer entirely to the student. A critical caveat: personal notes a counselor keeps for their own use and does not share with anyone else are NOT part of the educational record and are not subject to FERPA. But once records are shared with teachers or other staff, they become educational records."
-  },
-  {
-    "id": "ch10_q_010",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "question": "A mental health counselor refers a client to a psychiatrist for medication evaluation. The psychiatrist offers the counselor $50 for each referral. The counselor accepts. This arrangement is:",
-    "options": [
-      "Permissible if the client is informed and consents",
-      "Permissible as long as the referrals are clinically appropriate",
-      "An ethics violation — fee-splitting for referrals is prohibited",
-      "Legal and ethical because it creates incentive for better care coordination"
-    ],
-    "correct_index": 2,
-    "rationale": "Fee-splitting — receiving payment in exchange for referrals — is explicitly prohibited by the ACA Code of Ethics. It creates a financial conflict of interest that compromises the counselor's clinical judgment (referrals should be based on client need, not kickbacks). This differs from legitimate fee arrangements like sliding scale fees or group practice profit-sharing. Client consent does NOT make fee-splitting ethical. This is one of the clearest bright-line ethics violations."
-  },
-  {
-    "id": "ch10_q_011",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "question": "A counselor works with a client who cannot afford her standard fee. The client offers to paint the counselor's office in exchange for sessions. The counselor should:",
-    "options": [
-      "Refuse outright — all bartering is prohibited by the ACA Code of Ethics",
-      "Accept only if money is not available, no exploitation occurs, and it is not contraindicated clinically",
-      "Accept freely — bartering is encouraged when it increases access to services",
-      "Accept only if the state licensure board has approved the specific arrangement"
-    ],
-    "correct_index": 1,
-    "rationale": "The ACA Code of Ethics does NOT absolutely prohibit bartering, but sets strict conditions: (1) money is not available, (2) the arrangement is not clinically contraindicated (e.g., not appropriate with a client whose issues involve entitlement or exploitation), and (3) the arrangement is not exploitative. Bartering goods (painting the office) is considered less risky than bartering services (the client providing services to the counselor). When in doubt, the counselor should explore community resources or sliding-scale fees first."
-  },
-  {
-    "id": "ch10_q_012",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "question": "A school counselor consults with a classroom teacher about a student's behavioral issues without revealing the content of the student's counseling sessions. This type of consultation is BEST described as:",
-    "options": [
-      "Client-centered case consultation — the focus is improving services to the identified client",
-      "Consultee-centered case consultation — the focus is improving the teacher's skills",
-      "Program-centered administrative consultation — evaluating the school program",
-      "Consultee-centered administrative consultation — improving the school's policies"
+      "NCC, a generic certification for counselors",
+      "NCC, a specialty mental health certification for counselors",
+      "NCC, national certification for school counselors",
+      "MAC, master addictions counselor"
     ],
     "correct_index": 0,
-    "rationale": "Caplan's four consultation models: (1) Client-centered case — the identified client is the focus; the consultant helps the consultee help that specific client. (2) Consultee-centered case — the consultee's skills and knowledge are the focus; improving the teacher's ability to handle similar cases. (3) Program-centered administrative — evaluating a specific program. (4) Consultee-centered administrative — improving organizational policies. Here, the counselor and teacher are discussing what to do about ONE specific student → client-centered case consultation."
+    "rationale": "(b) Again, here is one of those must-know concepts, especially since many readers are striving to put NCC after their names. The NCC credential constitutes a “generic” certification. The word generic literally means “general” or “referring to all types of counselors.” Look at choice “c” and ask yourself: What is incongruent about this item? The answer is simply that the acronym for National Certified School Counselor is NCSC. NBCC offers another specialty certification, the MAC (see choice “d”). Key reminder: You can only secure specialty certificates such as CCMHC and NCSC after you secure the NCC credential. And, oh yes, one more very, very important point: Just because you are certified does not mean you can call yourself a licensed counselor. National certifications can (as the name suggests) be used on a national basis unlike licenses, which tend to be primarily state specific. Licenses are conferred by the individual state and not the federal government."
   },
   {
-    "id": "ch10_q_013",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch10_q_804",
+    "domain": "Professional Orientation and Ethics",
     "chapter": 10,
-    "question": "A client is diagnosed with Major Depressive Disorder, Single Episode, Moderate severity. In DSM-5, this would be coded as:",
+    "question": "Which choice would most likely violate the counseling ethic or law termed “scope of practice”?",
     "options": [
-      "296.22 — with a decimal after the third digit",
-      "2962.2 — with a decimal after the fourth digit",
-      "296-22 — with a hyphen separating the code",
-      "MDD/M — using an alphabetical abbreviation system"
+      "A counselor who is using good, accurate empathy with a client, but fails to confront her about her excessive drinking.",
+      "A licensed counselor who gives the client a DSM diagnostic code for insurance.",
+      "A counselor who is too active-directive with a client.",
+      "A counselor who is conducting a strict Freudian psychoanalysis with the client."
+    ],
+    "correct_index": 3,
+    "rationale": "The “scope of practice” concept suggests that counselors should only practice using techniques for which they have been trained. Most counselors are not trained in classical analysis. This concept also implies that a counselor should not attempt to treat clients for which he or she has no training. Your state counseling law could stipulate that you disclose your “scope of practice” to all potential clients."
+  },
+  {
+    "id": "ch10_q_805",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Ethical guidelines were first created for the helping professions in 1953 when the American Psychological Association (APA) published their first code of ethics. The National Association of Social Workers (NASW) created their code in 1960, and in 1961, the organization that is now ACA adopted ethics for counselors. Ethics always describe",
+    "options": [
+      "laws.",
+      "universal principles which apply to all helpers.",
+      "standards of conduct imposed by the ACA and NBCC. 352",
+      "all of the above."
+    ],
+    "correct_index": 2,
+    "rationale": "Let’s examine precisely why choices “a,” “b,” and “d” are incorrect. In regard to choice “a,” the state in which you practice may not have a law on the books that explicitly states that you can’t date a counselee, yet I can almost guarantee that your licensing board will see it as a so-called dual relationship, which could be an ethics violation. Ethics define standards of behavior set forth by organizations and certification bodies. Ethics are not state- or federally mandated laws. Unlike many laws, ethical guidelines generally do not spell out penalties for violations. Hence, the aforementioned counselor who is dating a client might lose his or her license but will not be serving time in a city jail or a federal penitentiary. Choice “b” is misleading since ethics are not universal. That is to say, the ethics set forth by one organization may not be identical to those spelled out by another organization. Exception to the aforementioned explanation! I wish life were a little simpler but often it is not. I just explained that ethics are not always identical or equal to laws; however, if your state sends you ethical guidelines that are state statutes after you secure your license, then in this instance your guidelines will be the law. Since approximately 20 states use the ACA ethical code, in these states the Code would likely qualify as the law."
+  },
+  {
+    "id": "ch10_q_806",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Most ethical dilemmas are related to",
+    "options": [
+      "confidentiality.",
+      "testing.",
+      "diagnosis.",
+      "research."
+    ],
+    "correct_index": 3,
+    "rationale": "Confidentiality implies that the counselor will not reveal anything about a client unless he or she is given specific authorization to do so. Some of the literature in the field refers to confidential material as “entrusted secrets.” What goes on in the counseling relationship remains private and not shared rather than being public. Helpers must, nevertheless, be aware that there are exceptions to this principle. The exceptions illuminate the fact that confidentiality is relative to the situation. When does confidentiality end? According to ACA ethical guidelines, counselors have an obligation to protect the confidentiality of the deceased and this should be stated clearly in your informed consent document given to the client at the beginning of treatment. Counseling Today Online once asked several ACA ethics task-force members about some issues related to this topic. Say an elderly person dies and said some nice things about surviving family members. Could you break confidentiality and tell them generally what the elderly person said? Yes! However, assume that a young man commits suicide and after his death his mother wanted to know if he hated her. The answer the experts give is that you would attempt to uphold what the son would have wanted based on documentation. If this is not clear (and very often it is not!) then it should be kept private. Can a counselor attend a funeral? You ask yourself whether it might be beneficial just as you would if you decided to attend a client’s wedding. If somebody approaches you at the funeral you can say that you knew the deceased professionally."
+  },
+  {
+    "id": "ch10_q_807",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The landmark 1969 case, Tarasoff v. the Board of Regents of the University of California illuminated (a)",
+    "options": [
+      "difficulties caused when a counselor has sex with a client.",
+      "ethical issues in relation to research.",
+      "the duty to warn a client in imminent danger.",
+      "the impact of an impaired professional."
+    ],
+    "correct_index": 2,
+    "rationale": "For the most part, I wouldn’t go around memorizing court cases for exams; however, the Tarasoff case is now so well known in the behavioral sciences that it is an exception to the rule. In 1969 a student named Prosenjit Poddar at Berkeley was receiving counseling on an outpatient basis. During the course of the treatment he revealed that he was going to kill a woman (Tatiana Tarasoff) when she returned from Brazil. The therapist consulted with other professionals and called the campus police. The therapist wanted Poddar hospitalized. Campus police spoke with Poddar but did not hospitalize him. A letter also was sent to the chief of campus police regarding this dangerous situation. Despite all the actions taken, Poddar did indeed kill Tarasoff, and Ms. Tarasoff’s parents filed suit against the Board of Regents as well as the University employees. The charge was failure to warn an intended victim. Although a lower court dismissed the suit, the parents appealed the decision, and the California Supreme Court ruled in favor of the parents in 1976. This case is often cited as an example of a professional helper’s “duty to warn” a person of serious and foreseeable harm to him- or herself or to others. ACA chose to replace the phrase “clear and imminent danger” which appeared in the previous version of their ethical code with “serious and foreseeable harm.” The newer terminology is seen as indicating that there is a broader scope of circumstances where confidentiality may need to be broken such as a client with a terminal illness who has no medical options and wishes to end his or her own life. Nevertheless, no matter what terminology is used, if another party needs to be contacted to prevent a dangerous situation then the counselor should ethically take this action even if it means violating confidentiality. Recently, some states (e.g., Illinois) have literally gone beyond Tarasoff and now stipulate that when there is “clear or present danger” (yet another way of describing a serious situation) to themselves or the community, a report must be made to a designated state agency within a brief period of time, generally 24 hours. Choice “d,” impaired professional, connotes a helper who has personal issues (e.g., substance abuse or brain damage) that would hinder the quality of services rendered."
+  },
+  {
+    "id": "ch10_q_808",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A counselor reveals information that is extremely damaging to a client’s reputation. This counselor could be accused of",
+    "options": [
+      "beneficence.",
+      "justice.",
+      "nonmaleficence",
+      "defamation"
+    ],
+    "correct_index": 3,
+    "rationale": "Hold on folks, this is starting to sound a lot like law school! That’s because I think there is a good chance that you may see one or all of the above terms on your exam. Beneficence means the counselor is working for the good of the client or the group. Justice (usually applied to group situations) means that the counselor treats all members fairly. Nonmaleficence means that the counselor will do no harm. The correct answer—defamation—describes behavior that can damage one’s reputation. It is known as libel if it is written and slander if the defamation refers to verbal remarks. A plaintiff can win a case against a counselor even if the communication was not intended as malicious. Some experts suggest that counselors should avoid psychological jargon and only communicate with others regarding a client when it is necessary (e.g., a duty to warn or responding to a request for a release of information) to avoid defamation allegations."
+  },
+  {
+    "id": "ch10_q_809",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "State laws can govern title usage and practice, however, they do not govern",
+    "options": [
+      "accreditation.",
+      "counselor licensure.",
+      "psychologist licensure.",
+      "involuntary commitment to state psychiatric facilities."
     ],
     "correct_index": 0,
-    "rationale": "DSM-5 uses a 5-digit numeric code (borrowed from ICD-10-CM) with a decimal point after the THIRD digit. Major Depressive Disorder, Single Episode, Moderate = 296.22. Memory device: 'three digits, then a dot.' ICD stands for International Classification of Diseases; DSM codes align with ICD codes for insurance billing. CPT codes (Current Procedural Terminology) are used on the superbill for procedure/service billing and are separate from diagnostic codes."
+    "rationale": "State laws regulate “licensing” of professionals such as choice “b,” counselors, and choice “c,” psychologists, and commitment procedures (choice “d”). Accreditation, however, is not the law. In fact, you need to be aware of the fact that many counselor-preparation programs are not accredited. Accreditation is a process whereby an agency or school (not an individual) meets certain standards and qualifications set forth by an association or accrediting organization. The organization that grants the accreditation usually requires site visits for the purpose of evaluating the institution initially and on an ongoing basis. Thus, programs in psychology will boast accreditation via the APA (American Psychological Association) while counseling programs can be accredited by CACREP, mentioned earlier. CACREP boasts that counselors who graduate from accredited programs score higher on the NCE. Important reminder: The term accreditation applies to programs, not individual counselors. Moreover, experts warn that accreditation is not without disadvantages. Disadvantages include that being accredited is very costly for the institution; that faculty are busy teaching required courses and thus often don’t have time to teach creative alternative courses; that the accreditation organization and not the school determines the curriculum; that faculty credentials are determined via accreditation guidelines, and this does not necessarily mean such individuals have the best teaching, clinical, or research skills; and that the program approval can be misleading inasmuch as the program could be accredited yet ineffective. Despite the aforementioned issues beginning January 1, 2022, applicants for the NCC credential will need to be graduates of CACREP institutions with a master’s degree or beyond. The new policy should improve portability so your credentials are more likely to be accepted if you move to another state."
   },
   {
-    "id": "ch10_q_014",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch10_q_810",
+    "domain": "Professional Orientation and Ethics",
     "chapter": 10,
-    "question": "A client presents with significant work stress and relationship conflict following a divorce, but meets no criteria for a DSM-5 clinical disorder. The counselor's MOST appropriate diagnostic action is to:",
+    "question": "An exception to confidentiality, or what is termed as relative confidentiality, could occur when a client is suicidal. Suicidal warning signs include",
     "options": [
-      "Diagnose Adjustment Disorder to justify insurance reimbursement",
-      "Use a V code to describe the non-psychiatric life problem",
-      "Decline to document anything since no diagnosis was made",
-      "Use a Z code for workplace stress and bill under PTSD"
+      "repeatedly joking about killing one’s self.",
+      "giving away prized possessions after one has been depressed for an extended period of time. 355",
+      "a previous suicide attempt and a very detailed suicide plan for the future.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Lately, suicide has been checking in as the tenth leading cause of death in the United States (higher than homicide!); and among those aged 15–24 suicide is the second or third leading killer. The rate for older adults is two to three times what it is for the general population. Firearms account for more suicides than all the other methods put together. Suicides are more likely to occur in rural areas that are not highly populated and in times of economic recession or depression. When a famous person commits suicide the national rate will show an increase. Most suicides occur in the spring at the end of April or May and about 75–80% of your clients will give warning signs."
+  },
+  {
+    "id": "ch10_q_811",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A statement of disclosure could include all except:",
+    "options": [
+      "A list of the courses the counselor took in graduate school.",
+      "The counselor’s qualifications, office hours, and billing policies.",
+      "Emergency procedures and therapy techniques utilized.",
+      "A statement that confidentiality is desirable, but cannot be guaranteed in a group setting."
+    ],
+    "correct_index": 0,
+    "rationale": "Some states now require a statement of disclosure be given to all potential clients. The procedure of giving the client this document and having him or her read it and sign it is sometimes referred to as “informed consent.” The client has the information to consent to the treatment."
+  },
+  {
+    "id": "ch10_q_812",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Privileged communication refers to the fact that anything said to a counselor by a client",
+    "options": [
+      "can be revealed in a court of law if the counselor decides it is beneficial.",
+      "can be revealed only if a counselor testifies in court.",
+      "is protected by laws in every state.",
+      "will not be divulged outside the counseling setting without the client’s permission."
+    ],
+    "correct_index": 3,
+    "rationale": "By definition privileged communication is a legal term that implies that a therapeutic interaction (verbal or written) will not be available for public inspection. A counselor–client relationship protected by privileged communication is one in which the client—not the counselor or the court—can choose not to have confidential information revealed during a legal proceeding (generally on the witness stand). Repeat after me out loud: the client is the holder of the privilege. Say it again! Simply put—and this is a fine memory device—it is the “client’s privilege” to reveal. In relation to choice “c,” the law varies from state to state. In some states, one mental health provider will be covered by the law (e.g., a psychologist or psychiatrist) while another provider (often a counselor, social worker, or caseworker) will not be covered."
+  },
+  {
+    "id": "ch10_q_813",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "In regard to state law and privileged communication, counselors must be aware that",
+    "options": [
+      "privileged communication exists in every state in the union for LPCs.",
+      "laws are unclear and may vary from state to state. 356",
+      "there are no laws which govern this issue.",
+      "state psychology laws are applicable in this respect."
     ],
     "correct_index": 1,
-    "rationale": "V codes (called Z codes in ICD-10) describe non-psychiatric conditions and life circumstances that may be a focus of clinical attention — such as relationship problems, occupational stress, or bereavement — without meeting criteria for a clinical disorder. They are legitimate diagnostic entries. Important exam distinction: PTSD is NOT a V code — it is a clinical diagnosis (309.81). Falsely diagnosing Adjustment Disorder solely for insurance billing purposes would be insurance fraud and an ethics violation."
+    "rationale": "Privileged communication is a legal concept that protects clients, not counselors. If a client decides to waive his or her right to privileged communication, then the counselor must reveal the information. Privileged communication legislation varies from state to state (so much for choices “a” and “c”). Check your state laws if you are taking an exam for state licensure. As of this time, some states do not have privileged communication for the licensed counselor/client relationship. Privileged communication is not applicable in cases of child abuse, neglect, or exploitation; suicide or homicide threats; criminal intentions; clients in dire need of hospitalization; or in cases where a counselor is the victim of a malpractice lawsuit. In addition, privileged communication does not apply to minors (although their legal guardians generally hold the privilege) or those who are mentally incompetent. As for choice “d,” state psychology laws would not govern the behavior of licensed professional counselors."
   },
   {
-    "id": "ch10_q_015",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch10_q_814",
+    "domain": "Professional Orientation and Ethics",
     "chapter": 10,
-    "question": "A client requests a copy of another agency's psychological evaluation report that is in her counselor's file. The counselor should:",
+    "question": "When counselors state that privileged communication is “qualified,” they actually mean that",
     "options": [
-      "Release the entire file including the evaluation, since it pertains to the client",
-      "Release only records originated by the counselor's own agency; refer client to the originating agency for the evaluation",
-      "Refuse all records releases to protect the client's confidentiality",
-      "Release the records only after a 30-day waiting period required by HIPAA"
-    ],
-    "correct_index": 1,
-    "rationale": "The minimal disclosure principle extends to third-party records: a counselor releases only records that originated from their own practice. Records created by another agency (e.g., a psychological evaluation from a hospital) should NOT be re-released — the client must request those from the originating source. This protects record integrity, respects the originating provider's release policies, and avoids the counselor taking responsibility for records they did not create. A signed release from the client is required for any records release."
-  },
-  {
-    "id": "ch10_q_016",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "question": "Which of the following MOST accurately reflects the ethical distinction between a counselor's licensure and a counselor's national certification?",
-    "options": [
-      "Licensure is granted by a private credentialing body; certification is granted by the state",
-      "Licensure is granted by the state and legally required to practice; national certification (NCC) is a voluntary credential granted by NBCC",
-      "Both licensure and NCC certification are required to legally practice in most states",
-      "National certification supersedes state licensure when the two conflict"
-    ],
-    "correct_index": 1,
-    "rationale": "Licensure = a state-granted legal permission required to practice independently as a counselor (e.g., LPC, LMHC). It is regulated by state law and can be revoked by the state board. National certification (NCC) = a voluntary, nationally portable credential granted by NBCC that recognizes competence but is NOT legally required to practice. Virginia was the first state to license counselors in 1976. CACREP accredits training programs; NBCC credentials individual counselors. These are parallel, independent systems."
-  },
-  {
-    "id": "ch10_q_017",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 10,
-    "question": "A combat veteran presents six months after returning home with persistent nightmares, hypervigilance, emotional numbing, and avoidance of anything war-related. His symptoms began approximately three months after returning. This presentation is MOST consistent with:",
-    "options": [
-      "Acute Stress Disorder — symptoms began within one month of trauma",
-      "Adjustment Disorder — a non-clinical reaction to a stressor",
-      "PTSD — symptoms emerged after a delay and have persisted beyond one month",
-      "A V code condition — occupational stress from military service"
+      "the counselor must have certification before privileged communication applies.",
+      "privileged communication applies only to doctoral-level counselors.",
+      "exceptions may exist.",
+      "all of the above."
     ],
     "correct_index": 2,
-    "rationale": "PTSD (Post-Traumatic Stress Disorder) is characterized by: (1) exposure to a traumatic event, (2) intrusion symptoms (nightmares/flashbacks), (3) avoidance, (4) negative cognitions/mood, (5) hyperarousal. Symptoms must persist MORE than one month. When symptoms emerge after a delay (as here), it may be specified as 'with delayed expression.' PTSD is NOT a V code — it is a clinical diagnosis (309.81). Acute Stress Disorder involves the same symptoms but lasting 3 days to 1 month. Combat veterans are the population at highest risk."
+    "rationale": "See the answer to question 813 for exceptions. In regard to choices “a” and “b,” it is important to note that privileged communication is based on licensure status rather than one’s graduate degree or certification credentials."
   },
   {
-    "id": "ch10_q_018",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch10_q_815",
+    "domain": "Professional Orientation and Ethics",
     "chapter": 10,
-    "question": "A counselor using telehealth wants to conduct video sessions with a client. According to ACA 2014 technology provisions, she should:",
+    "question": "You are a counselor in a state that does not legally support privileged communication. You refuse to testify in court. In this situation",
     "options": [
-      "Use standard consumer video platforms like Skype, which are free and widely available",
-      "Friend the client on a private social media account to maintain easy contact",
-      "Use HIPAA-compliant video platforms and ensure all protected health information is encrypted",
-      "Obtain verbal consent — written technology consent is not required under ACA 2014"
+      "ACA will back you for doing the ethical thing.",
+      "NBCC will back you if, and only if, you have attained NCC status.",
+      "you need not testify if your case was supervised by a licensed psychologist and/or psychiatrist.",
+      "you could be held in contempt of court."
     ],
-    "correct_index": 2,
-    "rationale": "ACA's 2014 Code of Ethics technology provisions specify: (1) Skype and standard consumer platforms are NOT HIPAA compliant and should not be used for telehealth. (2) All protected health information (PHI) must be encrypted. (3) Counselors should not friend clients on personal social media. (4) Written informed consent for technology-assisted counseling is required, covering risks of electronic communication, privacy limitations, and what happens if technology fails mid-session. Technology competence is itself an ethical obligation."
+    "correct_index": 3,
+    "rationale": "Your client in this situation would not have the “privilege” to say no if you are asked to testify."
   },
   {
-    "id": "ch10_q_019",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch10_q_816",
+    "domain": "Professional Orientation and Ethics",
     "chapter": 10,
-    "question": "A client expresses that his personal values are deeply opposed to homosexuality. His counselor, who identifies as gay, refuses to provide counseling services to this client. Under ACA 2014 ethics provisions, this counselor's action is:",
+    "question": "An 11-year-old child comes to your office with a black eye and tells you she can’t remember how she received it. You have reason to suspect abuse. You should",
     "options": [
-      "Permissible — counselors may refer clients whose values conflict with the counselor's personal identity",
-      "An ethics violation — ACA 2014 prohibits discrimination based on sexual orientation and prohibits values-based referrals that harm clients",
-      "Permissible — the counselor's safety and well-being supersede the client's access to services",
-      "Not addressed by ACA ethics — this is a personnel management issue"
+      "be empathic and discuss her feelings regarding the matter.",
+      "drop the matter as it could embarrass her.",
+      "refer her to a medical doctor of your choice.",
+      "call the child abuse/neglect hotline."
+    ],
+    "correct_index": 3,
+    "rationale": "Counselors are mandated reporters for child abuse. It is legal and ethical to break confidentiality in such cases. You must report child abuse, it’s the law! The word mandated means that a counselor does not have a choice in the matter. Your state may have a legal penalty for failure to report child abuse, sexual abuse, neglect, or exploitation. Check your state laws. Generally, counselors report incidents via the state child abuse hotline. Some exams may refer to this area of concern as “protective services,” or “children’s services.” Other exceptions or limitations to maintaining confidentiality include: a. Client is a danger to self or others. b. Client requests a release of information. c. A court orders a release of information. d. The counselor is engaged in a systematic supervision process. e. Clerical assistants who process client information and papers. f. Legal and clinical consultation situations. g. Client raises the issue of the counselor’s competence in a malpractice lawsuit. h. The client is less than 18 years of age. (If a client is a minor, a parent or guardian can demand that information be disclosed that was revealed during a session.) i. An elderly person is abused. j. An insurance company or managed care company requests a diagnosis and/or relevant clinical information. Is a counselor always on duty? I mean, what about the old “I saw a child being abused in the grocery store” dilemma? As of this writing counselors are only mandated reporters while they are performing professional duties. If you are in the grocery store tapping on watermelons and you spy a parent abusing his child, you can make the decision to report it, or not report it, just like anyone else in the store. You are not acting as a mandated reporter at that point in time. Statistically speaking, perpetrators of sexual abuse are primarily males, and perpetrators of physical abuse are generally females."
+  },
+  {
+    "id": "ch10_q_817",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "During a counseling session a 42-year-old male client threatens suicide. You should",
+    "options": [
+      "keep it a secret as the client is not a minor.",
+      "call the state child abuse/neglect hotline even though he is an adult.",
+      "call his wife and mention that a serious problem exists but be very careful not to discuss the issue of suicide since to do so would violate the client’s confidentiality.",
+      "contact his wife and advise her of possible suicide precautions."
+    ],
+    "correct_index": 3,
+    "rationale": "Most experts would agree with choice “d.” Ethics guidelines will usually say something like this: When a client’s condition indicates that there is a clear and imminent danger or serious and foreseeable harm to the client and others, the counselor must take reasonable personal action or inform responsible authorities. This may seem a bit vague (i.e., specific words such as suicide and/or homicide are not mentioned). Indeed, ethics guidelines are often not nearly as specific as counselors would like them to be."
+  },
+  {
+    "id": "ch10_q_818",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A 39-year-old female secretary you are seeing in your assertiveness training group reveals that she is plotting to shoot her husband. Based on the Tarasoff case you should 358",
+    "options": [
+      "warn the husband.",
+      "keep it confidential because an assertiveness training group is decidedly not the same as one-to-one counseling.",
+      "make a police report in the city in which the husband resides.",
+      "tell a supervisor, administrator, or board member if one exists, but do not contact her husband."
+    ],
+    "correct_index": 0,
+    "rationale": "Tarasoff implies that a responsible helper will warn an intended victim. Professionals generally adhere to the principle of minimal disclosure, which suggests that you reveal only what is necessary. Another landmark case, the Hedlund case, suggests that therapists should warn others (i.e., third parties) who also may be in danger. Tarasoff is controversial and based on a California court decision that may or may not apply to your state. Again, I recommend checking your state’s laws if your exam is for licensure status. Choice “d” also might have been appropriate had the phrase “do not contact her husband” been eliminated."
+  },
+  {
+    "id": "ch10_q_819",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You pass your exam and now have NCC status. You perform a battery of tests on your client. After you complete the testing you discover your client is in imminent danger. You receive a legal court order to turn over the test scores. You",
+    "options": [
+      "must get a signed release from the client.",
+      "you must turn over the test records complete with the test scores.",
+      "turn over the test records without the scores.",
+      "should recall that according to “aspirational ethics,” your client comes first and so you will do nothing."
     ],
     "correct_index": 1,
-    "rationale": "ACA 2014 made a significant change: counselors may NOT refuse services or refer clients based on the counselor's own personal values when doing so harms the client. ACA 2014 also explicitly prohibits: (1) discrimination based on sexual orientation, (2) referring clients for conversion therapy, (3) discriminating based on gender identity. Even when a counselor's personal values are deeply held, the professional obligation to non-discrimination takes precedence. The counselor should seek supervision to address the countertransference."
+    "rationale": "The answer is choice “b.” Skeptical? Then please read NBCC’s Certified Counselor’s Code of Ethics. In this regard we are told that normally you would not release a client’s test or assessment results without prior written consent. The exception: When there is clear and imminent danger or when legally required to do so by a government agency or a court order. Aspirational ethics (answer “d”) means that a practitioner adheres to the highest possible ethical standards."
   },
   {
-    "id": "ch10_q_020",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch10_q_820",
+    "domain": "Professional Orientation and Ethics",
     "chapter": 10,
-    "question": "A counselor is seeing a client who has been suicidal in the past but currently denies active ideation. The counselor wants to refer this client to a therapy group. Which factor would MOST likely contraindicate group treatment for this client?",
+    "question": "One impetus for counselor licensing was that",
     "options": [
-      "The client's history of suicidal ideation — suicidal clients should never be in groups",
-      "The client's denial of current ideation — paradoxical group techniques would not be appropriate",
-      "Current active suicidal or homicidal ideation — paradoxical interventions and group screening require exclusion",
-      "The client's preference — client autonomy means they choose their own treatment modality"
+      "Academy of Certified Social Workers (ACSW) wanted to restrict counselors.",
+      "politicians demanded that counselors be licensed.",
+      "psychology licensure bodies sought to restrict the practice of counselors so counselors could not receive third-party payments from insurance and managed care companies.",
+      "insurance companies pushed strongly for it."
     ],
     "correct_index": 2,
-    "rationale": "Group therapy screening ethics: clients with CURRENT active suicidal or homicidal ideation are contraindicated for group work and should not be placed in groups. Paradoxical interventions (a technique sometimes used in group settings) are also specifically contraindicated for clients who are suicidal or homicidal. Note the distinction: a HISTORY of suicidal ideation with no current ideation is not an automatic exclusion. The client in this question denies current ideation, but a thorough screening should confirm this before group placement."
+    "rationale": "Many—if not most—counselors were not able to be licensed as psychologists because one popular requirement was—and still remains—that the graduate program had to be “primarily psychological in nature,” which basically meant that persons who attended counseling programs were considered inappropriate. Licensing for counselors was needed as psychologists attained licensing (and had somewhat of a monopoly on nonmedical treatment services) in every state in the United States."
+  },
+  {
+    "id": "ch10_q_821",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A counselor who possesses a graduate degree wishes to become a licensed psychologist. Which statement most accurately depicts the current situation?",
+    "options": [
+      "Any counselor can easily become a psychologist if he or she can pass the EPPP.",
+      "A counselor can become a licensed psychologist by taking three graduate credit hours in physiological psychology and then passing the EPPP.",
+      "In nearly every case, individuals trained in counseling departments would not be allowed to sit for the EPPP and thus could not become licensed psychologists.",
+      "A counselor with a doctorate in counseling could be licensed as a counseling psychologist if he or she has a degree from a recognized department of counseling."
+    ],
+    "correct_index": 2,
+    "rationale": "Choice “c” (the correct response) provides a good rationale why counselors needed a license to call their own. EPPP stands for Examination for Professional Practice in Psychology. Roughly speaking, the EPPP is to psychologists as the NCE is to counselors. Choice “d” would be incorrect in most cases as the applicant would still generally need a degree from a psychology rather than a counseling department."
+  },
+  {
+    "id": "ch10_q_822",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A woman who is in private practice mentions in her phone book advertisement that she is a licensed counseling psychologist. This generally means that",
+    "options": [
+      "she has a doctorate from a counselor education program.",
+      "she has a graduate degree from a psychology department.",
+      "she has a degree from a CACREP program.",
+      "she has a degree in counseling but is trained in projective testing."
+    ],
+    "correct_index": 1,
+    "rationale": "The trick to answering this question is to remember that the term psychology can only be used if the helper is a licensed psychologist, even if the person specializes in counseling. Hence, the degree would need to be from a program which is primarily psychological, a psychology rather than a counseling department (rendering choice “a” incorrect). For review purposes, pertaining to choice “c” you will recall that CACREP is the Council for Accreditation of Counseling and Related Educational Programs, which is ACA’s accrediting agency. CACREP, which set up shop in 1981, currently has approximately 715 programs from 185 public and 77 private institutions. Critics charge that the number of programs sporting CACREP accreditation is still too low. Some oh-so-good news for CACREP graduate readers! CACREP accredits master’s degree programs in career counseling, college counseling, community counseling, gerontological counseling, marital, couple, and family counseling/therapy, mental health counseling, school counseling, student affairs, counselor education and supervision, and doctoral degree programs. The largest number of CACREP programs is in school counseling with community counseling not that far behind. Gerontological counseling is lacking at this time. If you have a CACREP degree under your belt and you wish to become an NCC, the two years of supervised experience is waived! You simply take the NCE and pass it and presto you’ve snared NCC credentials after your name. In addition, some states will waive a portion of the supervised experience for licensure."
+  },
+  {
+    "id": "ch10_q_823",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "One major difference between the psychology versus the counseling movement seems to be that",
+    "options": [
+      "the psychologists are working to eliminate practitioners with less than a doctorate, while the counselors are not.",
+      "counselors are working to give up tests for licensure.",
+      "psychology boards are made up primarily of psychiatrists.",
+      "in most states psychologists do not need to take an exam."
+    ],
+    "correct_index": 0,
+    "rationale": "Counselors and social workers seem comfortable with master’s level practitioners. In an early study in which ACES members were asked to comment on the minimum level of education necessary for licensure, over 45% of the respondents felt comfortable with master’s level practitioners. A little over 41% insisted that a doctorate was necessary."
+  },
+  {
+    "id": "ch10_q_824",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "APA is to psychologist as ACA is to",
+    "options": [
+      "APGA.",
+      "certified clinical mental health counselor.",
+      "counselor.",
+      "NCC."
+    ],
+    "correct_index": 2,
+    "rationale": "Here is a straightforward example of an analogy item. First, recall that the APA (in the context of this question) refers to the American Psychological Association, which is the major professional body for psychologists. ACA plays the same role for counselors."
+  },
+  {
+    "id": "ch10_q_825",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You have achieved the status of NCC. NBCC, nevertheless, feels you have violated professional ethics. NBCC can do any of the following except:",
+    "options": [
+      "Revoke your state counseling license.",
+      "Remove your name from the list of NCCs in the U.S.",
+      "Revoke your NCC status.",
+      "Note in their newsletter that your NCC status has been revoked."
+    ],
+    "correct_index": 0,
+    "rationale": "Here is the key point: Certification is not the same as licensing. Thus, a certified reality therapist cannot legally use the title counselor unless he or she is licensed by the state. A certification is given to an individual via an organization which is not part of the state or federal government. A counseling license is granted by the state government. Nevertheless, you must (yes must) be certified to call yourself a certified counselor. You could, however, call yourself a professional counselor if you are not certified. A certification is a title mastered by living up to certain standards. Does the fact that choice “d” is true surprise you? It shouldn’t! NBCC is very open and upfront about this fact and specifically states that certification violations (e.g., using the title MAC when you have not fulfilled the requirements) may be published in NBCC’s newsletter. Believe me, this is one situation where you certainly don’t need the notoriety! And oh yes, I almost forgot; this is what makes this such a difficult question. Although a certification board cannot revoke your license for an ethics violation, they do indeed reserve the right to contact your state licensing board (or other certification boards, for that matter) and your state board may well decide to take your license. The certification organization also could deny you further certification and take legal action against you. Important exam reminder: Ethical guidelines drafted via your state licensing board may indeed be at odds with your national organization’s standards (e.g., ACA, NASW)."
+  },
+  {
+    "id": "ch10_q_826",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A counselor who is alcoholic and suffering from burnout could best be described as",
+    "options": [
+      "a mesomorph.",
+      "an impaired professional.",
+      "a paraprofessional.",
+      "a counselor who is wise enough to use his own experiences to help others."
+    ],
+    "correct_index": 1,
+    "rationale": "The term impaired is used here to mean a deterioration in the ability to function as a counselor. The counselor described in this question definitely meets the criteria. Choice “a” is derived from an old theory of personality proposed by Sheldon, which suggested three basic temperaments based on one’s physical build. The mesomorph or muscular type was said to be assertive, courageous, and willing to take risks. The ectomorph, characterized by a slender or frail build, was thought to be sensitive and inhibited. The endomorph, or soft rotund individual, was inclined to love food, comfort, and relaxation. Choice “c,” paraprofessional, is used to describe a helper who does not possess the education and experience necessary to secure professional credentials."
+  },
+  {
+    "id": "ch10_q_827",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Counselor certification",
+    "options": [
+      "is synonymous with licensure.",
+      "is synonymous with program certification.",
+      "recognizes that you have reached a given level of competence and thus are authorized to use a title.",
+      "is primarily a legal process."
+    ],
+    "correct_index": 2,
+    "rationale": "If you marked anything other than choice “c,” review the explanation given in answer 825."
+  },
+  {
+    "id": "ch10_q_828",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A woman comes to you for help with an eating disorder. You have no experience or training in this area. Ethically you should",
+    "options": [
+      "refer this client to a colleague who is indeed trained and experienced with this type of client.",
+      "keep the client and work on her general lack of self-esteem.",
+      "tell the client you will do a comprehensive Internet search on the topic and then begin seeing her.",
+      "explain to the client that a symptom such as eating or not eating is not the real problem and that counseling focuses on real underlying issues."
+    ],
+    "correct_index": 0,
+    "rationale": "Would you do psychosurgery on somebody’s brain without the correct training? I didn’t think so. Choice “d” is very psychodynamic."
+  },
+  {
+    "id": "ch10_q_829",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Virginia was the first state to license counselors in 1976. The APGA (later AACD and now ACA) division that was initially the most instrumental in pushing for licensing was the",
+    "options": [
+      "American College Personnel Association.",
+      "American School Counselor Association.",
+      "Association for Specialists in Group Work.",
+      "American Counselor Education and Supervision."
+    ],
+    "correct_index": 3,
+    "rationale": "Known as ACES, the APGA set up a licensure commission in 1975. What’s in a name? Why in the world did the American Personnel and Guidance Association (APGA), founded in July of 1952, change the organization’s name to AACD (American Association for Counseling and Development) in 1983? Well, the story goes that during the late seventies and early eighties members expressed a dislike for the words personnel and guidance, as these terms did not accurately depict the work of counselors. The current nameplate, the American Counseling Association (ACA), was adopted in July 1992, after the members voted by mail. The new name was intended, once again, to clarify what members really did."
+  },
+  {
+    "id": "ch10_q_830",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The problem with income-sensitive or sliding fee scales (based on the client’s ability to pay) is that",
+    "options": [
+      "scales of this kind are unethical.",
+      "scales of this nature are illegal.",
+      "it is difficult to administer them in a fair manner.",
+      "scales like this are used frequently; however, they are unethical and illegal."
+    ],
+    "correct_index": 2,
+    "rationale": "Sliding fee scales, which are ethical and legal, are quite popular with not-for-profit agencies. Different insurance companies pay different amounts for the same service and pay different fees for different providers. Hence, the psychologist or social worker next door could very well be making a different amount than you for the same service. Hey, Albert Ellis warned us that life isn’t fair!"
+  },
+  {
+    "id": "ch10_q_831",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "One possible negative aspect of counselor licensure is that",
+    "options": [
+      "counselors would receive more third-party payments.",
+      "counselors might be accepted as providers by insurance companies.",
+      "counselors may not be as creative during their graduate work and simply take courses aimed at fulfilling the requirements to take the licensure exam.",
+      "it will take business away from psychologists."
+    ],
+    "correct_index": 2,
+    "rationale": "Choices “a” and “b” mean basically the same thing and are anything but negative, and in fact constitute two excellent reasons why counselors fought for licensure. Licensing generally adds prestige to a profession and can serve to protect the public; nevertheless, students often take precisely what is required for licensing or certification."
+  },
+  {
+    "id": "ch10_q_832",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A client wants his records sent to a psychiatrist he is seeing. You should",
+    "options": [
+      "advise against it based on current research. 363",
+      "refuse to do so based on ethical guidelines.",
+      "first have the client sign a dated release of information form that stipulates whether the information can be released once (or for what period of time it can be released) and then you can send the information.",
+      "call the psychiatrist to discuss the case but explain that state law prohibits a counselor from sending anything in writing about the client."
+    ],
+    "correct_index": 2,
+    "rationale": "Clients have a right to “privacy.” Do not use a xerox or photocopy of the client’s signature on any release of information form. Exam hint: If you or your agency didn’t collect the information in the record then don’t send it even with a release form. What’s that you say? That doesn’t make sense. Okay, let’s assume that your client was seen at the local homeless shelter. You had him sign a release and now have information from that particular shelter. Now the information from the homeless shelter is part of your record file. But, as you well know from the question, a psychiatrist wants the client’s record from you. You should not send what you acquired from the homeless shelter. Can the psychiatrist secure this information? After all, it might prove clinically valuable. Of course, but the psychiatrist will do precisely what you did. The psychiatrist can procure it simply by having the client sign a release which the psychiatrist will send to the homeless shelter. Exam hint: Your exam might refer to a release of information as consent to disclose or transfer records. Also note that you may not record or observe sessions without permission of the client."
+  },
+  {
+    "id": "ch10_q_833",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You are a licensed professional counselor in one state but will soon relocate to another state. The new state informs you that they will grant you reciprocity or so-called endorsement. You will thus",
+    "options": [
+      "simply need to take the licensing test in the new state.",
+      "be permitted to practice in the new state based on your current credentials without taking another exam.",
+      "need to take numerous graduate courses.",
+      "not be allowed to practice until you serve an internship."
+    ],
+    "correct_index": 1,
+    "rationale": "Reciprocity occurs when one state or organization accepts the license or credentials of another state or organization. Cool huh? Yeah, well don’t get your hopes up! State requirements for licensure differ and thus one state does not always accept credentials snared in another state. When that occurs we merely say that the state the counselor is moving to will not grant the counselor reciprocity. The profession, especially CACREP, is working diligently to enhance portability (the ease that something can be transferred) so that one state would accept another’s credentials."
+  },
+  {
+    "id": "ch10_q_834",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "According to the Family Educational Rights and Privacy Act (FERPA) of 1974 (also known as the Buckley Amendment)",
+    "options": [
+      "a parent can see his or her daughter’s middle school record.",
+      "an 18-year-old college student can view his or her own educational record.",
+      "a and b. 364",
+      "a and b are both illegal."
+    ],
+    "correct_index": 2,
+    "rationale": "Although the act applied to educational files (often called student cumulative record files) rather than counseling records, most agencies and ethical bodies created procedures so clients who wish to can view their records. In order to abide by FERPA, school counselors are urged to keep their counseling notes separate from the rest of the student’s file and to make certain other teachers do not have access to the files. However, school counselors should be aware that a court of law can still subpoena the actual counseling notes or request that the counselor testify."
+  },
+  {
+    "id": "ch10_q_835",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You are a school counselor who wishes to refer a student with an orthopedic disability to a private therapist. In general, the best referral would be to",
+    "options": [
+      "a CRC.",
+      "a MAC.",
+      "a licensed clinical psychologist.",
+      "a licensed social worker."
+    ],
+    "correct_index": 0,
+    "rationale": "CRC stands for Certified Rehabilitation Counselor. CRCs will need at least a master’s in rehabilitation counseling from a dually accredited CACREP, CORE (Council on Rehabilitation and Education) program, acceptable experience in the field, and a passing score on a 175-question multiple-choice examination. CACREP and CORE have now merged. Choice “b” is a certification specialty of NBCC known as master addictions counselor."
+  },
+  {
+    "id": "ch10_q_836",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A registry would be",
+    "options": [
+      "a list of licensed psychologists in the state of Illinois.",
+      "a list of CRCs in the United States.",
+      "a and b.",
+      "the registration process for counselor licensure in the state of Missouri."
+    ],
+    "correct_index": 2,
+    "rationale": "A registry is always a list of providers. A person whose name is included in a state counseling registry can sometimes use the title “registered professional counselor” or RPC."
+  },
+  {
+    "id": "ch10_q_837",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A counselor wins the lottery and closes her practice without telling her clients. This counselor’s course of action is best described as",
+    "options": [
+      "a multiple relationship.",
+      "defamation.",
+      "abandonment.",
+      "nonmaleficence."
+    ],
+    "correct_index": 2,
+    "rationale": "In most situations, ethics frown on multiple or dual relationships such as counseling a client you are dating! Imagine how objective you will be when the client divulges during the next session that he or she is dating somebody he or she likes better! Are ethical guidelines becoming—dare I say it—a bit more humanistic? Perhaps! The first major change in the tide began in 2005 when ACA dropped the term dual relationships from their ethical guidelines because they felt that in some instances a relationship of this nature could be beneficial (such as attending a client’s graduation or visiting them in the hospital). In the newer 2014 ACA Codes, the phrase “noncounseling roles and relationships” is used. The counselor is advised to include in his or her counseling notes why such action would be beneficial. The counselor should also discuss any potential benefits and harm that could occur. Whenever possible, the notation should appear prior to the actual event. Sexual or romantic activity with any current client is unethical under the new or the old set of ethics! Defamation occurs when a counselor says something (i.e., slander) or writes something (i.e., libel) that damages a client’s reputation. Nonmaleficence means to do no harm. The client in this question is the victim of abandonment, which occurs when a counselor stops providing services and does not refer the client to another helper."
+  },
+  {
+    "id": "ch10_q_838",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You are counseling your first cousin for depression. This is",
+    "options": [
+      "ethical.",
+      "not actually an ethical issue.",
+      "ethical if you continue to counsel her and refer her to a psychiatrist for an antidepressant.",
+      "generally unethical as it would constitute a dual or so-called multiple relationship."
+    ],
+    "correct_index": 3,
+    "rationale": "A dual relationship, multiple relationship (NBCC's term for this behavior), or noncounseling relationship results when a counselor has another significant relationship with the client that hinders objectivity. A dual relationship is also said to exist when a supervisor accepts a subordinate or administrator as a client. A gentle reminder: If you have had a previous sexual or romantic relationship with an individual you should not be that person’s counselor or therapist."
+  },
+  {
+    "id": "ch10_q_839",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A counselor who sports NCC after her name",
+    "options": [
+      "will need not concern herself with continuing education.",
+      "will need to complete three graduate courses every 10 years.",
+      "will never receive credit for workshops but should attend for her own personal growth nevertheless.",
+      "will need a specified amount of continuing education contact hours before she can be recertified, or she will need to take the NCE again."
+    ],
+    "correct_index": 3,
+    "rationale": "One hundred hours of professional development are needed during a five-year period. Recently, home study programs and online courses have made this process more convenient."
+  },
+  {
+    "id": "ch10_q_840",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You find yourself sexually attracted to a client. This is known as",
+    "options": [
+      "countertransference.",
+      "ambivalent transference.",
+      "negative transference.",
+      "positive transference."
+    ],
+    "correct_index": 0,
+    "rationale": "(d) A typical manifestation of countertransference would be romantic or sexual feelings toward a client. Countertransference is an indication of unresolved problems on the part of the helper."
+  },
+  {
+    "id": "ch10_q_841",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Your sexual attraction toward your client is hindering the counseling process. You should",
+    "options": [
+      "continue treatment but be honest and empathic with the client.",
+      "ignore your feelings; after all you are a professional.",
+      "explain this to the client and then refer the client to another provider.",
+      "continue to see the client but ignore psychosexual topics."
+    ],
+    "correct_index": 2,
+    "rationale": "The word hindering is critical to answering the question correctly. If the counselor felt a sexual attraction which had “not” as yet hindered the treatment process, then personal therapy/professional supervision for the counselor would be the most desirable plan of action. Moreover, prior to the point where the counselor’s attraction interfered with the treatment, most experts would advise against discussing the attraction with the client. According to the NBCC code, even one inappropriate behavior on the part of the helper constitutes sexual harassment."
+  },
+  {
+    "id": "ch10_q_842",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A malpractice or liability insurance company is least likely to defend you if",
+    "options": [
+      "you are sexually involved with a client.",
+      "you violate confidentiality.",
+      "you do not have a client sign a release of information and send a record to another agency or provider.",
+      "you call a state child abuse hotline and a client takes legal action since the child was actually the victim of an accident."
+    ],
+    "correct_index": 0,
+    "rationale": "Some states will revoke your license for sexual misconduct even if it occurs outside the session and even if the client has consented! In addition, your license may be revoked even if the client is not damaged or harmed by the experience. The fact that a client seduced you is irrelevant even if it is true. Some insurance companies pay smaller settlements or no settlement in cases where you are found guilty of sexual harassment or misconduct. Let me share with you what my current professional liability insurance occurrence form states. It says: “A smaller limit of liability applies to judgments or settlements when there are allegations of sexual misconduct.” In addition, if a counselor is found guilty most insurance companies will cancel the insurance and the possibility of finding another company to insure a counselor in this situation is very difficult. A counselor should never have a sexual relationship with a current client. It is even considered illegal in most areas of the country. NBCC ethics stipulate that you should not engage in sexual intimacies with a former client within a minimum of two years after terminating the counseling relationship. If you engage in such a relationship after the two-year period you must be able to document that the relationship was not exploitative in nature. ACA ethics indicate that a minimum of 5 years must pass before the counselor can have a romantic relationship with the client. Hint: If your ethics exam is created via your state board, check state regulations regarding nonerotic touching; some states stipulate that behaviors such as hugging a client are unethical."
+  },
+  {
+    "id": "ch10_q_843",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Computers are now being used in various counseling settings. Counselors speak of computer-assisted counseling (CAC) and computer-managed counseling (CMC). An office that employs a computer to schedule clients would be an example of",
+    "options": [
+      "CMC.",
+      "CAC.",
+      "an ethical violation.",
+      "the misuse of computers, though the practice is ethical."
+    ],
+    "correct_index": 0,
+    "rationale": "When a computer helps manage your practice (yes, just like a manager) then it is known as CMC. CMC would include tasks such as bookkeeping, client scheduling, printing billing statements, and compiling referral sources. CAC is like having a counseling “assistant” do the counseling for you. A computer software program that attempts to counsel clients is an example of CAC in action. CAC is controversial and most experts agree computers can never provide the compassion of a human doing counseling."
+  },
+  {
+    "id": "ch10_q_844",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A college student who suffers from panic disorder types his symptoms and concerns onto a PC screen and then waits for the computer program to respond or question him further. The student engages in this practice for a 40-minute session per week. This is an example of",
+    "options": [
+      "CAC.",
+      "CMC.",
+      "computer-managed counseling.",
+      "b and c."
+    ],
+    "correct_index": 0,
+    "rationale": "Again, the computer “assists” in the actual practice of counseling; hence the term computer-assisted counseling, a humanistic counselor’s worst nightmare!"
+  },
+  {
+    "id": "ch10_q_845",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A counselor educator has created a research study. He is using students as research subjects. This is commonplace.",
+    "options": [
+      "Student participation can be mandatory as part of a counseling course.",
+      "Student participation can be mandatory for students who have finished their coursework and are completing a dissertation, thesis, or required scholarly paper.",
+      "Participation or lack of it cannot impact the student’s academic standing.",
+      "According to ethics the student cannot participate in the research if he or she is not currently enrolled in the counselor educator’s class."
+    ],
+    "correct_index": 2,
+    "rationale": "Likewise, NBCC’s code tells us that if you use clients you may not stipulate that they must participate in order to receive counseling services"
+  },
+  {
+    "id": "ch10_q_846",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Which statement best describes the counseling profession’s reaction to computer-assisted counseling and computer-managed counseling? 368",
+    "options": [
+      "Counselors are very humanistic and seem to dislike CMC and CAC technology.",
+      "Counselors have welcomed both forms of computer technology with open arms.",
+      "CMC has been well received since it cuts down time on paperwork, scheduling, and record keeping, but there is a mixed reaction to CAC as some feel it depersonalizes counseling.",
+      "Counselors dislike CMC but praise CAC highly."
+    ],
+    "correct_index": 2,
+    "rationale": "Work around any agency, school counseling office, or private practice and you’ll surely hear counselors complaining about paperwork, ergo the enthusiasm over CMC procedures. CAC, nevertheless, seems a bit cold and depersonalizing in a field which emphasizes concepts like empathy and positive regard. Besides, when computers display warmth they tend to electronically shut down!"
+  },
+  {
+    "id": "ch10_q_847",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You secure a state license and NCC status and open a private practice. Your cousin comes to the agency for supervision to get his state license.",
+    "options": [
+      "You would supervise him just like anybody else.",
+      "You could supervise him if he is your second cousin, but not your first cousin.",
+      "Consultation is very important in today’s world. You could supervise him if you receive a consultation and the consultant approves of it.",
+      "It would be unethical to supervise him."
+    ],
+    "correct_index": 3,
+    "rationale": "Surprise! The answer is choice “d.” NBCC ethics keep it very simple: “Supervisors should not supervise relatives.”"
+  },
+  {
+    "id": "ch10_q_848",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A counseling journal article should use documentation (i.e., references) that is based on",
+    "options": [
+      "APA style.",
+      "MLA style taught in most English composition classes.",
+      "a or b.",
+      "none of the above."
+    ],
+    "correct_index": 0,
+    "rationale": "Counseling journals conform to the standards of the Publication Manual of the American Psychological Association. The reality is, however, that many of us took only English composition courses that taught MLA, rather than APA style."
+  },
+  {
+    "id": "ch10_q_849",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A 14-year-old male threatens to blow up his parents’ garage because he has been grounded. You believe his threat is genuine. You should",
+    "options": [
+      "ask the child if he will sign a release of information so you can talk to his parents.",
+      "not talk to the parents since this would weaken the bond of trust you have with the client.",
+      "have the child sign a contract stating he will not blow up the garage but mention nothing to the parents.",
+      "warn the parents that their property is in danger."
+    ],
+    "correct_index": 3,
+    "rationale": "There is little evidence to suggest a right or a wrong answer to this question. Nevertheless, a case tried in the Supreme Court of Vermont suggested that a mental health agency was negligent for not warning parents that their son, who was in therapy, threatened to burn down their barn—which he did. So until further notice, a warning is in order."
+  },
+  {
+    "id": "ch10_q_850",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A 16-year-old girl threatens to kill herself and you fail to inform her parents. Your behavior as a counselor is best described as",
+    "options": [
+      "an example of a multiple relationship.",
+      "an example of informed consent.",
+      "an example of negligence, which is a failure to perform a duty, and in this instance is an obligation to protect the client.",
+      "multiple submission."
+    ],
+    "correct_index": 2,
+    "rationale": "Here is a myriad of terms related to counseling ethics. A dual relationship, also called a multiple relationship or noncounseling relationship (choice “a”), occurs when a counselor has a relationship with the client in addition to being his or her counselor (e.g., a sexual relationship or a business deal with the client). As stated earlier, in many instances ethics frown on this practice, claiming that it prevents professional objectivity. A referral to another professional might be necessary to avoid this in some instances. Informed consent, on the other hand, is an example of a desirable counselor behavior that can actually reduce the chances of a malpractice suit. Informed consent is roughly the opposite of mystifying the counseling process. The counselor “informs” the client what will take place so the client will have the necessary information to decide whether he or she wants to “consent” to the procedure. Informed consent applies to research (e.g., a fair explanation of benefits, discomfort, freedom to withdraw from the study at any time, etc.) as well as counseling! Multiple submission (choice “d”)—a violation of ethics —transpires when a journal article is submitted to more than one journal at a time. Negligence (choice “c”) is evident when a counselor “neglects” or fails to perform a required behavior."
+  },
+  {
+    "id": "ch10_q_851",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "NBCC has developed a code of ethics to help counselors behave in a professional manner. The Code warns against stereotyping and discrimination. All of the following would be examples of stereotyping and discrimination except:",
+    "options": [
+      "Advising an African American client to avoid graduate school because you believe the Jensen research regarding African Americans and IQ scores.",
+      "Advising a client to consider switching his college major based on your clinical judgment as well as the results from an extensive test battery.",
+      "Advising a female client to avoid taking a management position because you feel women are generally nonassertive.",
+      "Advising a female client to avoid taking a management position because you feel women managers are generally too aggressive."
+    ],
+    "correct_index": 1,
+    "rationale": "Discrimination is the practice of not treating all clients in an equal manner especially due to religious, racial, ethnic, sexual, or cultural prejudice on the part of the therapist. Stereotyping occurs when a counselor views all persons of a given classification or group in a biased manner (e.g., all women are too nonassertive to hold management positions; or all therapists are crazy—I knew that one would get your attention even after pondering 851 questions!)."
+  },
+  {
+    "id": "ch10_q_852",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "NBCC ethics caution counselors against sexual harassment. An example of an ethics violation in this respect would be",
+    "options": [
+      "a female counselor who tells a male client how sexy his hairy chest looks when he leaves his shirt unbuttoned. The male client blushes and appears uncomfortable.",
+      "a male counselor who smiles to reinforce a female client (who is overly critical of her looks) who has just said that she is beginning to accept her feminine qualities.",
+      "a female career counselor who tells a male client that she feels his gray flannel suit would be the most appropriate for a given job interview.",
+      "when a client who has been very depressed and neglecting her looks comes into the therapy session looking much better and the counselor comments, “You certainly look nice today.”"
+    ],
+    "correct_index": 0,
+    "rationale": "A 1977 study by Holroyd and Brodsky of 1,000 Ph.D. licensed psychologists (500 females and 500 males) found that when erotic contact did occur it was usually between male therapists and female clients. And of those therapists who had intercourse with patients, 80% repeated the act. Of male therapists, 5.5% reported having intercourse with a patient, while the female therapist rate was 0.6%. Most of the therapists in the study felt erotic contact is never beneficial to clients. Response “a” is illustrative of a sexually inappropriate comment on the part of a helper. Ethics warn that a single or multiple occurrence of verbal, nonverbal, or physical actions that are unwelcome or perceived as harassment by a “reasonable person” would fall into the unethical category."
+  },
+  {
+    "id": "ch10_q_853",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You are a well-known cognitive behavior therapist who heads up a private practice in New Jersey. For the next two years you will be in Canada conducting a research project. Your practice has six other counselors. The practice is sending brochures to schools, agencies, and hospitals in an attempt to boost referrals. Your name appears on the front of the brochure as if you are available for referrals. This is",
+    "options": [
+      "totally ethical.",
+      "unethical.",
+      "possibly ethical and possibly unethical. Not enough information is given to answer this question.",
+      "irrelevant since ACA and NBCC ethics do not address private practice."
+    ],
+    "correct_index": 1,
+    "rationale": "The verdict: unethical. Ethics do address private practice and suggest that persons who hold leadership roles not allow their names to be used in professional notices when they are not practicing counseling unless this is clearly stated in the practice’s literature."
+  },
+  {
+    "id": "ch10_q_854",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A colleague of yours who is not a certified counselor behaves in an unethical manner. The ethical thing for you to do is",
+    "options": [
+      "ignore it; unfortunately you have no rights in this situation. 371",
+      "consult the school the person graduated from.",
+      "attempt to rectify the condition via institutional channels, and if this fails report it to regulatory organizations.",
+      "all of the above are considered ethical."
+    ],
+    "correct_index": 2,
+    "rationale": "According to NBCC the counselor in question could be any mental health professional."
+  },
+  {
+    "id": "ch10_q_855",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A client asks you (and you have NCC status) for classical psychoanalysis yet you have no training whatsoever in this area. If you agree to analyze the client, you are",
+    "options": [
+      "violating the duty to warn.",
+      "still ethical if you possess LPC or NCC.",
+      "unethical as this is misrepresentation.",
+      "still ethical if, and only if, you have a doctorate."
+    ],
+    "correct_index": 2,
+    "rationale": "Six doctorates and a wall covered with LPC and NCC credentials will not change the situation. The NBCC’s Code of Ethics states: “NCCs provide only those services for which they have education and qualified experience.” The same goes for tests and assessments. Now assuming the above counselor had extensive training, say via an analytic institute, then he or she could perhaps provide this service ethically."
+  },
+  {
+    "id": "ch10_q_856",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "In your initial disclosure statement it was clearly explained to the client that she must pay her bill in a timely manner. She did not. According to ACA ethical guidelines you can terminate her.",
+    "options": [
+      "This practice was ethical at one time, but now it is not ethical under any circumstances.",
+      "This practice was not mentioned, but experts have been very critical of this omission.",
+      "This practice is ethical whether you revealed this to the client in the initial disclosure statement or not.",
+      "This practice is ethical if you revealed this to the client in the initial disclosure statement."
+    ],
+    "correct_index": 3,
+    "rationale": "Counselors are allowed to adjust fees when it is legally permitted."
+  },
+  {
+    "id": "ch10_q_857",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Dr. X recommends to his clients at the agency where he practices that he would rather counsel them in his private practice. Ethically speaking",
+    "options": [
+      "Dr. X has every right to do this.",
+      "Dr. X is diverting agency clients to his practice and this is unethical.",
+      "guidelines do not address this practice.",
+      "NBCC and ACA actually encourage this method for private practitioners who wish to increase the number of clients they can assist."
+    ],
+    "correct_index": 3,
+    "rationale": "This is also a great way to get yourself fired from the agency!"
+  },
+  {
+    "id": "ch10_q_858",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You wish to use an experimental treatment strategy. According to NBCC (b)",
+    "options": [
+      "this is a blatant ethics violation.",
+      "you can do it since you are advancing the profession in a scientific manner.",
+      "this could be ethical if you explain this to the client and the client agrees.",
+      "it could be ethical, but since it is experimental you must make an audio or video recording of the interview."
+    ],
+    "correct_index": 2,
+    "rationale": "Certified counselors will clearly inform clients of the purposes, goals, and techniques utilized. Some textbooks in the field may have inadvertently given counselors the false notion that it is best to mystify the counseling process such as when prescribing paradoxical interventions. Must-know principle: Paradoxical interventions—in which a client is told to exaggerate a symptom—are contraindicated in cases with homicidal or suicidal clients."
+  },
+  {
+    "id": "ch10_q_859",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A counselor is counseling an executive secretary. The counselor is writing a book and mentions this to the client. The counselor suggests that as paying for the counseling might be a hardship for the client so the client could type the counselor's manuscript. This is",
+    "options": [
+      "known as bartering and unethical as described here.",
+      "known as bartering and ethical.",
+      "known as bartering and is highly recommended for clients with limited income.",
+      "is known as bartering and ethics encourage this practice whenever possible."
+    ],
+    "correct_index": 0,
+    "rationale": "And what happens to the counselor’s objectivity if the secretary is doing a poor job or worse yet not completing the manuscript? The practice of “bartering” is discouraged. Bartering occurs when a client exchanges goods or service for treatment or testing (e.g., I’ll paint your car if you provide me with six sessions of therapy). Currently, ethics allow the practice of bartering if the client requests it, a written contract is drafted, it does not result in any harm, and the relationship is not exploitative."
+  },
+  {
+    "id": "ch10_q_860",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Ethics state that a counselor should ________ all clients for group counseling.",
+    "options": [
+      "diagnose",
+      "test",
+      "screen",
+      "a and b"
+    ],
+    "correct_index": 2,
+    "rationale": "Some clients are inappropriate for group work."
+  },
+  {
+    "id": "ch10_q_861",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You are a middle school counselor at a public school. A child is threatening to kill another student and admonishes you to keep it a secret. According to the ethical principle of minimal disclosure the best course of action would be to",
+    "options": [
+      "try to talk the client out of his plan of action but do not violate his confidentiality by telling anyone else.",
+      "call the major radio and television stations as research clearly indicates that publicity can stop school tragedies.",
+      "call the police and give them a complete blow-by-blow description of the counseling session.",
+      "inform the parents of the student in danger, inform the principal, and call the police immediately, discussing only material related to the threat."
+    ],
+    "correct_index": 3,
+    "rationale": "An important mini-review here: Minimal disclosure means that if you must break confidentiality you reveal only what is necessary (i.e., a minimal amount) and when possible inform the client that you are going to disclose confidential information. In reality, there is no perfect answer to a question such as this."
+  },
+  {
+    "id": "ch10_q_862",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Your agency uses a collection agency when clients don’t pay their bills. You should",
+    "options": [
+      "not take a chance on degrading the therapeutic relationship by mentioning it.",
+      "explain to the client that ethically the agency can do this; however, a private practitioner is not allowed to use a collection agency and thus a private counselor might be a wiser choice.",
+      "inform the client of this before the counseling begins.",
+      "never do this as it is unethical in our field."
+    ],
+    "correct_index": 2,
+    "rationale": "The ethical principle of informed consent dictates that the counselor should give the client this information upfront."
+  },
+  {
+    "id": "ch10_q_863",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You have just made a landmark discovery which you feel could literally change the entire field of counseling and thus you write an article which depicts your findings. The next step would be to",
+    "options": [
+      "submit the article to no more than two journals simultaneously.",
+      "submit the article to every major APA and ACA journal published.",
+      "submit the article to one publication at a time despite your conviction that the article must get published.",
+      "write your state licensing board and request permission for multiple submission privileges."
+    ],
+    "correct_index": 2,
+    "rationale": "The NBCC code sets the record straight: “Counselors submit manuscripts for consideration to one journal at a time.” In our field, multiple or duplicate submissions are unethical in relation to journal articles. Exam hint: Once your article is published you may not have it republished elsewhere without the express permission of the first publisher."
+  },
+  {
+    "id": "ch10_q_864",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Consulting is included in ethical guidelines. Consultation can best be defined as",
+    "options": [
+      "a voluntary relationship between a professional helper and a help-needing individual that is generally longer than supervision.",
+      "a brand or paradigm of long-term psychotherapy.",
+      "a systematic process based on classical conditioning.",
+      "a voluntary relationship between a professional helper and a help-needing individual, group, or social unit in which the consultant helps define or solve problems related to clients, the client"
+    ],
+    "correct_index": 3,
+    "rationale": "system, or work-related issues. One ethical consideration here is that the consulting relationship encourages growth and self-direction for the consultee. The consultant should not become a decision maker for clients or create a dependent relationship. If choices “b” and “c” are unclear, reread the questions and answers in this book in the Counseling and Helping Relationship sections. In most instances consultation services do not go on as long as supervision services."
+  },
+  {
+    "id": "ch10_q_865",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "NBCC’s Code of Ethics describes ethical issues related to private practice. Which of these situations is clearly an ethics violation?",
+    "options": [
+      "A private practitioner who advertises in the Yellow Pages.",
+      "A private practitioner who advertises in a daily newspaper.",
+      "A counselor who terminates a professional relationship with a client because she feels it is no longer productive for her client. She refers the client to another helper.",
+      "An executive director of a private practice who has his name listed on the practice’s website as a counseling provider despite the fact that he is out of the country and is engaged in a research project for the next two years."
+    ],
+    "correct_index": 3,
+    "rationale": "I hope I am getting my message across here: Expect to see a host of questions related to the practical application of all the major areas of counseling—not just ethics—on your exam. The helping professions have become more liberal about advertising practices and thus, based on the information in choices “a” and “b,” you cannot say they are unethical. Counselors in executive leadership roles should not allow their names to be used in professional notices at times when they are not performing counseling."
+  },
+  {
+    "id": "ch10_q_866",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Nosology refers to a system of classification. Name the nosological system(s) utilized by professional counselors who diagnose clients.",
+    "options": [
+      "DSM.",
+      "ICD.",
+      "a and b.",
+      "The Rogerian classification system."
+    ],
+    "correct_index": 2,
+    "rationale": "Did you mark choice “a”? Well give yourself an A- because that’s not really a bad answer. In fact, it is not even an incorrect answer. The answer I wanted you to mark, nevertheless, was choice “c” since some third-party payers have begun asking for ICD (International Classification of Disease) codes (choice “b”). Strict Rogerians, choice “d,” frown on formal diagnosis."
+  },
+  {
+    "id": "ch10_q_867",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The Diagnostic and Statistical Manual of Mental Disorders (DSM) was created by the American Psychiatric Association (APA). The Manual of the International Statistical Classification of Diseases, Injuries, and Causes of Death (ICD) was created by the World Health Organization (WHO). Which counselor would most likely be required to utilize one of these guides to diagnose a client? 375",
+    "options": [
+      "A counselor who wishes to secure insurance (i.e., third-party) payments.",
+      "A school counselor discussing a child with a teacher.",
+      "A multicultural counselor who is seeing a client who grew up in another country.",
+      "A counselor leading a T-group."
+    ],
+    "correct_index": 0,
+    "rationale": "Some experts (e.g., Jay Haley and Carl Rogers) have noted that the formal process of diagnosis is not necessarily a good thing. Giving the client a diagnosis may bias the counselor or cause the counselor to stereotype the individual. Diagnosis has been seen as dehumanizing, and a given diagnosis does not necessarily imply a given cure. Despite all the aforementioned difficulties, insurance companies/managed care organizations ask for a diagnosis before paying for a service; this is a remnant of the so-called medical model. Remember: The DSM is produced by a medical organization, the American Psychiatric Association (yes unfortunately, there’s another APA to commit to memory)."
+  },
+  {
+    "id": "ch10_q_868",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Traditionally, ________ counseling has caused the most ethical concerns.",
+    "options": [
+      "behavioral",
+      "person-centered",
+      "humanistic",
+      "reality therapy"
+    ],
+    "correct_index": 0,
+    "rationale": "The concern has been that behavior therapists can control, manipulate, and shape behavior. Is it ethical, for example, to use aversive conditioning such as electrical shocks, drugs, or paralysis to eliminate smoking, alcoholism, or gambling? Some clients in token economy behavior modification systems have questioned the legality of using contingencies in the form of reinforcement to get them to talk, work, behave, dress, or interact in a certain way."
+  },
+  {
+    "id": "ch10_q_869",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Insurance payments are also called",
+    "options": [
+      "mandated payments.",
+      "third-party payments.",
+      "optional payments.",
+      "psychometric payments."
+    ],
+    "correct_index": 1,
+    "rationale": "Keep in mind that third-party payments do not always cover the entire counseling fee. An insurance policy, for example, could pay only 50% or 80%. Other third-party systems have a maximum fee for services which could conceivably be less than your normal rate. When a client pays for a portion of the service it is known as a “copayment.”"
+  },
+  {
+    "id": "ch10_q_870",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The DSM-5 no longer uses a multiaxial classification system or GAF scale. Diagnostic codes have ________ digits.",
+    "options": [
+      "four or five",
+      "two 376",
+      "nine (which correspond to the DOT)",
+      "12"
+    ],
+    "correct_index": 0,
+    "rationale": "Examples: 300.3 Obsessive-compulsive disorder or 305.50 Opiod use disorder. Mild. On occasion, the first digit can be a letter such as V62.3 Academic or educational problem."
+  },
+  {
+    "id": "ch10_q_871",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Identify the DSM code.",
+    "options": [
+      "29622",
+      "29.622",
+      "296.99",
+      "2962.2"
+    ],
+    "correct_index": 2,
+    "rationale": "You would not need to know that this is the code for “Disruptive mood dysregulation disorder” to answer this question. In fact let me give you some friendly advice: Do not waste one second of your time memorizing the code numbers for diagnoses for the NCE or the CPCE. The idea of these questions is to familiarize you with the format of the diagnostic process. Choice “c” is correct. As mentioned in the answer to the last question, the decimal point occurs after the third digit."
+  },
+  {
+    "id": "ch10_q_872",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A counselor educator is giving a seminar on the DSM-5. She gives the students a handout and it lists hoarding disorder and obsessive-compulsive disorder as both having the same 300.3 code. This most likely explanation is:",
+    "options": [
+      "that this could be correct since two diagnoses can share a single code.",
+      "it is a typo on the handout.",
+      "this is a trick question since the counselor educator must be quoting an ICD code.",
+      "she is a researcher and thus does not realize all disorders have unique codes."
+    ],
+    "correct_index": 0,
+    "rationale": "Because of the fact that a single code can truly represent multiple conditions it is imperative that you list the name of the condition in the client’s chart or medical record."
+  },
+  {
+    "id": "ch10_q_873",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "During a counseling session your client tells you in great detail how he robbed a convenience store six months ago. He got away with a huge sum of money and shot the owner. His descriptions are extremely specific and you believe every word he says. In reality, you are very familiar with the case because the police never solved it and it has been all over the radio and television stations in your town. There is even a huge reward to anybody who can help law enforcement agencies solve the case. Ethically, you should",
+    "options": [
+      "call the police and tell them everything you know.",
+      "urge the client to call the police and turn himself in.",
+      "call the anonymous crime tips line since as a counselor you would not be permitted to reveal your true identity.",
+      "just keep it confidential."
+    ],
+    "correct_index": 3,
+    "rationale": "I’m not a betting man, but if I were I would bet this question will be the most controversial in this entire tome! Let’s look at each answer stem. Remember that the question says “ethically.” It is possible your state laws dictate something different. Okay, first this client’s actions—horrific as they might seem to you—occurred in the past. Based purely on the information in the question there is no reason to believe this client is going to harm himself or anybody else in the future … so don’t read things into the question which do not exist. Therefore, a Tarasoff duty to warn or protect is decidedly not applicable. Choice “a” would violate the client’s confidentiality. Choice “b” should be avoided because you are not the client’s attorney. He might take legal action against you if he turns himself in and doesn’t like the consequences! Choice “c” is still breaching confidentiality. So, at least as of this writing, choice “d” is the undisputed correct answer although I would be mighty surprised if you didn’t have some extremely powerful feelings about doing nothing with the information in this situation."
+  },
+  {
+    "id": "ch10_q_874",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "All of the conditions below are V code diagnoses except:",
+    "options": [
+      "Acculturation problem.",
+      "Occupational problem.",
+      "Post-traumatic stress disorder.",
+      "Academic problem."
+    ],
+    "correct_index": 2,
+    "rationale": "In addition to the three V codes listed above, others include: malingering (which is avoiding life’s work or duties by intentionally exaggerating or feigning physical symptoms or illness), parent–child problems, occupational problems, noncompliance with medical treatment, other interpersonal problems, and a phase of life or circumstances problem (such as enduring a divorce). In essence, these are what the average person might consider day-to-day problems rather than a psychiatric or psychological difficulty. Survivors of a trauma such as an abduction, airplane crashe, flood, often experience post-traumatic stress disorder (PTSD), however, persons who experienced combat are statistically the most likely. Often PTSD symptoms are said to be delayed in the sense that they do not manifest themselves immediately following the trauma. Reliving the event via flashbacks and dreams is somewhat typical."
+  },
+  {
+    "id": "ch10_q_875",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Formal diagnosis, also known as nosology, is most closely related to the ________ model.",
+    "options": [
+      "behavioral",
+      "medical",
+      "cognitive-behavioral",
+      "rational-emotive behavior therapy"
+    ],
+    "correct_index": 1,
+    "rationale": "The behaviorist, choice “a,” is looking for an operational definition (remember, I mentioned this term earlier) of the problem. A DSM diagnosis such as 300.23, social anxiety disorder, is vague and meaningless for the behaviorist. Instead, a diagnosis like “I cry whenever I have to give a presentation in my Counseling 502 class” is the type of specific information in which the behaviorist is interested. Rational-emotive behavior therapists and other cognitive behavior therapists are generally more interested in the client’s self-talk than in the DSM category. The medical model of medicine or psychotherapy begins with a formal label or diagnosis of the problems."
+  },
+  {
+    "id": "ch10_q_876",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Which treatment match-up is incorrect?",
+    "options": [
+      "Vivitrol for alcoholism.",
+      "Lithium for bipolar disorder.",
+      "Suboxone for opiod dependence.",
+      "Narcan for schizophrenia."
+    ],
+    "correct_index": 3,
+    "rationale": "Narcan or Naloxone is all over the news right now because it can block the effects of opiods such as heroin and painkillers such as morphine, codeine, and oxycodone. By impacting the same portions of the brain as opiods, it can stop or reverse overdoses to save lives. Narcan has virtually no serious side effects and will not make the person high."
+  },
+  {
+    "id": "ch10_q_877",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The type of mental health service provided to the client is coded via ________ and is generally required for insurance payments.",
+    "options": [
+      "the DSM",
+      "the ICD",
+      "the AMA’s Current Procedural Terminology (e.g., CPT 90844)",
+      "the Psychiatric Dictionary"
+    ],
+    "correct_index": 2,
+    "rationale": "If you want to accept insurance payments you will generally need to specify a CPT code in addition to the ICD code on your billing statement. The CPT code will specify the exact nature of the treatment being utilized to help your client (e.g., psychotherapy, hypnosis, biofeedback, or group psychotherapy). A CPT code also can specify the length of the service unit, such as “psychotherapy over 30 minutes.” At the end of each session, a client seeking insurance or third-party benefits is given a statement which is sometimes called a “superbill.” The superbill verifies the nature of the counselor–client interaction. At the very least, an acceptable superbill usually lists the client’s name, the date, the ICD diagnosis, the CPT code, and the provider’s name and license. It is misrepresentation to list someone else as a direct service provider to secure third-party payments if you provided the service yourself. If an insurance company only reimburses a psychiatrist or a licensed clinical psychologist, then you are not allowed to put the psychologist’s or psychiatrist’s name on the superbill as if he or she were the service provider. The psychiatrist’s or psychologist’s name could, however, be clearly noted as a supervisor. This can help to secure insurance payments in some cases. Third-party providers can and have taken legal action against therapists for such misrepresentation. Moreover, therapists have been required to pay back funds received in this manner. My advice is to play it straight. Your bank account may not be quite as large, but I guarantee you’ll sleep a lot better."
+  },
+  {
+    "id": "ch10_q_878",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You refer a client to Dr. Smith. Ethically, Dr. Smith",
+    "options": [
+      "may not pay you a referral fee for sending her the client.",
+      "may pay you a referral fee if you have a written contract with her. 379",
+      "may pay you a referral fee if she has expertise in the client’s area of concern and you don’t and the client gives you written permission.",
+      "can pay you a referral fee if, and only if, she is a psychiatrist."
+    ],
+    "correct_index": 0,
+    "rationale": "Save your nickels; counselors cannot ethically accept referral fees."
+  },
+  {
+    "id": "ch10_q_879",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You have written a very popular book on reality therapy. Now you are teaching a graduate course on counseling at a local university. Ethically, you",
+    "options": [
+      "may not use the textbook in your class.",
+      "may not use the textbook in your class, but other teachers at the university may indeed use your book as a textbook.",
+      "may use the book as a textbook in your class; however, the royalties you receive must be donated to the institution.",
+      "may use the book as a textbook in your class."
+    ],
+    "correct_index": 3,
+    "rationale": "It’s ethical! Nevertheless, your school could have a policy against it or a policy similar to choice “c.”"
+  },
+  {
+    "id": "ch10_q_880",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "An elementary school counselor is giving a child a standardized test. On several occasions the child says he does not understand what the counselor has said. The counselor should",
+    "options": [
+      "refuse to repeat the question.",
+      "tell the child to answer the question nevertheless.",
+      "repeat the question, but talk more slowly.",
+      "ignore the child’s verbalizations."
+    ],
+    "correct_index": 2,
+    "rationale": "A word of caution is in order here. The counselor should always attempt to use the recommended wording. Changing the wording could alter the impact of the test question, possibly confounding the results."
+  },
+  {
+    "id": "ch10_q_881",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The most popular paradigm of mental health consultation has been proposed by",
+    "options": [
+      "Satir and Minuchin.",
+      "Schein.",
+      "Caplan.",
+      "Bandura."
+    ],
+    "correct_index": 2,
+    "rationale": "Mental health consultation occurs when a consultant works with a consultee regarding clients or administrative/program issues. When the ultimate goal is to help a client, it is known as a “clientcentered” consultation. When your licensing supervisor suggests a plan of action for a given client, then you as a consultee are the recipient of “client-centered” consultation (not to be confused with clientcentered therapy). The exam you will take also may mention “consultee-centered” consultation. Here, the focus is on helping the consultee develop improved techniques or skills. Thus, when your licensing supervisor explains a better way for you to implement a hypnotic induction with one of your clients, then you are the recipient of “consultee-centered case consultation.” A variation of this is the “consultee-centered administrative consultation” in which your supervisor’s or consultant’s intention is to sharpen up your administrative skills (e.g., making you a better presenter at your agency board meeting). Finally, there is the “program-centered administrative consultation.” As the name suggests, the emphasis here is on creating, designing, or evaluating the program in question. These four basic types of mental health consultation have been proposed by Gerald Caplan. Choice “a” identifies two well-known names in the family therapy movement, while Albert Bandura (choice “d”) is well-known for his work in modeling and vicarious learning by observation (sometimes known as “social learning theory”). In this approach, the consultant helps the consultee set up behavioral management programs for the clients."
+  },
+  {
+    "id": "ch10_q_882",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The doctor–patient consultation model relies on four distinct stages: entry, diagnosis, implementation, and evaluation. In order for the doctor–patient structure to work, the consultee (i.e., the person receiving the consultation) must accurately depict symptomatology, trust the consultant’s diagnosis, and carry out the consultant’s directives. This model is associated most closely with the work of",
+    "options": [
+      "Caplan.",
+      "Freud.",
+      "Adler.",
+      "Schein."
+    ],
+    "correct_index": 3,
+    "rationale": "Consultants can focus on process (what is happening from a communications standpoint) or content (knowledge imparted from the consultant to the consultee)."
+  },
+  {
+    "id": "ch10_q_883",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "________ are the leading causes of malpractice actions taken against counselors, therapists, and mental health providers.",
+    "options": [
+      "Confidentiality and dual relationships",
+      "Termination",
+      "Failure of the duty to warn",
+      "Inferior record keeping"
+    ],
+    "correct_index": 0,
+    "rationale": "Sexual issues also make it into the top ten slots and indeed I have even seen research that puts it in the number one spot. It has been estimated that over 95% of those clients who were sexually involved with their therapists have been harmed, and that in about one third of the cases, treatment literally ended as soon as sexual intimacy began. Important reminder many counselors are not aware of: Excessive selfdisclosure on the part of the helper can be considered malpractice. If it doesn’t help the client and is seemingly intended to help the counselor then it is inappropriate."
+  },
+  {
+    "id": "ch10_q_884",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Your client was seeing Dr. Doyle for counseling for three years. The client has now stopped seeing Dr. Doyle and has an appointment to see you. You should",
+    "options": [
+      "refuse to see the client unless she will sign a release so you can secure the information Dr. Doyle compiled.",
+      "call Dr. Doyle. In this situation no release of information or consent form is necessary.",
+      "counsel the client.",
+      "put something in writing and send it to Dr. Doyle prior to the second session of counseling."
+    ],
+    "correct_index": 2,
+    "rationale": "Treat this client in the same manner as you would treat any other client! To be sure, you might decide that information amassed via Dr. Doyle would be helpful and then you would secure the client’s written permission to contact him. Nevertheless, this certainly isn’t required to begin the counseling process. Moreover, it is possible that the client will not sign for the release."
+  },
+  {
+    "id": "ch10_q_885",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You are treating a man who suffers from panic disorder. His panic attacks are so severe he cannot drive to work. After just three sessions he is not only driving to work but has taken up sky diving to demonstrate his progress over his fear. You would love to put his testimonial on your brochure to show how adept you are at treating this affliction. You should",
+    "options": [
+      "ask him if he will write you a few sentences to place on the brochure with his name at the end.",
+      "ask him if you can write the testimonial for him and place it on the brochure.",
+      "not ask him for a testimonial since it would constitute an ethics violation.",
+      "ask him if he will write you a few sentences to place on the brochure but assure him that his name will not appear."
+    ],
+    "correct_index": 2,
+    "rationale": "Ethics guidelines clearly state that the counselor should not solicit testimonials from clients."
+  },
+  {
+    "id": "ch10_q_886",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Ethical dilemmas rarely have clear-cut answers. Thus when a complex ethical situation manifests itself, it is best to",
+    "options": [
+      "consult only ethical codes and not colleagues.",
+      "consult with colleagues as well as ethical codes inasmuch as legal standards are very often based on the methods of fellow professionals in analogous situations.",
+      "consult ACA but not your colleagues.",
+      "consult your state licensing bureau but not your colleagues."
+    ],
+    "correct_index": 1,
+    "rationale": "Legal standards and cases regarding malpractice suits are often decided by the behavior of your fellow professionals. If I were you, I’d check to make certain you’re not the one soldier marching in the opposite direction! In malpractice cases you are often judged by what your peers would do in the situation."
+  },
+  {
+    "id": "ch10_q_887",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "You have attempted to help a client for over two years with little or no success. You should",
+    "options": [
+      "always refer the client to a board-certified psychiatrist.",
+      "terminate the relationship and initiate an appropriate referral.",
+      "change therapeutic modalities and see the client for another six months.",
+      "change therapeutic modalities and see the client for at least another year."
+    ],
+    "correct_index": 1,
+    "rationale": "Ethics guidelines suggest that when a counselor feels he or she is unable to help a potential or existing client, then the relationship should not be initiated, or the existing one should be terminated. In either case, the counselor is responsible for providing alternative referral sources to the client."
+  },
+  {
+    "id": "ch10_q_888",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Assume that you have decided to refer a client elsewhere because you were unable to help her. Upon you mentioning this, the client insists that she has seen several other therapists and you are the finest one. Ethics guidelines would dictate that",
+    "options": [
+      "you must see her; your duty is to the client.",
+      "you must refer her to a medical practitioner.",
+      "you must ask her to consider hospitalization.",
+      "you are not obligated to continue the relationship."
+    ],
+    "correct_index": 3,
+    "rationale": "You are acting in the best interest of the client."
+  },
+  {
+    "id": "ch10_q_889",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Counseling is a relatively new profession. The first counselors in the United States were not called counselors. They were",
+    "options": [
+      "psychoanalysts practicing short-term therapy.",
+      "behaviorists practicing short-term therapy.",
+      "deans and advisors employed after the Civil War in college settings to watch over young women.",
+      "humanistic psychologists."
+    ],
+    "correct_index": 2,
+    "rationale": ""
+  },
+  {
+    "id": "ch10_q_890",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Historically speaking, the first psychology laboratory was set up by",
+    "options": [
+      "Frank Parsons, who set up community centers to help individuals in search of work.",
+      "Sigmund Freud, the father of psychoanalysis.",
+      "Wilhelm Wundt, in 1879 in Leipzig, Germany.",
+      "E. G. Williamson."
+    ],
+    "correct_index": 3,
+    "rationale": "Wundt was convinced that psychology could be accepted as a science if consciousness could be measured. Wundt’s school of thought is termed structuralism because his interest was in the “structure” of consciousness. German psychologists—and I’m certain you’ll find this humorous in terms of our emphasis today on pragmatic strategies—were convinced that Wundt’s theory was indeed pure science because it had no practical applications! Parsons, choice “a,” has been called the father of guidance. Some historians insist that the profession of counseling officially began when Parsons founded the Vocational Guidance Bureau of Boston and published the book Choosing a Vocation in 1909."
+  },
+  {
+    "id": "ch10_q_891",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "Counseling became popular after the 1931 publication of",
+    "options": [
+      "Workbook in Vocations by William Proctor, Glidden Ross Benefield, and Gilbert Wrenn.",
+      "The Interpretation of Dreams by Sigmund Freud.",
+      "Behaviorism by John B.Watson. (c)",
+      "Counseling and Psychotherapy by Carl Ransom Rogers."
+    ],
+    "correct_index": 0,
+    "rationale": "These are all landmark books in the field. Choice “a” is the correct answer because it set the stage for the popularization of the word counseling. Prior to 1931, the word guidance was used for educational and vocational guidance. This work, as well as an earlier one by William Proctor in 1925 entitled Educational and Vocational Guidance, began to conceptualize counseling as a psychological process. Choice “b” is considered Freud’s most influential work, while choice “c” described the tenets of behaviorism, which was born in 1912. Watson’s behaviorism asserted that the only subject matter for psychology was observable behavior. Choice “d” is the 1942 classic in which Rogers emphasized a theory of intervention in which the counselor was not an authoritarian figure such as in psychoanalysis, trait-factor analysis, or directive schools of helping. Rogers was also known as one of the first theorists to employ audio recordings to improve practicum supervision."
+  },
+  {
+    "id": "ch10_q_892",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "PL 94-142 (the Education for All Handicapped Children Act) states that",
+    "options": [
+      "all children between ages 5 and 21 are assured free education.",
+      "handicapped persons are placed in the least-restrictive environment (LRE).",
+      "an Individualized Education Plan (IEP) is developed for each child",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Note: The term disabled is now preferred over the antiquated term handicapped. The Act was passed in 1975—a year before Virginia passed the first counselor licensure law—after a congressional finding that the United States had over eight million children who were disabled. Over half were not receiving appropriate education while one million were excluded from public education. Enforcement relied on funding. That is to say, if a state did not meet the guidelines mentioned in choices “a,” “b,” and “c,” funding was denied. Section 617 (c) of PL 94-142 (another stipulation for funding) gave individuals the right to read their own records and files if they were over 18, as well as the records of their children. In 1990, the Americans with Disabilities Act (ADA) prohibited employers with 15 or more employees from discriminating against the disabled."
+  },
+  {
+    "id": "ch10_q_893",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The major trend that impacted upon the counseling movement in the 1980s",
+    "options": [
+      "was reality therapy.",
+      "was behavior modification.",
+      "included an emphasis on professionalism, certification, and licensing.",
+      "was the group movement."
+    ],
+    "correct_index": 2,
+    "rationale": "Credentialing helped counseling become a specific and separate profession such as psychology or psychiatry. Although group work is still very popular, it emerged as a driving force in the 1970s."
+  },
+  {
+    "id": "ch10_q_894",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The APGA and APA had joint ethics guidelines for counselors and psychologists. This changed during the 1970s when 384",
+    "options": [
+      "Psy.D. programs were introduced.",
+      "the APA did not wish to credential master’s level counselors or psychologists.",
+      "psychologists were doing more testing.",
+      "joint ethics became illegal in the United States."
+    ],
+    "correct_index": 1,
+    "rationale": "Separate ethics were thus developed, which helped discern counseling from psychology as a profession. Psy.D., or doctor of psychology programs (choice “a”), generally focus more on practitioner skills and less on research and experimental skills than Ph.D. programs in clinical psychology."
+  },
+  {
+    "id": "ch10_q_895",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The 1950s was the age of tremendous strides in",
+    "options": [
+      "analysis.",
+      "developmental psychology.",
+      "behavior modification.",
+      "group work."
+    ],
+    "correct_index": 1,
+    "rationale": "Piaget, Erikson, and Havinghurst were very influential. In addition, thanks primarily to the work of Carl R. Rogers, counseling rather than testing became the major task for professionals."
+  },
+  {
+    "id": "ch10_q_896",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The ________ movement began in the late 1960s.",
+    "options": [
+      "testing",
+      "Rogerian",
+      "group",
+      "developmental psychology"
+    ],
+    "correct_index": 2,
+    "rationale": "Groups would remain popular in the 1970s. Some of the literature in the field refers to the 1960s and 1970s as “decades of variation,” in which we became “therapy of the month consumers”! Jerome Frank hypothesized at the time that the sudden flood of new therapies was due to the current upheaval in society. Gestalt, transactional analysis, primal scream therapy, encounter groups, marathon groups, and yes, even naked encounter groups became popular!"
+  },
+  {
+    "id": "ch10_q_897",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "In the 1960s C. Gilbert Wrenn’s book, The Counselor in a Changing World, urged counselors to",
+    "options": [
+      "use biofeedback.",
+      "rely more heavily on projective testing.",
+      "emphasize developmental concerns rather than merely focusing on crises and curing emotional illness.",
+      "stick to proven nondirective techniques."
+    ],
+    "correct_index": 2,
+    "rationale": "This 1962 APGA publication was an attempt to steer counseling away from merely providing remedial services to students."
+  },
+  {
+    "id": "ch10_q_898",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "One of the primary problems of counseling in the early 1960s was that it wrongly emphasized 385",
+    "options": [
+      "social issues.",
+      "intrapsychic processes.",
+      "referrals to secure antidepressant medicine.",
+      "career counseling."
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “b” is correct, intrapsychic processes (i.e., processes within one’s mind or psyche). This was not entirely a negative thing; nevertheless, social issues such as Vietnam, civil rights, and women’s issues could have been emphasized to a greater degree."
+  },
+  {
+    "id": "ch10_q_899",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "The significance of the 1958 National Defense Education Act was that it",
+    "options": [
+      "provided financial aid for graduate education in counseling.",
+      "expanded school guidance services.",
+      "improved guidance for gifted children.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Many pilot programs developed as a result of the funding. Gradually, the funding found its way into helping counselors prepare to work with economically disadvantaged youth. Thus, the Act eventually helped all types of young people secure better counseling and guidance services. Some exams may use the abbreviation NDEA when referring to this act."
+  },
+  {
+    "id": "ch10_q_900",
+    "domain": "Professional Orientation and Ethics",
+    "chapter": 10,
+    "question": "A man has a rare, highly contagious disease that is fatal. He is keeping it a secret and insists that he will never tell his wife. You should",
+    "options": [
+      "break confidentiality and tell his wife.",
+      "honor the man’s decision not to tell his wife for therapeutic reasons.",
+      "honor the man’s decision not to tell his wife in order to maintain ethical confidentiality.",
+      "handle it based on your clinical intuition since ethical guidelines fail to address this emotionally charged issue."
+    ],
+    "correct_index": 0,
+    "rationale": "Ethics tell us that if a client has a contagious fatal disease the counselor is justified in telling a third party who would be at serious and foreseeable risk. Of course, the counselor must ascertain that the client has not already informed this person or that the client does not intend to inform the third party in a reasonable period of time."
   }
 ]

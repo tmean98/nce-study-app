@@ -1,282 +1,1402 @@
 [
   {
-    "id": "ch08_q_001",
-    "domain": "Assessment",
+    "id": "ch08_q_601",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "A counselor wants to measure whether her new depression inventory consistently gives the same results when administered repeatedly to the same client over time. She is interested in:",
+    "question": "Appraisal can be defined as",
     "options": [
-      "Validity",
-      "Test–retest reliability",
-      "Concurrent validity",
-      "Content validity"
+      "the process of assessing or estimating attributes.",
+      "testing which is always performed in a group setting.",
+      "testing which is always performed on a single individual.",
+      "a pencil and paper measurement of assessing attributes."
+    ],
+    "correct_index": 0,
+    "rationale": "Appraisal is a broad term which includes more than merely “testing clients.” Appraisal could include a survey, observations, or even clinical interviews. Choices “b,” “c,” and “d” are thus too limited. A test is simply an instrument which measures a given sample of behavior. When we use the term measure it merely connotes that a number or score has been assigned to the person’s attribute or performance. On your exam an appraisal could be billed as an assessment or an evaluation. Psychometrics is the study of psychological measurement and thus a helper who primarily administers and interprets tests often has the job title of psychometrician. An effective counselor will always inform clients about the limitations of any test that he or she administers. Some evidence indicates that neophyte counselors are sometimes tempted to administer tests merely to boost their credibility. I think it is safe to say this is not a desirable practice."
+  },
+  {
+    "id": "ch08_q_602",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A test can be defined as a systematic method of measuring a sample of behavior. Test format refers to the manner in which test items are presented. The format of an essay test is considered a(n) ________ format.",
+    "options": [
+      "subjective",
+      "objective",
+      "very precise",
+      "concise"
+    ],
+    "correct_index": 0,
+    "rationale": "A “subjective” paradigm relies mainly on the scorer’s opinion. If the rater knows the test taker’s attributes, the rater’s “personal bias” can significantly impact upon the rating. For example, an attractive examinee might be given a higher rating. (This is the so-called halo effect.) In job settings, peers generally rate their colleagues higher than do their supervisors. In an “objective” test (choice “b”) the rater’s judgment plays little or no part in the scoring process."
+  },
+  {
+    "id": "ch08_q_603",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The National Counselor Exam (NCE) is a(n) ________ test because the scoring procedure is specific.",
+    "options": [
+      "subjective",
+      "objective",
+      "projective",
+      "subtest"
     ],
     "correct_index": 1,
-    "rationale": "Test-retest reliability assesses stability — whether the same test yields consistent scores across two administrations (at least 7 days apart). Validity concerns whether the test measures depression at all. Concurrent validity compares the new test to an existing established measure. Content validity asks whether items sample the full domain of depression symptoms."
+    "rationale": "Since the NCE uses an a, b, c, d alternative format the rater’s “subjective” feelings and thoughts would not be an issue. Ditto for the CPCE."
   },
   {
-    "id": "ch08_q_002",
-    "domain": "Assessment",
+    "id": "ch08_q_604",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "A counselor administers a new anxiety scale to a client. The scale has a reliability coefficient of .82 and a standard error of measurement (SEM) of 4. The client scores 72. If the client retook this test many times, approximately 68% of her scores would fall between:",
+    "question": "A short answer test is a(n) ________ test.",
     "options": [
-      "54 and 90",
-      "64 and 80",
-      "68 and 76",
-      "70 and 74"
+      "objective",
+      "culture-free",
+      "forced choice",
+      "free choice"
+    ],
+    "correct_index": 3,
+    "rationale": "Some exams will call this a “free response” format. In any case, the salient point is that the person taking the test can respond in any manner he or she chooses. Although free choice response patterns can yield more information, they often take more time to score and increase subjectivity (i.e., there is more than one correct answer). I should mention that although testing is often controversial, schools now employ psychoeducational tests more than at any time in history. Recently there has been a strong push against this practice so keep your eyes peeled to see what transpires."
+  },
+  {
+    "id": "ch08_q_605",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The NCE and the CPCE would be examples of a(n) ________ test.",
+    "options": [
+      "free choice",
+      "forced choice",
+      "projective",
+      "intelligence"
+    ],
+    "correct_index": 3,
+    "rationale": "“Forced choice” items are sometimes known as “recognition items.” This book is composed of forced choice/recognition items. On some tests this format is used to control for the “social desirability phenomenon” which asserts that the person puts the answer he or she feels is socially acceptable (i.e., the test provides alternatives that are all equal in terms of social desirability). The MMPI-2 (Minnesota Multiphasic Personality Inventory), for example, uses forced choices to create a “lie scale” composed of human frailties we all possess. This scale, therefore, ferrets out those individuals who tried to make themselves look good (i.e., the way they believe they “should” be)."
+  },
+  {
+    "id": "ch08_q_606",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The ________ index indicates the percentage of individuals who answered each item correctly. (b)",
+    "options": [
+      "difficulty",
+      "critical",
+      "intelligence",
+      "personal"
+    ],
+    "correct_index": 0,
+    "rationale": "The higher the number of people who answer a question correctly, the easier the item is—and vice versa. A 0.5 difficulty index (also called a difficulty value) would suggest that 50% of those tested answered the question correctly, while 50% did not. Most theorists agree that a “good measure” provides a wide range of items that even a poor performer will answer correctly."
+  },
+  {
+    "id": "ch08_q_607",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Short answer tests and projective measures utilize free response items. The NCE and the CPCE uses forced choice or so-called ________ items.",
+    "options": [
+      "vague",
+      "subjective",
+      "recognition",
+      "numerical"
     ],
     "correct_index": 2,
-    "rationale": "The 68% confidence interval = obtained score ± 1 SEM. With a score of 72 and SEM of 4: 72 − 4 = 68, 72 + 4 = 76. The interval is 68–76. Choice B uses ±8 (2 SEM, which would be the 95% CI). Choice D (±2) reflects a different SEM calculation."
+    "rationale": "See the answer to question 605. Recognition items give the examinee two or more alternatives."
   },
   {
-    "id": "ch08_q_003",
-    "domain": "Assessment",
+    "id": "ch08_q_608",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "Which of the following BEST illustrates construct validity?",
+    "question": "A true/false test has ________ recognition items.",
     "options": [
-      "A new IQ test correlates highly with the Wechsler Adult Intelligence Scale-IV",
-      "A depression scale correctly predicts which clients will be rehospitalized within 6 months",
-      "A self-esteem inventory measures the theoretical construct of self-worth rather than directly observable behavior",
-      "A job skills test includes all major tasks required for the target job"
+      "similar",
+      "free choice",
+      "dichotomous",
+      "no"
     ],
     "correct_index": 2,
-    "rationale": "Construct validity is the extent a test measures an abstract psychological trait or theoretical construct (like self-esteem, ego strength, or intelligence) — something that cannot be directly observed. Choice A describes concurrent validity (comparing to established tests). Choice B describes predictive validity. Choice D describes content validity (sampling the behavior domain)."
+    "rationale": "“Dichotomy” simply means that you are presented with two opposing choices. This explains why choice “a” is definitely incorrect. When a test gives the person taking the exam three or more forced choices (e.g., the NCE, the CPCE, or this book) then psychometricians call it a “multipoint item.” Choice “b” describes a situation in which the examinee can respond in any way he or she chooses."
   },
   {
-    "id": "ch08_q_004",
-    "domain": "Assessment",
+    "id": "ch08_q_609",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "A supervisor tells a new counselor: 'A test can be reliable without being valid.' The new counselor is confused. Which example BEST illustrates this principle?",
+    "question": "A test format could be normative or ipsative. In the normative format",
     "options": [
-      "A scale that reads 150 lbs every time for someone who actually weighs 150 lbs",
-      "A scale that consistently reads 130 lbs for someone who actually weighs 150 lbs",
-      "A depression test that produces different scores each time the same client takes it",
-      "An IQ test that measures intelligence as defined by the test's theoretical framework"
+      "each item depends on the item before it.",
+      "each item depends on the item after it.",
+      "the client must possess an IQ within the normal range.",
+      "each item is independent of all other items."
+    ],
+    "correct_index": 3,
+    "rationale": "Ipsative measures compare traits within the same individual; they do not compare a person to other persons who took the instrument. The Kuder Career Planning instruments are often cited as falling into this category. The ipsative measure allows the person being tested to compare items."
+  },
+  {
+    "id": "ch08_q_610",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A client who takes a normative test (d)",
+    "options": [
+      "cannot legitimately be compared to others who have taken the test.",
+      "can legitimately be compared to others who have taken the test.",
+      "could not have taken an IQ test.",
+      "could not have taken a personality test."
     ],
     "correct_index": 1,
-    "rationale": "A reliable test gives consistent results — but those consistent results may be wrong (invalid). A scale that reliably reads 130 lbs for a 150-lb person is highly reliable (consistent) but invalid (doesn't measure actual weight). Choice A describes a test that is both reliable AND valid. Choice C describes low reliability. A valid test is always reliable, but a reliable test is not always valid."
+    "rationale": "First, forget about choice “a,” it’s ipsative. Technically, a normative interpretation is one in which the individual’s score is evaluated by comparing it to others who took the same test. A percentile rank is an excellent example. Say your client scores 82 on a nationally normed test and this score corresponds to the percentile rank of 60. This tells you that 60% of the individuals who took the test scored 82 or less. If it’s still a bit fuzzy don’t sweat it! There’s more where this one came from in the next section!"
   },
   {
-    "id": "ch08_q_005",
-    "domain": "Assessment",
+    "id": "ch08_q_611",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "A test has a reliability coefficient of .80. Using the coefficient of determination, what percentage of the obtained score reflects true variance (rather than error)?",
+    "question": "In an ipsative measure the person taking the test must compare items to one another. The result is that",
     "options": [
-      "80%",
-      "20%",
-      "64%",
-      "36%"
-    ],
-    "correct_index": 2,
-    "rationale": "Coefficient of determination = r². Here, .80² = .64, meaning 64% is true variance and 36% is error variance. This is a frequently tested formula: square the reliability coefficient to get the proportion of the score that is not error. Choice A (80%) confuses the coefficient itself with the proportion of true variance."
-  },
-  {
-    "id": "ch08_q_006",
-    "domain": "Assessment",
-    "chapter": 8,
-    "question": "A school counselor needs to administer an IQ test to a second-grader (age 7 years, 2 months). The MOST appropriate instrument is the:",
-    "options": [
-      "WAIS-IV",
-      "WISC-IV",
-      "WPPSI-IV",
-      "Stanford-Binet 5"
-    ],
-    "correct_index": 2,
-    "rationale": "The WPPSI-IV is appropriate for ages 2 years 6 months to 7 years 7 months — this child falls within that range. The WISC-IV is for ages 6–16 years 11 months, which technically overlaps, but a second-grader at 7 years 2 months is best served by WPPSI-IV. WAIS-IV is for adults (16–90). While the Stanford-Binet 5 could be used, the question asks which is MOST appropriate, and the Wechsler series uses WPPSI-IV at this age."
-  },
-  {
-    "id": "ch08_q_007",
-    "domain": "Assessment",
-    "chapter": 8,
-    "question": "A counselor administers an IQ test to a population of 10,000 adults selected at random. Based on what we know about the Wechsler Adult Intelligence Scale, approximately what percentage of examinees would score between 70 and 130?",
-    "options": [
-      "68%",
-      "95%",
-      "99.7%",
-      "50%"
+      "an ipsative measure cannot be utilized for career guidance.",
+      "you cannot legitimately compare two or more people who have taken an ipsative test.",
+      "an ipsative measure is never a forced choice format.",
+      "an ipsative measure is never reliable."
     ],
     "correct_index": 1,
-    "rationale": "The WAIS-IV has mean = 100 and SD = 15. Scores of 70 and 130 are exactly ±2 standard deviations from the mean (100 − 30 = 70; 100 + 30 = 130). In a normal distribution, approximately 95% of scores fall within ±2 SDs. 68% falls within ±1 SD (85–115 on the Wechsler). 99.7% falls within ±3 SDs (55–145)."
+    "rationale": "Since the ipsative measure does not reveal absolute strengths, comparing one person’s score to another is relatively meaningless. The person is measured in response to his or her own standard of behavior. The ipsative measure points out the highs and lows that exist within a single individual. Hence, when a colleague tells you that Mr. Johnson’s anxiety is improving, she has given you an ipsative description. This description, however, would not lend itself to comparing say Mr. Johnson’s anxiety to Mrs. McBee’s. Choice “c” is a no go since ipsative assessments are generally composed of forced choice items. The ipsative approach yields a within-person analysis."
   },
   {
-    "id": "ch08_q_008",
-    "domain": "Assessment",
+    "id": "ch08_q_612",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "Alfred Binet and Theodore Simon developed the first intelligence test in 1905. The original purpose of this test was to:",
+    "question": "Tests are often classified as speed tests versus power tests. A timed typing test used to hire secretaries would be",
     "options": [
-      "Measure genius-level intelligence in the college population",
-      "Select military recruits based on cognitive ability",
-      "Identify Parisian children with intellectual disabilities for separate schooling",
-      "Assess whether immigrant children could adapt to American culture"
+      "a power test.",
+      "neither a speed test nor a power test.",
+      "a speed test.",
+      "a fine example of an ipsative measure."
     ],
     "correct_index": 2,
-    "rationale": "The French Minister of Public Instruction commissioned Binet and Simon to identify children with intellectual disabilities so they could be educated separately. The test assumed intelligence = ability to understand school-related material. WWI military testing (Army Alpha/Beta) came later. Lewis Terman Americanized it for U.S. children in 1916."
+    "rationale": "In terms of difficulty, a speed test is really intended to be fairly easy. The difficulty is induced by time limitations, not the difficulty of the tasks or the questions themselves. (Try giving your secretary a timed keyboarding test and give him or her three hours to complete it and you’ll see what I mean.) A good timed speed test is purposely set up so that nobody finishes it. A “power test” (see choice “a”) is designed to evaluate the level of mastery without a time limit. A timed test is really a type of speed test, but a high percentage of the test takers complete it and it is usually more difficult and has a time limit (think CPCE or NCE)."
   },
   {
-    "id": "ch08_q_009",
-    "domain": "Assessment",
+    "id": "ch08_q_613",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "A counselor assesses a client's personality using a measure that presents 10 ambiguous inkblot images and asks the client to describe what each looks like. This is BEST described as:",
+    "question": "A counseling test consists of 300 forced response items. The person taking the test can take as long as he or she wants to answer the questions.",
     "options": [
-      "An objective self-report inventory",
-      "A projective test using the association format",
-      "A culture-fair intelligence test",
-      "An achievement measure"
+      "This is most likely a projective measure.",
+      "This is most likely a speed test.",
+      "This is most likely a power test.",
+      "This is most likely an invalid measure."
+    ],
+    "correct_index": 2,
+    "rationale": "Like the speed test, it will ideally be designed so that nobody receives a perfect score. Choice “a,” projective measure, stands incorrect since the projective tests rely on a “free response” format. In a power test time is not an issue."
+  },
+  {
+    "id": "ch08_q_614",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "An achievement test measures maximum performance or present level of skill. Tests of this nature are also called attainment tests, while a personality test or interest inventory measures",
+    "options": [
+      "typical performance.",
+      "minimum performance.",
+      "unconscious traits.",
+      "self-esteem by always relying on a Q-Sort design."
+    ],
+    "correct_index": 0,
+    "rationale": "I’m not crazy about the terms typical and minimal performance, but hey don’t blame me, I’m just the messenger of what is often cited in the counseling literature. Interest inventories are popular with career counselors because such measures focus on what the client likes or dislikes. The Strong Interest Inventory (SII) is an excellent example. Choice “d,” the Q-Sort, often used to investigate personality traits, involves a procedure in which an individual is given cards with statements and asked to place them in piles of “most like me” to “least like me.” Then the subject compiles them to create the “ideal self.” The ideal self can then be compared to his or her current self-perception in order to assess self-esteem."
+  },
+  {
+    "id": "ch08_q_615",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "In a spiral test",
+    "options": [
+      "the items get progressively easier.",
+      "the difficulty of the items remains constant.",
+      "the client must answer each question in a specified period of time.",
+      "the items get progressively more difficult."
+    ],
+    "correct_index": 3,
+    "rationale": "Just remember that a spiral staircase seems to get more difficult to climb as you walk up higher."
+  },
+  {
+    "id": "ch08_q_616",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "In a cyclical test",
+    "options": [
+      "the items get progressively easier.",
+      "the difficulty of the items remains constant.",
+      "you have several sections which are spiral in nature.",
+      "the client must answer each question in a specified period of time."
+    ],
+    "correct_index": 2,
+    "rationale": "In each section the questions would go from easy ones to those which are more difficult."
+  },
+  {
+    "id": "ch08_q_617",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A test battery is considered",
+    "options": [
+      "a horizontal test.",
+      "a vertical test.",
+      "a valid test.",
+      "a reliable test."
+    ],
+    "correct_index": 0,
+    "rationale": "In a test battery, several measures are used to produce results that could be more accurate than those derived from merely using a single source. Say, this can get confusing. Remember, that in the section on group processes I talked about vertical and horizontal interventions. In testing, a vertical test would have versions for various age brackets or levels of education (e.g., a math achievement test for preschoolers and a version for middle school children). A horizontal test measures various factors (e.g., math and science) during the same testing procedure."
+  },
+  {
+    "id": "ch08_q_618",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "In a counseling research study, two groups of subjects took a test with the same name. However, when they talked with each other they discovered that the questions were different. The researcher assured both groups that they were given the same test. How is this possible?",
+    "options": [
+      "The researcher is not telling the truth. The groups could not possibly have taken the same test.",
+      "The test was horizontal.",
+      "The test was not a power test.",
+      "The researcher gave parallel forms of the same test."
+    ],
+    "correct_index": 3,
+    "rationale": "When a test has two versions or forms that are interchangeable they are termed parallel forms or equivalent forms of the same test. From a statistical/psychometric standpoint each form must have the same mean, standard error, and other statistical components."
+  },
+  {
+    "id": "ch08_q_619",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The most critical factors in test selection are",
+    "options": [
+      "the length of the test and the number of people who took the test in the norming process.",
+      "horizontal versus vertical.",
+      "validity and reliability.",
+      "spiral versus cyclical format."
+    ],
+    "correct_index": 2,
+    "rationale": "Validity refers to whether the test measures what it says it measures while reliability tells how consistent a test measures an attribute."
+  },
+  {
+    "id": "ch08_q_620",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Which is more important, validity or reliability?",
+    "options": [
+      "Reliability.",
+      "They are equally important.",
+      "Validity.",
+      "It depends on the test in question."
+    ],
+    "correct_index": 2,
+    "rationale": "Experts nearly always consider validity the number one factor in the construction of a test. A test must measure what it purports to measure. Reliability, choice “a,” is the second most important concern. A scale, for example, must measure body weight accurately if it is a valid instrument. In order to be reliable, it will need to give repeated readings which are nearly identical for the same person if the person keeps stepping on and off the scale."
+  },
+  {
+    "id": "ch08_q_621",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "In the field of testing, validity refers to",
+    "options": [
+      "whether the test really measures what it purports to measure.",
+      "whether the same test gives consistent measurement.",
+      "the degree of cultural bias in a test.",
+      "the fact that numerous tests measure the same traits."
+    ],
+    "correct_index": 0,
+    "rationale": "To be valid the test must measure what you want it to measure! Incidentally, a test which is valid for one population is not necessarily valid for another group. There are five basic types of validity you should familiarize yourself with for your exam: First, content validity or what is sometimes called rational or logical validity. Does the test examine or sample the behavior under scrutiny? An IQ test, for example, that did not sample the entire range of intelligence (say the test just sampled memory and not vocabulary, math, etc.) would have poor content validity. In this case a savant might truly score higher than a well-rounded individual with a gifted level of intelligence. Second, construct validity, which refers to a test’s ability to measure a theoretical construct like intelligence, self-esteem, artistic talent, mechanical ability, or managerial potential. Third is concurrent validity, which deals with how well the test compares to other instruments that are intended for the same purpose. Fourth, predictive validity, also known as empirical validity, which reflects the test’s ability to predict future behavior according to established criteria. On some exams, concurrent validity and predictive validity are often lumped under the umbrella of “criterion validity,” since concurrent validity and predictive validity are actually different types of criterion-related validity. Fifth, a small body of literature speaks of consequential validity, which simply tries to ascertain the social implications of using tests."
+  },
+  {
+    "id": "ch08_q_622",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A counselor peruses a testing catalog in search of a test which will repeatedly give consistent results. The counselor",
+    "options": [
+      "is interested in reliability.",
+      "is interested in validity.",
+      "is looking for information which is not available.",
+      "is magnifying an unimportant issue."
+    ],
+    "correct_index": 0,
+    "rationale": "Beware: A test can indeed be reliable yet not valid. A highly reliable test could conceivably prove invalid. A scale that invariably reads 109 lb when you weigh 143 lb would hardly be providing you with a valid assessment of your true weight! The score, nevertheless, is consistent (reliable). Thus, a test can have a high reliability coefficient but still have a low validity coefficient. Reliability places a ceiling on validity, but validity does not set the limits on reliability."
+  },
+  {
+    "id": "ch08_q_623",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Which measure would yield the highest level of reliability?",
+    "options": [
+      "A TAT, projective test popular with psychodynamic helpers.",
+      "The WAIS-IV, a popular IQ test.",
+      "The MMPI-2, a popular personality test.",
+      "A very accurate postage scale."
+    ],
+    "correct_index": 3,
+    "rationale": "In the real world physical measurements are more reliable than psychological ones."
+  },
+  {
+    "id": "ch08_q_624",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Construct validity refers to the extent that a test measures an abstract trait or psychological notion. An example would be",
+    "options": [
+      "height.",
+      "weight.",
+      "ego strength.",
+      "the ability to name all men who have served as U.S. presidents."
+    ],
+    "correct_index": 2,
+    "rationale": "Any trait you cannot “directly” measure or observe can be considered a construct."
+  },
+  {
+    "id": "ch08_q_625",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Face validity refers to the extent that a test",
+    "options": [
+      "looks or appears to measure the intended attribute.",
+      "measures a theoretical construct.",
+      "appears to be constructed in an artistic fashion.",
+      "can be compared to job performance."
+    ],
+    "correct_index": 0,
+    "rationale": "Okay, so I lied—well, kind of lied on the answer to question 621 when I told you there were five basic types of validity. You see most experts technically no longer list “face validity” as a sixth type of validity. Face validity—like a person’s face—merely tells you whether the test looks like it measures the intended trait. Does your therapist look like a therapist? Does the Wechsler appear to be an IQ test? The obvious answer is “In most cases who cares, it’s not that important”! And if a therapist looks like a good therapist, does that necessarily mean he is an adept therapist? Of course not. And the same is true of testing."
+  },
+  {
+    "id": "ch08_q_626",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A job test which predicted future performance on a job very well would",
+    "options": [
+      "have high criterion/predictive validity.",
+      "have excellent face validity.",
+      "have excellent construct validity.",
+      "not have incremental validity or synthetic validity."
+    ],
+    "correct_index": 0,
+    "rationale": "Here you are concerned that the test will measure an independent or external outside “criterion,” in this case the “future prediction” of the job performance. (Note: Choice “a” would be incorrect on a question such as this if the question specified current job performance. If this were the case then technically only the term criterion would apply.) Choice “d” introduces you to the terms incremental validity and synthetic validity. Although incremental validity and synthetic validity are not considered two of the five or six major types of validity, don’t be too surprised if they pop up on an advanced exam question. The term incremental validity has been used to describe a number of testing phenomena. First and foremost, incremental validity has been used to describe the process by which a test is refined and becomes more valid as contradictory items are dropped. Incremental validity also refers to a test’s ability to improve predictions when compared to existing measures that purport to facilitate selection in business or educational settings. When a test has incremental validity, it provides you with additional valid information that was not attainable via other procedures. Synthetic validity is derived from the word synthesized. Synthetic validity was popularized by industrial organizational (I/O) psychologists who felt the procedure had merit, especially when utilized for smaller firms who did not hire a large number of workers. In synthetic validity, the helper or researcher looks for tests that have been shown to predict each job element or component (e.g., typing, filing, etc.). Tests that predict each component (criterion) can then be combined to improve the selection process."
+  },
+  {
+    "id": "ch08_q_627",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A new IQ test which yielded results nearly identical to other standardized measures would be said to have",
+    "options": [
+      "good concurrent validity.",
+      "good face validity.",
+      "superb internal consistency.",
+      "all of the above."
+    ],
+    "correct_index": 0,
+    "rationale": "Criterion validity could be “concurrent” or “predictive.” Concurrent validity answers the question of how well your test stacks up against a well-established instrument that measures the same behavior, construct, or trait. Evidence for reliability and validity is expressed via correlation coefficients. Suffice to say that the closer they are to 1.00 the better. You also should be familiar with the terms convergent and discriminant validity. These terms relate to both criterion validity and construct validity. The relationship or correlation of a test to an independent measure or trait is known as convergent validity. Convergent validity is actually a method used to assess a test’s construct/criterion validity by correlating test scores with an outside source. Say, for example, that a measure purports to measure phobic responses. A client, who has a snake phobia, is then exposed to a snake and experiences extreme panic. If the client scores higher on the test than he would in a relaxed state, then this would display convergent validity. The test also should show discriminant validity. This means the test will not reflect unrelated variables. Hence, if phobias are unrelated to IQ, then when one correlates clients’ IQ scores to their scores on the test for phobias, this should produce a near zero correlation. Similarly, if discriminant validity is evident, a counselor who is genuinely qualified to sit for a state licensing exam should score higher on the exam than a student who flunked an introductory counseling course. When a researcher is engaged in test validation, both convergent and discriminant validity should be thoroughly examined."
+  },
+  {
+    "id": "ch08_q_628",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "When a counselor tells a client that the Graduate Record Examination (GRE) will predict her ability to handle graduate work, the counselor is referring to",
+    "options": [
+      "good concurrent validity.",
+      "construct validity.",
+      "face validity.",
+      "predictive validity."
+    ],
+    "correct_index": 3,
+    "rationale": "The Graduate Record Examination (GRE), the Scholastic Aptitude Test (SAT), the American College Test (ACT), and public opinion polls are effective only if they have high predictive validity, which is the power to accurately describe future behavior or events. Again the subtypes of criterion validity are concurrent and predictive."
+  },
+  {
+    "id": "ch08_q_629",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A reliable test is ________ valid.",
+    "options": [
+      "always",
+      "90%",
+      "not always",
+      "80%"
+    ],
+    "correct_index": 2,
+    "rationale": "Again shout this one out loud: A reliable test is not always valid. Reliability, nonetheless, determines the upper level of validity."
+  },
+  {
+    "id": "ch08_q_630",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A valid test is ________ reliable.",
+    "options": [
+      "not always",
+      "always",
+      "never",
+      "80%"
     ],
     "correct_index": 1,
-    "rationale": "The Rorschach Inkblot Test is a projective measure using the association format ('What does this inkblot resemble?'). Projective tests present ambiguous stimuli to elicit unconscious projection of personality. Self-report inventories like the MMPI-2 present direct questions with structured response options. Culture-fair tests attempt to minimize cultural bias in item content — they are not projective measures."
+    "rationale": "A valid test is always reliable. Choice “b” is correct because a test that measures a given trait well does so repeatedly. Remember that a reliable test, however, is not necessarily always valid. After all, a depression scale that was invalid and really measured anxiety could produce consistent reliable anxiety data."
   },
   {
-    "id": "ch08_q_010",
-    "domain": "Assessment",
+    "id": "ch08_q_631",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "A colleague wants to assess a client for possible neurological or brain damage and asks which assessment tool would be most appropriate. The counselor should recommend the:",
+    "question": "One method of testing reliability is to give the same test to the same group of people two times and then correlate the scores. This is called",
     "options": [
-      "Rorschach Inkblot Test",
-      "Thematic Apperception Test (TAT)",
-      "Bender Visual Motor Gestalt Test",
-      "Minnesota Multiphasic Personality Inventory-2"
+      "test–retest reliability.",
+      "equivalent forms reliability.",
+      "alternate forms reliability.",
+      "the split-half method."
     ],
-    "correct_index": 2,
-    "rationale": "The Bender Gestalt II (Lauretta Bender) is primarily used to detect brain damage and neurological/motoric difficulties — clients copy 16 geometric figures and distortions may indicate neurological impairment. While it is also considered an expressive projective, neurological screening is its primary use. The Rorschach and TAT assess personality; the MMPI-2 assesses psychopathology."
+    "correct_index": 0,
+    "rationale": "All right, I’ve got to hand it to you—you’re very perceptive. You’ve figured out that I’m banking on the fact that your exam will spring a few reliability or validity questions on you. The well-known test–retest method discussed here tests for “stability,” which is the ability of a test score to remain stable or fluctuate over time when the client takes the test again. When using the test–retest paradigm the client generally takes the same test after waiting at least seven days. The test–retest procedure is only valid for traits such as IQ which remain stable over time and are not altered by mood, memory, or practice effects."
   },
   {
-    "id": "ch08_q_011",
-    "domain": "Assessment",
+    "id": "ch08_q_632",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "When describing intelligence, J.P. Guilford distinguished between two types of thinking. A client who is asked to generate as many creative uses as possible for a brick is demonstrating:",
+    "question": "One method of testing reliability is to give the same population alternate forms of the identical test. Each form will have the same psychometric/statistical properties as the original instrument. This is known as",
     "options": [
-      "Convergent thinking",
-      "Divergent thinking",
-      "Fluid intelligence",
-      "Crystallized intelligence"
-    ],
-    "correct_index": 1,
-    "rationale": "Divergent thinking (Guilford) is the ability to generate novel, multiple ideas or solutions — it is the basis of creativity. Convergent thinking combines diverse ideas into a single correct answer. Fluid intelligence (Cattell) is inherited, culture-free reasoning capacity. Crystallized intelligence is knowledge accumulated through education and experience."
-  },
-  {
-    "id": "ch08_q_012",
-    "domain": "Assessment",
-    "chapter": 8,
-    "question": "An interest inventory administered to a 10-year-old client shows that he is highly interested in medicine. The counselor should interpret this finding by noting that:",
-    "options": [
-      "The result is valid because interest inventories are the least threatening type of test",
-      "The result is reliable and predicts this child will pursue a medical career",
-      "Interest inventories are most valid for high school age and above — interests are not stable before then",
-      "The result is invalid because interest and ability are highly correlated, and the child is too young"
-    ],
-    "correct_index": 2,
-    "rationale": "Interest inventories are most valid for high school age and above because interests are not stable in younger children. Interests do not become fully stable until approximately age 25. Additionally, interests and abilities are NOT highly correlated — high interest in medicine does not predict medical skill. The counselor should not make strong career predictions based on childhood interest inventories."
-  },
-  {
-    "id": "ch08_q_013",
-    "domain": "Assessment",
-    "chapter": 8,
-    "question": "A career counselor administers the Kuder Career Planning Inventory to a client. The scores reveal that this client's strongest interest relative to his own profile is in 'outdoor' work. The counselor CANNOT legitimately compare this client's outdoor interest score to another client's outdoor interest score because:",
-    "options": [
-      "The Kuder is a projective test and projective tests cannot be compared",
-      "The Kuder is an ipsative measure that compares traits within the same person, not between persons",
-      "The Kuder lacks predictive validity for occupational choice",
-      "Interest inventories are only reliable for those over age 25"
+      "test–retest reliability.",
+      "equivalent or alternate forms reliability.",
+      "the split-half method.",
+      "internal consistency."
     ],
     "correct_index": 1,
-    "rationale": "The Kuder instruments are ipsative measures — they compare traits within a single individual (within-person analysis), not against a normative group. Because ipsative scoring does not reveal absolute strengths, comparing two people's ipsative scores is meaningless. This contrasts with normative tests (like the WAIS-IV), where a client's score is compared to a norm group."
+    "rationale": "Here a single group of examinees takes parallel forms of a test and a reliability correlation coefficient is figured on the two sets of scores. Counterbalancing is necessary when testing reliability in this fashion. That is to say, half of the individuals get parallel form A first and half get form B initially. This controls for variables such as fatigue, practice, and motivation."
   },
   {
-    "id": "ch08_q_014",
-    "domain": "Assessment",
+    "id": "ch08_q_633",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "The MMPI-2 contains a 'lie scale' composed of items reflecting minor human frailties that most people possess. If a client scores high on the lie scale, this most likely indicates:",
+    "question": "A counselor doing research decided to split a standardized test in half by using the even items as one test and the odd items as a second test and then correlating them. The counselor",
     "options": [
-      "The client has a personality disorder involving pathological lying",
-      "The client deliberately answered all questions with unusual or extreme responses",
-      "The client responded in a socially desirable manner to appear psychologically healthy",
-      "The client did not understand the instructions and answered randomly"
-    ],
-    "correct_index": 2,
-    "rationale": "The MMPI-2 lie scale uses forced-choice items about minor universal frailties. If a client denies having these common human frailties, it suggests they are presenting themselves as more virtuous than most people actually are — the social desirability response bias. A high lie scale score indicates the client may be faking good (not pathological lying). Choice B describes the deviation response style (deliberately unusual answers)."
-  },
-  {
-    "id": "ch08_q_015",
-    "domain": "Assessment",
-    "chapter": 8,
-    "question": "A supervisor asks a counselor to measure the internal consistency of a new test without splitting it into halves. The counselor should use:",
-    "options": [
-      "Test–retest reliability",
-      "The Spearman-Brown formula",
-      "Cronbach's alpha or the KR-20 formula",
-      "Inter-rater reliability"
-    ],
-    "correct_index": 2,
-    "rationale": "Cronbach's alpha and the Kuder-Richardson formulas (KR-20, KR-21) measure internal consistency (inter-item homogeneity) without splitting the test in half. The split-half method does measure internal consistency but requires dividing the test. Test-retest measures stability over time. The Spearman-Brown formula estimates the effect of test length changes on reliability. Inter-rater measures scorer agreement."
-  },
-  {
-    "id": "ch08_q_016",
-    "domain": "Assessment",
-    "chapter": 8,
-    "question": "Raymond B. Cattell proposed that there are two types of intelligence. A 75-year-old retired professor who still demonstrates vast knowledge of history and literature from decades of study is most clearly demonstrating:",
-    "options": [
-      "Fluid intelligence, which peaks in young adulthood and then declines",
-      "Crystallized intelligence, which reflects accumulated knowledge and experience",
-      "Convergent intelligence, which integrates diverse information into a unified concept",
-      "Galton's unitary intelligence factor"
+      "used an invalid procedure to test reliability.",
+      "was testing reliability via the split-half correlation method.",
+      "was testing reliability via the equivalent forms method.",
+      "was testing reliability via the inter-rater method."
     ],
     "correct_index": 1,
-    "rationale": "Crystallized intelligence (Cattell) is built through education, culture, and experience; it remains stable or increases with age. A professor's deep historical knowledge reflects crystallized intelligence. Fluid intelligence is inherited, culture-free, and decreases with age — it is measured by novel reasoning tasks like block design. Convergent thinking is Guilford's term, not Cattell's."
+    "rationale": "In this situation the individual takes the entire test as a whole and then the test is divided into halves. The correlation between the half scores yields a reliability coefficient. When a researcher does not use even versus odd questions to split the test, he or she may do so using random numbers (merely dividing a test according to first half versus second half could confound the data due to practice and fatigue effects)."
   },
   {
-    "id": "ch08_q_017",
-    "domain": "Assessment",
+    "id": "ch08_q_634",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "A counselor administers an IQ test developed and normed exclusively on White, middle-class American children to a recently immigrated client from rural Mexico. According to ACA ethics, this practice is:",
+    "question": "Which method of reliability testing would be useful with an essay test but not with a test of algebra problems?",
     "options": [
-      "Acceptable as long as the counselor explains the limitations of the test results",
-      "Acceptable because all IQ tests measure universal cognitive abilities",
-      "A violation of ethics because tests must be normed on the specific population being tested",
-      "Acceptable if the test has strong concurrent validity with other established IQ measures"
+      "Test–retest.",
+      "Alternate forms.",
+      "Split-half.",
+      "Inter-rater/inter-observer."
+    ],
+    "correct_index": 3,
+    "rationale": "Using choice “d,” several raters assess the same performance. This method is also called “scorer reliability” and is utilized with subjective tests such as projectives to ascertain whether the scoring criteria are such that two persons who grade or assess the responses will produce roughly the same score."
+  },
+  {
+    "id": "ch08_q_635",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A reliability coefficient of 1.00 indicates (d)",
+    "options": [
+      "a lot of variance in the test.",
+      "a score with a high level of error.",
+      "a perfect score which has no error.",
+      "a typical correlation on most psychological and counseling tests."
     ],
     "correct_index": 2,
-    "rationale": "ACA ethics require that counselors not administer a test to a client from a given population unless that test has been normed on that specific population. Administering a test normed only on White middle-class Americans to a Mexican immigrant violates this ethical standard — regardless of the counselor's explanations or the test's concurrent validity with other measures."
+    "rationale": "As stated earlier, this generally occurs only in physical measurement."
   },
   {
-    "id": "ch08_q_018",
-    "domain": "Assessment",
+    "id": "ch08_q_636",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "An 18-year-old college freshman asks to review her high school academic records, including IQ test scores administered when she was 14. Under the Family Educational Rights and Privacy Act (FERPA), the student:",
+    "question": "An excellent psychological or counseling test would have a reliability coefficient of",
     "options": [
-      "Cannot access records created before she turned 18",
-      "May review her records but cannot request corrections",
-      "Has the right to inspect her records because she is over age 18",
-      "Must obtain parental consent to access her own records"
+      "50.",
+      ".90.",
+      "1.00.",
+      "–.90."
+    ],
+    "correct_index": 1,
+    "rationale": "Ninety percent of the score measured the attribute in question, while 10% of the score is indicative of error."
+  },
+  {
+    "id": "ch08_q_637",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A researcher working with a personality test discovers that the test has a reliability coefficient of .70 which is somewhat typical. This indicates that",
+    "options": [
+      "70% of the score is accurate while 30% is inaccurate.",
+      "30% of the people who are tested will receive accurate scores.",
+      "70% of the people who are tested will receive accurate scores.",
+      "30% of the score is accurate while 70% is inaccurate."
+    ],
+    "correct_index": 0,
+    "rationale": "Seventy percent of the obtained score on the test represented the true score on the personality attribute, while 30% of the obtained score could be accounted for by error. Seventy percent is true variance while 30% constitutes error variance."
+  },
+  {
+    "id": "ch08_q_638",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A career counselor is using a test for job selection purposes. An acceptable reliability coefficient would be ________ or higher.",
+    "options": [
+      ".20",
+      ".55",
+      ".80",
+      ".70"
     ],
     "correct_index": 2,
-    "rationale": "FERPA (Buckley Amendment, PL 93-380) grants persons 18 and older the right to inspect their own academic records — including test data — and the right to request corrections of errors they discover. Parental consent is NOT required once the student is 18. There is no restriction on records created before age 18."
+    "rationale": "This is a tricky question. Although .70 is generally acceptable for most psychological attributes, for admissions for jobs, schools, and so on, it should be at least .80 and some experts will not settle for less than .90."
   },
   {
-    "id": "ch08_q_019",
-    "domain": "Assessment",
+    "id": "ch08_q_639",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "A test item is answered correctly by 75 out of 100 examinees. The item difficulty index is ________, and the item is considered relatively ________.",
+    "question": "The same test is given to the same group of people using the test–retest reliability method. The correlation between the first and second administration is .70. The true variance (i.e., the percentage of shared variance or the level of the same thing measured in both) is 283",
     "options": [
-      ".25; difficult",
-      ".75; easy",
-      "75; moderately difficult",
-      ".50; average difficulty"
+      "70%.",
+      "100%.",
+      "50%.",
+      "49%."
     ],
-    "correct_index": 1,
-    "rationale": "Item difficulty = # correct / total tested = 75/100 = .75. The higher the difficulty index, the MORE people passed the item — meaning the item is EASIER. A difficulty of .75 means 75% got it right, so the item is relatively easy. Ideal difficulty for most tests is .50 (half right, half wrong — maximizes discrimination). A difficulty of 0.0 = everyone failed; 1.0 = everyone passed."
+    "correct_index": 3,
+    "rationale": "Here’s the key to simplifying a question such as this. To demonstrate the variance of one factor accounted for by another you merely square the correlation (i.e., reliability coefficient). So .70 × .70 = .49 and .49 × 100 = 49%. Your exam could refer to this principle as the coefficient of determination."
   },
   {
-    "id": "ch08_q_020",
-    "domain": "Assessment",
+    "id": "ch08_q_640",
+    "domain": "Assessment and Testing",
     "chapter": 8,
-    "question": "A counselor shortens a 120-item career assessment from 120 to 60 items because clients find it too long. The supervisor warns that this decision will most directly affect which psychometric property?",
+    "question": "IQ means",
     "options": [
-      "Validity, because fewer items reduces content coverage",
-      "Reliability, because shorter tests are less reliable",
-      "Normative data, because the norm group will no longer apply",
-      "Face validity, because the test will appear less comprehensive"
+      "a query of intelligence.",
+      "indication of intelligence.",
+      "intelligence quotient.",
+      "intelligence questions for test construction."
+    ],
+    "correct_index": 2,
+    "rationale": "A quotient is the result when you perform division. The early ratio formula for the Binet IQ score was MA/CA (i.e., mental age divided by your chronological age) × 100. The score indicated how you compared to those in your age group. Memory device: An MA is a high degree so put it on top of the equation as the numerator. IQ testing has been the center of more heated debates among experts than any other type of testing."
+  },
+  {
+    "id": "ch08_q_641",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "________ did research and concluded that intelligence was normally distributed like height or weight and that it was primarily genetic.",
+    "options": [
+      "Spearman",
+      "Guilford",
+      "Williamson",
+      "Galton"
+    ],
+    "correct_index": 3,
+    "rationale": "Francis Galton felt intelligence was a single or so-called unitary factor."
+  },
+  {
+    "id": "ch08_q_642",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Francis Galton felt intelligence was",
+    "options": [
+      "a unitary faculty.",
+      "best explained via a two factor theory.",
+      "best explained via the person’s environment.",
+      "fluid and crystallized in nature."
+    ],
+    "correct_index": 0,
+    "rationale": "Sir Francis Galton of England has been recognized as one of the major pioneers in the study of individual differences. A half-cousin of Charles “Origin of Species” Darwin, he believed that exceptional mental abilities were genetic and ran in families, and said just that in his 1869 work Hereditary Genius. Choice “b” illuminates the position of Charles Spearman, who in 1904 postulated two factors—a general ability G and a specific ability S which were thought to be applicable to any mental task. (Wasn’t psychological theory simple in those days?) As for choice “d,” it pops up on exams from time to time. Fluid intelligence is flexible (terrific they both begin with an F), culture-free, and adjusts to the situation, while crystallized is rigid and does not change or adapt."
+  },
+  {
+    "id": "ch08_q_643",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "J. P. Guilford isolated 120 factors which added up to intelligence. He also is remembered for his",
+    "options": [
+      "thoughts on convergent and divergent thinking.",
+      "work on cognitive therapy.",
+      "work on behavior therapy.",
+      "work to create the first standardized IQ test."
+    ],
+    "correct_index": 0,
+    "rationale": "Using factor analysis, Guilford determined that there were 120 elements/abilities which added up to intelligence. Two of the dimensions—convergent and divergent thinking—are still popular terms today. Convergent thinking occurs when divergent thoughts and ideas are combined into a singular concept. Divergent thinking is the ability to generate a novel idea. Choice “d” would reflect primarily the work of Alfred Binet and Theodore Simon."
+  },
+  {
+    "id": "ch08_q_644",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A counselor is told by his supervisor to measure the internal consistency reliability (i.e., homogeneity) of a test but not to divide the test in halves. The counselor would need to utilize",
+    "options": [
+      "the split-half method.",
+      "the test–retest method.",
+      "the Kuder–Richardson coefficients of equivalence.",
+      "cross-validation."
+    ],
+    "correct_index": 2,
+    "rationale": "Internal consistency or homogeneity of items also is known as “inter-item consistency.” In plain everyday verbiage, the supervisor wants the counselor to find out if each item on the test is measuring the same thing as every other item. Is performance on one item truly related to performance on another? This can be done by using the Kuder–Richardson reliability/item consistency estimates, which are often denoted on exams as the KR-20 or KR-21 formulas. Another statistic, Lee J. Cronbach’s alpha coefficient, also has been used in this respect. Choice “a” is incorrect. Yes, the split-half method does investigate internal consistency reliability, but it relies on (as its name implies) splitting the test in halves (e.g., even versus odd scores). Cronbach’s alpha and the KR-20 or KR-21 are alternatives to the split-half method. Choice “d,” “cross-validation,” is another popular term used in this area of study. Cross-validation takes place when a researcher further examines the criterion validity (and in rare instances, the construct validity) of a test by administering the test to a new sample. This procedure is necessary to ensure that the original validity coefficient is applicable to others who will take the exam. This method helps guard against error factors, which are likely to be present if the original sample size is small. In most cases a cross-validation coefficient is indeed smaller than the initial validity coefficient. This phenomenon is called “shrinkage.”"
+  },
+  {
+    "id": "ch08_q_645",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The first intelligence test was created by",
+    "options": [
+      "David Wechsler. 285",
+      "J. P. Guilford.",
+      "Francis Galton.",
+      "Alfred Binet and Theodore Simon."
+    ],
+    "correct_index": 3,
+    "rationale": "The year was 1904 and the French government appointed a commission to ferret out feeble-minded Parisian children from those who were normal. Alfred Binet led the committee and the rest is history. By 1905, Binet, along with his coworker Theodore Simon, created a 30-question test with schoolrelated items of increased difficulty. Binet used his own daughters as test subjects in order to investigate mental processes and also is cited as one of the pioneers in projective testing based on his work with inkblots. After testing nearly 3,000 children in the United States in 1916, Lewis M. Terman of Stanford University published an American version of the Binet that was translated into English and adapted to American children. And in case you haven’t already guessed, the word “Stanford” was added to the name."
+  },
+  {
+    "id": "ch08_q_646",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Today, the Stanford–Binet IQ test is",
+    "options": [
+      "a nonstandardized measure.",
+      "a standardized measure.",
+      "a projective measure.",
+      "b and c."
     ],
     "correct_index": 1,
-    "rationale": "Increasing test length raises reliability; shortening it lowers reliability. The Spearman-Brown formula is used to estimate how much reliability will drop when a test is shortened. While content validity (choice A) may also suffer if items are removed, the most direct and documented psychometric effect of test shortening is reduced reliability. The norm group and face validity issues are secondary concerns."
+    "rationale": "The Stanford–Binet is standardized because the scoring and administration procedures are formal and well delineated. Measures which are not standardized (choice “a”) lack procedural guidelines for scoring or administration and do not include quantitative information related to “standards” of performance."
+  },
+  {
+    "id": "ch08_q_647",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "IQ stands for intelligence quotient, which is expressed by",
+    "options": [
+      "CA/MA × 100.",
+      "CA/MA × 100.",
+      "MA/CA × 50.",
+      "MA/CA × 100."
+    ],
+    "correct_index": 3,
+    "rationale": "The test is Binet’s, but the famous formula was created by the German psychologist, William Louis Stern. The formula produced what is known as a “ratio IQ.” Today, a “deviation IQ” is utilized which compares the individual to a norm (i.e., the person is compared to others in his or her age group). Thus, the present score indicates “deviation” from the norm. Okay, now just to be sure that you are really picking this up let me say it in a slightly different way: Although we still use the term IQ, the Binet today actually relies on a standard age score (SAS) with a mean of 100 and a standard deviation of 16. So then you see, the IQ isn’t really an IQ after all—right?"
+  },
+  {
+    "id": "ch08_q_648",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The Binet stressed age-related tasks. Utilizing this method, a 9-year-old task would be one which",
+    "options": [
+      "only a 10-year-old child could answer. (d)",
+      "only an 8-year-old child could answer.",
+      "50% of the 9-year-olds could answer correctly.",
+      "75% of the 9-year-olds could answer correctly."
+    ],
+    "correct_index": 2,
+    "rationale": "A 9-year-old task was defined as one in which one half of the 9-yearolds tested could answer successfully."
+  },
+  {
+    "id": "ch08_q_649",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Simon and Binet pioneered the first IQ test around 1905. The test was created to",
+    "options": [
+      "assess high school seniors in America.",
+      "assess U.S. military recruits.",
+      "discriminate children without an intellectual disability from children with an intellectual disability.",
+      "measure genius in the college population."
+    ],
+    "correct_index": 2,
+    "rationale": "The Minister of Public Instruction for the Paris schools wanted a test to identify children with an intellectual disability so that they could be taught separately. The assumption was made that intelligence was basically the ability to understand school-related material. In regard to choice “d,” some experts believe that the Wechsler is a better test for those who fall in the average range, while the Stanford– Binet is more accurate for assessing extremes of intellect. Today the terms intellectual disability (ID) and Intellectual Development Disorder (IDD) have replaced the terminology used at the time, which carried negative connotations."
+  },
+  {
+    "id": "ch08_q_650",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Today the Stanford–Binet is used from age 2 to adulthood. The IQ formula has been replaced by the",
+    "options": [
+      "SAS.",
+      "SUDS.",
+      "entropy.",
+      "KR-20 formula."
+    ],
+    "correct_index": 0,
+    "rationale": "Review question 647. SAS stands for “standard age score.” Choice “c,” entropy, is a popular family therapy/systems theory term that means that dysfunctional families are either too open or too closed (i.e., letting too much information in or not enough information in). The healthy family is said to be in a balanced state known as negative entropy."
+  },
+  {
+    "id": "ch08_q_651",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Most experts would agree that the Wechsler IQ tests gained popularity, as the Binet",
+    "options": [
+      "must be administered in a group.",
+      "favored the geriatric population.",
+      "didn’t seem to be the best test for adults.",
+      "was biased toward women."
+    ],
+    "correct_index": 2,
+    "rationale": "Choice “a” is incorrect—both the Binet and the Wechsler are individual tests which require specific training beyond that required for a group IQ test. David Wechsler felt the Binet was slanted toward verbal skills and thus he added “performance” skills to ascertain attributes which might have been cultivated in a background which did not stress verbal proficiency. Choice “c” is correct since the Binet was initially created for children."
+  },
+  {
+    "id": "ch08_q_652",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The best IQ test for a 22-year-old single male would be the",
+    "options": [
+      "WPPSI-III.",
+      "WAIS-IV.",
+      "WISC-IV.",
+      "any computer-based IQ test."
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “a,” the WPPSI (Wechsler Preschool and Primary Scale of Intelligence), is suitable for children ages 2 years and 6 months to 7 years and 7 months. Choice “b,” the WAIS-IV (Wechsler Adult Intelligence Scale), is intended for ages 16–90 years. Choice “c,” the WISC-IV (Wechsler Intelligence Scale for Children), is appropriate for kids ages 6–16 years and 11 months. Choice “d” is indicative of a paper and pencil test that has been modified so that the client can take the test via computer. Quick hints for dealing with WAIS-IV questions: • The test is based on neurocognitive research and the Cattell–Horn–Carroll leading theory of human intelligence. • It can be administered and scored online. • The exam takes 60 to 90 minutes to complete. • When compared to the previous version of the exam, object assembly and picture arrangement have been dropped. • Ten subject areas, also called subtests on some exams (with a mean of 10 and a standard deviation of 3) make up four index scores: verbal comprehensive index (VCI), perceptual reasoning index (PRI), working memory index (WMI), and processing speed index (SPI). • FSIQ merely stands for full scale IQ. FSIQ and indexes sport a mean of 100 with a standard deviation of 15. • Less emphasis than the previous version on crystallized intelligence. • Can measure IQ from 40 to 160. Since the Stanford–Binet 5 has a wider range (e.g., it can measure an IQ up to 180) it would be a better instrument than the Wechsler for measuring extremely low IQs or giftedness."
+  },
+  {
+    "id": "ch08_q_653",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The best intelligence test for a sixth-grade girl would be the",
+    "options": [
+      "WPPSI-IV.",
+      "WAIS-IV.",
+      "WISC-IV.",
+      "Merrill–Palmer."
+    ],
+    "correct_index": 2,
+    "rationale": "The WISC-IV is recommended for children from ages 6–16 years and 11 months. The Merrill–Palmer Scale of Mental Tests is an intelligence test for infants and children below age 7 years. Counselors who have been in the field for an extended period of time might be surprised that the WAIS-IV and the WISC-IV no longer provide verbal and performance IQ scores. On any test the lowest possible score is known as the “floor” while the “highest possible score” is referred to as the “ceiling.”"
+  },
+  {
+    "id": "ch08_q_654",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The best intelligence test for a kindergartner would be the",
+    "options": [
+      "WPPSI-IV.",
+      "WAIS-IV.",
+      "WISC-IV.",
+      "Myers–Briggs Type Indicator."
+    ],
+    "correct_index": 0,
+    "rationale": "Since the child most likely would be between 2 years of age and 7 years and 7 months, the WPPSI-IV would be the only possible choice. Choice “d,” the MBTI is a personality inventory based on Carl Jung’s analytic psychology. The MBTI uses dichotomous types: extraversion versus introversion, sensing versus intuition, thinking versus feeling, and judging versus perceiving. The test results in a four-letter type score such as ISFJ (i.e., introversion, sensing, feeling, judging). (Note: Intuition, though it begins with an “I,” is coded using an “N” since Introversion begins with an “I.”) Important exam hint: When a test is guided via a theory it is known as a theorybased test or inventory."
+  },
+  {
+    "id": "ch08_q_655",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The mean on the Wechsler and the Stanford–Binet Intelligence scales (SB5) is ________ and the standard deviation is ________.",
+    "options": [
+      "100; 100",
+      "100; 15 Wechsler, 16 Stanford–Binet",
+      "100; 20",
+      "100; 1"
+    ],
+    "correct_index": 1,
+    "rationale": "IQs above 100 are above average and those shy of 100 are below average."
+  },
+  {
+    "id": "ch08_q_656",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Group IQ tests like the Otis–Lennon, the Lorge–Thorndike, and the California Test of Mental Abilities are popular in school settings. The advantage is that",
+    "options": [
+      "group tests are quicker to administer.",
+      "group tests are superior in terms of predicting school performance.",
+      "group tests always have a higher degree of reliability.",
+      "individual IQ tests are not appropriate for school children."
+    ],
+    "correct_index": 3,
+    "rationale": "World War I provided the impetus for the group testing movement. Approximately two million men were tested using the Army Alpha for literates and the Army Beta for illiterates and those from other countries. School districts, government, and industry prefer tests which can be administered to many individuals simultaneously. The catch is that group tests are less accurate and have lower reliability."
+  },
+  {
+    "id": "ch08_q_657",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The group IQ test movement began (a)",
+    "options": [
+      "in 1905.",
+      "with the work of Binet.",
+      "with the Army Alpha and Army Beta in World War I.",
+      "with Freudian psychoanalysis and the psychodynamic movement."
+    ],
+    "correct_index": 2,
+    "rationale": "Note the word group."
+  },
+  {
+    "id": "ch08_q_658",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "In a culture-fair test",
+    "options": [
+      "items are known to the subject regardless of his or her culture.",
+      "the test is not standardized.",
+      "culture-free items cannot be utilized.",
+      "African Americans generally score higher than whites."
+    ],
+    "correct_index": 0,
+    "rationale": "The culture-fair test attempts to expunge items which would be known only to an individual due to his or her background. Key exam hint: Ethics now consider it unethical to administer a test to a client from a given population unless that particular test or inventory has been normed on that specific population! As an example, if you gave an African American client a test that had not been normed on African Americans this would be considered a violation of ethics."
+  },
+  {
+    "id": "ch08_q_659",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The black versus white IQ controversy was sparked mainly by a 1969 article written by ________.",
+    "options": [
+      "John Ertl",
+      "Raymond B. Cattell",
+      "Arthur Jensen",
+      "Robert Williams"
+    ],
+    "correct_index": 2,
+    "rationale": "Here are four names with which to be familiar. Choice “a,” John Ertl, claimed he invented an electronic machine to analyze neural efficiency and take the place of the paper and pencil IQ test. The device relies on a computer, an EEG, a strobe light, and an electrode helmet. The theory is that the faster one processes the perception, the more intelligence he or she has. I might add that thus far, counselors don’t seem to be buying the idea! Choice “b,” Raymond B. Cattell, is responsible for the fluid (inherited neurological that decreases with age and is not very dependent on culture) and crystallized intelligence (intelligence from experiential, cultural, and educational interaction). Crystallized intelligence is measured by tests that focus on content. Fluid intelligence is tested by what has been called “content-free reasoning” such as a block design or a pictorial analogy problem. Jensen, choice “c” mentioned earlier, sparked tremendous controversy—actually that’s putting it mildly—when he suggested in a 1969 Harvard Educational Review article (“How Much Can We Boost IQ and Scholastic Performance?”) that the closer people are genetically, the more alike their IQ scores. Adopted children, for example, will sport IQs closer to their biological parents than to their adopted ones. Jensen then leveled the charge that whites score 11 to 15 IQ points higher than African Americans (regardless of social class). His theory stated that due to slavery it was possible that African Americans were bred for strength rather than intelligence. He estimated that heredity contributed 80%, while environment influenced 20% of the IQ. Urie Bronfenbrenner, who could be included here if we had a choice “e,” claimed that Jensen relied on twin studies with poor internal validity. Other researchers (e.g., Newman, Freeman, and Holzinger; Fehr) felt that genetic influences contributed less than 50% to IQ. In the final choice, the African American psychologist Robert Williams created the Black Intelligence Test of Cultural Homogeneity (BITCH) to demonstrate that African Americans often excelled when given a test laden with questions whose answers would be familiar to members of the African American community. Williams charged that tests like the Binet and the Wechsler were part of “scientific racism.” Williams—a victim of the system himself—scored an 82 on an IQ test at age 15 and his counselor suggested bricklaying since he was good with his hands! Williams rejected the advice and went on to put PhD after his name! IQ tests, though controversial to say the least, are, however, excellent predictors of school success in most cases since schools emphasize values that have been heavily influenced by European cultures. 1979 Larry P. v. Wilson Riles, Superintendent of Public Instruction, State of California: The Wechsler and Binet on Trial! In this now oft-quoted court battle, it was initially ruled that IQ tests were racially biased against African American children who were overly represented in EMR (educable mentally retarded) classes (proper terminology at the time) based on IQ scores."
+  },
+  {
+    "id": "ch08_q_660",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The MMPI-2 is",
+    "options": [
+      "an IQ test.",
+      "a neurological test.",
+      "a projective personality test.",
+      "a standardized personality test."
+    ],
+    "correct_index": 3,
+    "rationale": "The original version of this instrument was created in 1940. The Minnesota Multiphasic Personality Inventory-2, the current version used since 1989, is known as a “self-report” personality inventory. The client can respond with “true,” “false,” or “cannot say” to 567 questions (10 more than the traditional MMPI, which was the most researched test in history as well as the most useful for assessing emotional disturbance). The “new” MMPI, designated via the 2, is intended to help clinicians diagnose and treat patients. The test is said to have retained the best factors of the MMPI, while updating the test and eliminating sexist wording. The MMPI-2 is suitable for those over age 18. A sixth-grade reading level is required and testing time varies from 60 to 90 minutes. The test restandardization committee reported that the norming sample for the MMPI-2 is larger and more representative than the old measure. The MMPI offers computer report packages for specialized settings such as college counseling, chronic pain programs, or outpatient mental health centers. Wikipedia calls the MMPI, “the gold standard in personality testing.” The MMPI-A is a 478-question version suitable for 14–to–18-year-old adolescents. My advice: Thumb through a few major testing catalogs before taking the exam. The major testing catalogs are available online."
+  },
+  {
+    "id": "ch08_q_661",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The word psychometric means",
+    "options": [
+      "a form of measurement used by a neurologist. 291",
+      "any form of mental testing.",
+      "a mental trait which cannot be measured.",
+      "the test relies on a summated or linear rating scale."
+    ],
+    "correct_index": 1,
+    "rationale": "Psychometrics literally refers to the branch of counseling or psychology which focuses on testing. Choice “d” is used to describe answer scales in which various values are given to different responses. For example, on a Likert Scale a “strongly agree” might be given a 5, yet an “agree response” might be rated a 4. The clients score is the “sum” of all the items."
+  },
+  {
+    "id": "ch08_q_662",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "In a projective test the client is shown",
+    "options": [
+      "something which is highly reinforcing.",
+      "something which is highly charged from an emotional standpoint.",
+      "a and b.",
+      "neutral stimuli."
+    ],
+    "correct_index": 3,
+    "rationale": "The idea here is that the client will “project” his or her personality if given an unstructured task. More specifically, there are several acceptable formats for projective tests: First, Association—such as “What comes to mind when you look at this inkblot?” Second, Completion—“Complete these sentences with real feelings.” Third, Construction—such as drawing a person. The theory is that self-report inventories like the MMPI do not reveal hidden unconscious impulses. In order to accomplish this the client is shown vague, ambiguous stimuli such as a picture or an inkblot. Some counselors believe that by using projective measures a client will have more difficulty faking his or her responses and that he or she will be able to expand on answers. It should be noted that examiner bias is common when using projectives and a therapist using projective measures needs more training than one who merely works with selfreport tests."
+  },
+  {
+    "id": "ch08_q_663",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The 16 PF reflects the work of",
+    "options": [
+      "Raymond B. Cattell.",
+      "Carl Jung.",
+      "James McKeen Cattell.",
+      "Oscar K. Buros."
+    ],
+    "correct_index": 0,
+    "rationale": "The 16 PF (16 Personality Factor Questionnaire), developed by Raymond B. Cattell, is suitable for persons age 16 and above and has been the subject of over 2,000 papers or other communications! The test measures key personality factors such as assertiveness, emotional maturity, and shrewdness. A couple can even decide that each party will take the 16 PF, and both an individual and joint profile will be compiled, which can be utilized for marital counseling. Choice “c” is another Cattell, who coined the term mental test and spent time researching mental assessment and its relation to reaction time at the University of Pennsylvania. James McKeen Cattell had originally worked with Wilhelm Wundt and later Francis Galton. Tests and inventories like the 16 PF, which analyze data outside of a given theory, are called factor-analytic tests or inventories rather than theory-based tests."
+  },
+  {
+    "id": "ch08_q_664",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The Myers–Briggs Type Indicator reflects the work of",
+    "options": [
+      "Raymond B. Cattell.",
+      "Carl Jung.",
+      "William Glasser.",
+      "Oscar K. Buros."
+    ],
+    "correct_index": 1,
+    "rationale": "Review question 654. Buros, mentioned in choice “d,” is noted for his Mental Measurements Yearbook (MMY), which was the first major publication to review available tests. After his death, the University of Nebraska set up the Oscar K. Buros Center, which continued his valuable contribution to the field by producing MMY series books packed with professional reviews to help counselors pick appropriate tests. I mean you peruse reviews before you purchase a vehicle or a new computer, right? Why not examine the tests you will be using with your clients?"
+  },
+  {
+    "id": "ch08_q_665",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The counselor who favors projective measures would most likely be a",
+    "options": [
+      "Rogerian.",
+      "strict behaviorist.",
+      "TA therapist.",
+      "psychodynamic clinician."
+    ],
+    "correct_index": 3,
+    "rationale": "Choices “a,” “b,” and “c” all reflect positions that do not rely heavily on the unconscious mind (especially the behaviorists, who believe that if you can’t directly measure the behavior, it is not meaningful). However, some theorists (e.g., Allport) would contend that even if it is true that unconscious impulses exist, they are not very important."
+  },
+  {
+    "id": "ch08_q_666",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "An aptitude test is to ________ as an achievement test is to ________.",
+    "options": [
+      "what has been learned; potential",
+      "potential; what has been learned",
+      "profit from learning; potential",
+      "a measurement of current skills; potential"
+    ],
+    "correct_index": 1,
+    "rationale": "An aptitude test assesses “potential” and “predicts.” A person, for example, who scores high on a music aptitude test is not necessarily a skilled musician at the time he or she takes the test. The test, however, is predicting that this individual could excel in music if he or she received the proper training and practice. An achievement test examines what you know or how well you currently perform (e.g., the NCE or how fast you can run the 100-yard dash). Predictive validity is particularly important when choosing an aptitude test."
+  },
+  {
+    "id": "ch08_q_667",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Both the Rorschach and the Thematic Apperception Test (TAT) are projective tests. The Rorschach uses 10 inkblot cards while the TAT uses",
+    "options": [
+      "a dozen inkblot cards. 293",
+      "verbal and performance IQ scales.",
+      "pictures.",
+      "incomplete sentences."
+    ],
+    "correct_index": 2,
+    "rationale": "The TAT consists of 31 cards. The test, which is intended for ages 4 and beyond, uses up to 20 cards when administered to any given individual (i.e., 19 selected to fit the age and sex of the client, plus one blank card). The pictures on each card are intentionally ambiguous, and the client is asked to make up a story for each of them. Choice “d” would describe a projective test such as the Rotter Incomplete Sentence Blank (RISB) in which the subject completes an incomplete sentence with a real feeling."
+  },
+  {
+    "id": "ch08_q_668",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Test bias primarily results from",
+    "options": [
+      "a test being normed solely on white middle-class clients.",
+      "the use of projective measures.",
+      "using whites to score the test.",
+      "using IQ rather than personality tests."
+    ],
+    "correct_index": 0,
+    "rationale": "This bias should be communicated to the client when the results are explained."
+  },
+  {
+    "id": "ch08_q_669",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A counselor who fears the client has an organic, neurological, or motoric difficulty would most likely use the",
+    "options": [
+      "Bender Gestalt II.",
+      "Rorschach.",
+      "Minnesota Multiphasic Personality Inventory-2.",
+      "Thematic Apperception Test."
+    ],
+    "correct_index": 0,
+    "rationale": "The Bender Visual Motor Gestalt Test (named after psychiatrist Lauretta Bender) is actually an expressive projective measure, though first and foremost it is known for its ability to discern whether brain damage is evident. Suitable for age 4 years and beyond, the client is instructed to copy 16 geometric figures which the client can look at while constructing his or her drawing."
+  },
+  {
+    "id": "ch08_q_670",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "An interest inventory would be least valid when used with",
+    "options": [
+      "a first-year college student majoring in philosophy.",
+      "a third-year college student majoring in physics.",
+      "an eighth-grade male with an IQ of 136.",
+      "a 46-year-old white male construction worker."
+    ],
+    "correct_index": 3,
+    "rationale": "Interest inventories work best with individuals who are of high school age or above inasmuch as interests are not extremely stable prior to that time. Interests become quite stable around age 25."
+  },
+  {
+    "id": "ch08_q_671",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "One major criticism of interest inventories is that",
+    "options": [
+      "they have far too many questions. (c)",
+      "they are most appropriate for very young children.",
+      "they emphasize professional positions and minimize blue-collar jobs.",
+      "they favor jobs that will require a bachelor’s degree or higher."
+    ],
+    "correct_index": 2,
+    "rationale": "Also take note of the fact that contrary to popular opinion interests and abilities are not—that’s right, not—highly correlated. A client, for example, could have tremendous musical ability in music yet could thoroughly dislike being a musician."
+  },
+  {
+    "id": "ch08_q_672",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Interest inventories are positive in the sense that",
+    "options": [
+      "they are reliable and not threatening to the test taker.",
+      "they are always graded by the test taker.",
+      "they require little or no reading skills.",
+      "they have high validity in nearly all age brackets."
+    ],
+    "correct_index": 0,
+    "rationale": "Generally, an interest inventory would be the least threatening variety of test."
+  },
+  {
+    "id": "ch08_q_673",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A counselor who had an interest primarily in testing would most likely be a member of",
+    "options": [
+      "HS-BCP.",
+      "AARC.",
+      "NASW.",
+      "ACES."
+    ],
+    "correct_index": 1,
+    "rationale": "The AARC (Association for Assessment and Research in Counseling) is one of 20 ACA divisions. Can you name the other choices?"
+  },
+  {
+    "id": "ch08_q_674",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The NCE is",
+    "options": [
+      "an intelligence test.",
+      "an aptitude test.",
+      "a personality test.",
+      "an achievement test."
+    ],
+    "correct_index": 3,
+    "rationale": "The NCE is testing your knowledge and application of material in the counseling profession."
+  },
+  {
+    "id": "ch08_q_675",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The ________ are examples of aptitude tests.",
+    "options": [
+      "O*NET Ability Profiler and the MCAT",
+      "GZTS and the MMPI-2",
+      "CPI and the MMPI-2",
+      "Strong and the LSAT"
+    ],
+    "correct_index": 0,
+    "rationale": "Plenty of alphabet soup here! Here I’ve teamed up the O*NET Ability Profiler with the new Medical College Admission Test (MCAT). Choice “b,” the Guilford–Zimmerman Temperament Survey (GZTS), is a personality measure for persons who do not have severe psychiatric disabilities. Ditto for the California Personality Inventory (CPI), which shares questions with the MMPI. Last, the final alternative introduces you to the new Law School Admission Test (LSAT), which of course qualifies as a bona fide aptitude test. So why is choice “d” incorrect? Well, if any portion of a response is incorrect, then the entire choice is erroneous. If you marked choice “d” you can blame it on the Strong! Exam Hint: School selection tests assess aptitude."
+  },
+  {
+    "id": "ch08_q_676",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "One problem with interest inventories is that the person often tries to answer the questions in a socially acceptable manner. Psychometricians call this response style phenomenon",
+    "options": [
+      "standard error.",
+      "social desirability (the right way to feel in society).",
+      "cultural bias.",
+      "acquiescence."
+    ],
+    "correct_index": 1,
+    "rationale": "The converse of choice “b” occurs when an individual purposely, or when in doubt, gives unusual responses. This phenomenon is known as “deviation.” Choice “d” manifests itself when a client always agrees with something."
+  },
+  {
+    "id": "ch08_q_677",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "An aptitude test predicts future behavior while an achievement test measures what you have mastered or learned. In the case of a test like the ________ the distinction is unclear.",
+    "options": [
+      "Binet",
+      "Wechsler",
+      "GRE",
+      "Bender"
+    ],
+    "correct_index": 2,
+    "rationale": "Sure, the GRE attempts to predict graduate school performance, but it also tests your level of knowledge. Some exams will refer to tests like the GRE, MAT, MCAT, SAT, etc., as “aptitudeachievement tests.” Now here’s where a counselor’s life gets really complicated. Say your exam presents you with one of the aforementioned tests and gives you “aptitude” as one choice, and “achievement” as another, but does not give you “aptitude achievement” as an alternative (yipes!). Well, I certainly won’t condone the practice, but based on my investigation of the textbook taxonomy of tests I’d opt for the “aptitude” option and latch onto the first good four-leaf clover I could get my hands on."
+  },
+  {
+    "id": "ch08_q_678",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Your supervisor wants you to find a new personality test for your counseling agency. You should read",
+    "options": [
+      "professional journals.",
+      "the Buros Mental Measurements Yearbook.",
+      "classic textbooks in the field as well as test materials produced by the testing company.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Moreover, it has been discovered that if the counselor involves the client in the process of test selection it will improve his or her cooperation in the counseling process."
+  },
+  {
+    "id": "ch08_q_679",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The standard error of measurement tells you",
+    "options": [
+      "how accurate or inaccurate a test score is.",
+      "what population responds best to the test.",
+      "something about social loafing.",
+      "the number of people used in norming the test."
+    ],
+    "correct_index": 0,
+    "rationale": "Any chance you chose choice “c”? Well, social loafing is a term you can bank on seeing in comprehensive exams, but trust me when I say it has zilch to do with this question! Social loafing describes a phenomenon in which a person in a group puts forth less effort than if he or she were attempting to accomplish the same goal individually. Now for the answer to this question: If a client decided to take the same test over and over and over again you could plot a distribution of scores. This would be the standard error of measurement for the instrument in question. Suffice it to say, the lower the better. A low standard error means high reliability. Say, that’s a pretty important concept; I better explain it again with a slightly different twist in the Research and Program Evaluation section of this book."
+  },
+  {
+    "id": "ch08_q_680",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A new IQ test has a standard error of measurement (SEM) of 3. Tom scores 106 on the test. If he takes the test a lot, we can predict that about 68% of the time",
+    "options": [
+      "Tom will score between 100 and 103.",
+      "Tom will score between 100 and 106.",
+      "Tom will score between 103 and 109.",
+      "Tom will score higher than Betty who scored 139."
+    ],
+    "correct_index": 2,
+    "rationale": "Calculated simply by taking: 106 – 3 = 103 and 106 + 3 = 109. Hint: Your exam could refer to this as the “68% confidence interval” (i.e., 103 to 109). Classical test theory suggests the formula, X = T + E, where X is the obtained score, T is the true score, and E is the error. Hence, psychometricians know that if a client takes the same test over and over, random error (i.e., E in the formula) will cause the score to fluctuate."
+  },
+  {
+    "id": "ch08_q_681",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A counselor created an achievement test with a reliability coefficient of .82. The test is shortened since many clients felt it was too long. The counselor shortened the test but logically assumed that the reliability coefficient would now",
+    "options": [
+      "be approximately .88.",
+      "remain at .82.",
+      "be at least 10 points higher or lower.",
+      "be lower than .82."
+    ],
+    "correct_index": 3,
+    "rationale": "Increasing a test’s length raises reliability. Shorten it and the antithesis occurs. Note: The Spearman Brown formula is used to estimate the impact that lengthening or shortening a test will have on a test’s reliability coefficient."
+  },
+  {
+    "id": "ch08_q_682",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A counselor can utilize psychological tests to help secure a ________ diagnosis if third-party payments are necessary.",
+    "options": [
+      "CPT",
+      "DSM or ICD",
+      "percentile",
+      "standard error"
+    ],
+    "correct_index": 1,
+    "rationale": "Diagnosis is a medical term which asserts that you classify a disease based on symptomatology. CPT (Current Procedural Terminology Codes) are used to let insurance companies, managed care firms, etc. know which service you provided, such as individual therapy or family therapy."
+  },
+  {
+    "id": "ch08_q_683",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A colleague of yours invents a new projective test. Seventeen counselors rated the same client using the measure and came up with nearly identical assessments. This would indicate",
+    "options": [
+      "high validity.",
+      "high reliability.",
+      "excellent norming studies.",
+      "culture fairness."
+    ],
+    "correct_index": 1,
+    "rationale": "This is known as “inter-rater” reliability."
+  },
+  {
+    "id": "ch08_q_684",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Counselors often shy away from self-reports since",
+    "options": [
+      "clients often give inaccurate answers.",
+      "ACA ethics do not allow them.",
+      "clients need a very high IQ to understand them.",
+      "they are generally very lengthy."
+    ],
+    "correct_index": 0,
+    "rationale": "Say a client is monitoring her behavior and does not wish to disappoint her therapist. The report could be biased. This is a “reactive effect” of the self-monitoring."
+  },
+  {
+    "id": "ch08_q_685",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "In most instances, who would be the best qualified to give the Rorschach Inkblot Test?",
+    "options": [
+      "A counselor with NCC after his or her name.",
+      "A clinical psychologist.",
+      "A D.O. psychiatrist.",
+      "A social worker with LCSW after his or her name."
+    ],
+    "correct_index": 1,
+    "rationale": "Generally, a clinical psychologist would have the most training in projective measures while the social worker would have the least education regarding tests and measurements."
+  },
+  {
+    "id": "ch08_q_686",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Your client, who is in an outpatient hospital program, is keeping a journal of irrational thoughts. This would be",
+    "options": [
+      "an unethical practice based on NBCC ethical guidelines.",
+      "considered a standardized test.",
+      "an informal assessment technique.",
+      "an aptitude measure."
+    ],
+    "correct_index": 2,
+    "rationale": "Self-reports, case notes, checklists, sociograms of groups, interviews, and professional staffings would also fall into the informal assessment category."
+  },
+  {
+    "id": "ch08_q_687",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "You are uncertain whether a test is intended for the population served by your not-for-profit agency. The best method of researching this dilemma would be to",
+    "options": [
+      "contact a local APA clinical psychology graduate program.",
+      "e-mail the person who created the test.",
+      "read the test manual included with the test.",
+      "give the test to six or more clients at random."
+    ],
+    "correct_index": 2,
+    "rationale": "The manual should specify the target population for the test in question."
+  },
+  {
+    "id": "ch08_q_688",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Clients should know that",
+    "options": [
+      "validity is more important than reliability.",
+      "projective tests favor psychodynamic theory.",
+      "face validity is not that important.",
+      "a test is merely a single source of data and not infallible."
+    ],
+    "correct_index": 3,
+    "rationale": "Although the first three choices are important to the counselor, the final statement should be explained to the client. An extremely high score—say on a mechanical aptitude test—does not automatically imply that the client will prosper as a mechanic."
+  },
+  {
+    "id": "ch08_q_689",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "One major testing trend is",
+    "options": [
+      "computer-assisted testing and computer interpretations.",
+      "more paper and pencil measures.",
+      "to give school children more standardized tests.",
+      "to train pastoral counselors to do projective testing."
+    ],
+    "correct_index": 3,
+    "rationale": "But don’t take my word for it. Pick up any modern testing catalog and you might erroneously think you’ve picked up a computer software directory! And speaking of choice “c,” as a write this there seems to be a nationwide push to eliminate the number of standardized tests given."
+  },
+  {
+    "id": "ch08_q_690",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "One future trend which seems contradictory is that some experts are pushing for",
+    "options": [
+      "a greater reliance on tests while others want to rely on them less. (a)",
+      "social workers to do most of the testing.",
+      "psychiatrists to do most of the testing.",
+      "counselors to ban all computer-assisted tests."
+    ],
+    "correct_index": 0,
+    "rationale": "It seems we counselors just can’t agree on anything. Many counselors would like to see a greater emphasis in the future on tests which assess creative and motivational factors."
+  },
+  {
+    "id": "ch08_q_691",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Most counselors would agree that",
+    "options": [
+      "more preschool IQ testing is necessary.",
+      "teachers need to give more personality tests.",
+      "more public education is needed in the area of testing.",
+      "the testing mystique has been beneficial to the general public."
+    ],
+    "correct_index": 2,
+    "rationale": "Again, the public needs to know the limitations of testing (i.e., that they are fallible). If you’ve been doing counseling for any length of time then you’ve surely come in contact with clients who have been harmed by hearing a score (e.g., their IQ) and then reacting to it such that it becomes a negative, selffulfilling prophecy."
+  },
+  {
+    "id": "ch08_q_692",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "________ would be an informal method of appraisal.",
+    "options": [
+      "IQ testing",
+      "Standardized personality testing",
+      "GRE scores",
+      "A checklist"
+    ],
+    "correct_index": 3,
+    "rationale": "Unlike choices “a,” “b,” and “c,” the informal method does not use standard administration or scoring procedures. I might tell a client to do her checklist or diary one way and you would go about it in a totally different manner."
+  },
+  {
+    "id": "ch08_q_693",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "The WAIS-IV is given to 100,000 individuals in the United States who are picked at random. A counselor would expect that",
+    "options": [
+      "approximately 68% would score between 85 and 115.",
+      "approximately 68% would score between 70 and 130.",
+      "the mean IQ would be 112.",
+      "50% of those tested would score 112 or above."
+    ],
+    "correct_index": 0,
+    "rationale": "I know, I see it too, a question with numbers—lots of numbers, but don’t panic. Let’s walk through this one together. First, the Wechsler IQ test has been administered to a very large group of people so chances are the distribution of scores will be normal. This tells you that the mean score will be 100 (i.e., the average IQ) and the standard deviation will be 15 (if the question were asked about the Binet you’d use 16 as the standard deviation). In a normal distribution approximately 68% of the population will fall between +/-1 standard deviation of the mean. With a standard deviation of 15 you simply subtract 15 from 100 to get the low score (i.e., 85) and add 15 to 100 to get 115. Choice “b” would be correct if the 68% was changed to 95%, since about 95% of the people in a normal distribution fall between +/-2 standard deviations of the mean. (You simply subtract 30 from 100 to get 70 and add 30 to 100 to yield the upper IQ score of 130.) Keep in mind that choice “c” should read 100 while choice “d” ought to indicate that 50% would score above 100."
+  },
+  {
+    "id": "ch08_q_694",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A word association test would be an example of",
+    "options": [
+      "a neuropsychological test.",
+      "a motoric test.",
+      "an achievement test.",
+      "a projective test."
+    ],
+    "correct_index": 3,
+    "rationale": "Although it is rare, some texts and exams take issue with the archaic word projective and refer to such tests as “self-expressive.”"
+  },
+  {
+    "id": "ch08_q_695",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Infant IQ tests are",
+    "options": [
+      "more reliable than those given later in life.",
+      "more unreliable than those given later in life.",
+      "not related to learning experiences.",
+      "never used."
+    ],
+    "correct_index": 1,
+    "rationale": "These “toddler tests” are sometimes capable of picking up gross abnormalities such as severe intellectual disabilities."
+  },
+  {
+    "id": "ch08_q_696",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "A good practice for counselors is to",
+    "options": [
+      "always test the client yourself rather than referring the client for testing.",
+      "never generalize on the basis of a single test score.",
+      "stay away from culture-free tests.",
+      "stay away from scoring the test yourself."
+    ],
+    "correct_index": 1,
+    "rationale": "Also, although choice “c” represents an ideal measure, most experts believe that as of this date no such animal exists."
+  },
+  {
+    "id": "ch08_q_697",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "You want to admit only 25% of all counselors to an advanced training program in psychodynamic group therapy. The item difficulty on the entrance exam for applicants would be best set at",
+    "options": [
+      "0.0.",
+      ".5 regardless of the admission requirement.",
+      "1.0.",
+      ".25."
+    ],
+    "correct_index": 3,
+    "rationale": "In most tests the level is set at .5 (i.e., 50% of the examinees will answer correctly while 50% will not). However, in this case the .25 level would allow you to ferret out the lower 75% you do not wish to admit. Item difficulty ranges from 0.0 (choice “a”) to 1.0 (choice “c”). The higher the index number, the greater the number of examinees who will answer the question correctly. Or simply: The higher the number, the easier the question is to answer."
+  },
+  {
+    "id": "ch08_q_698",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "According to Public Law 93–380, also known as the Buckley Amendment, a 19-year-old college student attending college",
+    "options": [
+      "could view her record, which included test data.",
+      "could view her daughter’s infant IQ test given at preschool.",
+      "could demand a correction she discovered while reading a file.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Persons over age 18 can inspect their own records and those of their children. The Family Educational Rights and Privacy Act (FERPA) also stipulates that information cannot be released without adult consent."
+  },
+  {
+    "id": "ch08_q_699",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "Lewis Terman",
+    "options": [
+      "constructed the Wechsler tests.",
+      "constructed the initial Binet prior to 1910.",
+      "constructed the Rorschach.",
+      "Americanized the Binet."
+    ],
+    "correct_index": 3,
+    "rationale": "Since Terman was associated with Stanford University the test became the Stanford–Binet."
+  },
+  {
+    "id": "ch08_q_700",
+    "domain": "Assessment and Testing",
+    "chapter": 8,
+    "question": "In constructing a test you notice that all 75 people correctly answered item number 12. This gives you an item difficulty of",
+    "options": [
+      "1.2.",
+      ".75.",
+      "1.0.",
+      "0.0."
+    ],
+    "correct_index": 2,
+    "rationale": "The item difficulty index is calculated by taking the number of persons tested who answered the item correctly/total number of persons tested. Hence, in this case 75/75 = 1.0. This maximum score for item 12 tells you it is probably much too easy for your examinees."
   }
 ]

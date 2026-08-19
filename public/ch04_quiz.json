@@ -1,282 +1,1402 @@
 [
   {
-    "id": "ch04_q_001",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_101",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A counselor supervisor tells her supervisee: 'You can use the same techniques with your Latino clients as you do with all other clients — people are people.' This supervisor is espousing which viewpoint?",
+    "question": "America has been called the most diverse country on the face of our planet. Counseling a client from a different social and/or cultural background is known as",
     "options": [
-      "The emic viewpoint — culture-specific approaches for each client",
-      "The autoplastic viewpoint — clients should change the self",
-      "The etic viewpoint — universal principles apply regardless of cultural background",
-      "The alloplastic viewpoint — clients should change their environment"
+      "cross-cultural counseling.",
+      "multicultural counseling.",
+      "intercultural counseling.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Although “b” is the term we hear most often, choices “a,” “b,” and “c” are roughly synonymous and hence mean approximately the same thing when you encounter them in the literature. Some research indicates that clients from minorities have been misdiagnosed, misunderstood, and found counseling less helpful than those from the majority culture. Clients from minority cultures tend to seek out counseling less and drop out sooner. Nevertheless, a culturally competent counselor can be successful regardless of the client’s background. Thus, this is an important area of study. The ACA division that deals explicitly with this topic is the Association for Multicultural Counseling and Development (AMCD). The division is intended to raise cultural, racial, and ethnic understanding and empathy. Multicultural counseling—which emphasizes respect for differences—has been dubbed as the “fourth force of counseling theory.” Key exam hint: The term multicultural implies that we champion the idea of celebrating diversity and this can be age, sexual orientation, religion, social class, country of origin, race, and even health status. Some exams use the term cultural pluralism to suggest that a minority cultural group will keep their own unique cultural values, yet they still participate in the wider or dominant culture."
+  },
+  {
+    "id": "ch04_q_102",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Culture refers to",
+    "options": [
+      "customs shared by a group which distinguish it from other groups.",
+      "values shared by a group that are learned from others in the group.",
+      "attitudes, beliefs, art, and language which characterize members of a group often passed from generation to generation.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "The sum of choices “a,” “b,” and “c” add up to a wonderful little definition of culture. A person’s culture can really be delineated by those customs which set him or her apart from another culture. Immigrants or persons who must live in a culture which is different from their native culture often experience “culture conflict.” By definition culture conflict manifests itself whenever a person experiences conflicting thoughts, feelings, or behaviors due to divided cultural loyalties (i.e., loyalty to two or more cultures). Culture conflict also can describe the difficulties which arise when persons of different cultures live in the same geographical area. How will you know which definition of cultural conflict applies to a test question? Well, the only good answer is that you must read every question very carefully in order to ferret out the context of the question. Hint: The term macroculture or majority culture on comprehensive exams refers to the dominant culture or the culture that is accepted by the majority of citizens in a given society. When an exam uses the term privilege, it is referring to the fact that some individuals have an unearned advantage, giving that person dominance, access to resources, and therefore power. Ideally, this power should be shared with others who don’t have it (i.e., to empower others) rather than discriminating against those who do not."
+  },
+  {
+    "id": "ch04_q_103",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Our culture is more diverse than in the past. Multicultural counselors often work with persons who are culturally different. This means the client",
+    "options": [
+      "is culturally biased.",
+      "suffers from the diagnosis of cultural relativity.",
+      "belongs to a different culture from the helper.",
+      "presents problems which deal only with culturally charged issues."
     ],
     "correct_index": 2,
-    "rationale": "The etic viewpoint holds that all humans are essentially more alike than different, and the same theoretical approaches and techniques can be applied to any client regardless of cultural background. The emic viewpoint (A) is the opposite — it emphasizes culture-specific approaches adapted to each individual client's cultural context. Distractor: Emic (A) is the most common confusion — on the exam, a supervisor who says 'treat everyone the same' is always etic, not emic."
+    "rationale": "Here is a very important distinction. Multicultural counselors work with the entire range of human difficulties just like other counselors. Yes, multicultural counselors do indeed deal frequently with cultural issues and therefore choices “a” and “b” could be true, but they are decidedly not the best answers. Choice “d” is easy enough to eliminate if you read it carefully and noted the word only. Let’s zero in for a moment on the term noted in choice “b,” cultural relativity, also described as cultural relativism on some exams. Cultural relativity connotes that a behavior cannot be assessed as good or bad except within the context of a given culture. The behavior must be evaluated relative to the culture. In the United States, for example, teen pregnancy prior to marriage is sometimes considered a negative behavior and viewed as a difficulty. In other parts of the world premarital pregnancy may be seen as something which is positive because it establishes the woman’s fertility. Such a woman may even be described as more “marriageable.” The multicultural counselor must assess the client’s behavior based on the client’s own culture—not merely based on the counselor’s culture. The meaning or desirability of a given behavior, trait, or act is based on the culture. It is said that effective counselors must transcend the “culture-bound values” barrier in which the counselor is “bound” to his or her own values and tries to impose them on clients."
   },
   {
-    "id": "ch04_q_002",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_104",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A counselor working with a client who experienced discrimination tells him, 'I understand that's painful. Let's work on changing your thoughts about this situation so it won't impact you as much.' This counselor is taking which approach?",
+    "question": "In order to diagnose clients from a different culture",
     "options": [
-      "Alloplastic — helping the client change the external environment",
-      "Autoplastic — helping the client change internal responses",
-      "Emic — adapting to the client's cultural context",
-      "A monolithic perspective on the client's experience"
+      "the counselor ideally will need some information regarding the specifics of the culture.",
+      "the counselor will find the DSM useless.",
+      "the counselor should rely heavily on cultural epoch theory.",
+      "NBCC ethics prohibit the use of DSM diagnosis."
     ],
-    "correct_index": 1,
-    "rationale": "The autoplastic approach focuses on helping the client change the SELF — thoughts, feelings, and internal responses to the environment. The counselor is suggesting the client modify their cognitive response, not fight the discrimination externally. The alloplastic approach (A) would involve the counselor encouraging the client to change or confront the system causing discrimination. Distractor: Alloplastic (A) is tempting because discrimination IS an external problem, but the counselor's intervention is focused on the client's internal cognitions."
+    "correct_index": 0,
+    "rationale": "Some of the literature in this area distinguishes “material culture” (e.g., books, paintings, homes, and tools) from what is termed “nonmaterial culture” (e.g., customs, values, humor, social ideas, or traditions). Some exams will refer to material culture items as “artifacts.” In any case, the current trend in counseling suggests that the counselor must understand cultural factors. This trend is known as “cultural awareness” and it is contrasted by a position of “cultural tunnel vision.” A good cross-cultural counselor will not impose his or her values on a client from a different cultural perspective. Another term you may see on an exam is culture epoch theory, which suggests that all cultures—like children— pass through the same stages of development in terms of evolving and maturing. Recently, multicultural experts have come to believe this is not a valid notion. (I guess that eliminates choice “c” as the best answer!) In regard to choice “d,” ethics stipulate that counselors must incorporate “culturally relevant techniques into their practice” and should acquire “cultural sensitivity” to client populations served. The appropriateness of a given DSM diagnosis is not specifically addressed. Nevertheless, experts seem to agree on the fact that the DSM is most applicable to those of European descent."
   },
   {
-    "id": "ch04_q_003",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_105",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "During a counseling intake, an African American male client is reluctant to disclose personal information to his white female counselor. The MOST likely explanation, based on multicultural research, is:",
+    "question": "In the United States, each socioeconomic group represents",
     "options": [
-      "The client is displaying malingering behavior to avoid treatment",
-      "African American males are especially hesitant to self-disclose to white counselors, particularly about personal matters",
-      "The client likely has an avoidant personality disorder",
-      "Males in general refuse to engage in the counseling process before the third session"
+      "a separate race.",
+      "a separate culture.",
+      "the concept of color blindness.",
+      "a separate national culture."
     ],
-    "correct_index": 1,
-    "rationale": "Research consistently shows that African American males have particular difficulty self-disclosing to white counselors. This reflects historical mistrust shaped by systemic racism and cultural norms around emotional expression. It is a culturally informed pattern, not pathology. Malingering (A) involves intentionally faking illness to avoid obligations. Avoidant personality (C) is a DSM diagnosis requiring a persistent pattern across settings. Distractor: Option D is partially true (males generally struggle with self-disclosure) but misses the racial/cultural specificity that makes B correct."
+    "correct_index": 3,
+    "rationale": "Choice “a,” race, refers to the identification of individuals via distinct physical or bodily (somatic) characteristics such as skin color or facial features. The assumption is thus made that a given race is based on genetic origin. Many racial groups can be distinguished from others by virtue of biological attributes such as their looks. Social scientists have questioned whether race is indeed a valid concept since it is sometimes questionable as to what constitutes a given race. Choice “c,” color blindness, is said to take place when you ignore the person’s race, culture or color. Keep in mind that is is not . . . I repeat . . . not necessarily a good thing in the counseling process and is often viewed as the direct opposite of good multicultural helping. Choice “d,” national culture, is a term used to describe the cultural patterns common to a given country. Nevertheless, keep in mind that in reality there is the “ideal culture,” which is the way individuals are supposed to behave, as well as the “real culture,” which encompasses all behaviors within the culture, even those which are illicit or frowned upon. When a group of persons vehemently opposes the values of the culture, they are said to be members of a “counterculture.”"
   },
   {
-    "id": "ch04_q_004",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_106",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A research team sets up a study in which 40 volunteer participants are instructed to administer increasingly powerful electric shocks to a 'learner' whenever he gives a wrong answer. The learner (actually a confederate) screams in pain. 65% of participants administer the maximum shock level when told to by an authority figure. This study BEST describes:",
+    "question": "Which therapist was not instrumental in the early years of the social psychology movement? (b)",
     "options": [
-      "Zimbardo's Stanford Prison Experiment — conformity to social roles",
-      "Asch's conformity studies — peer pressure and group agreement",
-      "Milgram's obedience experiments — compliance with authority",
-      "Sherif's Robbers' Cave Experiment — intergroup competition"
+      "Freud.",
+      "Durkheim.",
+      "McDougall.",
+      "Berne."
     ],
-    "correct_index": 2,
-    "rationale": "This is Milgram's landmark obedience study. 65% of participants administered maximum shock when ordered by an authority figure — far exceeding the 1% psychiatrists predicted. The key variable is AUTHORITY (being told to by a perceived authority figure), not peer pressure or role conformity. Zimbardo (A) involved assuming roles (guard/prisoner) without direct commands. Asch (B) involved conforming to peers' wrong answers in a perceptual task. Distractor: Zimbardo (A) is frequently confused with Milgram — both involve harmful behavior, but Zimbardo = role conformity, Milgram = authority commands."
+    "correct_index": 3,
+    "rationale": "What’s a social psych question doing in a chapter on social and cultural foundations? Well, hold your horses, I’ll get to that soon enough. Eric Berne, the father of transactional analysis (choice “d”), is the only answer which makes sense here. Here’s why. Sigmund Freud (choice “a”) is known for his influential 1921 book, Group Psychology and the Analysis of the Ego, which suggested that the group was held together by a bond between the leader and the group members that was seen as somewhat analogous to a hypnotist and his or her subject. This is a bit far-fetched according to some, but clearly indicative of Freud’s fascination with the power of hypnosis. The Frenchman Emile Durkheim (choice “b”) is considered one of the founders of modern sociology. His principles were first outlined in his 1895 work, Rules of Sociological Method. He is also well-known for his research into suicide, which culminated in another literary work, Suicide, two years later. Durkheim is said to have taken group phenomena beyond the armchair-speculation stage into formal research. William McDougall (choice “c”) is the father of “hormic psychology,” a Darwinian viewpoint which suggested that individuals in or out of groups are driven by innate, inherited tendencies. Although this approach began to lose ground after the behaviorist movement picked up steam, McDougall is well-remembered for his 1908 landmark work, Introduction to Social Psychology. He also believed in the concept of eugenics or the notion that genetics (e.g., selective breeding of those with high intelligence) would improve the gene pool and the human condition. Unfortunately, this position has often been viewed in a negative light and has been dubbed as “scientific rascism.”"
   },
   {
-    "id": "ch04_q_005",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_107",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A large group of people witnesses a woman being mugged in broad daylight on a busy street. Despite the number of witnesses, no one intervenes for several minutes. This phenomenon is BEST explained by:",
+    "question": "________ and ________ would say that regardless of culture, humans have an instinct to fight.",
     "options": [
-      "Social facilitation — the presence of others increases task difficulty",
-      "The sleeper effect — attitudes change after a delay",
-      "The bystander effect and diffusion of responsibility",
-      "Cognitive dissonance — witnessing violence creates incompatible cognitions"
-    ],
-    "correct_index": 2,
-    "rationale": "The bystander effect states that as the number of people present increases, the likelihood of any individual helping decreases — and the time to intervene increases. Diffusion of responsibility explains this: each bystander assumes someone else will act. Social facilitation (A) refers to performance improvement in the presence of others on tasks (not helping behavior). The sleeper effect (B) is about delayed persuasion. Distractor: Cognitive dissonance (D) is tempting because witnessing violence IS uncomfortable, but dissonance theory explains attitude formation, not bystander inaction."
-  },
-  {
-    "id": "ch04_q_006",
-    "domain": "Social & Cultural Diversity",
-    "chapter": 4,
-    "question": "An experiment randomly assigns college students to act as 'guards' or 'prisoners' in a mock prison. Within days, guards become abusive and sadistic; prisoners become passive and distressed. The experiment is halted after 6 days. This study BEST illustrates:",
-    "options": [
-      "Milgram's finding that most people obey authority figures",
-      "Zimbardo's finding that people conform to assigned social roles",
-      "Asch's finding that people conform to unanimous group opinions",
-      "Festinger's cognitive dissonance theory"
-    ],
-    "correct_index": 1,
-    "rationale": "Zimbardo's Stanford Prison Experiment (1971) demonstrated that ordinary people will conform powerfully to the social roles they are assigned, even without being directly instructed to behave in particular ways. Guards became abusive and prisoners passive simply by inhabiting their assigned roles. Milgram (A) involved direct authority commands, not role-based conformity. Asch (C) involved perceptual conformity to peer consensus. Distractor: Milgram (A) is the most common confusion — both involve harmful behavior, but Stanford Prison = ROLE, Milgram = AUTHORITY COMMAND."
-  },
-  {
-    "id": "ch04_q_007",
-    "domain": "Social & Cultural Diversity",
-    "chapter": 4,
-    "question": "A client tells his counselor, 'I'm torn — I've been offered my dream job in another city, but it means leaving my aging parents who need me.' According to Kurt Lewin, this client is experiencing:",
-    "options": [
-      "An approach-approach conflict — both options are attractive",
-      "An avoidance-avoidance conflict — both options are undesirable",
-      "An approach-avoidance conflict — one option has both attractive and repelling qualities",
-      "Cognitive dissonance — the two options hold inconsistent values"
+      "Maslow; Rogers",
+      "Ellis; Harper",
+      "Freud; Lorenz",
+      "Glasser; Rogers"
     ],
     "correct_index": 2,
-    "rationale": "An approach-avoidance conflict occurs when a SINGLE option has both attractive (the dream job, career) and repelling qualities (leaving parents, guilt). This is considered the HARDEST type of conflict and generates the most anxiety. Approach-approach (A) would mean two equally positive options to choose between. Avoidance-avoidance (B) would mean two equally undesirable choices. Distractor: Approach-approach (A) is tempting because the job sounds appealing — but the key is that this one option itself creates both attraction AND avoidance."
+    "rationale": "Freud believed that man was basically driven by the instincts of sex and aggression. Lorenz—partially basing his theory on the fact that certain tropical fish will attack an alternate target even when the actual target of aggression is removed—is another believer in the so-called “innate aggression theory.” I find this logic a tad fishy when applied to the genus Homo sapiens. P.S. McDougall, mentioned in the previous question, could also join the ranks of Freud and Lorenz as an “instinct theorist.”"
   },
   {
-    "id": "ch04_q_008",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_108",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "After purchasing an expensive new car, a client tells his counselor he's been reading only positive car reviews and avoiding any articles that might criticize his choice. According to Festinger, this behavior is BEST explained as:",
+    "question": "________ believe that aggression is learned. Thus, a child who witnesses aggressive behavior in adults may imitate the aggressive behavior.",
     "options": [
-      "Reaction formation — converting anxious thoughts into their opposite",
-      "Social facilitation — group pressure driving the purchase decision",
-      "Cognitive dissonance reduction — seeking information consistent with one's decision",
-      "The sleeper effect — attitude change after the communication source is forgotten"
+      "Instinct theorists",
+      "Innate aggression theorists 88",
+      "Social learning theorists",
+      "Followers of Erik Erikson"
     ],
     "correct_index": 2,
-    "rationale": "Festinger's cognitive dissonance theory predicts that after a major decision, people experience post-decisional dissonance (doubt/inconsistency) and actively reduce it by seeking CONSONANT information (reviews supporting the decision) and avoiding dissonant information (negative reviews). This is selective exposure. Reaction formation (A) is a Freudian defense mechanism involving opposite behaviors. Social facilitation (B) involves performance in the presence of others. Distractor: Reaction formation (A) is tempting because the client seems to be avoiding anxiety — but reaction formation involves doing the OPPOSITE of what you feel, not seeking confirming information."
+    "rationale": "If you marked choices “a” or “b” then it’s crystal clear that you are not reading the answers carefully enough. Review the last question. The social learning theory contradicts the “innate/instinct aggression theory” by emphasizing the environment rather than genetics or inborn tendencies. This model is generally associated with the work of Albert Bandura and his associates, who noted that children who viewed live or filmed aggression imitated the behavior. This is known as social learning theory or observational learning. The phenomenon is greatest when the adult is admired, powerful, or well liked. Hmmm. I wonder how many television personalities, rock stars, and sports figures are keeping abreast of the findings in social psychology. Just for the record, adolescents often model angry or aggressive parents, even in homes where the parents discourage hostile behavior."
   },
   {
-    "id": "ch04_q_009",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_109",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A social psychology researcher finds that people who live next door to each other are significantly more likely to become friends than people living two or three doors away. This phenomenon is BEST explained by:",
+    "question": "The APGA, which became the AACD until 1992 and is now the ACA, contributed to the growth of cross-cultural counseling by",
     "options": [
-      "The matching hypothesis — we choose friends at our own attractiveness level",
-      "Propinquity — proximity increases interpersonal attraction",
-      "Social exchange theory — proximity reduces the 'cost' of friendship",
-      "The foot-in-the-door effect — small interactions lead to larger commitments"
+      "the 1972 formation of the Association for Non-White Concerns in Personnel and Guidance, later known as the Association for Multicultural Counseling and Development.",
+      "the 1972 ethic which made it unethical to see culturally different clients without three hours of relevant graduate work in this area.",
+      "the 1972 ethic which required a 3,000-hour practicum in order to work with culturally different clients.",
+      "urging nonwhites to take graduate counseling courses."
+    ],
+    "correct_index": 0,
+    "rationale": "The Civil Rights Act of 1964 (P.L. 88–352) prohibiting discrimination for reasons of gender, race, religion, or national origin was instrumental in terms of setting the stage for minority concerns."
+  },
+  {
+    "id": "ch04_q_110",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Daniel Levinson proposed a controversial stage-crisis view theory with several major life transitions. He",
+    "options": [
+      "is the father of multicultural counseling.",
+      "wrote the 1978 classic Seasons of a Man’s Life and the 1997 sequel Seasons of a Woman’s Life.",
+      "postulated a midlife crisis for men between ages 40 and 45 and for women approximately five years earlier.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Middle-aged readers: listen up! Subsequent research indicates that Levinson’s theory of a midlife crisis for men or for women doesn’t really hold water. Levinson’s theory, originally derived by interviewing 40 middle-aged men from different backgrounds, suggested three major transitions. Levinson provides no statistical analysis. The first transition is known as early adult transition and is said to occur between the ages of 17 and 22. In this stage the individual makes decisions about college, the military, and breaking away from one’s parents. This is the “leaving the family stage.” A dream of the ideal adult life is formulated. Next, he proposes the age 30 transition (ages 28–33) in which the person attempts to make the dream a reality. After this stage the man experiences a settling down period. Next comes the midlife transition (ages 40–45 or approximately five years earlier for women). This stage is seen as stressful. The person questions his dream and acknowledges that goals may not be met. Moreover, one’s mortality becomes an issue (i.e., being young vs. being old). An age 50 transition occurs. The final transition is later adulthood (ages 60–65) where the individual makes peace with the world. Levinson’s theory is now viewed as biased against women (i.e., gender bias) since it does not truly deal adequately with women’s development proposing that women receive fulfillment by meeting the needs of their husbands and families. To put it a different way, men dream or have visions, goals, and aspirations about occupations and women dream about their marriage and family and often lack long-term goals."
+  },
+  {
+    "id": "ch04_q_111",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "The three factors which enhance interpersonal attraction are:",
+    "options": [
+      "assertiveness, anxiety, ego strength.",
+      "close proximity, physical attraction, similar beliefs.",
+      "culture, race, assertiveness.",
+      "ego strength, anxiety, race."
     ],
     "correct_index": 1,
-    "rationale": "Propinquity refers to how physical closeness (proximity) increases attraction and friendship formation. Festinger's apartment study found friendship was highest between next-door neighbors and decreased sharply even a few doors away. The matching hypothesis (A) relates to physical attractiveness in romantic selection. Social exchange theory (C) is about reward-cost balance in relationships generally. Distractor: Social exchange theory (C) is plausible because proximity DOES reduce 'costs' — but propinquity is the specific, correct term for proximity-based attraction."
+    "rationale": "Social psychology has a lot to say about attraction! Proxemics, or the study of proximity, relates to personal space, interpersonal distance, and territoriality. Leon Festinger discovered that friendship and attraction were highest for apartment dwellers living next door to each other. Social psychologists refer to the tendency for people who are in close proximity (say working at the same office or living close) to be attracted to each other as propinquity. The attraction waned even among people living two or three doors away. Although we like attractive people, the research shows that we generally end up with mates who are on our own level of attractiveness. Studies have literally shown that voters prefer attractive candidates though they are unaware of their bias. I often do a mini-experiment in my classes in which I pass out a picture of a very attractive individual and one who is very plain. I then ask the class to rate both individuals in regard to IQ and salary. True to the research, my class generally gives the goodlooking individual an inflated IQ and salary. Studies also indicate that attractive people fare better in legal altercations (yes, even when they have committed a crime). Moreover, they are more likely to receive help during a time of need, and they are better able to sway the opinions of an audience. Compliments, or what some of the literature refers to as “rewardingness” (a genuine caring), could also be added to the list of factors which help to intensify attraction. Finally, reciprocity of attraction or liking suggests we are attracted to people who like us and find us attractive. For long-term relationships, the matching hypothesis asserts we very often pick a partner who roughly matches our level of attractiveness."
   },
   {
-    "id": "ch04_q_010",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_112",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A counselor working with two competing departments in an organization tries to reduce conflict between the groups. Based on Muzafer Sherif's Robbers' Cave research, the MOST effective strategy would be:",
+    "question": "The term contextualism implies that",
     "options": [
-      "Giving each group more autonomy and separate resources to reduce competition",
-      "Providing a shared goal that BOTH groups must cooperate to achieve",
-      "Using Rogerian active listening to build empathy between group members",
-      "Applying cognitive dissonance principles to change each group's attitudes"
+      "multicultural counseling is the oldest subspecialty in the profession.",
+      "behavior must be assessed in the context of the culture in which the behavior occurs.",
+      "the notion of worldview is highly inaccurate.",
+      "projective tests are more accurate than objective measures when performing cross-cultural counseling."
     ],
     "correct_index": 1,
-    "rationale": "Sherif's Robbers' Cave Experiment demonstrated that intergroup hostility is best reduced by giving competing groups a SUPERORDINATE GOAL — an objective that neither group can achieve alone and that requires genuine cooperation. This replaces competition with collaboration. Giving groups more autonomy (A) tends to increase, not reduce, isolation. Rogerian listening (C) addresses individual relationships, not group dynamics. Distractor: Cognitive dissonance (D) is tempting because attitude change IS involved — but Sherif's finding was specifically that a shared goal changes intergroup dynamics, not just individual attitudes."
+    "rationale": "Let’s dispense of choice “a” by pointing out that although Frank Parsons, the father of guidance, acknowledged the significance of culture, it did not really begin to emerge as a true, accepted subspecialty until the 1970s. A person’s perception of his or her relationship to the world as a whole is often termed a worldview. Choice “b” is a textbook definition of contextualism."
   },
   {
-    "id": "ch04_q_011",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_113",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A Japanese American client avoids making eye contact with her counselor throughout their sessions. The counselor should FIRST consider that:",
+    "question": "Carol Gilligan, although she was an assistant to Lawrence Kohlberg, was critical of his theory of moral development",
     "options": [
-      "The client is displaying severe negative transference toward the counselor",
-      "This may reflect culturally appropriate behavior — a sign of respect for authority in some Asian cultures",
-      "The client has a DSM diagnosis of social anxiety disorder",
-      "The client is demonstrating the autoplastic coping style"
+      "as she felt it was too psychoanalytic.",
+      "as she felt it was too behavioristic.",
+      "as she felt it was not applicable to African Americans.",
+      "as she felt it was more applicable to males than females."
+    ],
+    "correct_index": 3,
+    "rationale": "According to Gilligan, Kohlberg’s theory did not delineate the notion that women place more emphasis on caregiving and personal responsibility than do men, who focus more on individual rights and justice."
+  },
+  {
+    "id": "ch04_q_114",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "________ helped to popularize the multicultural counseling movement.",
+    "options": [
+      "Arthur Jensen’s views on IQ testing (also known as Jensenism)",
+      "The civil rights movement",
+      "Jung’s feeling that all men and women from all cultures possess a collective unconscious",
+      "The Tarasoff duty"
     ],
     "correct_index": 1,
-    "rationale": "In some Asian cultures, avoiding eye contact with an authority figure is a sign of RESPECT, not anxiety, resistance, or pathology. Sue and Sue's work emphasizes understanding cultural display rules before interpreting behavior as pathological. Diagnosing this as negative transference (A) or social anxiety (C) would constitute a misdiagnosis rooted in cultural misunderstanding. Distractor: Negative transference (A) is very tempting because counselors are trained to watch for transference — but the cultural explanation must be considered FIRST in cross-cultural work."
+    "rationale": "(d) First, remember that intercultural counseling means the same thing as multicultural counseling if the term pops up on your exam. Jensen, choice “a,” tried to prove that African Americans had lower IQs due to genetic factors, while the Tarasoff case, mentioned in choice “d,” resulted in the counselor’s duty to warn and protect an intended victim who might be the target of danger or violence."
   },
   {
-    "id": "ch04_q_012",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_115",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A counselor presents six group members with an obviously wrong answer to a simple perceptual question. Five confederates agree with the wrong answer. Research by Solomon Asch predicts that the sixth (naive) participant will give the incorrect answer approximately what percentage of the time?",
+    "question": "When a counselor speaks of a probable outcome in a case, he or she is technically referring to",
     "options": [
-      "Less than 5% of the time — people trust their own perception",
-      "About 35% of the time — strong conformity pressure overrides accurate perception",
-      "Over 80% of the time — most people defer to group consensus",
-      "About 15% of the time — only highly anxious individuals conform"
+      "the prognosis.",
+      "the diagnosis.",
+      "the intervention.",
+      "attending behavior."
     ],
-    "correct_index": 1,
-    "rationale": "Asch's conformity studies found that approximately 35% of the time, participants gave clearly WRONG answers to match the unanimous (incorrect) group response. People will conform to an obviously incorrect unanimous decision about one-third of the time. This occurs even with as few as 3 confederates. Conformity was highest in authoritarian personalities, external approval seekers, and those with external locus of control. Distractor: 15% (D) seems plausible for 'some' conformity, but Asch's actual finding was substantially higher — about 35%."
+    "correct_index": 0,
+    "rationale": "Prognosis refers to the probability that one can recover from a condition. When charting in a client’s file the counselor would do well to discuss the length of treatment and the status expected at the end of treatment."
   },
   {
-    "id": "ch04_q_013",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_116",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "Carol Gilligan's critique of Kohlberg's moral development theory was primarily that:",
+    "question": "When a counselor speaks of what he or she believes must transpire from a psychotherapeutic standpoint, he or she technically is referring to",
     "options": [
-      "Kohlberg's research was conducted only on non-Western populations",
-      "Kohlberg's theory overemphasized psychoanalytic concepts",
-      "The theory was more applicable to males and didn't account for women's focus on caregiving and personal responsibility",
-      "Kohlberg ignored the role of cultural factors in moral reasoning"
+      "recommendations.",
+      "the diagnosis. 91",
+      "the prognosis.",
+      "the notion of transference."
+    ],
+    "correct_index": 0,
+    "rationale": "One difficulty with formal diagnosis (i.e., using the Diagnostic and Statistical Manual (DSM) of the American Psychiatric Association) is that a given diagnosis does not imply or recommend a given treatment process. The DSM will not tell you, for example, to treat a major depression with reality therapy or an adjustment disorder with anxious mood using a client-centered approach."
+  },
+  {
+    "id": "ch04_q_117",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "The 1971 famous Stanford Prison experiment conducted by Philip Zimbardo demonstrated that",
+    "options": [
+      "passivity is the norm for most individuals.",
+      "assertive behavior is clearly the healthiest behavioral alternative.",
+      "it takes people several weeks to change their behavior.",
+      "people conform to social roles."
+    ],
+    "correct_index": 3,
+    "rationale": "In this landmark research Zimbardo turned the basement of the Stanford University Psychology Building into a mock prison . . . not a misprint! Zimbardo randomly picked students to become guards as well as prisoners. The prisoners and the guards played their roles . . . well, let us just say . . . too well! Guards hurled insults at prisoners, were mean, hostile, sadistic, and abusive. The prisoners became passive. The experiment, slated to last two weeks, was shut down after merely six days as prisoners were harassed by the guards at such a high level (e.g., forced to clean the toilet facilities with their bare hands) they were becoming anxious, depressed, and stressed out. The experiment partially explains how the atrocities of the Holocaust could have been perpetrated and some of the behaviors noted at Abu Ghraib prison. An interesting footnote: In 1973 the American Psychological Association (APA) ruled the experiment as ethical, but today this would not be the case. Even Zimbardo went on record as saying that nobody in this country should ever be a part of an experiment like this ever again—shining a spotlight on the positive that some experts felt that the experiment resulted in better, more-stringent ethical guidelines."
+  },
+  {
+    "id": "ch04_q_118",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A wealth of research demonstrates that",
+    "options": [
+      "surprisingly enough, African Americans generally request Asian American counselors.",
+      "surprisingly enough, Asian Americans generally request African American counselors.",
+      "in most instances, clients prefer a counselor of the same race and a similar cultural background.",
+      "in most instances, clients prefer a counselor of the same race, yet a different culture."
+    ],
+    "correct_index": 3,
+    "rationale": "In multicultural counseling, “likes attract.” Social psychologists who have studied attraction tell us that similarity increases attraction. The phrase “in most instances” was intentional. Research demonstrates that if the other person is a member of a different nationality, race, or culture but is perceived as “similar” (i.e., more like you than someone of the same race and culture), then you still will be more attracted to the individual perceived as “similar” despite race or cultural barriers."
+  },
+  {
+    "id": "ch04_q_119",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "The frustration-aggression theory is associated with (c)",
+    "options": [
+      "Albert Ellis.",
+      "Robert Havinghurst, who created the idea of the developmental task concept.",
+      "Eric Berne, the creator of transactional analysis (TA).",
+      "John Dollard and Neal Miller."
+    ],
+    "correct_index": 3,
+    "rationale": "Frustration occurs when an individual is blocked so that he or she cannot reach an intended goal (or the goal is removed). The Dollard/Miller hypothesis asserts that frustration leads to aggression. Albert Ellis (note choice “a”), the father of rational-emotive behavior therapy (REBT), does not agree with the frustration-aggression theory. He feels that unfortunately many clients do indeed believe that frustration causes aggression. Ellis maintains that this dynamic is due to the client’s irrational thought process (i.e., actually believing it is true) rather than some automatic response pattern. Some social psychologists believe that when individuals lose their identity (sometimes called “deindividuation”) they are likely to become aggressive or violent. It has been found that the presence of weapons raises the level of violence as well as the probability that violence will occur. Counselors need to keep this in mind when dealing with suicidal and homicidal clients."
+  },
+  {
+    "id": "ch04_q_120",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A popular cognitive consistency or balance theory in social psychology is ________ cognitive dissonance theory.",
+    "options": [
+      "Dollard and Miller’s",
+      "Crites and Roe’s",
+      "Festinger’s",
+      "Holland and Super’s"
     ],
     "correct_index": 2,
-    "rationale": "Gilligan, who worked as Kohlberg's assistant, argued that his stage theory was developed primarily from male research subjects and reflected male moral reasoning (focused on individual rights and justice). Women, she argued, tend to develop morality around CARE, relationships, and personal responsibility — a different but equally valid moral path that Kohlberg's stages failed to capture. Distractor: Cultural factors (D) are a real critique of Kohlberg, but that is not Gilligan's specific argument — her critique was specifically about GENDER bias in the theory."
+    "rationale": "Choices “b” and “d” are names primarily associated with the career counseling movement. The concept of balance theory suggests that people strive for consistency/balance in terms of their belief systems. Simply put, individuals attempt to reduce or eliminate inconsistent or incompatible actions and beliefs. A state of incompatibility is known as “dissonance,” which literally means discord. Leon Festinger, in 1957, suggested that individuals are motivated to reduce tension and discomfort, thus putting an end to the dissonance. A statement like, “I’d rather smoke three packs of cigarettes a day and enjoy myself than quit and live an extra year or two,” would be an example of cognitive dissonance in action. The person in this example has “changed the balance” by making his or her thinking consistent. People don’t like inconsistency in their thoughts or attitudes versus behavior. Dissonance is often reduced using denial. Thus the individual who says “Sure I smoke, but the research which suggests it is harmful is not accurate” is also practicing cognitive dissonance, since he or she is using a form of denial."
   },
   {
-    "id": "ch04_q_014",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_121",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A multicultural counselor is described as supporting the 'salad bowl model' of diversity. This means the counselor believes:",
+    "question": "Culture is really a set of rules, procedures, ideas, and values shared by members of a society. Culture is said to be normative. This implies that",
     "options": [
-      "All cultures should gradually merge into one unified American identity",
-      "Cultural differences are temporary and will naturally diminish over generations",
-      "Different cultural groups should mix together in society while retaining their distinct cultural identities",
-      "The dominant culture should set the standard by which other cultures are measured"
+      "one culture will have norms which differ only slightly from another.",
+      "culture excludes customs.",
+      "culture provides individuals with standards of conduct. 93",
+      "culture is never socially learned."
     ],
     "correct_index": 2,
-    "rationale": "The salad bowl model holds that diverse cultural groups coexist and participate in society while retaining their distinct cultural identities — like different ingredients in a salad that remain individually recognizable. This is preferred over the melting pot model (A), which implies assimilation into a single unified identity and is considered a myth by multicultural scholars. The melting pot is associated with ethnocentrism and is NOT what multicultural counselors support. Distractor: The melting pot (A) sounds inclusive but actually represents assimilation pressure on minority cultures."
+    "rationale": "Cultures often differ markedly from each other, and most experts would agree that the customs are nearly always learned and shared with members of the society."
   },
   {
-    "id": "ch04_q_015",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_122",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A client who recently lost everything in her apartment fire now insists she cannot move her right arm, though extensive neurological examination finds no physical cause. She seems surprisingly unconcerned about this disability. The MOST likely diagnosis is:",
+    "question": "A statistical norm measures actual conduct, while a cultural norm",
     "options": [
-      "Malingering — she is faking the disability to avoid returning to work",
-      "Conversion disorder with la belle indifference",
-      "Factitious disorder — she is intentionally causing the symptom for secondary gain",
-      "Somatic symptom disorder with high anxiety"
+      "describes how people are supposed to act.",
+      "has little to do with expectations.",
+      "is irrelevant when counseling a client.",
+      "all of the above."
     ],
-    "correct_index": 1,
-    "rationale": "Conversion disorder involves neurological symptoms with no medical/physical explanation. La belle indifference = the client's surprising lack of concern about the symptom. The symptom is NOT intentionally produced (ruling out malingering and factitious disorder). The psychodynamic view: the symptom serves a purpose — the person no longer fears seeing something traumatic. Malingering (A) involves INTENTIONAL faking to avoid work/prison. Distractor: Malingering (A) is very tempting because we might assume a deliberate motive, but conversion disorder is UNINTENTIONAL — driven by unconscious psychological stress."
+    "correct_index": 0,
+    "rationale": "Choice “b” is the direct antithesis of the correct alternative choice “a.” Some multicultural practitioners suggest that culture is really a system of norms. Here is an important distinction: A statistical norm measures actual conduct, while a cultural norm describes the expectations of how one should act."
   },
   {
-    "id": "ch04_q_016",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_123",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A community volunteer asks neighbors to sign a petition supporting a local park (small request). Two weeks later, she returns and asks those same neighbors to attend a 3-hour city council meeting to advocate for the park (large request). Research suggests her second request will be more successful BECAUSE of the first. This illustrates:",
+    "question": "Mores are beliefs and social customs",
     "options": [
-      "The sleeper effect — delayed attitude change from the first interaction",
-      "The foot-in-the-door compliance technique",
-      "Social facilitation — group presence improves performance",
-      "Cognitive dissonance — inconsistency between not helping and prior commitment"
+      "regarding the rightness or wrongness of behavior.",
+      "which should be the central focus in multicultural counseling.",
+      "that are conscious decisions made by persons in power.",
+      "that are identical with the folkways in the culture."
     ],
-    "correct_index": 1,
-    "rationale": "The foot-in-the-door technique (Freedman & Fraser, 1966) works by getting agreement to a small request first, which creates a 'momentum of compliance' — the person then more readily agrees to a larger request. The housewives/safe-driving petition study is the classic example. The sleeper effect (A) is about forgotten communicators; social facilitation (C) is about task performance with observers present. Distractor: Cognitive dissonance (D) is partially relevant — committing to the small request does create some dissonance if you decline the larger one — but the specific technique being described is foot-in-the-door."
+    "correct_index": 0,
+    "rationale": "Mores—the plural of mos, which is rarely used in the literature—develop as a given group decides what is good and bad for the welfare of the people. People are generally punished for violating the mores. On an exam you may be asked to distinguish “folkways” (see choice “d”) from mores. Folkways, like mores, describe correct, normal, or habitual behavior. The difference is that breaking folkways generally results in embarrassment, while breaking mores causes harm to others or threatens the existence of the group. If, for example, you are an American and you drink a large bowl of soup directly from a soup bowl rather than using a spoon, then you have violated an American folkway. Your behavior won’t really win you friends or positively influence people, but you won’t be asked to spend time in a maximum security correction facility either. If, on the other hand, you kill three people and rob a bank, you have violated mores and your behavior could indeed result in serious punishment. Some of the literature does not attempt to describe mores as a separate entity but rather as a type of folkway, and thus choice “d” isn’t really that far off the mark. If you’re looking for a simple memory device, why not try the fact that “mores” begins with an “m” as does the word “morals.” Mores are behaviors that are based on morals. If you drink your soup out of a large bowl or pot, you may be in violation of an American folkway or in dire need of a course in etiquette, though I doubt whether your friends will classify you as immoral! Keep in mind that in other cultures a behavior such as this might not be in violation of a folkway. For example, in some Japanese cultures it is considered good table manners to drink soup out of a bowl as if it were a cup. As I pointed out earlier, when I mentioned the concept of cultural relativism, a behavior can only be judged within the context of a person’s culture."
   },
   {
-    "id": "ch04_q_017",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_124",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "Stanley Schachter's research on affiliation found that high-anxiety subjects chose to wait with others before an anticipated electric shock. A follow-up study found they preferred to wait specifically with OTHER high-anxiety subjects, not with anyone. This supports which conclusion?",
+    "question": "________ was the first pioneer to focus heavily on sociocultural issues.",
     "options": [
-      "Misery loves company of any kind",
-      "People under stress prefer isolation over social contact",
-      "Misery specifically loves MISERABLE company — people in similar predicaments",
-      "High-anxiety individuals have stronger social facilitation responses"
+      "Mark Savickas, a major figure in career construction theory relying on narrative therapy,",
+      "Alfred Adler, the father of individual psychology,",
+      "Maxie Maultsby, the father of rational behavior therapy (RBT),",
+      "Frank Parsons, the father of guidance,"
+    ],
+    "correct_index": 3,
+    "rationale": "Frank Parsons and his associates are considered the first social reformers concerned with guidance in the United States. He wrote Choosing a Vocation."
+  },
+  {
+    "id": "ch04_q_125",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A counselor who is part of a research study will be counseling clients in the polar regions and then at a point near the equator. Her primary concern will be",
+    "options": [
+      "universal culture.",
+      "national culture.",
+      "ecological culture.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Clemmont Vontress suggested that multicultural counselors would do well to remember that we are all part of a universal culture (choice “a”). We all have similar or universal needs (e.g., the hierarchy proposed by Maslow) and requirements for food, water, air, and sleep regardless of our cultural affiliation. Vontress noted that universal culture can be distinguished from national, regional, racioethnic, and ecological culture. Ecological culture implies that cultural norms are often the result of practical and survival behaviors related to the climate or the resources in a given physical or geological environment. Eating, drinking, clothing, and shelter behaviors would clearly be different in the polar regions than at the equator, desert region, or New York City. From a personal standpoint the counselor’s primary concern would probably be the ecological culture, and choice “b” (national culture) would no doubt run a close second."
+  },
+  {
+    "id": "ch04_q_126",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Biological similarities and sameness are indicated by",
+    "options": [
+      "ecological culture.",
+      "mores.",
+      "regional and national culture.",
+      "universal culture."
+    ],
+    "correct_index": 3,
+    "rationale": "The Human Genome Project has verified that biologically we are all more alike than different. The adept multicultural counselor will always keep in mind that he or she—like the client—is a product of universal culture."
+  },
+  {
+    "id": "ch04_q_127",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Early vocalization in infants",
+    "options": [
+      "is more complex in African American babies.",
+      "is more complex in white babies. 95",
+      "is nearly identical in all cultures around the globe.",
+      "is the finest indicator of elementary school performance."
     ],
     "correct_index": 2,
-    "rationale": "Schachter's research on affiliation demonstrated the nuanced finding that high-anxiety people do not just want any company — they specifically prefer to be with others who are in the SAME situation (also anxious about the same thing). People in embarrassing situations (Zimbardo's 1961 study) were LESS willing to affiliate, suggesting the need to share genuine fear, not anxiety rooted in shame or embarrassment. The popular saying is 'misery loves miserable company' — not just any company. Distractor: Option A ('any kind') misses the crucial finding that the similarity of situation matters."
+    "rationale": "From one side of the globe to the other, the initial sounds made by babies are very similar. The cultural environment then strengthens certain verbalizations via the process of reinforcement. The first word usually is spoken after approximately one year of life. The child may use one- or two-word phrases (e.g., “me eat” or “I Betty”) initially. These are known as “holophrases.” Initially, the child’s language is egocentric. By the fourth year most children can construct simple sentences. Anne Fernald of Stanford University discovered that by age 2 there can be a six-month language gap between children who are living in poverty and those who are not. This could be dubbed as socioeconomic status or SES on the exam. Clearly, more research is necessary and Fernald is quick to point out that this difference at a young age does not translate to destiny. Lack of environmental stimulation in any socioeconomic bracket (referred to as an “unstimulating” environment on some exams) does indeed hinder vocalization development."
   },
   {
-    "id": "ch04_q_018",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_128",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A counselor works with a traditional client from a culture where authority figures are expected to give direct guidance. The client seems disappointed and disengaged in sessions where the counselor uses a nondirective, Rogerian approach. The MOST culturally competent adjustment would be to:",
+    "question": "In the 1920s, Emory Bogardus developed a social distance scale, which evaluated",
     "options": [
-      "Maintain the Rogerian approach — it is universally effective across cultures",
-      "Switch to a more directive, structured approach that is congruent with the client's cultural expectations",
-      "Refer the client to a counselor of the same cultural background",
-      "Interpret the client's disappointment as a sign of resistance requiring confrontation"
+      "socioeconomic trends.",
+      "how an individual felt toward other ethnic groups.",
+      "disadvantaged youth.",
+      "language barriers between African Americans and Asian Americans."
     ],
     "correct_index": 1,
-    "rationale": "Multicultural competence requires flexibility. When a client's culture values authority and directive guidance, a purely nondirective approach fails to meet the client's culturally-based expectations for the helping relationship. Sue and Sue's work confirms that some cultures (including many traditional authority-valuing cultures) respond best to structured, directive, advice-giving styles. Person-centered therapy (A) can be effective cross-culturally in many contexts but is NOT universally optimal. Distractor: Referral (C) is not necessary and avoids the more appropriate adaptation of counseling style."
+    "rationale": "Ethnicity can be defined as that which pertains to a large group of individuals who are categorized by national, religious, linguistic, or cultural attributes. Measurement of attitudinal attributes began in the 1920s. The Bogardus data were indicative of negative attitudes toward a number of groups, including African Americans, Jews, Mexicans, and Turks. A replication of the study in 1947 revealed that the negative attitudes still prevailed. Wanting to keep a social distance from a certain group of people is seen as a form of prejudice."
   },
   {
-    "id": "ch04_q_019",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_129",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "Research on gender bias in counseling (Schlossberg & Pietrofesa, 1970) found that when counselor trainees helped a female client choose between an engineering career and a teaching career:",
+    "question": "According to the foot-in-the-door compliance technique, which has two distinct steps, a counselor who needs to make a home visit to a resistant client’s home",
     "options": [
-      "Male counselors steered her toward engineering; female counselors were unbiased",
-      "All counselors steered her toward teaching (the traditionally female career), including female counselors",
-      "No significant bias was found; counselors presented both options equally",
-      "Counselors from minority backgrounds were significantly less biased than white counselors"
+      "should conduct the interview from the porch.",
+      "should double-bind the client.",
+      "should ask to come in the home.",
+      "should exude accurate empathy, but never ask to enter the home."
     ],
-    "correct_index": 1,
-    "rationale": "The landmark Schlossberg & Pietrofesa study found that ALL counselor trainees — including FEMALE counselors — steered the female client away from engineering (traditionally male) and toward teaching (traditionally female). This demonstrated that sex-role stereotyping was not limited to male counselors. Female counselors showed the same bias as male counselors. Key implication: awareness of one's own bias is essential regardless of gender. Distractor: Option A (only male counselors biased) is the most common incorrect assumption — the study's important finding was that female counselors were equally biased."
+    "correct_index": 2,
+    "rationale": "Choices “a,” “b,” and “d” could be utilized; nonetheless, they do not describe the “foot-in-the-door” obedience technique. The phenomenon asserts that when a person agrees to a less-repugnant request (step 1), then he or she will be more likely to comply with a request which is even more distasteful (step 2). Thus, a counselor who first asks to come in the house (a small request) and receives an answer of “yes,” can then, for example, ask for medical information (a bigger request or so-called target request) related to a possible case of child abuse. Social science researchers report that trivial commitments lead to a so-called “momentum of compliance.” The notion is generally related to a 1966 study by Jonathan Freedman and Scott Fraser in which housewives who were first asked to sign a safe-driving petition were more apt to comply with the request to put a large “Drive Carefully” sign on their front lawns. The moral of the experiment is to always ask for a small favor and you’ll have a better chance of getting a person to say “yes” when you ask for a bigger favor. Could a memory device which takes advantage of the fact that Freedman and Fraser start with an “f” like the word foot help you to remember the researchers whose often-quoted studies support this principle?"
   },
   {
-    "id": "ch04_q_020",
-    "domain": "Social & Cultural Diversity",
+    "id": "ch04_q_130",
+    "domain": "Social and Cultural Foundations",
     "chapter": 4,
-    "question": "A counselor views all of her Latino clients as essentially the same, assuming cultural patterns that apply to Mexican Americans must apply equally to Puerto Ricans, Dominicans, and Cuban Americans. This counselor is displaying:",
+    "question": "Most countries have an official language, a stated viewpoint, and a central government. This is reflected mainly by",
     "options": [
-      "An emic perspective — she is trying to understand each client's unique cultural context",
-      "A monolithic perspective — treating all members of a broad group as identical",
-      "Cultural pluralism — acknowledging shared values within the Latino community",
-      "The etic viewpoint — applying universal principles to all clients"
+      "national culture.",
+      "human culture.",
+      "regional culture.",
+      "ecological culture."
+    ],
+    "correct_index": 0,
+    "rationale": "Hint: Although choice “b” is not the correct answer, don’t let it throw you if your exam refers to “universal culture” as “human culture.” The above statement best describes national culture. Big business and high-tech media are lessening the gap between national cultures. In this day and age an individual living on the opposite side of the earth could be wearing the same prestigious pair of designer jeans as you. Thus, some experts have suggested that traditional cultures will eventually be supplanted by a “unified world culture” or a “unified global culture.” As of late, the term third culture kid (TCK) has been used to describe children raised primarily in a culture that is different than their parents’ culture during their formative years."
+  },
+  {
+    "id": "ch04_q_131",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Whereas a culture is defined primarily via norms and values, a society differs from a culture in that a society",
+    "options": [
+      "is defined as a set of mores.",
+      "has a distinct lack of norms.",
+      "is a self-perpetuating independent group which occupies a definitive territory.",
+      "none of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "The boundaries of a culture and a society are not the same. Cultures operate within societies; however, all members of a given society may not share the same culture."
+  },
+  {
+    "id": "ch04_q_132",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Ethnocentrism",
+    "options": [
+      "uses one’s own culture as a yardstick to measure all others.",
+      "means race.",
+      "is a genetic term.",
+      "all of the above."
+    ],
+    "correct_index": 0,
+    "rationale": "(c) Statements like “superior race,” “savages,” “backward people,” or “the chosen few” capture the essence of the concept of ethnocentrism. In short, all societies are ethnocentric in the sense that they use their own views as a standard of reference and view themselves as superior. Again, ethnocentrism conveys the notion that one’s own group is superior."
+  },
+  {
+    "id": "ch04_q_133",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "All of these statements are ethnocentric except",
+    "options": [
+      "You can’t trust anyone over the age of 40.",
+      "Americans are generous.",
+      "Blue-collar workers are mean and selfish.",
+      "The Gross Domestic Product in the United States exceeds the figure in Mexico."
+    ],
+    "correct_index": 3,
+    "rationale": "Ethnocentrism is based on opinion while choice “d” is fact. Ethnocentrism was clearly expressed in the World War II joke which suggested that Hitler couldn’t build a race of supermen because Superman could only be an American."
+  },
+  {
+    "id": "ch04_q_134",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Ethnocentrism",
+    "options": [
+      "is not universal.",
+      "promotes a sense of patriotism and national sovereignty.",
+      "promotes stability and pride, yet danger in the nuclear age.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "According to researchers Robert LeVine and Donald Campbell you can scratch off choice “a,” because ethnocentrism is truly a universal phenomenon in which an ethnic group tries to prove it is superior. The U.S. government (as well as others) engages in choice “b” (a form of ethnocentrism) deliberately. Choice “c” reminds us of the ultimate danger in trying to prove sovereignty in a nuclear age. Key concept: Expect to see the term acculturation on exams related to multicultural studies. The term suggests that ethnic and racial minorities integrate or adopt cultural beliefs and customs from the majority or dominant culture. Assimilation is said to occur when the individual has such a high level of acculturation that he or she becomes part of the dominant, macro, or majority culture. A quick final thought: On occasion, the opposite can occur. Persons of the dominant culture like (or even think it is cool) to dress, talk, or follow customs set forth via a minority culture."
+  },
+  {
+    "id": "ch04_q_135",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Regardless of culture, the popular individual",
+    "options": [
+      "has good social skills.",
+      "values race over ethnicity.",
+      "dresses in the latest styles.",
+      "never possesses a modal personality."
+    ],
+    "correct_index": 0,
+    "rationale": "My best guess would be that most of you correctly chose the best alternative (choice “a”) based on common sense. So save your money on clothes (choice “c”) and fine tune your social skills! The only thing which might have made the question difficult was the introduction of the term modal personality in choice “d.” The term—derived from the statistical concept of the mode, used to describe the score which occurs most frequently—refers to a composite personality, which is the most typical profile of a given group of people. A modal personality is the personality which is characteristic or typical of the group in question."
+  },
+  {
+    "id": "ch04_q_136",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Social exchange theory postulates that",
+    "options": [
+      "a relationship will endure if both parties are assertive.",
+      "a relationship will endure if the rewards are greater than the costs.",
+      "a relationship will endure if both parties are sexually attracted to each other.",
+      "men work harder to keep a relationship strong."
     ],
     "correct_index": 1,
-    "rationale": "A monolithic perspective assumes that all members of a cultural group are alike — ignoring significant within-group differences. Latino/a Americans include Mexican Americans, Puerto Ricans, Cubans, Dominicans, and others with distinct cultural traditions, histories, and practices (e.g., approximately 65% of U.S. Latinos/as are of Mexican heritage). Viewing them as identical is a counseling error. The etic viewpoint (D) applies universal techniques but doesn't claim group homogeneity. Distractor: Etic (D) is tempting because both approaches treat clients similarly — but etic = universally applicable techniques, monolithic = incorrectly assuming within-group sameness."
+    "rationale": "Social exchange theory assumes that rewards are things or factors we like, while costs are things we dislike. The theory assumes that a positive relationship is characterized by “profit.” Reward minus cost equals profit. Some counselors are understandably turned off by this “vest-pocket definition of relationships” based on behavioral psychology and economic theory. A client who says to a family member “As long as I pay the bills, you’ll do your chores” is basing a relationship on rewards and costs. An alternative explanation of relationships is provided by the “complementarity theory,” which states that a relationship becomes stronger as the two people’s personality needs mesh. The word complementary indicates that one personality can make up what is lacking or missing in the other personality. For example, according to this theory, a dominant man and a non dominant woman would have a fine chance of relating well toward each other."
+  },
+  {
+    "id": "ch04_q_137",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Balance theory postulates",
+    "options": [
+      "a move from cognitive consistency to inconsistency.",
+      "a move from cognitive inconsistency to consistency.",
+      "a tendency to achieve a balanced cognitive state.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Here’s a mini-review: Inconsistent thoughts are often referred to as “dissonance.” Most counselors agree that dissonance is a distasteful state of mind which the individual will attempt to change."
+  },
+  {
+    "id": "ch04_q_138",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Most individuals believe that people whom they perceive as attractive",
+    "options": [
+      "are nonassertive.",
+      "are aggressive.",
+      "have other positive traits.",
+      "are socially adept but not very intelligent."
+    ],
+    "correct_index": 2,
+    "rationale": "This can cause the professional counselor difficulty if he or she tends to minimize a client’s problems merely because he or she is good looking. For example, a thought such as “with looks like that she is no doubt the life of the party” demonstrates how the counselor erroneously assumes that a woman who is good looking will have good social skills and feel comfortable at a social gathering. Clients—like books —cannot be judged by their covers, yet this tendency is quite common."
+  },
+  {
+    "id": "ch04_q_139",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A counselor who works primarily with older adults needs to be aware that",
+    "options": [
+      "too many counselors choose gerontology as their specialty.",
+      "individuals over 65 tend to overuse hotline and helpline crisis counseling services.",
+      "surprisingly, attractiveness is a fine predictor of retirement adjustment.",
+      "surprisingly, financial security and health are the best predictors of retirement adjustment."
+    ],
+    "correct_index": 3,
+    "rationale": "Yes, an old adage which suggests that money can help buy happiness might just have a grain of truth. Here’s why. Approximately 9.5% of all Americans age 65 and older have an income below the poverty level! The prevailing feeling is that counselors of the future will be increasingly forced to deal with an older population as the U.S. population in general ages (the so-called “Age Wave”). In 1900 only 4% of the U.S. population was over 65; as of this writing the total is over 13% and growing, If I were you, another question I’d expect to see on my exam would relate to myths which impact upon counselors working with the aged. Two of the most popular myths are that: (a) IQ scores (intelligence) drops markedly as folks age—in reality, IQ scores remain fairly stable over the life span; and (b) the elderly are incapable of sex. In regard to the former, some exam questions could disagree with this generalization slightly, as the theory of “terminal drop” or “terminal decline” postulates that a dramatic decrease in intellectual functioning does occur, but even according to this theory, it only occurs during the final five years of life. It usually centers around verbal skills. Counseling seniors will become more common in the future: the human life expectancy has almost doubled since the early 1900s when the average hovered below 50 years of age. Are you old if you have reached the big four-O? Certainly not in my estimation; however, employment agencies often view those who are over 40 as “older” and thus those who fit into this age bracket experience longer periods of unemployment than folks who are under 40. Counseling clients over the age of 65 is often called gerontological counseling or therapy. Helpers often just say I work in “gero” for short."
+  },
+  {
+    "id": "ch04_q_140",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Most experts would agree that a multicultural counselor’s diagnosis",
+    "options": [
+      "must be performed without regard to cultural issues.",
+      "must be done within a cultural context.",
+      "a and b.",
+      "none of the above."
+    ],
+    "correct_index": 1,
+    "rationale": "The “cultural approach to normality” suggests that the behavior of the majority of the people defines what is considered “normal.” An important point to note, however, is that deviant behavior, such as in the case of a very powerful leader or a genius, may be lauded."
+  },
+  {
+    "id": "ch04_q_141",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A counselor who is seeing a client from a different culture would most likely expect ________ social conformity than he or she would from a client from his or her own culture. 100",
+    "options": [
+      "less",
+      "more",
+      "the same",
+      "more realistic"
+    ],
+    "correct_index": 0,
+    "rationale": "We demand more rigid standards from our own culture."
+  },
+  {
+    "id": "ch04_q_142",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In terms of diagnosis,",
+    "options": [
+      "a client’s behavior could be sane and appropriate in one culture, yet disturbed and bizarre in another.",
+      "culture is irrelevant in children under 14.",
+      "culture is an issue with males, but not with females.",
+      "culture is an issue with females, but not with males."
+    ],
+    "correct_index": 0,
+    "rationale": "Again, the concept of “cultural relativism” implies that one’s behavior can only be evaluated in relation to the culture. Behavior in one culture cannot be judged by that which is considered normal in another culture. Behavioral scientists have thus attempted to create “cultural-free” diagnostic instruments, but as of this date none has been totally effective."
+  },
+  {
+    "id": "ch04_q_143",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In the United States, a frequent practice is to see a perfect stranger for therapy.",
+    "options": [
+      "This trend seems to be true in any area of the world.",
+      "This is true for Licensed Professional Counselors (LPCs) but not true for Licensed Clinical Social Workers (LCSWs).",
+      "This is true for LPCs and LCSWs but not licensed clinical psychologists.",
+      "In other cultures it would not be the norm to see a stranger and receive pay for providing help."
+    ],
+    "correct_index": 3,
+    "rationale": "In E. Fuller Torrey’s thought-provoking book The Mind Game: Witch Doctors and Psychiatrists he explains that in Nigeria, helpers have accepted a female client as a wife in lieu of a fee! He also notes that in other cultures a therapist cannot accept a fee unless the treatment is successful."
+  },
+  {
+    "id": "ch04_q_144",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "According to the cognitive dissonance theory of Leon Festinger, a woman has an approach–approach conflict. She has her choice of a beautiful silver watch and an equally stunning gold watch. Both are different brands. She feels the silver model will be perfect for some of her jewelry and outfits while the gold is ideal for other jewelry and modes of dress. She chooses the silver watch.",
+    "options": [
+      "She will feel intense guilt.",
+      "She will read positive reviews on the silver watch—and possibly negative reviews about the gold model—after the purchase to justify her behavior and reduce post-decisional dissonance.",
+      "According to the theory she will remain a tad ambivalent about her choice.",
+      "She will be angry because in reality she wanted both watches, but could not afford them."
+    ],
+    "correct_index": 1,
+    "rationale": "Although all the choices are plausible, choice “b” best expresses the tendency to justify behavior to create a state of “consonance” (a fancy word for harmony) between attitudes and behavior. Hence, if a test report states that the watch is a good buy, the belief and the behavior are consistent. In case you haven’t picked it up yet, I’m betting you’ll see at least one question regarding cognitive dissonance on your exam."
+  },
+  {
+    "id": "ch04_q_145",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A woman who is being robbed",
+    "options": [
+      "would probably get the most assistance in a crowd with a large number of bystanders.",
+      "would find that the number of people who would respond to her distress actually decreases as the number of bystanders increases.",
+      "would rarely have a bystander from a different race try to help her.",
+      "none of the above."
+    ],
+    "correct_index": 1,
+    "rationale": "Here is a principle which is often quoted: The number of people who will help a victim in distress decreases, and the time it will take to intervene increases, as the number of bystanders increases. This phenomenon is billed as the bystander effect or bystander apathy. Everybody assumes somebody else will step in and take charge. This is referred to as diffusion of responsibility. The converse, or helping an individual in distress, is generally called “altruism” or basically an unselfish concern for others. Altruism could conceivably apply in a psychological sense when you are working with groups and a client is the victim of scapegoating and you step in as the leader to emotionally protect this client."
+  },
+  {
+    "id": "ch04_q_146",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A counselor reading this book says, “I couldn’t care less about passing my comprehensive exam.” This",
+    "options": [
+      "is displacement.",
+      "is an attempt to reduce dissonance via consistent cognitions.",
+      "is an attempt to reduce dissonance by denial, thus minimizing tension.",
+      "is projection."
+    ],
+    "correct_index": 2,
+    "rationale": "Choices “a” and “d” are ego defense mechanisms. This topic is covered in the Helping Relationships section of this book. Choice “b” is incorrect since reading this book to pass the exam and not caring about passing are “inconsistent.”"
+  },
+  {
+    "id": "ch04_q_147",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "The statement “Even though my car is old and doesn’t run well, it sure keeps my insurance payments low”",
+    "options": [
+      "is displacement.",
+      "is an attempt to reduce dissonance via consistent cognitions.",
+      "is projection.",
+      "would never reduce dissonance in an individual."
+    ],
+    "correct_index": 1,
+    "rationale": "This also could be described as the “sweet lemon” variety of rationalization (see the Helping Relationships section of this book)."
+  },
+  {
+    "id": "ch04_q_148",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In the case of an individual who purchased a $50,000 watch, cognitive dissonance theory postulates that 102",
+    "options": [
+      "he or she might ignore positive information regarding other models and secure a lot of information regarding the $50,000 platinum model.",
+      "he or she might sell the $50,000 watch immediately following the purchase.",
+      "he or she might focus heavily on negative information regarding rival models.",
+      "a and c."
+    ],
+    "correct_index": 3,
+    "rationale": "This is a tough question since the alternatives are a bit complex. Remember: cognitive dissonance theory predicts that the person will look for things which are consistent with his or her behavior. Is choice “a” consistent? Of course; yet choice “c” is also possible since the individual could ignore positive attributes of the competition (i.e., choice “a”) or maximize their negative features (i.e., choice “c”). Counselors should keep in mind that consistency is considered a desirable personality trait in most cultures."
+  },
+  {
+    "id": "ch04_q_149",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In the United States, middle- and upper-class citizens seem to want a counselor who",
+    "options": [
+      "will give them “a good talking to.”",
+      "gives a specific and steady stream of advice.",
+      "helps them work it out on their own.",
+      "is highly authoritarian and autocratic."
+    ],
+    "correct_index": 2,
+    "rationale": "The theory here is that most middle- and upper-class citizens are taught that independence is a virtue. The person would not want to be dependent on a therapist, parents, or others, as is implied in choices “a,” “b,” and “d.”"
+  },
+  {
+    "id": "ch04_q_150",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In a traditional culture which places a high premium on authority figures,",
+    "options": [
+      "passivity on the part of the counselor would be viewed in a negative manner.",
+      "a client would be disappointed if he or she did not receive advice.",
+      "assigning homework and teaching on the part of the counselor would be appropriate.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "An active-directive model works best with persons who respond well to an authority figure."
+  },
+  {
+    "id": "ch04_q_151",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Cognitive dissonance research deals mainly with",
+    "options": [
+      "attraction.",
+      "cognition and attitude formation.",
+      "cognitions and emotion.",
+      "none of the above."
+    ],
+    "correct_index": 1,
+    "rationale": "The notion is that the discrepancies or inconsistencies that create tension are caused by cognitions and attitudes."
+  },
+  {
+    "id": "ch04_q_152",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Parents who do not tolerate or use aggression when raising children produce 103",
+    "options": [
+      "less-aggressive children.",
+      "more-aggressive children.",
+      "passive-aggressive children.",
+      "passive-dependent children."
+    ],
+    "correct_index": 0,
+    "rationale": "Children who are abused by their parents are more likely to be abusers when they have children of their own. Remember that counselors are legally required to report child abuse, neglect, sexual abuse, or exploitation."
+  },
+  {
+    "id": "ch04_q_153",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Overall, Rogerian person-centered counseling",
+    "options": [
+      "is rarely utilized in cross-cultural counseling.",
+      "is too nondirective for intercultural counseling.",
+      "a and b.",
+      "has been used more than other models to help promote understanding between cultures and races."
+    ],
+    "correct_index": 3,
+    "rationale": "In the 1970s, Rogers conducted workshops to enhance cross-cultural communication. People from all over the world participated. Person-centered techniques are popular in Japan. Person-centered therapy is nonjudgmental and thus is considered a superb modality for multicultural/multiracial usage. The exception (mentioned earlier) could occur when counseling an ethnic or racial group that demands structure or authority from a helper. Low-income clients generally view the helper as an advice giver. Estimates indicate that approximately 50% of all ethnic minority clients quit counseling after the first session feeling they will not secure what they want from the helper."
+  },
+  {
+    "id": "ch04_q_154",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In intercultural/multicultural counseling the term therapeutic surrender means",
+    "options": [
+      "nothing—it is not a valid term.",
+      "most therapists will give up in 16 sessions or less if progress is not evident.",
+      "the client psychologically surrenders himself or herself to a counselor from a different culture and becomes open with feelings and thoughts.",
+      "the therapist assumes a passive therapeutic stance."
+    ],
+    "correct_index": 2,
+    "rationale": "Therapeutic surrender occurs when a client is able to trust the counselor and self-discloses. Contrary to choice “a,” the term is used frequently in intercultural counseling."
+  },
+  {
+    "id": "ch04_q_155",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "The literature suggests these factors as helpful in promoting therapeutic surrender:",
+    "options": [
+      "an analysis of cognitive dissonance.",
+      "rapport, trust, listening, conquering client resistance, and self-disclosure.",
+      "paradoxing the client.",
+      "analyzing flight-to-health defense mechanism variables."
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “d” is an analytic concept which asserts that the client has improved too rapidly and the real difficulty (i.e., unconscious conflicts) has not been resolved. A similar term, flight from reality, is used when the client resorts to psychosis (i.e., losing touch with reality) to avoid dealing with current life difficulties."
+  },
+  {
+    "id": "ch04_q_156",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In terms of trust and therapeutic surrender,",
+    "options": [
+      "it is easier to trust people from one’s own culture.",
+      "lower-income people often don’t trust others from a higher social class.",
+      "lower-income clients may feel that they will end up as losers dealing with a counselor from a higher social class.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Language barriers, on the part of the client or the counselor, intensify the difficulty of therapeutic surrender. One good technique is to steer clear of slang or fancy therapeutic jargon and try to speak in a clear, concise, and direct manner."
+  },
+  {
+    "id": "ch04_q_157",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A(n) ________ client would most likely have the most difficulty with self-disclosure when speaking to a white counselor.",
+    "options": [
+      "white female",
+      "African American female",
+      "African American male",
+      "upper-class white male"
+    ],
+    "correct_index": 2,
+    "rationale": "Males in general sometimes have difficulty expressing feelings. According to the literature, African American males are especially hesitant about revealing themselves to whites."
+  },
+  {
+    "id": "ch04_q_158",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "According to assimilation-contrast theory, a client will perceive a counselor’s statement that is somewhat like his or her own beliefs as even more similar (i.e., an assimilation error). He or she would perceive any dissimilar attitudes as",
+    "options": [
+      "even more dissimilar (i.e., a contrast error).",
+      "standardization.",
+      "similar to his or her own.",
+      "paraphrasing."
+    ],
+    "correct_index": 0,
+    "rationale": "In any case, if a counselor is highly regarded and trustworthy, his or her statements will be better accepted than if the helper has poor credibility."
+  },
+  {
+    "id": "ch04_q_159",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "When counseling a client from a different culture, a common error is made when negative transference",
+    "options": [
+      "is interpreted as positive transference.",
+      "is interpreted as therapeutic resistance.",
+      "is interpreted as white privilege. 105",
+      "none of the above."
+    ],
+    "correct_index": 1,
+    "rationale": "Okay, there are some terms you just have to know for this section of the exam and one of those terms (note choice “c”) is white privilege. The term has been used to focus on the special advantages, privileges, and opportunities that nonwhites don’t have. Since transference relates to incidents which occurred prior to treatment, such issues must be distinguished from the current helping relationship. This is sometimes difficult to accomplish."
+  },
+  {
+    "id": "ch04_q_160",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Counselors who have good listening skills",
+    "options": [
+      "facilitate therapeutic surrender.",
+      "hinder therapeutic surrender.",
+      "often have a monolithic perspective.",
+      "are too nondirective to promote therapeutic surrender."
+    ],
+    "correct_index": 0,
+    "rationale": "Let’s place choice “c” under our trusty microscopes for just a moment. A monolithic perspective indicates that the counselor perceives all the people in a given group (say African Americans or Latino/a Americans) as being identical—hey, not a good thing folks! Counselors are urged to adopt an individualistic, rather than a monolithic, perspective. Good listening facilitates any type of helping."
+  },
+  {
+    "id": "ch04_q_161",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Counselors can more easily advise",
+    "options": [
+      "clients from their own culture.",
+      "clients from a different culture.",
+      "clients of a different race.",
+      "clients utilizing ethnocentric statements."
+    ],
+    "correct_index": 0,
+    "rationale": "To persuade someone is easiest when he or she has similar views, ideas, and background to one’s own. It is entirely possible that a client of a different culture has been taught not to trust persons with the counselor’s cultural background."
+  },
+  {
+    "id": "ch04_q_162",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "It’s easiest to empathize with",
+    "options": [
+      "a client who is similar to you.",
+      "a client who is dissimilar to you.",
+      "Latino/a clients.",
+      "Asian American male clients."
+    ],
+    "correct_index": 0,
+    "rationale": "Clients who have counselors of the same ethnicity tend to stay in counseling longer. See the previous question if this question seemed a tad difficult—ditto! And for exam purposes please do not forget that when we speak of Latino/a clients, we need to include individuals from the Dominican Republic (i.e., Dominicans) who now number nearly a million and a half people in the U.S."
+  },
+  {
+    "id": "ch04_q_163",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In cross-cultural counseling, structuring is very important. This concept asserts that counseling is most effective",
+    "options": [
+      "when structured exercises are utilized.",
+      "when a counselor takes an active–directive stance.",
+      "when nondirective procedures are emphasized.",
+      "when the nature and structure of the counseling situation is described during the initial session."
+    ],
+    "correct_index": 3,
+    "rationale": "Structure has a number of meanings in the field of professional counseling (see the Group Counseling and Group Work section of this book for additional meanings). In the context of multicultural counseling, structure indicates that the counselor will explain the role of the helper as well as the role of the helpee. This helps ward off embarrassment and further enhances the effectiveness of the counseling process. The greater the social/cultural gap, the more important the need for structuring. Despite the merits of the Rogerian model, some would claim that it falls short of the ideal paradigm when a high degree of structure is the treatment of choice. As mentioned earlier, clients from other cultures can harbor gross misconceptions of what represents the helping process."
+  },
+  {
+    "id": "ch04_q_164",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A client from another culture will",
+    "options": [
+      "talk to the counselor the same as he or she would to a peer.",
+      "speak to the counselor differently from the way he or she would when speaking to someone of his or her own background.",
+      "generally use slang on purpose to confuse the counselor.",
+      "generally play dumb to receive the counselor’s sympathy."
+    ],
+    "correct_index": 1,
+    "rationale": "Often individuals are courteous and polite with those who are of the same cultural origin, but are suspicious and don’t trust outsiders."
+  },
+  {
+    "id": "ch04_q_165",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "An African American client tells a white counselor that the dance she went to last night was “bad,” though she literally means it was good. The counselor’s misunderstanding could best be described as a",
+    "options": [
+      "client of color error.",
+      "cognitive dissonance error.",
+      "connotative error.",
+      "confounding variable."
+    ],
+    "correct_index": 2,
+    "rationale": "I was corresponding with a counselor in China who has a good working knowledge of the English language. Nevertheless, on occasion she would write back and say, “When you said it was really cool, did you mean it was stylish or great, or were you talking about the temperature in your area of the U.S.?” According to some experts in this field, the three major barriers to intercultural counseling are culture-bound values (mentioned earlier), class-bound values, and language differences. Connotation applies to the emotional content of a word, which is different from the true or dictionary definition. The tendency for words to convey different connotations is often referred to as a “semantic differential.” Choice “d,” a confounding variable, is an extraneous variable which is not purposely introduced by an experimenter conducting research. This difficulty is inherent in correlational data. One more quick quip here: The term “people of color” refers to Asian Americans or Asian Pacific Americans, Latino/a Americans, African Americans, Native Americans, and those who are multiracial. By approximately 2043 these groups will eventually outnumber whites of European descent in the United States, and as I complete this sentence the U.S. has experienced several years where white births were the minority."
+  },
+  {
+    "id": "ch04_q_166",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A monolingual U.S. counselor",
+    "options": [
+      "speaks only English.",
+      "speaks English and Spanish.",
+      "works as a counseling interpreter.",
+      "fits the definition of bilingual."
+    ],
+    "correct_index": 0,
+    "rationale": "Mono literally means “one” or “single.” Persons who are bilingual (i.e., speak two languages) can be employed as counselors or interpreters to facilitate efficacious intervention. In order to reduce the difficulty introduced by “semantic differential” and “connotative errors”—mentioned in the answer to the previous question—the bilingual counselor would ideally be bicultural (i.e., have familiarity with the culture of the counselor and the client)."
+  },
+  {
+    "id": "ch04_q_167",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "________ was a prime factor in the history of multicultural counseling.",
+    "options": [
+      "Frankl’s experience in a concentration camp",
+      "Perl’s use of the German concept of gestalt",
+      "Freud’s visits to the United States",
+      "The 1954 Supreme Court decision, Brown v. the Board of Education, which outlawed public school segregation"
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” mentions Viktor Frankl, the father of logotherapy, an existential form of treatment which stresses “healing through meaning.” Choice “b” mentions Fritz Perls, the father of gestalt therapy, which attempts to ameliorate a mind/body split supposedly responsible for emotional distress. Gestalt is a German word which roughly means the “whole” form, figure, or configuration. The final alternative is correct. Desegregation created culturally different populations for school counselors."
+  },
+  {
+    "id": "ch04_q_168",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Multicultural counseling promotes",
+    "options": [
+      "eclecticism.",
+      "rigidity.",
+      "psychodynamic models.",
+      "neurolinguistic programming (NLP)."
+    ],
+    "correct_index": 0,
+    "rationale": "Most experts would insist that choice “a” is best inasmuch as intercultural counselors need to be flexible. An “eclectic” position (i.e., selecting treatment intervention strategies from diverse counseling models) would generally come closest to meeting this requirement."
+  },
+  {
+    "id": "ch04_q_169",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Multicultural counselors often adhere to the emic viewpoint. The word emic",
+    "options": [
+      "is associated with the Supreme Court decision of 1954 outlawing segregation.",
+      "suggests that all clients are alike regardless of culture.",
+      "is associated with rational behavior therapy (RBT).",
+      "is a “culture-specific” perspective, from the word phonemic meaning sounds in a particular language."
+    ],
+    "correct_index": 3,
+    "rationale": "J. G. Draguns suggested the emic–etic distinction in cross-cultural counseling. Emic can be defined as an insider’s perception of the culture. A researcher or counselor using an emic frame of reference wants to know what somebody participating in the culture thinks. The emic viewpoint emphasizes that each client is an individual with individual differences, while the etic view adheres to the theory that humans are humans—regardless of background and culture—thus, the same theories and techniques can be applied to any client the counselor helps. Hence, a counselor who values the “emic” view will try to help clients by understanding the client’s specific culture, while the “etic” counselor emphasizes the sameness among clients—a universalism perspective—that literally transcends cultural boundaries. Universal helping principles transcend culture. The “etic” counselor would not alter his or her technique when working with a client from a different culture or a minority group. Distinctions such as etic/emic are often easiest to remember if you rely on a memory device. Can you come up with one?"
+  },
+  {
+    "id": "ch04_q_170",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A practicum supervisor who says to his or her supervisee “You can deal with your Asian American clients the same as you deal with anybody else” is espousing the",
+    "options": [
+      "emic viewpoint.",
+      "alloplastic viewpoint.",
+      "etic viewpoint, derived from the term phonetic referring to sounds that remain the same in any language.",
+      "autoplastic viewpoint."
+    ],
+    "correct_index": 2,
+    "rationale": "Here’s help for those of you who came up empty handed in terms of snaring a suitable memory device (and hence may have struggled with the question). I like to remember that “etic,” which sports a “t,” and sounds remarkably similar to “etiquette,” is similar in the sense that when practicing etiquette we practice good manners with all individuals whether they are African American, white, Asian American, and so on. Likewise, counselors who espouse the etic viewpoint will use the same strategies and techniques on virtually any client. In this case, for example, the Asian American client will be treated no differently from an American, a Native American, a French Canadian, or for that matter anybody else. Actually the etic distinction also reminds me of the educational concept of “mainstreaming,” which asserts that all children—including those with disabilities—can benefit from placement in a regular classroom. But just when you thought the coast was clear you were confronted with another distinction or dilemma (see choices “b” and “d”) for the multicultural helper."
+  },
+  {
+    "id": "ch04_q_171",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "The statement “All humans, from all cultures, all races, and all nations, are more alike than different” is based on the",
+    "options": [
+      "emic viewpoint.",
+      "alloplastic viewpoint.",
+      "etic viewpoint.",
+      "autoplastic viewpoint."
+    ],
+    "correct_index": 2,
+    "rationale": "If you chose an alternative other than “c,” then you need to reread answers to questions 169 and 170."
+  },
+  {
+    "id": "ch04_q_172",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A counselor is confronted with his or her first Native American client. Native Americans (also called American Indians on some exams) are descendants of the original inhabitants of North America. After the initial session, the counselor secures several books which delineate the cultural aspects of Native American life. She discovers that there are over 560 federally recognized tribes in the United States. This counselor most likely believes in the",
+    "options": [
+      "emic viewpoint.",
+      "alloplastic viewpoint.",
+      "etic viewpoint.",
+      "autoplastic viewpoint."
+    ],
+    "correct_index": 0,
+    "rationale": "The “emic” view holds that an approach which is culturally specific is generally the most effective."
+  },
+  {
+    "id": "ch04_q_173",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "An Asian American counselor says to an African American client, “If you’re unhappy with the system, get out there and rebel. You can change the system.” This is the ________ viewpoint for coping with the environment.",
+    "options": [
+      "emic",
+      "alloplastic",
+      "etic",
+      "autoplastic"
+    ],
+    "correct_index": 1,
+    "rationale": "This question is testing your knowledge of the autoplastic/alloplastic dilemma in intercultural helping. The “autoplastic” view asserts that change comes from the self such as thoughts and behaviors, while the “alloplastic” conceptualization is that the client can cope best by changing or altering external factors in the environment (as alluded to in this question). Memory devices, anyone?"
+  },
+  {
+    "id": "ch04_q_174",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A young Latino male is the victim of discrimination. His counselor remarks, “I hear what you are saying and I will help you change your thinking so this will not have such a profound impact on you.” In this case the counselor had suggested",
+    "options": [
+      "an alloplastic method of coping.",
+      "an autoplastic method of coping.",
+      "the emic–etic distinction.",
+      "the emic viewpoint."
+    ],
+    "correct_index": 1,
+    "rationale": "Try this memory device on for size. The word auto generally refers to changing the “self” rather than altering the environment. Consider the technique of “autosuggestion” or “autohypnosis,” or how about the act of writing an “autobiography”? In each of the aforementioned cases, the person works to create the project, solve the difficulty, or, simply put, change the self. In the “autoplastic” approach the counselor helps the client change him- or herself (as in this question). And if you think of a more elegant memory device—then I say “go for it!” It will come in mighty handy on the test date!"
+  },
+  {
+    "id": "ch04_q_175",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "You are counseling a client from a different culture. She cannot move her right arm, but has been examined by some of the finest physicians and they cannot find any physical reason for her condition. The irony is that she is there to work on some personal issues but states forthrightly that the total lack of mobility in her arm does not bother her and thus is not an issue to deal with in the counseling sessions. The most likely explanation would be",
+    "options": [
+      "she is displaying malingering.",
+      "she was severely abused as a young child.",
+      "she is suicidal.",
+      "she has a conversion disorder with la belle indifference."
+    ],
+    "correct_index": 3,
+    "rationale": "The fact that you are counseling a client from a different culture is irrelevant. A conversion disorder is evident when a person displays symptoms (generally neurological) which cannot be accounted for via medical exams. In essence, a medical diagnosis shows no reason for the individual’s condition. Clients with conversion disorders sometimes display la belle indifference also called belle indifference, meaning they do not seem to be bothered or concerned by their condition. The person is not intentionally creating the symptoms, hence the implication is the condition is fueled by stress and emotions rather than physical factors. Counseling, biofeedback, and relaxation therapy might be helpful. The psychodynamic perspective suggests the person’s symptom serves a purpose. A person who saw a very frightening scene and presently can’t see would exemplify this position since the individual is no longer worried she will see something scary. Choice “a”, malingering, occurs when a person fakes a physical or emotional illness to avoid work, military duty, or prison. We just don’t have the evidence to make that diagnosis in this question. Needless to say, she could be misdiagnosed, but the question fails to address this possibility."
+  },
+  {
+    "id": "ch04_q_176",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Positive transference is to love or affection, as negative transference is to hostility, and as ambivalent transference is to",
+    "options": [
+      "anger.",
+      "hate.",
+      "uncertainty.",
+      "admiration."
+    ],
+    "correct_index": 2,
+    "rationale": "Ambivalent transference, a term popular in multicultural counseling settings, occurs when the client rapidly shifts his or her emotional attitude toward the counselor based on learning and experiences related to authority figures from the past. The Helping Relationships section of this book goes into more depth regarding the notion of transference."
+  },
+  {
+    "id": "ch04_q_177",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "The word personalism in the context of multicultural counseling means",
+    "options": [
+      "all people must adjust to environmental and geological demands.",
+      "the counselor must adjust to the client’s cultural mores.",
+      "a counselor who personalizes the treatment is most effective.",
+      "biologically speaking, there is no reason why humans must adjust to environmental demands."
+    ],
+    "correct_index": 0,
+    "rationale": "Culture must mold itself such that individuals can best thrive and survive in a given environment. Personalism implies that the counselor will make the best progress if he or she sees the client primarily as a person who has learned a set of survival skills rather than as a diseased patient. Fierce environmental conditions, such as living in a desert or a poverty-stricken neighborhood, cause individuals to cooperate with each other more and stick together as a group. This, nevertheless, can cause problems for the counselor who has never lived in an impoverished neighborhood or a desert and hence is seen as an outsider. The “person,” who has lived in a poor area or the desert, will want to check out the counselor’s authenticity as a “person,” and a counselor who keeps his or her “professional distance” runs the risk of being seen as superficial. A comment such as, “You don’t care about me, you just care about your paychecks (or “the agency,” or “the court,” or “your stupid report,” etc.) indicates that the multicultural counselor is being perceived as remote and not very personal. This could create problems for the counselor since (a) in the United States “professionalism” is stressed more than “personalism” in the sense that a good counselor is not “supposed” to get very close to clients and if (b) the counselor has not necessarily grown up in a culture that stresses such a high level of interpersonal cooperation."
+  },
+  {
+    "id": "ch04_q_178",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A client whose counselor pushes the alloplastic viewpoint may believe his counselor is simply",
+    "options": [
+      "too Rogerian.",
+      "attacking the system.",
+      "too Freudian.",
+      "too cognitive."
+    ],
+    "correct_index": 1,
+    "rationale": "The salient point here is that generally a synthesis, rather than a pure alloplastic or autoplastic position, will be the most effective."
+  },
+  {
+    "id": "ch04_q_179",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Good multicultural counselors are",
+    "options": [
+      "flexible.",
+      "rigid.",
+      "utilize Eric Berne’s transactional analysis (TA), Fritz Perl’s gestalt therapy, and/or William Glasser’s reality therapy in nearly every case.",
+      "generally behavioristic."
+    ],
+    "correct_index": 0,
+    "rationale": "Although choices “c” and “d” are not the best choices, a case could certainly be made for using these modalities in an intercultural helping relationship. Transactional analysis (TA), reality therapy, and behavioral interventions all stress “contracting.” The process of contracting has its merits in crosscultural situations because it keeps the counselor from shoving a dose of his or her own cultural values down the clients throat (i.e., the client has input before signing or agreeing with the contract). Furthermore, TA has been praised for illuminating cultural and ethnic injunctions. On the other hand, TA lingo is often complex for a client with a different background. Quite unlike behaviorism, gestalt therapy is a superb modality for cultures that need to liberate their feelings. In addition, it is helpful when working with a population which emphasizes nonverbal communication. The danger in utilizing gestalt comes from pushing techniques (i.e., trying to insist upon them before clients are ready for them) that emphasize the expression of feelings on a cultural or ethnic group which views the expression of feelings as a sign of weakness. Practitioners are warned that behaviorism (choice “d”) is not a panacea in multicultural work inasmuch as some cultures do not value assertiveness. Every brand of therapy has its merits and its disadvantages: It is therefore best if the multicultural counselor remains flexible."
+  },
+  {
+    "id": "ch04_q_180",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A client remarks, “Hey, I’m African American and it’s nearly impossible to hide it.” This is illustrative of the fact that",
+    "options": [
+      "race is not the same as ethnicity.",
+      "race and ethnicity are virtually identical.",
+      "a connotative impediment exists.",
+      "severe ambivalent transference exists."
+    ],
+    "correct_index": 0,
+    "rationale": "This question attempts to see whether you can discern race from ethnicity. The assumption here is that you can generally see racial differences since they are the result of genetics. If a client really made this type of statement, the counselor might wish to deal directly with the racial issue. The counselor could inquire, “In what way do you feel that the fact that I’m white and you’re African American will affect the counseling process?” Experts often assert that a question of this nature should be asked no later than the second session. Choice “d” would not be totally outlandish, although the question does not provide enough information to make it the best choice."
+  },
+  {
+    "id": "ch04_q_181",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Experts in the field of multicultural counseling feel that the counselor’s training",
+    "options": [
+      "must come from an APA-approved graduate program.",
+      "must come from a supervisor who is from a different culture than the graduate student.",
+      "should be broad and interdisciplinary.",
+      "need not include rational-emotive behavior therapy (REBT)."
+    ],
+    "correct_index": 2,
+    "rationale": "Choice “d,” rational-emotive behavior therapy (REBT) certainly can be helpful when counseling clients from another culture because it does not stress mental illness. The perception of the REBT practitioner as a “teacher” makes the process of helping more palatable to some populations. Choice “c” is the best answer. An adept multicultural helper ideally would study topics which go beyond traditional counseling theory. Some educators have even suggested that an exchange program in which counselors study in foreign universities could be beneficial."
+  },
+  {
+    "id": "ch04_q_182",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Doing cross-cultural counseling",
+    "options": [
+      "makes counselors increasingly aware of cultural differences.",
+      "allows counselors to see that culture is merely a matter of semantics.",
+      "is different since clients are more likely to return for help after the first session.",
+      "allows counselors to ignore the concept of pluralism."
+    ],
+    "correct_index": 0,
+    "rationale": "Choice “c” is incorrect. Preliminary studies, as I hinted at earlier, indicate that clients from other cultures do not use counseling as often as they could. Moreover, the dropout rate is premature, perhaps 20% higher after the initial session than relationships which are not intercultural. The concept of “pluralism” literally means that an individual exists in more than one category. A condition known as “separatism” exists when a group of people totally withdraw from the political majority. Pluralism presents a less-extreme option. Cultural pluralism occurs when persons of a cultural heritage retain their traditions and differences, yet cooperate in regard to social, political, and economic matters. In counseling per se, the term suggests that certain categories of individuals (e.g., women, older adults, minorities, alternative cultures, or the disabled) often need special services. An Asian American, for example, could feel torn between adhering to Asian culture while trying to become more Americanized. The counselor must show respect for these individuals in order to do effective treatment; hence, the notion of pluralism cannot be ignored."
+  },
+  {
+    "id": "ch04_q_183",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Floyd Henry Allport created the concept of social facilitation. According to this theory, an individual who is given the task of memorizing a list of numbers will",
+    "options": [
+      "perform better if he or she is alone.",
+      "perform better if he or she is part of a group.",
+      "perform better if he or she has undergone psychotherapy.",
+      "perform better if he or she is an auditory learner."
+    ],
+    "correct_index": 1,
+    "rationale": "This is indeed an interesting phenomenon. The presence of other persons (e.g., coworkers, other athletes, fellow students) improves an individual’s performance even when there is no verbal interaction!"
+  },
+  {
+    "id": "ch04_q_184",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In social psychology, the sleeper effect asserts that",
+    "options": [
+      "sleep learning facilitates social skills.",
+      "after a period of time, one forgets the communicator but remembers the message.",
+      "after a period of time, one remembers the communicator but forgets the message.",
+      "REM sleep facilitates insight."
+    ],
+    "correct_index": 1,
+    "rationale": "Perhaps more importantly, the so-called sleeper effect asserts that when you are attempting to change someone’s opinion the change may not occur immediately after the verbal exchange. In other words, when a counselor provides guidance to a client a delay may occur before the client accepts the message. The communication may have more impact after some time has passed."
+  },
+  {
+    "id": "ch04_q_185",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In 1908, books by ________ helped to introduce social psychology in America.",
+    "options": [
+      "Moreno and Yalom",
+      "Holland and Roe",
+      "Barber and Salter",
+      "McDougall and Ross"
+    ],
+    "correct_index": 3,
+    "rationale": "William McDougall wrote Introduction to Social Psychology, which expounded on his “hormic psychology” position that individual as well as group behavior is the result of inherited tendencies to seek goals. Edward Alsworth Ross authored Social Psychology. Other famous names noted in the alternatives include Jacob Moreno, who pioneered psychodrama and coined the term group therapy; Irvin Yalom, an existentialist, well known for his strides in group work, existential therapy, and death and dying; John Holland, who stressed that a person’s occupational environment should be congruent with his or her personality type; Anne Roe, who postulated that jobs can compensate for unmet childhood needs; T. X. Barber, who espoused a cognitive theory of hypnotism; and Andrew Salter, a pioneer in the behavior therapy creating a paradigm dubbed conditioned reflex therapy, and a behavioristic theory of hypnosis, and autohypnosis."
+  },
+  {
+    "id": "ch04_q_186",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "________ is associated with obedience and authority.",
+    "options": [
+      "Stanley Milgram, a noted psychologist,",
+      "Arthur Janov, who created primal scream therapy,",
+      "A. T. Beck, a cognitive therapy pioneer,",
+      "Robert Harper, a pioneer in the REBT bibliotherapy movement,"
+    ],
+    "correct_index": 0,
+    "rationale": "In one of the most shocking and frightening investigations of all time, Milgram discovered that people who were told to give others powerful electric shocks did so on command. Subjects were told that they were to punish a learner strapped to an electric chair when he gave an incorrect answer. Out of 40 experimental subjects, only 14 refused to go to the highest level of shock (i.e., in excess of 435 volts)! And get this—in some of the experiments the persons administering the shocks (which, unbeknownst to them, were unreal) were actually given a 45-volt shock themselves so they could feel the intensity of this punishment. So much for accurate empathy! Even when the subjects heard the person receiving the shocks screaming they often continued to raise the level of voltage when told to do so. This principle is often used to explain “obedience to authority” in social situations such as the Salem witch hunts or Nazi war crimes. Fortunately, follow-up research indicated that most of the individuals who participated in the Milgram experiment did not feel they were harmed by the experience."
+  },
+  {
+    "id": "ch04_q_187",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Milgram discovered that normal people would administer seemingly fatal electric shocks to others when instructions to do so were given by a person perceived as 115",
+    "options": [
+      "a peer.",
+      "an equal.",
+      "an individual from another culture.",
+      "an authority figure."
+    ],
+    "correct_index": 3,
+    "rationale": "Prior to the experiment, psychiatrists predicted that only 1% would administer the highest level of shock. In reality, 65% dished out “fatal shock punishment” in response to an incorrect answer. If the experimental authority figure was in the room, the tendency to obey was higher than if he or she was not physically present. In a related study by Leonard Bickman, individuals told to give a dime or a paper bag to a stranger did so twice as often when the person giving the orders was dressed as a guard rather than a peer. Do uniforms and mode of dress have an impact? You better believe it!"
+  },
+  {
+    "id": "ch04_q_188",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "The tendency to affiliate with others",
+    "options": [
+      "is highest in the middle child.",
+      "is highest in children with DSM diagnoses.",
+      "is highest in firstborns and only children.",
+      "is based on hormonal output."
+    ],
+    "correct_index": 2,
+    "rationale": "In the behavioral sciences the word affiliation refers to the need one has to associate with others. Choice “c” correctly reflects the landmark research of Stanley Schachter, which concluded that the need to affiliate decreases for later-born children."
+  },
+  {
+    "id": "ch04_q_189",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A client tells his counselor that he has a choice of entering one of two prestigious PhD counseling programs. Kurt Lewin would call this an",
+    "options": [
+      "approach–avoidance conflict.",
+      "approach–approach conflict.",
+      "avoidance–avoidance conflict.",
+      "avoidance vector."
+    ],
+    "correct_index": 3,
+    "rationale": "Choices “a,” “b,” and “c” indicate the three basic categories of conflict which result in frustration. In the approach–approach format (suggested in this question) the individual is presented with two equally attractive options simultaneously. Of the three types, counselors believe that approach–approach is the easiest to help clients cope with since in most cases (unlike the situation presented in this question) the client can attempt both options: first one, then the other. Moreover, approach–approach conflicts typically instill less anxiety than the other two types."
+  },
+  {
+    "id": "ch04_q_190",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "When a person has two negative alternatives, it is called an",
+    "options": [
+      "approach–approach conflict.",
+      "approach vector.",
+      "avoidance–avoidance conflict. (b)",
+      "avoidance cohesiveness."
+    ],
+    "correct_index": 2,
+    "rationale": "When a client says, “I don’t know whether to pay the hefty fine or go to jail,” he is struggling with an avoidance–avoidance conflict in which both choices are undesirable, to say the least. Clients in this position often daydream, flee from the situation, or regress instead of confronting the choices. The client also may waver or vacillate when he or she comes close to making a choice."
+  },
+  {
+    "id": "ch04_q_191",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A male client tells his counselor that he is attracted to “a gorgeous woman who is violent and chemically dependent.” This creates an",
+    "options": [
+      "approach–avoidance conflict.",
+      "avoidance–avoidance conflict.",
+      "avoidance of life space.",
+      "approach affiliation."
+    ],
+    "correct_index": 0,
+    "rationale": "The approach–avoidance conflict presents a positive factor (a woman he finds attractive) with a negative factor (she is a substance abuser prone to violent behavior) at the same time. Most counselors would agree this is the toughest type of conflict for the client to tackle as it generates the highest level of frustration."
+  },
+  {
+    "id": "ch04_q_192",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "According to Charles Osgood and Percy Tannenbaum’s congruity theory, a client will accept suggestions more readily if",
+    "options": [
+      "the client likes the counselor.",
+      "the client dislikes the counselor.",
+      "the client distrusts the counselor.",
+      "the counselor is in a higher economic bracket."
+    ],
+    "correct_index": 0,
+    "rationale": "Here again, the tendency is based on “balance theory.” If you like your counselor, your tendency to accept a suggestion would be balanced (i.e., consistent with your opinion). If you did not like or trust the counselor, then accepting his or her suggestions would produce an imbalance (i.e., an inconsistent attitude)."
+  },
+  {
+    "id": "ch04_q_193",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "An adept multicultural counselor",
+    "options": [
+      "generally believes in the melting pot concept.",
+      "has a strong ethnocentric worldview.",
+      "will not ask the client for information related to religion or level of faith development.",
+      "usually supports the salad bowl model of diversity."
+    ],
+    "correct_index": 3,
+    "rationale": "Choices “a,” “b,” and “c” are all characteristics of ineffective multicultural helpers leaving choice “d” as the lone hero. The melting pot concept—that different cultures assimilate or melt into the dominant culture—has been deemed a myth. The ethnocentric position holds that a given culture is the best or superior to others. The concept can also mean that the counselor falsely believes that the client views the world in the same manner as the helper. Efficacious helpers do attempt to elicit information regarding the client’s religious and spiritual life. In the salad bowl analogy—preferred over the antiquated melting pot notion—people are mixed together, but like lettuce and tomatoes in a salad, they retain their unique cultural identity."
+  },
+  {
+    "id": "ch04_q_194",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A classic experiment in social psychology was conducted by the social psychologist Muzafer Sherif et al. at a boys’ summer camp near Robbers’ Cave, Oklahoma. The important finding in this study was that",
+    "options": [
+      "most people cooperate in a social setting.",
+      "competition plays a small role in most of our lives.",
+      "a and b.",
+      "a cooperative, or so-called superordinate, goal attained only by working in a joint manner, can bring two hostile groups together, thus reducing competition and enhancing cooperation."
+    ],
+    "correct_index": 3,
+    "rationale": "Sometimes loosely called the Robbers’ Cave Experiment, this study set up two distinct groups of 11year-old boys who were hostile toward each other. The study concluded that the most effective way to reduce hostility between groups was to give them an alternative, a superordinate goal, which required a joint effort and could not be accomplished by a single group."
+  },
+  {
+    "id": "ch04_q_195",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Sex-role stereotyping would imply that",
+    "options": [
+      "a counselor would only consider traditional feminine careers for his female client.",
+      "a male counselor would rate a female client’s emotional status differently than he would a male client’s.",
+      "female clients are treated the same as male clients.",
+      "choices a and b."
+    ],
+    "correct_index": 3,
+    "rationale": "According to studies, male and female counselors can display prejudice toward women. Prejudice means that we are negative or have a rigid, inflexible attitude toward a given group of people and can often act on our unfavorable thoughts. Moreover, the prejudiced individual often “prejudges” others without substantial evidence. Choices “a” and “b” are illustrative of stereotyping in which the counselor has generalized feelings about a given group (in this case, women). Unfortunately, research would suggest that the response in choice “a” might well be a typical one. In a study released in 1970 by Nancy K.Schlossberg and John J. Pietrofesa, counselor trainees and professors were instructed to help a female counselee choose between an engineering and a teaching career. All the counselor trainees tried to steer her clear of engineering, typically a masculine career. According to the study females were as biased as males. Horrors! As for choice “b,” I can only say “ditto.” A 1970 study by Inge K. Broverman, Donald M. Broverman, Frank E. Clarkson, Paul S. Rosenkrantz, and Susan Raymond Vogel found that all the therapists who filled out a questionnaire used a different standard of mental health when rating men from the one they used for women. Women and other minorities are sometimes said to be victims of a “caste system.” The term caste system implies that there are fixed layers of superiority and inferiority which you are born into and thus cannot escape. Please make it a priority to keep up with the literature in these key areas. This guide is not intended to do justice to these topics."
+  },
+  {
+    "id": "ch04_q_196",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "The statement “whites are better than African Americans” illustrates",
+    "options": [
+      "a weakening of the caste system in the U.S.",
+      "racism.",
+      "sexism.",
+      "codependency."
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “a” is definitely wrong since the view that whites are better than African Americans is indicative of a caste system mentality (see the answer to the previous question). Choice “d,” codependency, is a term which grew mainly out of the chemical dependency and addiction treatment movement. The word has various definitions, although it mainly refers to an individual who is emotionally involved with a chemically dependent person (perhaps even members of his or her family) and/or is addicted to a relationship with another person or drugs. “Racism,” the correct answer, occurs when an assumption is made that some races are better than others. Hence, the race which feels superior can deny the other race rights and respect. Sexism is an analogous term. In sexism, one sex assumes that the other is inherently inferior."
+  },
+  {
+    "id": "ch04_q_197",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "In terms of research related to affiliation",
+    "options": [
+      "misery loves miserable company.",
+      "firstborns are more likely to affiliate than other children born later.",
+      "people affiliate in an attempt to lower fear.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Often the statement is made that misery loves more than company; it loves miserable company. Stanley Schachter set up an experiment in which subjects were informed that they were going to receive a very painful electrical shock (high anxiety) or a very weak one which would merely tingle. The subjects were told that they could wait alone for 10 minutes before receiving the shock or wait with others participating in the study. Of those subjects who were told they would receive a mere “tingle” only one third chose to wait with others, while over 62% of the high-anxiety group decided to do so. Follow-up research seems to indicate that a person with high anxiety will not choose to be with others unless the other individuals are in a similar situation. Philip Zimbardo discovered in a 1961 study that males placed in extremely embarrassing situations in which they would need to act like infants were much less willing to affiliate with others going through the same thing. One interpretation would be that individuals are more comfortable sharing real fear than anxiety which could result in embarrassment or shame. This research is somewhat similar to Leon Festinger’s theory of social comparison, which postulates that people have a need to compare themselves with others to assess their own abilities and options. The theory further asserts that we will compare ourselves to others who are basically similar to us. Important reminder: Researchers in the field of counseling are somewhat critical of most psychosocial experiments since the experimental situations are often artificial and the studies lack external validity, which is the ability to help understand behavior outside the experimental setting."
+  },
+  {
+    "id": "ch04_q_198",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "Six persons attend a counseling group. After the group, five members praise the merits of a group activity assigned by the group leader. The sixth person, who has heard the opinion of the other five people, felt the activity was useless and boring. According to studies on social behavior, about one third of the time the sixth individual would most likely tell the other five that",
+    "options": [
+      "he totally disagreed with their assessment.",
+      "he too felt the group activity was very helpful.",
+      "he really wasn’t certain how he felt about the activity.",
+      "a and c."
+    ],
+    "correct_index": 1,
+    "rationale": "This question is illustrative of an Asch situation. Experiments by Solomon Asch and Muzafer Sherif would predict that the person would most likely “sell out” and agree with the other five. In one study Asch discovered that approximately 35% of the persons tested in a perceptual activity gave an answer which was clearly incorrect in order to conform! Social researchers consistently have discovered that people will conform to an obviously incorrect unanimous decision one third of the time. Moreover, studies indicate that as few as three other people can produce conformity in a social setting. Who conforms the most? The answer includes individuals who are authoritarian and thus are heavily influenced by authority figures, people who are external approval seekers, and persons who feel that outside external factors control them."
+  },
+  {
+    "id": "ch04_q_199",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "The client who would most likely engage in introspection would be a",
+    "options": [
+      "52-year-old, single, African American male school administrator.",
+      "49-year-old, white homeless male.",
+      "40-year-old, divorced white female who is out of work and has three children.",
+      "19-year-old Latina mother on welfare with two children."
+    ],
+    "correct_index": 0,
+    "rationale": "The key to this question is to focus on social class rather than acculturation (i.e., integrating one’s own cultural beliefs and behaviors with the dominant culture), minority status, or sex. Clients in higher social classes have more time to “look within themselves” (introspect) since they need not dwell as much on external survival needs."
+  },
+  {
+    "id": "ch04_q_200",
+    "domain": "Social and Cultural Foundations",
+    "chapter": 4,
+    "question": "A Japanese client who was reluctant to look you in the eye during her counseling session would most likely be displaying",
+    "options": [
+      "severe negative transference.",
+      "positive transference.",
+      "normal behavior within the context of her culture.",
+      "ambivalent transference."
+    ],
+    "correct_index": 2,
+    "rationale": "Here is where knowledge of culture would come in handy. In some Asian cultures children are often brought up to believe that it is a sign of respect to avoid eye contact with an authority figure. In addition, in some cultures it is considered proper to talk no more than is necessary, which of course is not congruent with the way most Americans think. Moreover, some Asian Americans have been taught that it is shameful to brag or to express one’s own desires, ambitions, or strong feelings. This background could well present a roadblock for a counselor operating under a paradigm that stresses abreaction. Some Asian Americans have been brought up to believe that all problems are solved only within the privacy of family meetings. If mental illness does exist, it is considered a genetic flaw and a family secret. Hence, some Asian Americans may place a high premium on self-control, which is an issue that can be examined in counseling. Derald Wing Sue and David Sue suggested that Asian Americans may respond best to brief therapy that is directive and structured with specific problemsolving goals. Often our somewhat scientific approaches to counseling really reflect what mainstream American society views as real or scientific. Some Latinos/as may value folk healing, which is very spiritual and can include elements such as going into a trancelike state and talking with God. Approximately 65% of the Latinos/as in the United States are of Mexican heritage according to the 2014 U.S. Census Bureau."
   }
 ]

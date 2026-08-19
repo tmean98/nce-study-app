@@ -1,282 +1,1402 @@
 [
   {
-    "id": "ch12_q_001",
-    "domain": "Human Growth & Development",
+    "id": "ch12_q_1001",
+    "domain": "Advanced Topics",
     "chapter": 12,
-    "question": "A school counselor is studying how a student's family, classroom, teachers, neighborhood, and national education policy all interact to influence the child's development. The theoretical framework BEST guiding this analysis is:",
+    "question": "Urie Bronfenbrenner is one of the codevelopers of the National Head Start Program. He proposed a theory of development that is",
     "options": [
-      "Piaget's constructivist stage theory — the child's cognitive development determines how environments are interpreted",
-      "Bronfenbrenner's ecological systems theory — development is shaped by nested environmental systems",
-      "Erikson's psychosocial stage theory — the child's crisis resolution at each stage determines outcomes",
-      "Vygotsky's zone of proximal development — social interaction with more competent others drives growth"
-    ],
-    "correct_index": 1,
-    "rationale": "Bronfenbrenner's ecological systems theory (theory of human ecology) is specifically designed to capture how MULTIPLE NESTED SYSTEMS simultaneously influence development. The family/classroom = microsystem; how family and school interact = mesosystem; neighborhood/policy = exosystem/macrosystem. Critical exam facts: Bronfenbrenner's theory is NOT a stage theory; he co-developed Head Start; he was born in Russia. Piaget focuses on cognitive stages within the child; Erikson on psychosocial crises; Vygotsky on scaffolded social learning — none captures the full ecosystem model."
-  },
-  {
-    "id": "ch12_q_002",
-    "domain": "Human Growth & Development",
-    "chapter": 12,
-    "question": "A 13-year-old tries to speak in a family session and her mother says, 'I told you not to say anything — because I'm the parent, end of discussion.' According to Diana Baumrind's parenting typology, this mother BEST exemplifies:",
-    "options": [
-      "Authoritative parenting — maintaining clear limits in a session is appropriate",
-      "Authoritarian parenting — expects obedience without explanation or discussion",
-      "Permissive parenting — allowing the child to be present is itself permissive",
-      "Nonpunitive parenting — the mother is not using punishment, just setting limits"
-    ],
-    "correct_index": 1,
-    "rationale": "AUTHORITARIAN parenting: expects unquestioning obedience, no verbal give-and-take, no explanations — 'Because I said so.' Correlates with alcoholism, drug abuse, and antisocial behavior in children. AUTHORITATIVE parenting: also firm, but allows discussion and explanations — produces happy children with good social skills. The critical distinction: authoritative = conversation; authoritarian = no conversation. Permissive parenting is nonpunitive and makes few demands — nearly the opposite of this mother's behavior."
-  },
-  {
-    "id": "ch12_q_003",
-    "domain": "Assessment",
-    "chapter": 12,
-    "question": "A school psychometrician tells you that a student's IQ score falls at the 84th percentile. Without any other information, you can estimate the student's IQ is MOST likely:",
-    "options": [
-      "Approximately 130 — gifted range",
-      "Approximately 115 — one standard deviation above the mean",
-      "Approximately 105 — slightly above average",
-      "Approximately 100 — exactly at the mean"
-    ],
-    "correct_index": 1,
-    "rationale": "The normal curve: the 84th percentile falls approximately ONE STANDARD DEVIATION above the mean. With a mean IQ of 100 and SD of 15 (WAIS/WISC standard): 100 + 15 = 115. The 50th percentile = IQ 100 (exactly at the mean). The 98th percentile ≈ two SDs above mean = IQ 130 (gifted). T-score of 80 (on a t-score scale with mean=50, SD=10) = 3 SDs above mean, translating to approximately IQ 145 — near gifted on Otis-Lennon. Knowing the normal curve cold is critical for the exam."
-  },
-  {
-    "id": "ch12_q_004",
-    "domain": "Assessment",
-    "chapter": 12,
-    "question": "A counselor administers a personality inventory to a client. The counselor accidentally reads a different client's results but shares the interpretation with this client anyway. The client responds, 'This is amazingly accurate — it describes me perfectly!' This phenomenon is BEST explained by:",
-    "options": [
-      "Positive transference — the client idealizes the counselor's assessment skills",
-      "The placebo effect — the client expected the assessment to be accurate",
-      "The Barnum (Forer) effect — clients accept generic descriptions as uniquely applicable to them",
-      "Social desirability — the client agreed to avoid seeming difficult"
+      "essentially the same as Piaget’s constructivism.",
+      "almost identical to Watson’s behaviorism.",
+      "an ecological systems theory. 425",
+      "based on 12 discrete stages."
     ],
     "correct_index": 2,
-    "rationale": "The Barnum effect (also called the Forer effect, after psychologist Bertram R. Forer who discovered it): clients readily accept general psychological descriptions, horoscopes, or personality reports and believe they apply specifically to them. Named after P.T. Barnum ('there's a sucker born every minute'). This is not psychosis, positive transference, or social desirability — it's a normal cognitive bias where people find personal meaning in vague, generalized statements. Implication: clients may accept inaccurate assessments without questioning them."
+    "rationale": "Although choice “a” is incorrect, Piaget’s approach is a constructivism theory of cognitive development. Bronfenbrenner, born in Russia, is credited with creating the theory of human ecology. Hint: Bronfenbrenner’s theory is not a stage theory! The theory stresses the microsystem (any immediate or close relationships or organizations the child interacts with); the mesosystem (the way microsystems work together such as family and school); the exosystem (i.e., the school, church, neighborhood, parents’ places of employment, in essence other places the child interacts with but not as often); and the macrosystem (i.e., the largest and most remote system which includes, culture, wars, the federal government, and customs)."
   },
   {
-    "id": "ch12_q_005",
-    "domain": "Research & Program Evaluation",
+    "id": "ch12_q_1002",
+    "domain": "Advanced Topics",
     "chapter": 12,
-    "question": "A researcher conducts a study and finds a statistically significant difference (p < .01) between two therapy modalities. A colleague says the result alone doesn't tell us how meaningful the finding is. The colleague is asking for:",
+    "question": "Before ________ child psychologists studied the child, sociologists studied the family, anthropologists studied society, economists analyzed the economic framework, and political scientists investigated the political structure.",
     "options": [
-      "The coefficient of determination (r²) to calculate shared variance",
-      "The effect size (ES), which quantifies the magnitude of the difference",
-      "A meta-analysis to replicate the findings across multiple studies",
-      "A lower alpha level to confirm the result is not a Type I error"
-    ],
-    "correct_index": 1,
-    "rationale": "Effect size (ES) measures the MAGNITUDE of a result — not just whether it reached statistical significance. ES must be reported even when results ARE statistically significant. Cohen's d benchmarks: small = .20 or less; medium = .50; large/big/strong = .80 or higher. ES can exceed 1.00 (unlike r). The landmark Smith, Glass, Miller (1980) meta-analysis found psychotherapy ES = .85 (large), while antidepressant ES ≈ .24–.31 (small). Statistical significance tells us the result likely didn't occur by chance; ES tells us how important the difference actually is."
-  },
-  {
-    "id": "ch12_q_006",
-    "domain": "Helping Relationships",
-    "chapter": 12,
-    "question": "A counselor at an addiction agency is paid every Friday regardless of how many clients she sees. A client gambles on slot machines every day despite losing money. Both behaviors involve reinforcement schedules. Which CORRECTLY matches each to its schedule?",
-    "options": [
-      "Counselor = variable ratio; client = fixed interval",
-      "Counselor = fixed ratio; client = variable interval",
-      "Counselor = fixed interval; client = variable ratio",
-      "Both are on variable interval schedules"
+      "James W. Fowler",
+      "Daniel Levinson",
+      "Urie Bronfenbrenner",
+      "Nancy Chodorow"
     ],
     "correct_index": 2,
-    "rationale": "FIXED INTERVAL (FI): reinforcement on a fixed TIME schedule — the counselor receives a paycheck every 7 days. Memory: 'interval = time interval.' VARIABLE RATIO (VR): reinforcement after an unpredictable NUMBER of responses — slot machines pay out after a variable number of plays. VR schedules are the most resistant to extinction (you can never predict when the next reward comes). The slot machine doesn't operate on time (ruling out interval schedules) and the payout varies (ruling out fixed ratio). These are classic exam examples repeated across counseling exams."
+    "rationale": "Various forms of this statement, which refers to Bronfenbrenner, are alive, well, and living in a glut of books, journal articles, and scholarly Internet sites; hence, it occurred to me that it could rear its head on a professional exam. Levinson, you will recall, postulated that the human life span has several stressful transition periods. He also postulated the now popular term midlife crisis; however, research indicates that the majority of people do not experience it. Fowler’s name is associated with faith development, while sociologist Nancy Chodorow is a psychoanalytic feminist. Chodorow feels that the domestic ideal caused oppression in women."
   },
   {
-    "id": "ch12_q_007",
-    "domain": "Helping Relationships",
+    "id": "ch12_q_1003",
+    "domain": "Advanced Topics",
     "chapter": 12,
-    "question": "A client with a gambling addiction always blows on his dice before rolling, believing it improves his luck. He started this behavior after a big win that occurred immediately after blowing on the dice. B.F. Skinner would MOST likely explain this as:",
+    "question": "The school psychometrician refers Katie to you for individual counseling. She indicates that Katie’s IQ is at the 50th percentile. Katie’s IQ",
     "options": [
-      "Contingent reinforcement — the big win was contingent on blowing the dice",
-      "Accidental (superstitious) reinforcement — the win occurred independently of the behavior",
-      "A fixed ratio schedule — the win came after a fixed number of attempts",
-      "Shaping with successive approximations — the behavior was gradually reinforced"
-    ],
-    "correct_index": 1,
-    "rationale": "Accidental (superstitious) reinforcement: the reinforcer (big win) occurred INDEPENDENTLY of the specific behavior (blowing on dice) — the behavior had nothing to do with the outcome, but the temporal coincidence created a behavioral superstition. Skinner discovered this feeding pigeons randomly — they repeated whatever they happened to be doing when food appeared (spinning, pecking). Contingent reinforcement requires that the reinforcer is DEPENDENT on the behavior — not the case with a random casino win. This is the behavioral explanation for most superstitions."
-  },
-  {
-    "id": "ch12_q_008",
-    "domain": "Helping Relationships",
-    "chapter": 12,
-    "question": "A counseling supervisor observes a trainee using OARS skills and focusing on the client's ambivalence about quitting alcohol. The supervisor is training the intern in:",
-    "options": [
-      "DBT — focusing on emotional regulation and distress tolerance",
-      "Motivational interviewing (MI) — a Rogerian-based, non-confrontational approach to change",
-      "ACT — using acceptance and mindfulness to address the client's avoidance",
-      "Solution-focused brief therapy — using the miracle question to envision a sober future"
-    ],
-    "correct_index": 1,
-    "rationale": "OARS is the skill set specific to MOTIVATIONAL INTERVIEWING (Miller and Rollnick): Open questions, Affirmations, Reflection, Summaries. MI was initially developed for problem drinkers, is rooted in Rogerian counseling, and is non-confrontational. The 4 MI processes in order: Engaging → Focusing → Evoking → Planning. Change comes from the CLIENT. MI should not be confused with traditional brief therapy. DBT uses diary cards and 4 modes. ACT uses mindfulness/acceptance. SFBT uses the miracle question."
-  },
-  {
-    "id": "ch12_q_009",
-    "domain": "Helping Relationships",
-    "chapter": 12,
-    "question": "A counselor is using CBT with a client who is upset about forgetting his partner's birthday. The counselor repeatedly asks, 'And what is the worst thing that could happen if that is true?' — drilling deeper until the client reveals he fears his partner will eventually leave him. This technique is BEST called:",
-    "options": [
-      "Cognitive restructuring — replacing the irrational thought with a rational alternative",
-      "The downward arrow technique — uncovering the client's underlying core belief",
-      "Behavioral disputation — having the client behave counter to the feared outcome",
-      "Thought stopping — interrupting the cognitive chain before it reaches the core belief"
-    ],
-    "correct_index": 1,
-    "rationale": "The DOWNWARD ARROW technique, created by David D. Burns, M.D.: the therapist repeatedly asks 'What is the worst thing that could happen?' to dig beneath the surface automatic thought to the deeper CORE BELIEF (schema-level cognition). In this case: 'I forgot the gift' → 'She'll be upset' → 'She'll leave' → core belief: 'I am unlovable/inadequate.' This is different from cognitive restructuring (which challenges the thought after identifying it) and behavioral disputation (which has the client act differently). Thought stopping INTERRUPTS thoughts rather than following them downward."
-  },
-  {
-    "id": "ch12_q_010",
-    "domain": "Helping Relationships",
-    "chapter": 12,
-    "question": "A counselor is incorporating DBT with a suicidal client. She is using diary cards, a weekly skills training group, individual therapy, AND telephone coaching. This represents:",
-    "options": [
-      "DBT-informed — using fewer than all DBT modes",
-      "Standard DBT — all four modes are being implemented",
-      "Third-wave CBT but not standard DBT, since telephone coaching is not part of the model",
-      "MI-informed DBT — the OARS framework has been integrated into the DBT structure"
-    ],
-    "correct_index": 1,
-    "rationale": "Standard DBT (Marsha Linehan) uses all FOUR modes: (1) individual therapy, (2) skills training group, (3) phone coaching, (4) therapist consultation team. This counselor is using diary cards (prioritizing treatment targets), skills training, individual therapy, AND phone coaching — all four modes are represented. DBT-INFORMED is used when fewer than all four modes are implemented (e.g., only phone coaching due to cost constraints). DBT was initially designed for suicidal clients and borderline personality disorder and is classified as a type of CBT."
-  },
-  {
-    "id": "ch12_q_011",
-    "domain": "Helping Relationships",
-    "chapter": 12,
-    "question": "According to neurocounseling research, which of the following MOST accurately describes the therapeutic effect of cognitive therapy on brain chemistry?",
-    "options": [
-      "Cognitive therapy raises cortisol, which reduces anxiety symptoms",
-      "Cognitive therapy raises serotonin levels similarly to antidepressant medication, without the side effects",
-      "Cognitive therapy does not impact brain chemistry — only medication affects neurochemistry",
-      "Cognitive therapy lowers dopamine, which is responsible for obsessive thought patterns"
-    ],
-    "correct_index": 1,
-    "rationale": "Neuroscience research shows that COGNITIVE THERAPY (Ellis/Beck) raises SEROTONIN to levels comparable to antidepressant medication — without the medication's side effects. Serotonin deficits are associated with depression. Tryptophan (an amino acid) is related to serotonin production — removing it from the diet causes memory impairment, anxiety, mood problems, and increased aggression. CORTISOL is the stress hormone — cognitive therapy should NOT raise cortisol. Neuroplasticity confirms that therapeutic interventions literally change brain structure and chemistry."
-  },
-  {
-    "id": "ch12_q_012",
-    "domain": "Professional Orientation & Ethics",
-    "chapter": 12,
-    "question": "A supervisee is crying uncontrollably in her supervision session because her boyfriend broke up with her. She asks her supervisor to counsel her. The supervisor should:",
-    "options": [
-      "Provide counseling immediately since the supervisee is in crisis and delaying would be harmful",
-      "Begin counseling but simultaneously refer to another supervisor so the supervisory relationship can continue",
-      "Provide appropriate crisis stabilization, then assist the supervisee in finding a separate counselor",
-      "Refer her to a psychiatrist since the emotional intensity suggests medication may be needed"
+      "indicates she has an intellectual disability.",
+      "cannot be estimated based on this statistic.",
+      "is approximately 100.",
+      "is well above the norm for children her age."
     ],
     "correct_index": 2,
-    "rationale": "Ethical guidelines are unambiguous: SUPERVISORS DO NOT PROVIDE COUNSELING SERVICES TO THEIR OWN SUPERVISEES. The power differential of the supervisory relationship would compromise the therapeutic relationship. The ethical response: (1) provide appropriate crisis support if needed, (2) assist in finding a DIFFERENT counselor for ongoing therapy. The supervisor does NOT begin counseling and does NOT merely give a referral without crisis support. Beginning counseling while simultaneously referring to another supervisor does not resolve the dual relationship problem."
+    "rationale": "See Figure 13.1 of the normal curve in the Graphical Representations section of the book. Note that the 50th percentile is directly in the middle of the normal curve. Since an average IQ is approximately 100, this would be the best answer."
   },
   {
-    "id": "ch12_q_013",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch12_q_1004",
+    "domain": "Advanced Topics",
     "chapter": 12,
-    "question": "A gay male client tells his counselor he is unhappy with his sexual orientation and wants to become heterosexual. Under current ACA ethics, the counselor should:",
+    "question": "The psychometrician calls you to tell you that she has another student, who has an IQ that falls near the 84th percentile. This student’s IQ 426",
     "options": [
-      "Refer the client to a reparative therapy specialist, since the client has autonomy to choose his treatment",
-      "Provide reparative therapy if the counselor has training in the modality",
-      "Explain that homosexuality is not a mental disorder requiring change; refuse to refer for conversion therapy",
-      "Use DBT to help the client tolerate distress about his sexual orientation without attempting to change it"
+      "is somewhere in the gifted range, say 140.",
+      "is most likely near 105.",
+      "is approximately 115.",
+      "is between 75 and 80."
     ],
     "correct_index": 2,
-    "rationale": "ACA (1998 Governing Council resolution, confirmed in 2014 ethics): homosexuality is NOT a mental illness; sexual orientation does not require treatment. ACA explicitly prohibits conversion/reparative therapy — peer-reviewed research shows it HARMS clients and does NOT change sexual orientation. ACA defines it as outside the scope of professional counseling. Counselors should NOT refer for conversion therapy. The counselor should explain these realities and NOT fulfill a referral for harmful, ineffective treatment. Approximately 4% of the US population is gay/lesbian; homosexuality removed from DSM in 1973."
+    "rationale": "Here again, take a look at the normal curve. The 84th percentile is about a standard deviation above the mean. A standard deviation above the mean is roughly 15 IQ points above the mean, thus 100 plus 15, so an IQ of 115. Again I ask you, why do you think we call it the advanced section?"
   },
   {
-    "id": "ch12_q_014",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch12_q_1005",
+    "domain": "Advanced Topics",
     "chapter": 12,
-    "question": "A counselor learns that a 9-year-old boy referred for ADHD evaluation has had only one session and the data are insufficient for a diagnosis. The counselor believes a premature ADHD diagnosis could cause the child longstanding identity problems and lead to inappropriate medication. Under ACA ethics, the counselor may:",
+    "question": "An exam has a mean of 50 and a standard deviation of 20. Phil has a score of 90. His score would fall",
     "options": [
-      "Diagnose Adjustment Disorder as a benign placeholder to satisfy insurance requirements",
-      "Refrain from making a diagnosis since a premature diagnosis could harm the child",
-      "Defer all diagnostic decisions to the referring physician",
-      "Diagnose the child based on teacher report alone, since parent-teacher collateral is sufficient"
+      "at the 40th percentile.",
+      "at the 5th stanine.",
+      "near the 98th percentile and the 9th stanine.",
+      "in the 6th stanine."
+    ],
+    "correct_index": 2,
+    "rationale": "Some folks who have taken their comprehensive exams claim that it helps to draw a watered-down version of the normal curve with a few percentages, z-scores, t-scores, and stanines on scratch paper (provided at the exam site) before beginning the exam. Needless to say, you’ll need to practice drawing the curve before sitting for the exam or else your numbers could be wrong, resulting in a string of incorrect answers! In any event, if you take Phil’s score of 90 you can see that it is 2 standard deviations above the mean since 1 standard deviation is 20. Looking at the normal curve you can see that this is an exceptionally high score, placing it in the top or 9th stanine."
+  },
+  {
+    "id": "ch12_q_1006",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Mrs. Kim wanted her daughter to attend a private school for gifted children who have very high intelligence. Mrs. Kim’s daughter took the Otis–Lennon IQ test. Her t-score was 80. Kim’s counselor knew that",
+    "options": [
+      "Mrs. Kim would be very upset because her daughter’s low score would not allow her to be admitted.",
+      "Mrs. Kim would be elated because her daughter scored exceptionally high and would be admitted.",
+      "she could not give Kim’s mother any feedback since a t-score tells you nothing about one’s actual IQ score.",
+      "a t-score of 80 is very average."
     ],
     "correct_index": 1,
-    "rationale": "ACA ethics explicitly state counselors MAY REFRAIN from making a diagnosis when they believe the diagnosis could harm the client. Valid reasons include: insufficient data, cultural contexts where symptoms have different meaning, risk of the client self-stigmatizing based on the label, or loss of security clearance. Decision should be collaborative with the client when possible. Intentionally misdiagnosing as Adjustment Disorder for insurance reimbursement is INSURANCE FRAUD — an ethics violation regardless of the counselor's intent to help. Deference to a physician does not eliminate the counselor's own ethical obligation."
+    "rationale": "Take a look at the normal curve and wow, Mrs. Kim’s daughter blew the lid off the test with a superb IQ score of nearly 150. Since a gifted or very superior IQ is generally around 130 you can bet your bottom dollar she will be admitted to the school."
   },
   {
-    "id": "ch12_q_015",
-    "domain": "Professional Orientation & Ethics",
+    "id": "ch12_q_1007",
+    "domain": "Advanced Topics",
     "chapter": 12,
-    "question": "A counselor runs a private practice and assigns new client referrals to whichever associate pays the highest percentage of the session fee for office use. According to ACA ethics, this practice is:",
+    "question": "The mean score on a new counseling exam is 65. The standard deviation is 15. Tanja scored a 35. This tells us that 427",
     "options": [
-      "Ethical — charging rent as a percentage of session fees is standard private practice business",
-      "Ethical only if the percentage does not exceed one-third of the session fee",
-      "Unethical — charging a percentage of the client fee per referral is essentially a kickback scheme",
-      "Ethical if the client consents to the arrangement in the informed consent document"
+      "she had a z-score of +1.",
+      "she had a z-score of -1.",
+      "she had a t-score of 40.",
+      "she had a z-score of -2."
+    ],
+    "correct_index": 3,
+    "rationale": "The z-score is the same as the standard deviation. In this case Tanja scored 2 standard deviations below the mean."
+  },
+  {
+    "id": "ch12_q_1008",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Kia was given a new client with a morbid fear of heights. Her supervisor emphasized that he wanted her to use the most high-tech form of treatment available. Kia should use",
+    "options": [
+      "VRT.",
+      "William Glasser’s new reality therapy with choice theory.",
+      "Joseph Wolpe’s systematic desensitization (also known as reciprocal inhibition), a form of behavior therapy that works well with fears",
+      "REBT, created by Albert Ellis, which was once called RET."
+    ],
+    "correct_index": 0,
+    "rationale": "If you’ve been out of grad school for eons of time—and I include myself in this category—then VRT would be totally unfamiliar. Virtual reality therapy (VRT) has been dubbed in many sources as “the next best thing to being there.” Clients are hooked to a computer by wearing headgear. The computer simulates a real-life situation such as being high up in a glass elevator (or whatever the problem is). This is termed virtual reality. Dr. Barbara Rothbaum created this behavioristic approach. The client experiencing the virtual environment (VE) generally has the same physiological reactions as he or she would experience in an actual situation such as a higher heart rate and sweaty palms. Initial research on VRT with clients who have a fear of flying shows that it is as effective as treatment using exposure to the actual feared stimuli and that VRT clients do make more progress than those in a control group. Could this be the next big thing? Stay tuned!"
+  },
+  {
+    "id": "ch12_q_1009",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "The DSM-5 provides diagnostic criteria for intellectual disability (ID), formerly billed as mental retardation. It states that",
+    "options": [
+      "the client must have an IQ score of 70 or below on an individually administered IQ test and the onset of the condition must be prior to age 18. The client’s ability to adapt to normal life in school, work, or family at home must also be impaired.",
+      "the client must have an IQ score below 70 on any group administered IQ test.",
+      "The client must have an IQ score on an individually administered IQ test and the onset of the condition must be prior to age 21.",
+      "the client must have an IQ score of 70 or below on an individually administered IQ test."
+    ],
+    "correct_index": 0,
+    "rationale": "Choice “d” stands incorrect because an IQ score is not enough to make the diagnosis. Contrary to popular belief, intellectual disability is not always present throughout the life span. Training is capable of raising IQ scores. Exam reminder: Group IQ tests are not considered as accurate as individually administered tests. The individual IQ test is the gold standard; however, IQ testing is a very controversial topic."
+  },
+  {
+    "id": "ch12_q_1010",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Measures of central tendency are used to summarize data. A counseling researcher wants to use a measure of central tendency which reacts to every score in the distribution. He will thus",
+    "options": [
+      "use the median, or middle score when the data are ranked from lowest to highest. The median divides the distribution in half since half the scores will fall above the median, while half the scores will fall below the median.",
+      "use the mode, which is the most frequently occurring score or category.",
+      "use the mean, which has been termed the arithmetic average.",
+      "use the median or the mode."
     ],
     "correct_index": 2,
-    "rationale": "ACA has ruled that charging associates a PERCENTAGE of client fees for office use constitutes an unethical FEE-SPLITTING/KICKBACK scheme — because it creates a financial incentive to refer clients to higher-paying associates rather than based on clinical competence or client fit. Making referral decisions based on financial outcomes is explicitly unethical. The ethical alternative: charge a FLAT SET AMOUNT for office use (not a percentage of client fees), and assign clients based on clinical appropriateness or a rotation system. Client consent does not make fee-splitting ethical."
+    "rationale": "Repeat after me three times aloud: The mean is the only measure of central tendency which reacts to every score in the distribution. Although the mean has been called the most useful average, it has the mixed blessing of being misleading when a distribution contains very high or abnormally low scores— sometimes even a single extreme score. Take this common example that has been used a thousand times before, but illustrates this nicely. Bill Gates decides to take one of your graduate courses in counseling (fat chance, right). If you were to figure the mean income for the class it would suggest that the average student was a multimillionaire! Case closed. Exam hint: The median would generally be superior to the mean when you have a skewed distribution with a glut of high or low extreme scores."
   },
   {
-    "id": "ch12_q_016",
-    "domain": "Research & Program Evaluation",
+    "id": "ch12_q_1011",
+    "domain": "Advanced Topics",
     "chapter": 12,
-    "question": "A large comprehensive exam question asks what the BEST first step is when a counselor wants to conduct a program evaluation at her nonprofit counseling agency. The MOST appropriate answer is:",
+    "question": "Which theorist would most likely assert that EQ is more important than IQ?",
     "options": [
-      "Write a grant proposal to fund the evaluation",
-      "Contact United Way for evaluation assistance and financial support",
-      "Gain support from staff, administration, clients, and board of directors",
-      "Begin collecting data immediately to capture a natural baseline before the agency is aware of the study"
+      "David Wechsler",
+      "Alfred Binet",
+      "Charles Spearman",
+      "Daniel Goleman"
+    ],
+    "correct_index": 3,
+    "rationale": "EQ, incidentally, stands for emotional intelligence. EQ would encompass traits such as empathy, impulse control, motivation, and the ability to love. According to Daniel Goleman in his popular book Emotional Intelligence: Why It Can Matter More Than IQ, it is EQ rather than IQ that determines success."
+  },
+  {
+    "id": "ch12_q_1012",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counseling agency decides to pay their employees once a week. The agency is using a",
+    "options": [
+      "fixed interval (FI) schedule of reinforcement.",
+      "a variable interval (VI) schedule of reinforcement.",
+      "a fixed ratio (FR) schedule of reinforcement.",
+      "a variable ratio (VR) schedule of reinforcement."
+    ],
+    "correct_index": 0,
+    "rationale": "This question is as old as the hills (yes even older than the Bill Gates example, in fact Bill probably didn’t own a computer when this one first surfaced) but that means there is an excellent chance it will pop up (or at least a version of it) on your comprehensive exam. Since the employee gets paid every seven days this must be a fixed schedule. Moreover, since it involves time it must be an interval scale. Forget about this question for a moment. In everyday life when we refer to the passage of time we say “time interval.” Hence, your handy dandy memory device can be that all interval scales deal with time."
+  },
+  {
+    "id": "ch12_q_1013",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "As a gambling addiction counselor Laura is well aware that slot machines operate on a",
+    "options": [
+      "variable ratio schedule of reinforcement.",
+      "variable interval schedule of reinforcement.",
+      "fixed ratio schedule of reinforcement.",
+      "reinforcement system that counselors truly cannot explain."
+    ],
+    "correct_index": 0,
+    "rationale": "Another good old typical reinforcement question. Since the slot machine does not operate on time (e.g., it won’t pay out every 20 minutes) then it is not an interval scale. Instead, it is based on the opposing or ratio scale. Remember my explanation in the previous question? And, since the slot machine does not always pay out every so many times (say every 10 times you put in a token) you play it (otherwise you could just count the number of times you played and make a serious chunk of change betting big when you know you will win—wouldn’t that be awesome) then you know it is a variable scale."
+  },
+  {
+    "id": "ch12_q_1014",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Pick the most accurate statement.",
+    "options": [
+      "Behavior therapies based on classical conditioning are used primarily with clients who have bipolar disorder. Lithium is no longer used.",
+      "Behavior therapies based on classical conditioning are much more effective than CBT when treating mood disorders.",
+      "Behavior therapies based on classical conditioning are commonly used to treat phobias, but are also utilized for clients with obsessive-compulsive disorders (OCD).",
+      "Behavior therapy is never based on classical conditioning."
     ],
     "correct_index": 2,
-    "rationale": "Program evaluation (PE) begins by securing STAKEHOLDER SUPPORT — staff, administration, clients, and the board of directors. Without buy-in, the evaluation will face resistance and may not produce actionable results. Grants (choice A) may be needed but come later. Assuming United Way involvement (choice B) adds information not in the question — not all nonprofits are United Way members. Covert data collection (choice D) would be an ethics violation — stakeholders must be aware. Key PE principles: uses natural settings, answers questions the PROGRAM poses (not a researcher's hypothesis), use existing data when possible to reduce cost."
+    "rationale": "One of the most popular forms of behavior therapy based on classical conditioning, Wolpe’s systematic desensitization is an excellent therapy for phobic clients in individual and group therapy and it has its roots in Pavlov’s classical conditioning. In terms of choice “a,” psychiatrists and other physicians are still prescribing lithium for bipolar disorder. Clients must be monitored since high dosages can lead to medical problems such as kidney damage or even death."
   },
   {
-    "id": "ch12_q_017",
-    "domain": "Human Growth & Development",
+    "id": "ch12_q_1015",
+    "domain": "Advanced Topics",
     "chapter": 12,
-    "question": "A supervisee is describing a rape victim and says she was 'probably asking for it' based on her clothing. According to Fritz Heider's attribution theory, the supervisee is engaging in:",
+    "question": "Ken’s supervisor told Ken to do a meta-analysis related to treating children with sleep disorders.",
     "options": [
-      "Situational attribution — attributing the rape to external environmental factors",
-      "The self-serving bias — protecting her own self-esteem by blaming the victim",
-      "Dispositional attribution — attributing the assault to the victim's personal characteristics/choices",
-      "The fundamental attribution error applied to herself, not to the victim"
+      "Ken can use a correlation coefficient.",
+      "Ken can set up a true experiment with a control group and an experimental group.",
+      "Ken can use a single subject N = 1 intensive design.",
+      "Ken will use statistics based on numerous studies to investigate the issue."
     ],
-    "correct_index": 2,
-    "rationale": "DISPOSITIONAL (internal) attribution: attributing an outcome to the PERSON'S character, judgment, or behavior — here, the victim's choice of clothing. This is an example of victim-blaming through dispositional attribution. The FUNDAMENTAL ATTRIBUTION ERROR is related: when explaining ANOTHER person's negative outcome, people overweight dispositional causes and underweight situational ones. The supervisee is attributing the rape to the victim's characteristics rather than to the perpetrator's actions (situational/external). The self-serving bias applies to one's OWN outcomes, not someone else's."
+    "correct_index": 3,
+    "rationale": "Karl Pearson—also associated with the concept of correlation—created the first statistics department in a university in 1911. In 1904 he unleashed the technique of meta-analysis. Meta-analysis or metaresearch occurs when several studies on the same topic are utilized in order to examine a hypothesis. The results of several studies—or tons of studies if they are available—are then synthesized. The technique was originally used to overcome the severe limitations of a small sample size that often occurs when a researcher performs a single experiment. Needless to say, the drawback to this technique is that it may be relying on a glut of poorly designed studies which in turn will yield inaccurate results."
   },
   {
-    "id": "ch12_q_018",
-    "domain": "Human Growth & Development",
+    "id": "ch12_q_1016",
+    "domain": "Advanced Topics",
     "chapter": 12,
-    "question": "A depressed client fails a job interview. Unlike a non-depressed person, this client would MOST likely explain the failure by saying:",
+    "question": "You gave your client, Ester, a personality test and then shared your interpretation of the test with her. Your client was amazed at how accurate the test results were in terms of depicting her personality. She readily accepted the interpretation. The next day you discovered that you had interpreted the wrong test! The test you were analyzing was not Ester’s but rather belonged to another client! Ester’s behavior could best be explained by",
     "options": [
-      "'The interviewer was a jerk and the questions were unfair' — situational attribution",
-      "'I was underprepared and I performed poorly' — dispositional attribution",
-      "'I got unlucky today — it happens to everyone sometimes' — normalizing attribution",
-      "'The economy made hiring difficult this quarter' — external attribution"
+      "the obvious fact that she is psychotic, which means that she is not in touch with reality.",
+      "the Barnum effect.",
+      "negative transference.",
+      "the placebo effect."
     ],
     "correct_index": 1,
-    "rationale": "Non-depressed people typically use the SELF-SERVING BIAS — attributing failures to external/situational factors ('the interviewer was unfair'). DEPRESSED individuals do the OPPOSITE — they attribute failures to internal/dispositional factors ('I performed poorly; it's my fault'). This is the depressive attribution style: internal, stable, global. Research finding: depressed individuals often have a more ACCURATE view of reality than non-depressed people — they just don't use the self-serving bias that buffers most people from negative self-evaluation. This makes them more susceptible to rumination and hopelessness."
+    "rationale": "In psychometrics, the Barnum effect (which can also be dubbed the Forer effect after the psychologist who discovered it, Bertram R. Forer) refers to the fact that clients will often accept a general psychological test report, horoscope, or palm reading and believe it applies specifically to them! And no you need not be psychotic (choice “a”) to be influenced by this effect. You’ll recall that P.T. Barnum was quoted (or according to some misquoted) when he quipped that “there is a sucker born every minute.”"
   },
   {
-    "id": "ch12_q_019",
-    "domain": "Helping Relationships",
+    "id": "ch12_q_1017",
+    "domain": "Advanced Topics",
     "chapter": 12,
-    "question": "A child client is 9 years old and presents with significant behavioral issues. Her counselor takes a nondirective stance, following the child's lead in play, does not direct conversation topics, and uses acceptance and warmth without rushing the process. This approach MOST reflects:",
+    "question": "Approximately 40% of all elementary schools have shortened recess or student playtime. Counselors",
     "options": [
-      "Gestalt child therapy (Violet Oaklander) — using empty chair and creative art with children",
-      "Child-centered play therapy (CCPT) — based on Virginia Axline's application of Rogers's principles",
-      "Anna Freud's psychoanalytic play therapy — using play to access the child's unconscious",
-      "Structured play therapy — using therapist-directed activities to address specific presenting problems"
-    ],
-    "correct_index": 1,
-    "rationale": "Child-Centered Play Therapy (CCPT) was created by VIRGINIA AXLINE, who applied CARL ROGERS's person-centered principles to child therapy. Axline wrote 'Dibs In Search of Self.' Key features: nondirective (child leads, counselor follows), warm, accepting, does not rush, child sets topics. Also called NONDIRECTIVE CHILD PLAY THERAPY. Anna Freud used psychoanalytic play therapy (not nondirective). Violet Oaklander added gestalt ideas to play therapy, influenced by Axline. Structured play therapy = therapist-directed — the opposite of CCPT."
-  },
-  {
-    "id": "ch12_q_020",
-    "domain": "Helping Relationships",
-    "chapter": 12,
-    "question": "A counselor supervisor tells an intern: 'Your approach of incorporating mindfulness practice, acceptance strategies, and commitment to client values into your CBT sessions represents the most contemporary evolution of behavior therapy.' The supervisor is describing:",
-    "options": [
-      "First-wave CBT — the Skinnerian behavioral tradition",
-      "Second-wave CBT — the cognitive approaches of Ellis and Beck",
-      "Third-wave CBT — contemporary approaches including ACT, DBT, and motivational interviewing",
-      "Integrative psychotherapy — combining theories across modalities without a specific wave framework"
+      "are excited about this change because U.S. children are behind other countries academically and thus need more study time.",
+      "believe the change will actually have little or no impact on the children.",
+      "are concerned because some research indicates that recess can have a positive impact since children are less fidgety on days when they have recess; especially if they are hyperactive.",
+      "are not concerned as boys have better concentration on days when they do not have recess."
     ],
     "correct_index": 2,
-    "rationale": "Steven C. Hayes categorized behavior therapies into three waves. FIRST WAVE: classical and operant conditioning — Pavlov, Watson, Skinner, Wolpe. SECOND WAVE: cognitive approaches — Ellis (REBT) and Beck (cognitive therapy), focusing on changing thoughts. THIRD WAVE (contemporary): adds mindfulness and acceptance — DBT (Linehan), Motivational Interviewing (Miller/Rollnick), and ACT (Acceptance and Commitment Therapy). ACT is pronounced like the word 'act.' Third-wave approaches do NOT fight/eliminate unwanted thoughts — they promote acceptance of thoughts while committing to values-based action."
+    "rationale": "Choice “d” is patently false. Boys showed less concentration on days when normal recess was delayed. Choice “c” stands correct as research indicates that fourth graders were less fidgety on days with recess playtime. Good attention requires periodic novelty."
+  },
+  {
+    "id": "ch12_q_1018",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Neuroscience supports",
+    "options": [
+      "the analytic notion that focusing on negative emotions is helpful. 431",
+      "the medical model, and thus it is not truly relevant to counselors.",
+      "the notion that the concept of neuroplasticity is merely a myth.",
+      "the notion that empathy and exercise could benefit depressed individuals."
+    ],
+    "correct_index": 3,
+    "rationale": "According to the burgeoning field of neuroscience and neuroimaging the first three choices are clearly incorrect. In terms of choice “a,” talking incessantly about negative experiences triggers a sad response from the amygdala and the frontal cortex and this is not our goal in counseling. Choice “b” is incorrect since neuroscience seems to provide us with research that will be helpful to counselors and has improved our knowledge of human growth and development. Finally, choice “c” or the concept of neuroplasticity suggests that the actions of the client as well as the environment do change the brain."
+  },
+  {
+    "id": "ch12_q_1019",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Neuroscience seems to show that",
+    "options": [
+      "cognitive therapy does not impact one’s brain.",
+      "cognitive therapy could raise serotonin, the feel good chemical in the brain, just like antidepressant pharmaceuticals.",
+      "cognitive therapy raises cortisol to an extremely high level.",
+      "cognitive therapy has virtually no impact on the frontal cortex."
+    ],
+    "correct_index": 1,
+    "rationale": "Cognitive therapy (as set forth by Albert Ellis and Aaron T. Beck) works like a prescription medicinal and raises serotonin without the side effects! Cortisol has been dubbed the stress hormone, and we would not want to increase it through cognitive therapy."
+  },
+  {
+    "id": "ch12_q_1020",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Which statement best reflects the position of neurogenesis?",
+    "options": [
+      "A 76-year-old man signs up for a course in chess and generates more neurons.",
+      "A 9-year-old girl falls off her bicycle and now has a learning disability.",
+      "A 32-year-old man uses temperature/thermal biofeedback to help ward off headaches.",
+      "A 32-year-old man uses EMG biofeedback to help ward off headaches."
+    ],
+    "correct_index": 0,
+    "rationale": "Learning, such as counseling, generates neurons even in older adults."
+  },
+  {
+    "id": "ch12_q_1021",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "__________ seemingly is related to serotonin in the brain. Deficits of serotonin are thought to cause depression.",
+    "options": [
+      "Vitamin B5, also known as pantothenic acid,",
+      "L-Arginine, an amino acid,",
+      "Tryptophan, an amino acid,",
+      "Omega 3 from sources such as fish oil, krill oil, or algae,"
+    ],
+    "correct_index": 2,
+    "rationale": "All of the above nutrients might be distantly related to serotonin levels, however, when tryptophan is removed from the diet memory, anxiety, sleep, and mood go south. Aggression, on the other hand rises."
+  },
+  {
+    "id": "ch12_q_1022",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "At the last count, approximately 43,000 U.S. citizens committed suicide during a single year making suicide the tenth leading cause of death. Worldwide the figure is an alarming 800,000 per year. Suicide often checks in as the second- or third-leading killer of young people in the 15–24-year-old age bracket. Men commit suicide more frequently than women, however, women attempt suicide far more often than men. It is accurate to say that",
+    "options": [
+      "10–15% of all claims handled by the ACA liability insurance programs are related to suicide.",
+      "nearly 100% of the claims handled by the ACA liability insurance programs are related to suicide.",
+      "ACA liability insurance will not cover you if a client commits suicide.",
+      "African American females have an extremely high rate of suicide."
+    ],
+    "correct_index": 0,
+    "rationale": "First, choice “d” is blatantly false since the African American female rate is very low (about two females per 100,000 compared to about 12.5 females per 100,000 for the general public). According to Counseling Today, about 40% of all expenditures for the ACA liability insurance programs relate to suicide, thus raising the premiums. Suicide rates of rescue workers increased after the September 11, 2001 terrorist attacks. The suicide rate for U.S. veterans is also up. Most legal difficulties related to suicide revolve around negligence. You can avoid negligence by making certain that as a counselor you adhere to the ethical principle of practicing within your boundaries of competence and providing appropriate referrals when requested or needed. Always use a suicide-prevention or so-called “no suicide” safety plan contract. The safety plan contract, among other things, will stipulate that the client will contact you or a suicide hotline/helpline if an uncontrollable urge to commit suicide is manifested. And finally: If you think consultation is in order, just do it!"
+  },
+  {
+    "id": "ch12_q_1023",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Statistically speaking, males typically use ________________ and females use _________ to commit suicide.",
+    "options": [
+      "poison; firearms",
+      "heroin; alcohol",
+      "firearms; poison",
+      "heroin; jumping off a building or bridge"
+    ],
+    "correct_index": 2,
+    "rationale": "The most commonly used methods are firearms for men in approximately 57% of the cases and poison in about 35% of the instances for women."
+  },
+  {
+    "id": "ch12_q_1024",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Neurocounseling research indicates that the _______________ is dominant ___________.",
+    "options": [
+      "left hemisphere; in most people",
+      "right hemisphere; in most people",
+      "left hemisphere; in right-handed people",
+      "left hemisphere; in 50% of the population"
+    ],
+    "correct_index": 0,
+    "rationale": "The left hemisphere of the brain is dominant in over 95% of the population. Although the percentage is higher in right-handed persons, it is still dominant in most left-handers. Damage to the left hemisphere often results in issues with the right side of the body. P.S. The self-help psychology notion that the left side is logical and the right side is creative has not been substantiated. This notion is so pervasive an exam question may only give you the pop psychology choices! If that is the situation, then go with left brain logical/rational and right brain creative. What can I say?"
+  },
+  {
+    "id": "ch12_q_1025",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Matt was diagnosed with a somatic symptom disorder (SSD), with predominant pain. It is safe to say that",
+    "options": [
+      "Matt is at least 40 years of age.",
+      "Matt has never had a physical exam in regard to his pain.",
+      "no physiological basis or medical condition can be found to explain his reaction.",
+      "Matt’s pain can be carefully traced to a precise physical cause."
+    ],
+    "correct_index": 2,
+    "rationale": "Somatic symptom disorders must have a physical exam in order for the SSD diagnosis to be valid. The key factor here is that emotional factors can cause somatic (bodily) complaints and health concerns. Choice “a” is incorrect since SSD often begins early in life (often in one’s teens) and can literally last an entire lifetime. It is often overlooked by mainstream medicine."
+  },
+  {
+    "id": "ch12_q_1026",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Millie has a panic attack whenever she drives across a bridge. She has",
+    "options": [
+      "situationally bound panic attacks.",
+      "cued panic attacks.",
+      "a and b.",
+      "predisposed panic attacks."
+    ],
+    "correct_index": 2,
+    "rationale": "Okay, folks. To answer this question you need to discern an uncued attack, also termed an “unexpected” attack, from a cued attack, also called a “situationally bound attack.” Simply put: situationally bound or cued attacks have a cue or an environmental trigger. In this case it is obviously the bridge. On the other hand, an uncued or unexpected attack seemingly occurs out of nowhere and no internal or external trigger can be identified. Women experience panic attacks more often than men."
+  },
+  {
+    "id": "ch12_q_1027",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Sybil was a famous client who had 15 personalities. At the time Sybil was said to suffer from multiple personality disorder (MPD). Today her diagnosis would be",
+    "options": [
+      "dissociative identity disorder.",
+      "a mood disorder.",
+      "related to RS issues.",
+      "a personality disorder."
+    ],
+    "correct_index": 0,
+    "rationale": "In any dissociative disorder, the client attempts to avoid stress by dissociating or escaping from the situation. Cases of amnesia (i.e., the inability to recall) fall into this diagnostic category. In the case of dissociative identity disorder formerly known as multiple personality disorder (MPD), the client has often been sexually abused as a child. Counseling can be efficacious in terms of integrating the personality into a single entity. Just for review purposes, in choice “c” RS means religious and spiritual. Experts, I might add, do not agree on a single definition of spirituality. Generally, the term describes a unique personal experience related to feelings of self-actualization, a better understanding of the meaning of life, and an awareness of a divine or Higher Power. One theory is that 12-step programs such as Alcoholics Anonymous (AA) promote a brand of what has been called “informal spirituality” which has made RS issues more popular with the general public. Another major impetus for the spirituality movement was Scott Peck’s landmark 1978 book The Road Less Traveled. This work helped religion and psychotherapy gel. Research indicates that religion can be a double-edged sword for clients. In general, religion generally has a positive impact on clients (e.g., improved well-being, better marital satisfaction, and less depression). On the negative side of the coin, clients who harbor religious strain—such as difficulty forgiving God—suffer from more stress, depression, and even suicidal feelings. Because of the contradictory evidence, counselor educators do not suggest that counselors urge clients to be more spiritual or have more religious involvement. This seems ironic since one survey of ACA-affiliated counselors revealed that the majority of these helpers valued spirituality in their own lives even more than they did organized religion. I think it goes without saying that your personal views may differ!"
+  },
+  {
+    "id": "ch12_q_1028",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Bulimia is classified as",
+    "options": [
+      "an eating disorder which occurs equally in both men and women.",
+      "an eating disorder that occurs primarily in women.",
+      "an anxiety disorder.",
+      "a narcissistic personality disorder."
+    ],
+    "correct_index": 1,
+    "rationale": "Anorexia nervosa and bulimia nervosa are eating disorders. Bulimia is more prevalent. Statistically speaking, about 90% of anorectics and bulimics are female. The onset of these disorders often occurs in adolescence. In anorexia, the client refuses to eat enough to maintain a healthy body weight. Bulimia nervosa is characterized by binge eating (eating a tremendous amount of food) and then compensating for the binge eating by purging (vomiting, enemas, diuretics, or laxative abuse), fasting, or excessive exercise. Low body weight is typical in anorexia, but not in bulimia or binge-eating disorder."
+  },
+  {
+    "id": "ch12_q_1029",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Binge-eating disorder (BED)",
+    "options": [
+      "is not a valid DSM diagnosis.",
+      "occurs mainly in men.",
+      "results in vomiting and extreme bouts of exercise.",
+      "is the most common type of eating disorder."
+    ],
+    "correct_index": 3,
+    "rationale": "Clients with BED often eat alone (solitary dining), and eat very rapidly, often to the point of pain even if they are not hungry."
+  },
+  {
+    "id": "ch12_q_1030",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counselor can assume that, in general",
+    "options": [
+      "women make less money than men for the same job.",
+      "most complaints against counselors for exploitation come from women complaining about male counselors.",
+      "women are not as comfortable as men when they are involved in competitive situations",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "According to the Department of Health and Human Services, all of the above statements are right. They also add that women (in general, of course) are more compassionate and more likely to adhere to traditional moral values. The old adage that “women are more comfortable expressing their feelings” is only partially true. Women are more comfortable expressing sadness, intimacy, and nurturing behavior, nevertheless, they are less comfortable expressing anger and being assertive. Thus, men—who are more aggressive—are more likely to die via accidents, suicide, homicide, war, or an act of violence."
+  },
+  {
+    "id": "ch12_q_1031",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Intersexuality",
+    "options": [
+      "describes an individual with male and female sexual characteristics and possibly male and female internal or external sex organs.",
+      "describes a person who is always gay.",
+      "describes a person who is always heterosexual.",
+      "describes a person who is a cross-dresser."
+    ],
+    "correct_index": 0,
+    "rationale": "Several definitions have been accepted by the literature in our field so it would be nearly impossible to create an answer stem here which covers the entire topic. An intersex individual (in the past known as a hermaphrodite) sometimes has male and female genitalia, but by definition will have atypical sexual/reproductive development, chromosomes, or hormones. In some cases, the genitals cannot clearly be classified as male or female. Physicians do give the individual a gender even if this occurs at birth. Choice “d,” a cross-dresser, wears clothes generally worn by the opposite sex and has been called a transvestite in some of the earlier literature. Choices “b” and “c” are incorrect inasmuch as intersex individuals, or cross-dressers for that matter, are not exclusively heterosexual or homosexual."
+  },
+  {
+    "id": "ch12_q_1032",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Gay men and women",
+    "options": [
+      "primarily live the gay or lesbian lifestyle.",
+      "basically have the same range of gender-role behaviors as do male and female heterosexuals.",
+      "cannot be characterized in terms of lifestyle due to a distinct lack of research.",
+      "are always transgender."
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “a” is way off base: There is no single gay, lesbian, bisexual lifestyle! Choice “d,” transgender, is used to describe a person who does not identify with his or her birth sex. Transsexuals are generally regarded as being in a separate category or at least subcategory from transgender individuals—persons who do not identify with their gender assignment based on biology at birth—because transsexuals resort to the use of medical interventions including hormones and plastic surgery in order to better express their identity. Save yourself an e-mail! Sexual identity terms change at the speed of light and after the last Encyclopedia was released I received numerous correspondence about my definitions being incorrect. My response, “I know, it transpired after the book was released.” The moral of the story: Check the definitions of terms in this category before you take the exam."
+  },
+  {
+    "id": "ch12_q_1033",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Warren needs to conduct a study. His supervisor wants him to use a parametric inferential statistic. This means that",
+    "options": [
+      "he will need to use random sampling and the distribution is normal.",
+      "he will need to use a convenience sample or a volunteer sample.",
+      "his distribution will be positively skewed.",
+      "his distribution will be bimodal."
+    ],
+    "correct_index": 0,
+    "rationale": "By definition, parametric statistics are used when the distribution is normal (i.e., the mean, the median, and the mode are the same) and random sampling has been utilized. Convenience samples and volunteer samples are not picked randomly. Moreover, a bimodal or multimodal curve is not the same as a bell-shaped normal curve. Parametric designs use interval and ratio data, while nonparametric designs rely on nominal and ordinal data."
+  },
+  {
+    "id": "ch12_q_1034",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counselor has an answering machine in her office. Which statement most accurately depicts the ethical guidelines related to this situation?",
+    "options": [
+      "Ethical guidelines forbid the use of answering machines.",
+      "Ethical guidelines allow answering machines, but forbid speaking with clients via a cell phone.",
+      "Ethical guidelines allow answering machines, but experts insist that unauthorized staff should not be allowed to listen or retrieve such messages.",
+      "Ethical guidelines are clear that a pager should be used rather than an answering machine."
+    ],
+    "correct_index": 2,
+    "rationale": "According to experts, there are additional guidelines which apply to counselors who use the telephone for messages. First, never give out information to an unknown caller—in fact don’t even tell such a caller whether a client is receiving services or not! Remember that anything you say to a client over the phone could end up in court. Be very careful about leaving personal messages for clients on their answering machines. You never know who is in the household and will be listening to the messages. When using a cell phone never forget that the call might be monitored by an unauthorized third party, horrors! When sending a message via a pager use the same precautions listed above for telephone messages. Finally, if you aren’t technologically challenged and decide to send a confidential fax, it is the counselor’s responsibility (yes you!) to make certain the fax is secure. Hence, prior to sending a fax check to see if the appropriate person will be receiving it. As of this writing, “text” or “texting” does not appear in ACA or NBCC ethical codes."
+  },
+  {
+    "id": "ch12_q_1035",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "The law requires clinicians to",
+    "options": [
+      "keep process notes.",
+      "keep progress notes.",
+      "keep process and progress notes.",
+      "keep the client’s name and address, but no other information."
+    ],
+    "correct_index": 1,
+    "rationale": "As a neophyte in the field I remember storming into my supervisor’s office to complain that I did all these wonderful things for my clients and still didn’t get a raise. When I stopped ranting and raving my supervisor gave me some sage advice, “Rosenthal,” she quipped, “I want to tell you something and I never want you to forget it during your career. If you didn’t write it down, you didn’t do it, and it never happened!” Today, all competent supervisors espouse something similar. Now let’s tackle the question. First you should keep accurate records on your clients. Documentation helps you provide appropriate counseling, decreases your liability (chances of being sued), and helps you or your agency get reimbursed. There are basically two types of client records. First, there are progress notes and yes they are mandated by law. Counselors often refer to these as clinical notes. Experts state that progress notes are behavioral because they focus on what the client does and says. Progress notes could include something about informed consent, assessment procedures or tests used, the client’s DSM diagnosis, symptoms, the type of counseling interventions used, the goals of counseling, progress, release of information issues, the dates of the sessions, and the termination date. Process notes (sometimes called psychotherapy notes) are not generally shared with clients or made available to them. Process notes are kept separate and intended for the counselor who created them. They are not required by law."
+  },
+  {
+    "id": "ch12_q_1036",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A client wants to read her record. Pick the statement which is not accurate.",
+    "options": [
+      "You should allow her to read the record or a summary of it because she has an ethical right to do so.",
+      "You should allow her to read it, however, you should go back and change things you don’t want her to see; for example, the fact that you said she was schizophrenic.",
+      "You should allow her to read the record realizing that it is best if you enter the information as soon as possible after the session and then sign and date the entry.",
+      "Since your agency inputs the client’s record on a computer, each entry will be dated and have a time on it. You could then print the document for her perusal."
+    ],
+    "correct_index": 1,
+    "rationale": "All of the above are excellent practices except choice “b”. This choice is incorrect since a counselor cannot alter documented information in a client’s file after it has become part of the record."
+  },
+  {
+    "id": "ch12_q_1037",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counselor is seeing a client on a managed care plan. Unfortunately, the client has used up her maximum number of sessions for the year. The counselor is convinced that the client is in need of additional counseling, however, the counselor’s agency will not allow him to see her for any additional sessions. The best plan of action would be for the counselor to",
+    "options": [
+      "refer the client for continued counseling to a practitioner who will see the client whether or not she has managed care benefits.",
+      "empathize with the client, but be sure to explain that she is catastrophizing (an irrational thought pattern delineated by Albert Ellis) and use REBT, a cognitive therapy, to help her cope with the fact that she cannot be seen again until next year.",
+      "threaten to sue the managed care company, since this the company’s policy would be in violation of ethical care for the client.",
+      "see the client, but don’t tell your supervisor. This is both legal and ethical."
+    ],
+    "correct_index": 0,
+    "rationale": "It is also possible that the client has even reached her lifetime limit on sessions."
+  },
+  {
+    "id": "ch12_q_1038",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A career counselor who relies on the constructivist viewpoint would emphasize that",
+    "options": [
+      "unconscious conflicts influence career decisions.",
+      "an individual’s career choice is influenced by his or her personal story and attempt to construct meaning out of the world of work.",
+      "most career counselors do not give enough career inventories.",
+      "SCCT is the best theory."
+    ],
+    "correct_index": 1,
+    "rationale": "Measuring traits to match a suitable career for the client’s personality is minimized in the narrative/postmodern approach. SCCT is social cognitive career theory."
+  },
+  {
+    "id": "ch12_q_1039",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A gay male protests that he is unhappy with his sexual preference and wants to lead a heterosexual lifestyle. He tells you that he wants a family and children. You should",
+    "options": [
+      "refer him to a psychiatrist as medicine is necessary.",
+      "use dialectical behavior therapy (DBT).",
+      "bring in other members of his family since homosexuality has its roots in the family system.",
+      "explain that homosexuality is not a mental disorder that needs to be changed."
+    ],
+    "correct_index": 3,
+    "rationale": "Though dialectical behavior therapy (which synthesizes ideas from individual therapy, group therapy, behavior therapy, and cognitive modalities) is clearly the wrong answer, I’d be familiar with this evidence-based modality that seems to work well with borderline personality disorder. In this approach diary cards are used to make a hierarchy of treatment targets with suicidal and self-mutilating behaviors getting top attention. Now for the answer to this question. In 1998 the ACA Governing Council passed a resolution indicating that gay and lesbian individuals are not mentally ill due to their sexual orientation. Approximately 4% of the population in the United States is gay or lesbian. Harassment for these individuals generally starts early in life. The ACA and the Association for Gay, Lesbian, and Bisexual Issues in Counseling (AGLBIC) supports counselors working in this area; however, the organization does not support trying to transform members of the LBGTQ community into heterosexuals. You may recall that homosexuality was removed from the DSM way back in 1973. The answer to this question is clear-cut: According to the new ACA ethics it would be unethical to treat this client for the purpose of changing his sexual orientation. Some counselors find ACA’s position controversial. Perhaps this is fueled by the fact that the majority culture is said to have a negative view of homosexuality."
+  },
+  {
+    "id": "ch12_q_1040",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Conversion or reparative therapy is intended to change sexual orientation and behaviors from gay to straight.",
+    "options": [
+      "The literature in scientific and peer-reviewed journals does not indicate that a person’s sexual orientation can be altered from same-sex attraction to opposite-sex attraction.",
+      "ACA prohibits counselors from practicing conversion or reparative therapies although no studies exist in this area.",
+      "Longitudinal studies with clients who have been through reparative or conversion therapy indicate that the treatment is effective, but it still remains unethical.",
+      "ACA ethics indicate that a counselor trained in conversion or reparative therapy can practice these modalities if the client insists on the treatment."
+    ],
+    "correct_index": 0,
+    "rationale": "The actual findings of the ACA—when researching peer-reviewed journals to create their new ethics —was that conversion and reparative therapies can actually harm clients. Religious organizations who claim to change gay individuals to straight often use the term transformational ministries to describe their services."
+  },
+  {
+    "id": "ch12_q_1041",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A lesbian client wants to become heterosexual and asks for conversion or reparative therapy. You explain that you ethically do not believe in this form of intervention. She asks you to refer her to a practitioner who will perform this type of therapy. You should",
+    "options": [
+      "comply, since ethical counselors provide an appropriate referral.",
+      "comply, but you must provide her with at least three referrals.",
+      "tell the client you prefer not to refer her to a therapist who engages in this form of treatment. Discuss the potential harm and risks with the client emphasizing that this is an unproven form of treatment.",
+      "tell her to secure a consultation with a licensed physician prior to making a referral."
+    ],
+    "correct_index": 2,
+    "rationale": "Evidence-based literature does not support the value of reparative or conversion therapy. No training in these paradigms is offered or condoned via the ACA since clients who go through such therapies function worse than before the treatment began. The ACA goes so far as to state that these forms of treatment are not providing a service within the scope of professional counseling, but rather some other profession (e.g., Christian counseling or faith-based healing)."
+  },
+  {
+    "id": "ch12_q_1042",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "The ethical requirement to have a transfer plan in writing would apply to",
+    "options": [
+      "a situation in which a counselor became disabled.",
+      "a situation in which a counselor died. 440",
+      "a situation where a counselor moved to another state.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "A transfer plan is necessary because a counselor or researcher could become incapacitated, die, or move. Hence, the transfer plan should be set up to protect the welfare of the client as well as his or her files. Or to put it another way: If you are incapacitated (e.g., are hospitalized), leave the practice or agency, or die, your clients will have access to their records, as well as their files. The transfer will be smooth. Prior to 2005 ACA ethics did not address this issue. All counselors should include a transfer plan in their informed consent document given to the client at the beginning of treatment. The new contact person and custodian of the records will be listed with complete contact information."
+  },
+  {
+    "id": "ch12_q_1043",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You are counseling a 29-year-old man in your private practice who is seeing a primary care physician (PCP) for severe headaches.",
+    "options": [
+      "You are required to contact the PCP.",
+      "You are not required to contact the PCP; however, attempting to secure permission to do so from your client would be considered the ideal course of action.",
+      "The answer would be no for headaches, but yes if the client had visited the PCP regarding a mental health complaint.",
+      "Yes, but only if the client is abusing a child or a senior citizen."
+    ],
+    "correct_index": 1,
+    "rationale": "Okay, hold onto your thinking caps because this can get a tad complex to say the least! Although the best answer is “b,” that you are not required to inform the primary care physician (PCP), experts recommend that you place a statement in your informed consent document asking the client to agree to or refuse such a disclosure. The client may indeed decline. Some states require you to document in writing the client’s consent or refusal. In these states, if a counselor violates this then he or she has broken a state law. Experts Robert J. Walsh and Norman C. Dasenbrook give counselors another incentive for asking the client for consent to the disclosure—money! It is a golden opportunity to market your private practice since physicians spend about seven minutes with a patient in a given office visit and thus often make mental health referrals. Marketing materials related to your practice can be sent to the PCP along with your diagnosis, steps to treat the client, and progress updates."
+  },
+  {
+    "id": "ch12_q_1044",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "As a private practice counselor your ________ would be most important in terms of filing claims.",
+    "options": [
+      "graduate transcript",
+      "undergraduate and graduate transcript",
+      "NCC provider number",
+      "NPI number"
+    ],
+    "correct_index": 3,
+    "rationale": "The National Provider Identifier (NPI) number would be required to file claims electronically or even by mail. HIPAA rules stipulate that the NPI is your standard unique identifier as a health care provider."
+  },
+  {
+    "id": "ch12_q_1045",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counselor is treating a woman for a mood disorder. The counselor has sex with the woman’s daughter. This is considered",
+    "options": [
+      "unethical.",
+      "ethical.",
+      "ethical only after the counselor terminates the client’s sessions and then waits two years.",
+      "debatable since ACA guidelines fail to deal with sexual issues of this nature."
+    ],
+    "correct_index": 0,
+    "rationale": "Counselors are prohibited from engaging in sexual relationships with current clients, with the client’s family members, or clients’ romantic partners. An exam reminder for those who have been out of grad school for a while … this changes everything: Since 2005 The ACA Ethical Code Revision Task Force was adamant that some nonsexual dual relationships are beneficial to the client and therefore not prohibited or banned via newer codes. Hence, it might be ethical to attend a client’s wedding, graduation, or even visit a client in the hospital. The counselor should document in the record why he or she feels the interaction would be beneficial prior to the event when possible. If a negative or harmful situation does occur the counselor is expected to take reasonable action to rectify the situation. The same guidelines would apply to a supervisee. Remember that sexual harassment is not only unethical, but illegal."
+  },
+  {
+    "id": "ch12_q_1046",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You have impeccable training and experience as a counseling supervisor. One of your supervisees comes in for her session and she is crying uncontrollably because her boyfriend told her he was breaking up with her. It is clear counseling would be beneficial and she asks you for counseling. You should",
+    "options": [
+      "provide appropriate crisis counseling and then assist her in finding an appropriate counselor.",
+      "begin counseling her immediately as she needs it, but refer her to another supervisor.",
+      "assist her in finding an appropriate counselor.",
+      "begin counseling her immediately as she needs it, but make her sign a statement saying there could be issues and if she begins to feel the sessions are exploitative in any way, you will refer her to another colleague."
+    ],
+    "correct_index": 2,
+    "rationale": "Ethical guidelines are clear that supervisors do not provide counseling services to supervisees. Case closed!"
+  },
+  {
+    "id": "ch12_q_1047",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "ACA ethical guidelines stipulate that a counselor can refrain from making a diagnosis if the counselor believes the diagnosis could harm the client or others.",
+    "options": [
+      "Therefore, a counselor could ethically diagnose all clients as having an adjustment disorder to secure insurance since this diagnosis is somewhat benign and not likely to harm the client.",
+      "A counselor could refrain from making a diagnosis if it is in the best interest of the client.",
+      "A decision to refrain from making a diagnosis is ideally made in collaboration with the client, although the counselor has the final say.",
+      "Choices “b” and “c” are both correct."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” stands as incorrect because counselors should never intentionally misdiagnose a client, although I have seen this practice recommended by top figures in our field in the past! A counselor could refrain from making a diagnosis according to recent ethics. From a thought-provoking interview that appeared on the ACA website here are several reasons that members from the ACA ethical task force, which created the ethical code, gave for not making (i.e., refrained from making) a diagnosis. • You are seeing a 9-year-old boy and have insufficient data to diagnose him as having ADHD. If you were to diagnose him as such he could have longstanding identity problems based on the misdiagnosis. The boy might even be inappropriately medicated for normal energetic behaviors. • In some cultures a person will hear voices as part of the grieving process related to death. A psychotic diagnosis would be a misdiagnosis in this respect. • A client meets all the criteria for borderline personality disorder, yet the counselor refrained from making diagnosis, knowing that this particular client might look the term up on the Internet and might feel doomed to a life of unhealthy relationships. • An individual with top security clearance in either the government or the military might lose his or her clearance based on a diagnosis."
+  },
+  {
+    "id": "ch12_q_1048",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "The agency you work for insists that you diagnose every client. Since this is in violation of the newer ACA ethics this would qualify as “negative conditions.” You could handle this by",
+    "options": [
+      "meeting with your supervisor and executive director of the agency and discussing other ways to secure funding that go beyond DSM reimbursement.",
+      "advocate for the client by explaining to the insurance company asking for the diagnosis that in some cases it is best that a diagnosis not be given. You could even teach the client to advocate for herself by having her inform the insurance company that a diagnosis might not be in her best interest.",
+      "show your supervisor, executive director, or insurance company/managed care firm the actual ACA Code of Ethics so they can see it in writing that the Code stipulates that “Counselors may refrain from making and/or reporting a diagnosis if they believe it would cause harm.”",
+      "All of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Hmmm, choice “d” seems to be becoming a popular correct answer choice lately! Now although your well-meaning supervisor or insurance company representative may not agree, experts have cited all of these as viable ways to deal with this situation. Every counselor is responsible for educating agencies, insurance companies, managed care firms, and mental health professionals in related disciplines about the information in the new code. To those realistic readers who are saying to themselves “my agency won’t get paid for that client,” at this stage of the game I can only quip, “You may be right!” We can only hope that in the future, reality and ethics will be 100% on the same wave-length."
+  },
+  {
+    "id": "ch12_q_1049",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You leave your practice to study mental health treatment in another country. Dr. Kline, another licensed counselor, is now the custodian of your records. This was clearly explained in your informed consent brochure given to the client during the first visit. The clients have Dr. Kline’s contact information. Ethically",
+    "options": [
+      "Dr. Kline should contact each client when he receives the record.",
+      "you should contact each client even though you are residing in another country.",
+      "the client is totally responsible for contacting Dr. Kline since he or she was given an informed consent document.",
+      "neither you nor Dr. Kline would be obligated to contact the client."
+    ],
+    "correct_index": 0,
+    "rationale": "Remember to give transfer plan information to appropriate staff members such as administrative assistants or another counselor in your practice since a client might lose the statement of informed consent (again, usually in the form of a brochure). If you are in private practice a colleague you use for back-up or so-called on-call situations would be ideal."
+  },
+  {
+    "id": "ch12_q_1050",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "In terms of the previous question:",
+    "options": [
+      "A certified public accountant (CPA) would be preferable to a mental health professional such as Dr. Kline to use as a custodian for the records.",
+      "An attorney would make the best custodian for the records.",
+      "Using a mental health professional on staff or at another facility is preferable to using a lawyer or a CPA.",
+      "A CPA, an attorney, or a mental health professional would be an excellent choice."
+    ],
+    "correct_index": 2,
+    "rationale": "Whether you are using your own staff or somebody outside the agency or practice, it is imperative that you put the transfer arrangement in writing! A gentleman’s or gentlewoman’s agreement with a handshake is not enough! Finally, remember that after you retire you will still need a custodian, although to be sure you may personally provide their records if you are capable of doing so. This, needless to say, means that your clients will need your contact information after retirement. The bottom line: Transfer plans protect the client’s welfare in unforeseen circumstances including death or incapacitation of a helper."
+  },
+  {
+    "id": "ch12_q_1051",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "During a counseling session Mrs. Sander’s 13-year-old daughter Jamie tries to speak. Mrs. Sanders says, “I told you not to say anything.” Her daughter wants to know why she cannot talk. Mrs. Sanders replies, “Because I’m the parent, end of discussion young lady.” According to the parenting typology of Diana Baumrind, Mrs. Sanders is",
+    "options": [
+      "an authoritative parent.",
+      "an authoritarian parent.",
+      "a permissive parent.",
+      "a nonpunitive parent."
+    ],
+    "correct_index": 1,
+    "rationale": "For starters, you could eliminate the final two answer choices. The permissive parent is nonpunitive and rarely says “no” to a child. A parent operating out of this style is highly affectionate, and at times is more like a friend. The permissive parent makes few demands on the child. The key to answering this question correctly is to know that the authoritative parent (choice “a”) does champion give and take verbal exchanges with the child, while the authoritarian parent (choice “b”) does not. An authoritarian parent expects his or her child to follow orders without explanations. In most situations the authoritative parent will produce a happy child with desirable social skills. Not so much for the authoritarian and permissive styles, which often correlate with alcoholism, drug abuse, and other antisocial behaviors. Now the night prior to the exam the authoritative and authoritarian styles will sound suspiciously similar and nearly impossible to distinguish. One way to put your finger on the difference might be to recall that an authoritarian leader is generally not the best facilitator for most groups. But, let’s be honest, what works for me might not work for you. Come up with something that provides you with total recall."
+  },
+  {
+    "id": "ch12_q_1052",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counselor identifies herself as an ABA practitioner. The technique she would be least likely to use would be",
+    "options": [
+      "VR reinforcement.",
+      "FR reinforcement.",
+      "asking the client to talk about his dreams as if the dream is occurring in the present.",
+      "thinning."
+    ],
+    "correct_index": 2,
+    "rationale": "First, remember what I taught you in the FAQ section of this text. On the actual exam you will often see question, after question, after question, using “most likely” or “least likely.” And just when you think you have spied all you could possibly see, yep, the exam authors will likely hit you with still another question following this pattern. The key to mastery is not for me to give you thousands of questions precisely like this, but rather to learn the theories, theorists, and general principles related to the question. So, in this instance the counselor is an ABA (applied behavior analysis) practitioner. This is basically the new terminology for behavior modification. The choices “a,” “b,” and “d” are right out of the ABA helper’s playbook so you can eliminate them in a nanosecond. Your answer: Choice “c” is an approach favored by gestalt therapists."
+  },
+  {
+    "id": "ch12_q_1053",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counselor is working with a client suffering from post-traumatic stress disorder (PTSD). Which counselor would be most concerned about inducing REM/EM during the sessions?",
+    "options": [
+      "A counselor who is performing systematic desensitization as set forth by Joseph Wolpe.",
+      "A counselor who is using Francine Shapiro’s EMDR.",
+      "A counselor who is using existential strategies popularized by Irvin Yalom.",
+      "A counselor who relies on brief strategic therapy (BST)."
+    ],
+    "correct_index": 1,
+    "rationale": "EMDR (eye movement desensitization and reprocessing) is a popular modality for helping those with PTSD. The technique attempts to produce rapid eye movement/eye movement (REM/EM) during the actual course of the sessions. Exam point saver: There seems to be a rumor floating around the Internet and infiltrating some of the literature in our field that EDMR pioneer Francine Shapiro felt that this approach could generally treat the client in a single session. She was indeed misquoted and her verbiage pulled out of context meaning that EMDR is not, and never was, intended to be one session therapy."
+  },
+  {
+    "id": "ch12_q_1054",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counselor is using the memory device: IS PATH WARM? He is most likely working with",
+    "options": [
+      "a client with bipolar disorder.",
+      "a client with test anxiety.",
+      "a client diagnosed on the autism spectrum disorder.",
+      "a client whom he feels could be suicidal."
+    ],
+    "correct_index": 3,
+    "rationale": "If you were thinking, “Oh no, not another Rosenthal mnemonic device,” chill out, this isn’t one I created! This one (IS PATH WARM?) was created via the American Association of Suicidology (AAS) to assist folks in terms of assessing the risk of suicide: I = ideation, S = substance abuse, P = purposelessness, A = anxiety, T = trapped, H = hopelessness, W = withdrawal, A = anger, R = recklessness, M = mood changes. Because of the popularity of this concept, I can only assume the chance is high it will appear on a number of comprehensive exams."
+  },
+  {
+    "id": "ch12_q_1055",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Child-centered play therapy (CCPT) is experiencing rapid growth in popularity and spawning research. This modality was created by",
+    "options": [
+      "Virginia Mae Axline, an associate of Carl R. Rogers who penned Dibs In Search of Self.",
+      "Carl R. Rogers, who created client-centered/person-centered counseling.",
+      "Gerard Egan, author of the well-known text, the Skilled Helper.",
+      "Anna Freud, daughter of Sigmund Freud."
+    ],
+    "correct_index": 0,
+    "rationale": "Although Anna Freud was a mover and shaker in the field of child therapy, as well as play therapy, it was Virginia Axline who took Rogerian principles and applied them to play therapy. CCPT advocates that a therapist should be friendly, warm, as well as accept the child as he or she is. A CCPT does not direct the child’s topics of conversation or behavior and recognizes that the process should not be rushed since the child leads and the therapist follows. It makes sense that this approach is often called nondirective child play therapy since it has a lot in common with the person-centered, nondirective Rogerian approach. Violet Oaklander, influenced by Axline, has added gestalt therapy ideas to play therapy."
+  },
+  {
+    "id": "ch12_q_1056",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "In a children’s career counseling group, the group will help the children",
+    "options": [
+      "have a sense of belonging.",
+      "share feelings and ideas.",
+      "engage in desirable peer interaction.",
+      "in all the ways listed above."
+    ],
+    "correct_index": 3,
+    "rationale": "Since the NCE, the CPCE, and comprehensive exams cover both career counseling and group counseling it would be foolhardy to assume that these exams would not have questions that apply to both areas. It might even be safe to say these questions will start popping up like out-of-control weeds. I’ve thus included a few simple tutorial questions to help you learn the specifics you could encounter on an actual exam. Ready? Let’s do this."
+  },
+  {
+    "id": "ch12_q_1057",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "In terms of adolescents and career group counseling",
+    "options": [
+      "the literature indicates such groups just don’t work.",
+      "such groups are cost effective and promote peer identification.",
+      "textbook authors such as Dr. Samuel T. Gladding insist that adolescents can only be assisted in individual sessions.",
+      "it may be true that such groups work, but they do not help adolescents with other aspects of their lives."
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “c” is way off base as Dr. Gladding feels groups are the natural environment for adolescents to learn. Ditto for choice “d.” Truth be told, often the lessons learned in a career counseling group apply to other aspects of the participant’s life."
+  },
+  {
+    "id": "ch12_q_1058",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "The concept of universality (also called mutuality) applies to group treatment. In career groups we can safely say",
+    "options": [
+      "the group allows the members to see that others can be struggling with similar issues related to work, vocation, and career.",
+      "these terms are rarely, if ever, utilized.",
+      "other members of the group are in similar situations.",
+      "choices a and c are both correct."
+    ],
+    "correct_index": 3,
+    "rationale": "Mutuality/universality is a curative factor in counseling as well as career counseling groups."
+  },
+  {
+    "id": "ch12_q_1059",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "If you compare group career counseling to noncounselor interventions",
+    "options": [
+      "you will discover that group career counseling is more effective.",
+      "you should know this is not a valid question. Because there is no counselor in noncounselor interventions, career counseling cannot take place! The question defies common sense.",
+      "you will find out that no studies exist in this area.",
+      "you will find that they are equal in terms of helping persons who are wrestling with career and vocational issues."
+    ],
+    "correct_index": 0,
+    "rationale": "Okay, yes my spellcheck balked at the word noncounselor, but indeed it is a valid term you will see used in our field. A noncounselor intervention could be the use of a computer or a software program. Noncounselor implies a counselor is not present for the session. A meta-analysis (i.e., looking at a boatload of studies in the field) clearly reveals that career counseling with a warm body (it could be you!) is more effective. It’s nice to know we are needed, but indeed most of us already knew that."
+  },
+  {
+    "id": "ch12_q_1060",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "When you conduct group career counseling",
+    "options": [
+      "unstructured groups work best.",
+      "structured groups work best.",
+      "gestalt groups work best.",
+      "the group must be based on the concepts set forth by motivational interviewing."
+    ],
+    "correct_index": 1,
+    "rationale": "Structured career counseling groups and structured career counseling workshops seem to be superior."
+  },
+  {
+    "id": "ch12_q_1061",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Special career counseling groups can be set up. Some examples include a group with displaced homemakers or persons receiving public assistance. Groups of this nature",
+    "options": [
+      "are discriminatory and are not recommended.",
+      "have been used, but are rarely desirable.",
+      "can be very helpful.",
+      "are never a good choice if individual sessions are available."
+    ],
+    "correct_index": 2,
+    "rationale": "Special career counseling groups for specific populations work quite well."
+  },
+  {
+    "id": "ch12_q_1062",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Group career counseling",
+    "options": [
+      "is an international phenomenon. It is used in China with college students.",
+      "is not used in any other country except the U.S. We are clearly the world leader in this area.",
+      "is more expensive to conduct than providing individual sessions.",
+      "is rarely used in the U.S. for college students; however, it is used with K-12 students."
+    ],
+    "correct_index": 0,
+    "rationale": "Group career counseling is an international modality. But let’s quickly look at choice “c.” I humorously tell my students, “When I ask a question in class and you don’t know the answer, the answer is almost always money.” Ah yes, follow the money! Group career counseling is much more cost effective than individual career counseling. In K-12, as well as college settings, it is not realistic to think that a counselor could do individual career counseling with every student due to huge caseload sizes. If you are shaking your head, yes, I can safely say you are a school, college, or university counselor."
+  },
+  {
+    "id": "ch12_q_1063",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "The main purpose of a career group is",
+    "options": [
+      "to promote insight.",
+      "to provide catharsis related to job and career issues.",
+      "to release pent up emotions related to frustrations surrounding work-related issues.",
+      "to provide information to participants."
+    ],
+    "correct_index": 3,
+    "rationale": "Since you have literally wrestled with over 1,050 questions, I thought I’d throw in an easy one. Another key purpose is to help folks explore vocations and to enhance their decision-making skills."
+  },
+  {
+    "id": "ch12_q_1064",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "According to expert John Krumboltz",
+    "options": [
+      "career groups with a psychodynamic slant are the most effective.",
+      "group career counseling is important, but will not have an impact on your happiness.",
+      "career decision issues are crucial in terms of one’s happiness.",
+      "career groups should focus primarily on developmental issues."
+    ],
+    "correct_index": 2,
+    "rationale": "It makes sense that your career and work would influence your overall mood and happiness. Even Freud once quipped, “Love and work are the cornerstones of our humanness.” Choice “a” could be eliminated by remembering that Krumboltz is a behaviorist. I recall using a text he authored for a behavior modification class early in my own educational career. Once again: More and more exams are referring to behavior modification as applied behavior analysis (ABA)."
+  },
+  {
+    "id": "ch12_q_1065",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "An advantage of group career counseling over individual career counseling is",
+    "options": [
+      "other clients in the group can help you to rev up your motivation.",
+      "you get to help other clients and they get to help you.",
+      "participants can role-play situations such as how to answer questions during a job interview.",
+      "All of the above statements are correct."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “d” stands out since choices “a,” “b,” and “c” all depict ways in which the group is helpful."
+  },
+  {
+    "id": "ch12_q_1066",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Richard Nelson Bolles penned the bestselling job hunting manual in history titled What Color Is Your Parachute? The book, updated yearly, has sold over 10 million copies and is published in over 20 languages.",
+    "options": [
+      "Bolles champions the idea of securing a network of persons who can help you with your job search.",
+      "Bolles likes groups if the group uses the trait-and-factor theory.",
+      "Bolles likes groups if the group uses Donald Super’s theory.",
+      "Bolles likes groups if the group uses the concepts set forth by Nathan Azrin."
+    ],
+    "correct_index": 0,
+    "rationale": "Surprisingly, when I interviewed Dick Bolles for my book Therapy’s Best he told me he was not really enamored with any of the existing career theories. Bolles is a major fan of networking. If possible, your clients should try to pick the job he or she will enjoy the most."
+  },
+  {
+    "id": "ch12_q_1067",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Nathan Azrin studied with B. F. Skinner. His job club groups are based on",
+    "options": [
+      "REBT.",
+      "narrative therapy.",
+      "behaviorism based somewhat on positive reinforcement.",
+      "DBT."
+    ],
+    "correct_index": 2,
+    "rationale": "The fact that Azrin studied with Skinner should have tipped you off that he is a behaviorist. Make no mistake: Azrin’s job clubs were not intended for career exploration! The individual in the club had a good idea of the type of job he or she intended to secure. The group was action oriented … a vehicle where the individual was urged to forge forward in his or her job hunting goals (such as calling possible job sites each day and going for the actual interview). Azrin created job clubs way back in the 1970s. The club/group did provide support, but also helped participants build skills, and provided networking (“Do you know of any job openings?”). If you didn’t know what DBT means, you’ve been out of grad school for a while. DBT, created by psychologist Marsha Linehan, stands for dialectical behavior therapy and it is a popular intervention for working with suicidal individuals, clients who are self-abusive, and those who have addiction issues."
+  },
+  {
+    "id": "ch12_q_1068",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Career groups are often considered a theme group. The best intervention in a structured career group would be",
+    "options": [
+      "promoting psychodynamic insight.",
+      "paraphrasing as often as possible.",
+      "using activities such as a game.",
+      "changing the client’s internal verbalizations as stressed by REBT, the model created by Albert Ellis."
+    ],
+    "correct_index": 2,
+    "rationale": "None of the answers would be entirely wrong. That said, the question tells you very little and the only technique that you can be sure is structured is using a game as part of the career sessions."
+  },
+  {
+    "id": "ch12_q_1069",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You create a career group to examine the clients’ roles in life as a child, student, citizen, homemaker/parent, worker, citizen, and time spend participating in leisure activities (leisurite). You should use",
+    "options": [
+      "the MBTI based on the work of psychiatrist Carl Jung.",
+      "Nathan Azrin’s job club model, based on behaviorism.",
+      "John Holland’s SDS or so-called Self-Directed Search.",
+      "Donald Super’s life career rainbow."
+    ],
+    "correct_index": 3,
+    "rationale": "The career rainbow helps group members answer the question: Where have you been in life and where are you going? It opens the door to discuss a career crisis such as a layoff."
+  },
+  {
+    "id": "ch12_q_1070",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "According to the fetal origins hypothesis, adult heart disease, some emotional disorders, and type 2 diabetes could be related to",
+    "options": [
+      "lack of stimulation (i.e., nurture) during the first year of life.",
+      "nature.",
+      "in utero malnutrition",
+      "undiscovered factors related to the human genome."
+    ],
+    "correct_index": 2,
+    "rationale": "Experts believe that “fetal origins” my be the “third arm” or missing link in the longstanding nature– nurture debate. Or to put it a different way, genetic endowment and environmental influences after birth, along with what happens to the fetus during gestation (conception to birth), determine our behavior and risks for developing physical diseases and emotional disorders. In utero merely means in the womb, should you see it on your exam."
+  },
+  {
+    "id": "ch12_q_1071",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "According to the human growth and development notion of plasticity every client you see",
+    "options": [
+      "can alter his or her traits at any point in the life span.",
+      "has his or her behavior governed by critical periods.",
+      "must be aware of the fact that change is not an ongoing process.",
+      "must be aware that most processes of change are merely random."
+    ],
+    "correct_index": 0,
+    "rationale": "The concept of plasticity drives home the point that every trait within a given individual can be altered throughout the course of the life span. Change is ongoing, and not random—thus negating choices “b” and “c”—nor necessarily easy."
+  },
+  {
+    "id": "ch12_q_1072",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Two 18-year-olds are given the exact same dosage of an antidepressant medication. One indicates that the medicine makes her feel “great” while the other insists the intervention makes her “very tired.” This can most likely be attributed to",
+    "options": [
+      "differential sensitivity.",
+      "the fact that medical practitioners, including psychiatrists, overmedicate and should use smaller doses of antidepressants.",
+      "the fact that both clients are impacted by the placebo effect.",
+      "the fact that antidepressants are intended to make clients extremely tired, but do help with mood disorders."
+    ],
+    "correct_index": 0,
+    "rationale": "Differential sensitivity is a term which is making the rounds in our field so I wouldn’t be at all surprised if you catch a glimpse of it on your version of the exam. The term illuminates the idea that some people are more vulnerable than others to a particular experience, yes even prescription pharmaceuticals, due to genetic differences."
+  },
+  {
+    "id": "ch12_q_1073",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You are conducting a program evaluation (PE) for your 501(c)(3) nonprofit counseling agency. You should begin by",
+    "options": [
+      "getting the support of the staff, administration, and clients.",
+      "writing a grant to fund the study.",
+      "asking United Way for help.",
+      "taking the steps in choices b and c."
+    ],
+    "correct_index": 0,
+    "rationale": "You didn’t really mark choice “c,” did you? Seriously? A lot of counselors make the mistake of adding information to the question that does not exist. The agency could be a United Way member, but, since the question doesn’t tell you that, I certainly would not make that assumption. A common misconception I hear is that all nonprofit agencies have United Way membership. There are lots of notfor-profit agencies which are not funded by United Way. Choice “a” is the best answer. Since the agency does have nonprofit status you would also want to garner support from your board of directors."
+  },
+  {
+    "id": "ch12_q_1074",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Program evaluation (PE) helps agencies, organizations, and centers make wiser decisions. PE takes place in a natural, rather than a laboratory or controlled, setting and helps _________ answer questions posed via __________.",
+    "options": [
+      "researchers; staff",
+      "programs; researchers",
+      "programs; staff",
+      "staff; researchers"
+    ],
+    "correct_index": 2,
+    "rationale": "Program evaluations help the program and are generally not intended to gear toward hypotheses or theories. An adept program evaluation answers several questions including: Is this program actually necessary? If so, which clients should receive the services from the program and for what duration of time? What are the outcomes of the program? In the majority of cases, stakeholders such as staff, the board, clients, and administrators pose the questions and conduct the research—not researchers. A key hint: When performing PE use existing data whenever possible to keep the cost down."
+  },
+  {
+    "id": "ch12_q_1075",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A cost–benefit analysis (CBA) answers the question:",
+    "options": [
+      "Should the counseling organization become a private practice or a 501(c)(3) nonprofit?",
+      "Should a counseling center opt to do brief strategic therapy?",
+      "Was the money wisely spent or does the counseling center need a new program?",
+      "Which clients should receive pro bono services?"
+    ],
+    "correct_index": 2,
+    "rationale": "Counselors often find it difficult to talk about CBA because it deals with the issue of whether or not it is worth the price to assist people. As counselors, we routinely take the position that you can’t put a price tag on helping others."
+  },
+  {
+    "id": "ch12_q_1076",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You are the owner of a counseling practice. You make the sole decision which counselor receives the new referrals. According to new ACA ethics on fee splitting",
+    "options": [
+      "you can charge counselors 50% of the agency counseling fee for office space.",
+      "you can charge counselors one third of the agency counseling fee for office space, but it must never exceed one third.",
+      "fee splitting is totally ethical and the director could set the fee split at any cost he or she feels is appropriate.",
+      "although many counselors believe this is controversial, it is unethical based on the fact that charging a percentage of the payment rate per client appears to be a kickback scheme similar to accepting a referral fee."
+    ],
+    "correct_index": 3,
+    "rationale": "ACA has taken the position that this could be a problem since you might be apt to refer the clients to staff who are paying a greater fee to the agency, rather than assigning clients based on a rotational basis or the competency of the clinicians on staff. This would go against the ethical notion that we always should consider what is best for clients. Making referrals based on financial outcomes is not, I repeat not, ethical! The practice of referring to employees who are paid less, say a licensed provisional counselor versus a licensed practitioner, would also not be appropriate. Make no mistake about it, however, the owner (or for that matter anybody assigning the clients) could charge each helper a set amount for office use."
+  },
+  {
+    "id": "ch12_q_1077",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You are supervising a counselor-in-training and focusing on the OARS core skills. You are teaching her how to perform",
+    "options": [
+      "psychodynamic group therapy.",
+      "gestalt therapy created by Fritz Perls.",
+      "motivational interviewing (MI) created mainly by William Miller and Stephen Rollnick.",
+      "career counseling using directive techniques."
+    ],
+    "correct_index": 2,
+    "rationale": "Motivational interviewing is really hot right now, especially in the area of addictions, since the strategy was initially used with problem drinkers. It is even used beyond the borders of the U.S. Most experts see it as an offshoot of Rogerian counseling, though to be sure it is much more goal directed. OARS, by the way, stands for Open questions (e.g., how is your gambling addiction impacting your life?), Affirmations (any positive factors the counselor sees in the client’s life such as awards, achievements, or successes), Reflection (you know this one by now), and Summaries (again, you’ve got this one down). MI is a brief form of therapy often implemented in five sessions or less. Despite all the excitement over MI, and certainly some positive literature to support this approach, a few studies have given this modality mixed reviews."
+  },
+  {
+    "id": "ch12_q_1078",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "The order of the four processes that MI uses is",
+    "options": [
+      "engaging, focusing, evoking, and planning.",
+      "engaging, evoking, focusing, and planning.",
+      "evoking, focusing, engaging, and planning.",
+      "planning, engaging, focusing, and evoking."
+    ],
+    "correct_index": 0,
+    "rationale": "Engaging is used first to create a relationship with the client. In MI the counselor is not intended to be an expert, but rather a partner. Focusing simply means that the conversation should be limited to the patterns of behavior the client wishes to change. Evoking stresses the client should use his or her own motivation to make changes, and planning is the act of creating a smart, measurable plan (if possible!) that works. Rosenthal reminder: In MI the change comes from the client and not an outside source. The client must overcome his or her ambivalence toward change (e.g., “I guess I could give up smoking, but then I might gain weight”). Aggressive confrontation, giving advice, and persuasion are not part of the MI process. The helper is never punitive and would not insist the client has a problem and therefore must change. Miller and Rollnick are adamant that MI should not be confused with traditional brief therapy."
+  },
+  {
+    "id": "ch12_q_1079",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "According to existential therapist Irvin D. Yalom",
+    "options": [
+      "most therapists do a superb job of interacting with clients who bring up the topic of death.",
+      "most therapists are afraid of their own mortality and avoid the topic of death.",
+      "discussing dreams related to death is not very therapeutic.",
+      "helping the client put death out of one’s mind aids the client’s growth."
+    ],
+    "correct_index": 1,
+    "rationale": "Yalom notes that since therapists are often afraid of their own mortality they will wrongly avoid the topic with verbalizations such as, “Look, there is really nothing anybody can do about death, so let’s move on.” Choice “c” is incorrect since Yalom feels that dreams can be quite important in therapy. Yalom is convinced that we are all hardwired to have anxiety about death. Nevertheless, when it crosses over to terror and immobilizes our life it is not healthy. He believes life can be richer by keeping death in mind. He uses the example that cancer patients faced with death would sometimes comment that they were sorry they waited so long to learn how to live. Yalom is the author of the book Staring at the Sun: Overcoming the Terror of Death."
+  },
+  {
+    "id": "ch12_q_1080",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Pick the most accurate statement regarding patients diagnosed with cancer.",
+    "options": [
+      "Since January 1, 2015 there is official recognition that a diagnosis of cancer will affect a patient’s mental health.",
+      "Physicians are required by law to give all cancer patients a referral for counseling or psychotherapy.",
+      "Paradoxically, although a diagnosis of cancer is often very serious there is virtually no evidence that cancer patients have any more mental health issues than prior to the diagnosis.",
+      "Counselors have always been the primary workers in the medical system when compared to social workers and psychologists and thus traditionally have counseled most patients diagnosed with cancer."
+    ],
+    "correct_index": 0,
+    "rationale": "Let me say right off the bat that choice “d” is misleading because social workers and psychologists have been at the forefront of the medical treatment for years. Now counselors need to step up to the plate and become more involved in this area. Cognitive behavior therapy (CBT), groups, and mindfulness seemingly work well for clients diagnosed with cancer. Okay, big news folks: Beginning in 2015, the American College of Surgeons Commission on Cancer (ACoS) created a new rule that any center their organization accredits would need to screen for psychosocial stress. Theoretically, this will help more patients who need to secure mental health services."
+  },
+  {
+    "id": "ch12_q_1081",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Transgender individuals have an attempted suicide rate which is approximately 25 times higher than the rate for the general population. A high percentage of transgender youth experience oppression and are physically assaulted. A transgender does not identify with the gender they were given at birth or the person’s expression differs from societal expectations. What is cisgender? 454",
+    "options": [
+      "All females.",
+      "All males.",
+      "The same as genderfluid.",
+      "A person who identifies with the gender they were assigned at birth and hence by definition this person is not a transgender individual."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “c” is a key term and describes an individual who changes from one gender (or no gender) to another (or several others) often very rapidly … say multiple times per day. So as an example, the person might feel like a girl, then a boy, then no gender whatsoever. Persons who consider themselves bi-gender (e.g., alternating between a female and a male) would fall into this category. Finally, another term of note is cisnormative or cisnormativity, which describes an individual who has a gender identity that matches their sex assigned at birth. Cis comes from Latin meaning “to this the near side.” A cisgender privilege would connote any unearned advantage a person gains from identifying with their gender assigned at birth."
+  },
+  {
+    "id": "ch12_q_1082",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A correlation/association between variables x and y is .50. According to the notion of effect size (ES)",
+    "options": [
+      "the correlation is medium.",
+      "the correlation is small.",
+      "the correlation is large.",
+      "the correlation would not be applicable to this statistic."
+    ],
+    "correct_index": 0,
+    "rationale": "Listen up counseling fans: The effect size (ES) statistic has come of age and will likely be coming to a comprehensive exam in your future. A small association is .20 or less; medium is .50 or less; and large, strong, or big (yes all these terms are used) checks in at .80 or higher. P.S. Although this concept is hardly new, I am well aware that if you have been out of school for an extended period of time the ES concept was not covered in many statistics and research classes. Initially it was applied to metaanalyses, generally a host of studies in the same area, but now its use has expanded."
+  },
+  {
+    "id": "ch12_q_1083",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You conduct a true experiment. The results between the several groups are statistically significant. You have rejected the null hypothesis.",
+    "options": [
+      "You should still provide an effect size (ES) statistic.",
+      "You would not need to provide the effect size (ES) since the data indicate there is a statistical significance.",
+      "You would not need to provide the effect size (ES) since the ES only applies to correlations and this is a true experiment.",
+      "You could provide the effect size (ES), but since it is a true experiment this information could be very misleading."
+    ],
+    "correct_index": 0,
+    "rationale": "When describing a statistically significant result—in plain everyday English you have rejected the null hypothesis— it is the researcher’s duty to provide the ES statistic. Again, the ES is required. Why? Well simply put, although the results of the experiment most likely did not occur via chance, it is still important to find out how large/strong the effect is in this situation. For instance, if the ES was 3.15, then the difference between the means of the two groups was very high (since .8 or above is large) so we have a very large effect. Unlike correlations, the ES, based on a statistic called Cohen’s d, can exceed 1.00. Choice “c” is downright incorrect since the ES can apply to tests of significance. So just for review: The ES helps us analyze the magnitude of the differences when looking at correlations, tests of significance, or even a meta-analysis."
+  },
+  {
+    "id": "ch12_q_1084",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A major meta-analysis (a term coined by researcher Gene V. Glass) of 375 outcome studies using effect size (ES) by Mary Lee Smith, Gene V. Glass, and Thomas I. Miller revealed that",
+    "options": [
+      "psychotherapy is approximately as effective as antidepressants, about .31.",
+      "psychotherapy is less effective than antidepressants, about .22.",
+      "psychotherapy was too hard to define to come up with an ES statistic.",
+      "psychotherapy had a strong or so-called big effect, checking in at a .85."
+    ],
+    "correct_index": 3,
+    "rationale": "This must-know meta-analysis is frequently quoted or referenced. Choice “a” depicts the results of 74 studies looking at FDA-registered antidepressants approved between 1987 and 2004. The New England Journal of Medicine quoted ESs of .31 for Lexapro, .26 for Prozac, .24 for Zoloft, and .3 for Cymbalta. Keep these stats, as well as the the answer to this question, in the back of your mind, when you gaze at all those ads for psychiatric medicinals! Psychotherapy was vindicated after this 1980 analysis appeared in the classic book Benefits of Psychotherapy by the three authors mentioned in the question. No key differences were discovered between the different modalities of therapy."
+  },
+  {
+    "id": "ch12_q_1085",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "According to the DSM-5",
+    "options": [
+      "pathological gambling is not a disorder.",
+      "pathological gambling is a disorder and is listed with Obsessive-Compulsive and Related Disorders just like trichotillomania (now called hair pulling).",
+      "pathological gambling is a disorder and is listed with Substance-Related and Addictive Disorders.",
+      "pathological gambling is a conduct disorder."
+    ],
+    "correct_index": 2,
+    "rationale": "Hair pulling, showcased in choice “b,” is listed in the DSM-5 as an Obsessive-Compulsive Disorder. Disorders of this nature are often called impulse disorders. Gambling addiction, nevertheless, is listed with Substance-Related and Addictive Disorders. Since gambling addiction is often treated via addiction and substances abuse centers, this makes logical sense to a lot of counselors."
+  },
+  {
+    "id": "ch12_q_1086",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "All of the statements below are true about bullying except:",
+    "options": [
+      "More girls are bullied than boys.",
+      "More whites are bullied than minorities.",
+      "Fewer students claim they are being bullied in recent years.",
+      "More students are harassed in the hallways than on social media."
+    ],
+    "correct_index": 3,
+    "rationale": "Cyber-bullying usually takes place via unwanted text messages and to a lesser degree via Internet posts that contain negative or hurtful information. One surprise is that some research indicates that sibling bullying is a more common variety of school bullying."
+  },
+  {
+    "id": "ch12_q_1087",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Wilderness therapy falls under the auspices of adventure-based therapy. There is no one set model for wilderness therapy. All of the statements below are true about wilderness therapy except:",
+    "options": [
+      "Effective wilderness therapy occurs when a boot camp model is used in the wilderness.",
+      "Most counselors believe stricter regulations should be put in place to avoid abuses.",
+      "Effective wilderness therapy settings use little or no force, confrontation, or point level systems.",
+      "Reports of abuse and even death of youth have surfaced."
+    ],
+    "correct_index": 0,
+    "rationale": "Boot camps, under the guise of doing wilderness therapy, often use a military paradigm and turn to employees with little or no therapeutic background, while good wilderness therapy programs rely on trained staff and well-established theories of psychology, counseling, and change. Therefore, before you make referrals to wilderness programs, check out the program in question very carefully (see choice “d” which is true). Some programs send the young adults home after the program, but others use aftercare centers or treatment-oriented boarding schools."
+  },
+  {
+    "id": "ch12_q_1088",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "The 1974 Family Educational Rights and Privacy Act (FERPA) could be called the Buckley Amendment on your exam since Senator James K. Buckley was a strong supporter. All of these facts are true regarding FERPA except:",
+    "options": [
+      "Parents have access to a minor child’s educational records. Children over age 18 can view their own records.",
+      "A parent is able to have the educational record amended.",
+      "A counselor working in a private educational institution which does not receive federal funding would still be required to follow FERPA guidelines.",
+      "In situations involving imminent danger, a counselor could release information to protect the client, others, or ward off harm."
+    ],
+    "correct_index": 2,
+    "rationale": "Surprised? Perhaps! Counselors working in schools and universities not receiving federal funds from appropriate government programs are exempt from FERPA guidelines. What’s the scoop on school directories? The student’s name, dates of attendance, place of birth, address, phone number, and even awards or honors can indeed be revealed without parental consent. However, the parents and students must be contacted once a year to let them know that they can elect to prevent their information (and that of their children) from being released."
+  },
+  {
+    "id": "ch12_q_1089",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Mr. Donald is seeing you for a gambling addiction problem. Several years ago he won a huge amount of money at the casino from a slot machine. As soon as he pulled the handle he snapped his fingers. Now he always snaps his fingers after he pulls a slot machine handle. His superstition can best be explained by 457",
+    "options": [
+      "accidental reinforcement.",
+      "contingent reinforcement.",
+      "shaping with successive approximations.",
+      "the fact that he has savant tendencies."
+    ],
+    "correct_index": 0,
+    "rationale": "In many instances when you encounter a question with two opposite answer stems and you are certain one is dead wrong, then there is nearly a 100% chance the other is the correct answer! Thus, you could immediately eliminate choices “c” and “d” even if you don’t know or recall what they mean. In this case you probably figured out that most of the time when we use reinforcement it is contingent (think dependent) on a given behavior. Hence, your dog knows that you provide a treat—as a reinforcer— when she comes to the door after you call her. Accidental reinforcement, on the other hand, can occur regardless of the behavior (think independent). B. F. Skinner discovered this when he reinforced pigeons with food for no special reason and discovered that whatever the pigeon was doing (say spinning around or pecking) they tended to repeat the behavior. Clearly Mr. Donald’s finger snapping has zilch to do with the outcome of the slots."
+  },
+  {
+    "id": "ch12_q_1090",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Pick the incorrect statement.",
+    "options": [
+      "Men commit suicide more than women.",
+      "Women suffer from depression more than men.",
+      "Alcoholism occurs more in women than men.",
+      "Autism occurs more in men than women."
+    ],
+    "correct_index": 2,
+    "rationale": "A common question on exams pertains to whether popular disorders or diagnoses occur more in men or women. This question showcases some of the most common ones."
+  },
+  {
+    "id": "ch12_q_1091",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You are supervising a graduate student. The client she is discussing was raped and robbed several days prior to your session with this student. When you ask your supervisee for more information she says, “Well, I’m certain the fact that she was carrying a very expensive handbag and wearing tight clothes was an issue.” Based on gestalt psychologist Fritz Heider’s concept of attribution theory",
+    "options": [
+      "your supervisee is relying on situational attributions.",
+      "your supervisee is relying on dispositional attributions.",
+      "paradoxically, the expensive handbag and tight clothes would ward off crime.",
+      "the tight clothes were an issue, but not the expensive handbag."
+    ],
+    "correct_index": 1,
+    "rationale": "Attribution theories assign a cause, explanation, or reason for a behavior or outcome of an event. When the cause or outcome is generated by the person it is said to be a dispositional or internal attribution. For example, Melissa flunked her comps because she didn’t study. In a similar fashion, the grad student—even if she is completely wrong—seems to be blaming her client for being robbed and raped. When the cause is attributed to factors outside the individual, it is an example of situational or external attribution. For example, Wesley flunked his comps because the department created an exam so difficult nobody could pass it. Fritz Heider is the father of attribution theory."
+  },
+  {
+    "id": "ch12_q_1092",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Based on the information in the previous question, the best example of a fundamental attribution error (also called a fundamental attribution bias) would be:",
+    "options": [
+      "The graduate student blames the woman for carrying an expensive handbag and wearing tight clothes.",
+      "The graduate student blames the man who committed the rape and the robbery.",
+      "The graduate student blames the police force for not patrolling the area better.",
+      "The graduate student becomes so emotional, she cannot discuss the incident with you as her supervisor."
+    ],
+    "correct_index": 0,
+    "rationale": "The fundamental attribution error occurs when a person attempts to look at somebody else’s negative behavior, failure, or undesirable event (never your own!) and come up with an explanation. The tendency is to put more stock in dispositional (think personality, judgment, and ability) explanations than situational ones. The problem is attributed to the person. Interestingly enough, most people attribute their own negative outcomes in life to situational/external attributes, but assess other people’s as dispositional/internal."
+  },
+  {
+    "id": "ch12_q_1093",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "According to attribution theory and the self-serving bias, if you pass your exam _________ and if you fail your exam ___________.",
+    "options": [
+      "it is because of external issues; it is because of internal issues",
+      "it is because of situational issues; it is because of dispositional issues",
+      "it is because of dispositional issues; it is because of situational issues",
+      "you lucked out; the authors of the exam chose poor exam questions"
+    ],
+    "correct_index": 2,
+    "rationale": "So according to the self-serving bias, if you failed your exam, the exam questions were stupid etc… . Well, you get my point! But, if you passed … you are one smart counselor! If somebody else passed, it was just an easy exam. This tendency is called the self-serving bias. A positive event occurred because you are so wonderful etc.! A negative event occurred because of the situation or external circumstances! It had nothing to do with you."
+  },
+  {
+    "id": "ch12_q_1094",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You are performing career counseling with a client. This client is extremely depressed. The client goes on a job interview and doesn’t get the job. Based on research related to attribution theory",
+    "options": [
+      "in most instances this client will begin having suicidal ideation within 24 hours.",
+      "the client’s view of reality will be swayed due to his depression and thus he will insist that the interviewer was a total jerk.",
+      "he will blame himself for his poor performance during the interview.",
+      "he will make a joke out of the fact that he did not get the job."
+    ],
+    "correct_index": 2,
+    "rationale": "A depressed client will typically do the opposite of a person who is not depressed and will blame himself. In a situation like this the self-serving attribution bias would not apply. In terms of choice “b” hold onto your seat; research shows that depressed individuals often harbor a more accurate view of reality, but that isn’t always a good thing! Or to put it a different way, the person who is not depressed might have been totally inept in the interview, but using a self-serving bias, will insist the interviewer was a jerk."
+  },
+  {
+    "id": "ch12_q_1095",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counselor is using telephone coaching with a client. The counselor is most likely to base her treatment on",
+    "options": [
+      "William Glasser’s reality therapy with choice theory.",
+      "REBT as set forth by Albert Ellis.",
+      "DBT as set forth by Marsha M. Linehan.",
+      "systematic desensitization."
+    ],
+    "correct_index": 2,
+    "rationale": "Dialectical behavior therapy (DBT) is an evidence-based form of counseling that was initially used in the late 1980s with suicidal clients as well as those with borderline personality disorder and is now used with an array of mental health issues. It is classified as a type of cognitive behavior therapy (CBT). This model relies on four modes: (1) skills training; (2) phone counseling; (3) therapist consultation team; (4) individual treatment. When DBT is adapted to a setting or situation where it is not possible to use all four modes, the term DBT-informed is used. As a simple example, if a counselor was only going to use telephone coaching due to time restraints or cost restrictions, then the term “DBT-informed” would be appropriate. So you will hear helpers talk about standard DBT (the entire kit and caboodle with all four steps) or abbreviated DBT-informed practices."
+  },
+  {
+    "id": "ch12_q_1096",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counselor is utilizing a thought log—also known as a thought record—with an anxious client. She is practicing",
+    "options": [
+      "psychodynamic therapy.",
+      "career counseling based on the work of Donald Super.",
+      "cognitive behavior therapy (CBT).",
+      "the transtheoretical model which draws from all of the available theories to help the client change."
+    ],
+    "correct_index": 2,
+    "rationale": "CBT is now the most popular modality in the United States as well as several other countries such as the United Kingdom. It has been called the dominant force in psychotherapy. Why? Most likely because CBT has been deemed effective in hundreds of studies and therefore can be viewed as a valid form of evidence-based practice (EBP). CBT counselors often use thought records to help clients see how their thoughts are impacting their lives. The thought record is merely a chart depicting an activating event, the actual thought, the emotional consequence and/or behavior, and an alternative thought or perspective. On rare occasions the log will include the new emotional response based on the alternative thought. Granted choice “d” might be correct, but in a case where there are two viable choices, pick the one that is most likely to be the appropriate choice."
+  },
+  {
+    "id": "ch12_q_1097",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "You are conducting a session using CBT; however, you are incorporating mindfulness as well as ACT into the session. Strictly speaking you are",
+    "options": [
+      "performing second wave CBT.",
+      "third wave CBT.",
+      "first wave CBT.",
+      "operant conditioning."
+    ],
+    "correct_index": 1,
+    "rationale": "Steven C. Hayes is generally cited as coming up with the first, second, and third wave categories of behaviorist treatment. First wave treatments were based on operant and classical conditioning such as the work of B. F. Skinner and Ivan Pavlov. Second wave interventions focused heavily on cognitions depicted by the work of Albert Ellis and Aaron T. Beck. Third wave or contemporary approaches incorporate DBT, motivational interviewing, and ACT (pronounced just like the word act), which stands for acceptance and commitment therapy."
+  },
+  {
+    "id": "ch12_q_1098",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "A counselor is performing CBT. He believes his client is not dealing with the real or core issue causing the difficulty. The most effective ploy would be to",
+    "options": [
+      "change his approach to narrative therapy.",
+      "give the client a projective personality test.",
+      "use the downward arrow technique, created by David D. Burns, M.D.",
+      "prescribe rational imagery (RI), often advocated by Albert Ellis."
+    ],
+    "correct_index": 2,
+    "rationale": "The downward arrow technique is highly recommended to ferret out what the client is truly upset about and make the client aware of this issue. Say a client is upset because he forgot to buy his wife a birthday gift. The therapist could ask him, “What is the worst thing that could happen?” He might say (or write), “She might be very upset on this special day.” The counselor asks for yet another response and gets, “She might be so upset she would leave and go out with her girlfriends.” Finally, he keeps asking what might happen next and gets to the real issue known as the core belief, “She might be so upset she would divorce me.”"
+  },
+  {
+    "id": "ch12_q_1099",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Classical conditioning is based on paired learning, whereas operant conditioning is predicated on rewards or punishment. In a classical conditioning experiment a dog was trained to salivate to a bell which was originally presented about 0.5 second before the meat. The bell is",
+    "options": [
+      "a CS or conditioned stimulus.",
+      "an NS or neutral stimulus.",
+      "a UR or unconditioned response.",
+      "a CR or conditioned response."
+    ],
+    "correct_index": 0,
+    "rationale": "When I tell you that the correct response is choice “a” many of you will be ready to e-mail me to say it is a misprint in the book since I taught you earlier in this text that many exams use the terms CS or NS in an interchangeable manner. Well, I didn’t call this the advanced section for nothing! Recently, some exams are splitting hairs and do make a distinction between a CS and an NS. This means the answer choices could list both! What’s the deal? Well in some of the newer literature the neutral stimulus terminology is only used until a CR occurs. When the bell without the meat produces a CR (salivating) then the dog is conditioned and the bell is now technically a CS or conditioned stimulus. At that moment in time a UR becomes a CR because it is learned. Ergo, if the question suggested that the dog had not yet acquired the response to salivate then choice “b” would be the right on target."
+  },
+  {
+    "id": "ch12_q_1100",
+    "domain": "Advanced Topics",
+    "chapter": 12,
+    "question": "Your supervisor insists you rely on a teleological approach with a client. Pick the correct statement.",
+    "options": [
+      "You would simply talk to the client about her childhood.",
+      "You would prescribe a homework assignment related to her childhood.",
+      "You would focus exclusively on the here and now.",
+      "You would focus on the client’s goal to become a stock broker in four years when she finishes her business degree."
+    ],
+    "correct_index": 2,
+    "rationale": "Some approaches are historic and dwell on the past. Others are present moment oriented and focus on the here and now. And still others are said to be teleological in the sense that a future event is responsible for the client’s current behavior. (d) GOOD LUCK! Final Overview and Last-Minute Super-Review Boot Camp Review this material after you have completed the entire Encyclopedia of Counseling. Do not skim over this review: it is a very powerful learning device. I’ve even added a few last-minute concepts that can be explained in a sentence or two as exam insurance! You should begin scanning this chapter at least a week or so before the exam, and even peruse it the night before or the morning of the exam. Ideally, combine this review with the Boot Camp program in my audio program. Here is your mini-review on a little more than the head of a pin! Best wishes! HISTORIC NBCC ANNOUNCEMENT On November 17, 2014, NBCC President and CEO, Dr. Thomas W. Clawson, sent a communication revealing that NCC applications received after January 1, 2022, will only be accepted if the applicant possesses a master’s degree or higher from a program accredited by the Council for Accreditation of Counseling and Related Programs (CACREP). This will reduce the difficulty of securing a license when a counselor moves. This will not affect anybody who currently has NCC status. ACA is backing this position. NONPROFIT COUNSELING ORGANIZATIONS Nonprofits must adhere to the IRS 501"
   }
 ]

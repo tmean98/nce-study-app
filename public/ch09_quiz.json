@@ -1,282 +1,1402 @@
 [
   {
-    "id": "ch09_q_001",
-    "domain": "Research & Program Evaluation",
+    "id": "ch09_q_701",
+    "domain": "Research and Program Evaluation",
     "chapter": 9,
-    "question": "A counselor educator randomly assigns students to either a biofeedback training group or a control group and measures their licensing exam scores afterward. In this experiment, the biofeedback training is the ________ and the exam score is the ________.",
+    "question": "The most valuable type of research is",
     "options": [
-      "DV; IV",
-      "IV; DV",
-      "control variable; IV",
-      "organismic variable; covariate"
-    ],
-    "correct_index": 1,
-    "rationale": "The IV (independent variable) is what the researcher manipulates — biofeedback training. Memory device: 'I manipulate the IV.' The DV (dependent variable) is the outcome data — the exam score. Memory device: 'D for data.' The control group does not receive the IV; the experimental group does."
-  },
-  {
-    "id": "ch09_q_002",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "A researcher sets a significance level of P = .05 before running an experiment. After data collection, the result is significant at P = .05. This means:",
-    "options": [
-      "There is a 95% chance the null hypothesis is true",
-      "There is only a 5% chance the results are due to chance factors",
-      "Five subjects in the study produced unreliable results",
-      "The level of significance should be reset to .01 before interpreting results"
-    ],
-    "correct_index": 1,
-    "rationale": "P = .05 means there is only a 5% probability that the observed difference between groups is due to chance — equivalently, the researcher can be 95% confident the results reflect a real difference. The significance level MUST be set before the experiment begins. Resetting P after seeing results is a serious research ethics violation."
-  },
-  {
-    "id": "ch09_q_003",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "An experiment concludes that a new REBT-based intervention significantly reduces client depression. In reality, the intervention made no difference. The researcher has committed a:",
-    "options": [
-      "Type II error — accepted null when it was false",
-      "Type I error — rejected null when it was true",
-      "Beta error — accepted null when it was true",
-      "Sampling error — the sample did not represent the population"
-    ],
-    "correct_index": 1,
-    "rationale": "Type I (alpha) error: the researcher rejects the null hypothesis when it is actually true. Memory device: 'RA — Reject when Applicable/true.' Here, the null hypothesis (REBT made no difference) WAS true, but was rejected because results looked significant. Type II (beta) error is the opposite: accepting null when it is false — missing a real effect."
-  },
-  {
-    "id": "ch09_q_004",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "A researcher is comparing mean test anxiety scores across THREE different treatment groups (CBT, EMDR, and a control). The MOST appropriate statistical test is:",
-    "options": [
-      "A t test",
-      "Pearson r",
-      "One-way ANOVA",
-      "Chi-square"
+      "always conducted using a factor analysis.",
+      "conducted using the chi-square.",
+      "the experiment, used to discover cause-and-effect relationships. 304",
+      "the quasi-experiment."
     ],
     "correct_index": 2,
-    "rationale": "The t test is used to compare exactly TWO group means. When there are three or more groups, the analysis of variance (ANOVA) is required — yielding an F statistic that is compared to a critical F table. Pearson r measures the degree of relationship between two variables, not group differences. Chi-square compares obtained frequencies to expected frequencies."
+    "rationale": "A mini pep talk from me to you: Just think of statistics and research as another area on the test—no easier and no harder. Most of the students I’ve spoken to who used this book to study for major exams were surprised to find that questions related to this section of the test were not that difficult! I shall try to keep my explanations simple and will vary the presentation of the material so that if you don’t understand it in one way, you’ll comprehend it when it is explained in a different manner. And lastly, I promise repetition, repetition, and more repetition! Experimental research is the process of gathering data in order to make evaluative comparisons regarding different situations. An experiment must have the conditions of treatment controlled via the experimenter and random assignments (also called randomization) used in the groups. An experiment attempts to eliminate all extraneous variables. In the quasi-experiment (choice “d”) the researcher uses preexisting groups, and hence the IV (independent variable) cannot be altered (e.g., gender or ethnicity). In a quasi-experiment you cannot state with any degree of statistical confidence that the IV caused the DV (dependent variable). One popular type of quasi-experiment is known as the “ex post facto study.” Ex post facto literally means “after the fact,” connoting a correlational study or research in which intact, preexisting groups are utilized. In the case of the ex post facto study, the IV was administered before the research began. When conducting or perusing a research study a counselor is very concerned with “internal and external validity.” Threats to internal validity include maturation of subjects (psychological and physical changes including fatigue due to the time involved), mortality (i.e., subjects withdrawing), instruments used to measure the behavior or trait, and statistical regression (i.e., the notion that extremely high or low scores would move toward the mean if the measure is utilized again). Internal validity refers to whether the DVs were truly influenced by the experimental IVs or whether other factors had an impact. External validity, on the other hand, refers to whether the experimental research results can be generalized to larger populations (i.e., other people, settings or conditions). Thus, if the results of the study only apply to the population in the study itself then the external validity is said to be low. P.S. If it’s been a while and you’ve forgotten terms like IV and DV just hold your pants on; we’ll get to you in a minute. As for the other incorrect choices, a “factor analysis” (choice “a”) refers to statistical procedures that use the important or underlying “factors” in an attempt to summarize a lot of variables. Hence, a test which measures a counselor’s ability may try to describe the three most important variables (factors) that make an effective helper, although literally hundreds of factors may exist. Using factor analysis procedures, a brief test that measures the three major factors may be able to predict who will be an effective counselor as accurately as 10 other tests that examine hundreds of variables or so-called factors. Choice “b” mentions the “chi-square.” The chisquare is a nonparametric statistical measure that tests whether a distribution differs significantly from an expected theoretical distribution."
   },
   {
-    "id": "ch09_q_005",
-    "domain": "Research & Program Evaluation",
+    "id": "ch09_q_702",
+    "domain": "Research and Program Evaluation",
     "chapter": 9,
-    "question": "A study finds a correlation of r = -.85 between therapist warmth and client dropout rates. A graduate student interprets this to mean that low warmth CAUSES clients to drop out. The supervisor should correct this by explaining:",
+    "question": "Experiments emphasize parsimony, which means",
     "options": [
-      "The correlation should be positive for this relationship to be meaningful",
-      "Correlation does not imply causation — only experimental research can establish cause and effect",
-      "A correlation of -.85 is weaker than a positive correlation of +.85 and cannot be trusted",
-      "The quasi-experimental design used here is sufficient to infer causality"
-    ],
-    "correct_index": 1,
-    "rationale": "Correlation NEVER implies causation. Only true experiments (with IV manipulation and random assignment) can establish cause-and-effect relationships. Correlational research is quasi-experimental. Also: a correlation of -.85 is NOT weaker than +.85 — the minus sign only indicates direction (inverse relationship), not strength. Both represent equally strong relationships."
-  },
-  {
-    "id": "ch09_q_006",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "First-year counseling interns take an exam specifically designed to be far too difficult for them. Almost all students score very low. The distribution of their scores would be:",
-    "options": [
-      "Negatively skewed, with the tail pointing left",
-      "Positively skewed, with the tail pointing right",
-      "Bimodal, showing two clusters of performance",
-      "Normal and symmetrical"
-    ],
-    "correct_index": 1,
-    "rationale": "When most scores are low (clustered on the left), the tail of the distribution extends to the RIGHT — this is a POSITIVE skew. Memory device: the tail points in the direction of the skew. Negative skew occurs when most scores are high and the tail points left. For skewed distributions, the median is the best measure of central tendency."
-  },
-  {
-    "id": "ch09_q_007",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "A counselor researcher tracks the GRE scores and first-year GPA of 200 graduate students. With a Pearson r = +.68, she wants to know what percentage of the variance in GPA is accounted for by GRE scores. The answer is:",
-    "options": [
-      "68%",
-      "32%",
-      "46.24%",
-      "53.76%"
-    ],
-    "correct_index": 2,
-    "rationale": "The coefficient of determination = r². Here, (.68)² = .4624 = 46.24% of the variance in GPA is accounted for by GRE scores. The remaining 53.76% is due to other factors. This is a direct application of the shared variance concept (also tested in Chapter 8 as the reliability coefficient of determination)."
-  },
-  {
-    "id": "ch09_q_008",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "A client who knows she is being observed in a research study begins asking more questions and engaging more in therapy than she normally would, even though the study is examining a different variable altogether. This is BEST explained by:",
-    "options": [
-      "The Rosenthal (Pygmalion) effect",
-      "The Hawthorne effect",
-      "The Halo effect",
-      "Statistical regression toward the mean"
-    ],
-    "correct_index": 1,
-    "rationale": "The Hawthorne effect: subjects change behavior simply because they know they are being observed or receive extra attention from being in a study — not because of any treatment. Named after the 1924–1932 Western Electric Hawthorne Works study. The Rosenthal effect involves the experimenter's expectations causing change, not the subject's awareness of being observed."
-  },
-  {
-    "id": "ch09_q_009",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "A school counselor informs a teacher — without actually testing any students — that certain children are 'late bloomers' expected to show dramatic improvement this year. By year's end, those exact children show the most improvement, even though they were selected randomly. This BEST illustrates:",
-    "options": [
-      "The Hawthorne effect — children improved because they knew they were chosen",
-      "The placebo effect — children received an inert intervention",
-      "The Rosenthal (experimenter expectancy/Pygmalion) effect",
-      "Demand characteristics — children conformed to expected behavior"
-    ],
-    "correct_index": 2,
-    "rationale": "The Rosenthal effect (also called experimenter expectancy or Pygmalion effect): the researcher's/teacher's belief that certain children would excel caused them to be treated differently — a self-fulfilling prophecy. The children did NOT know they were part of an experiment, ruling out the Hawthorne effect. This is a classic replication of Rosenthal and Jacobson's original 'Pygmalion in the Classroom' study."
-  },
-  {
-    "id": "ch09_q_010",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "A behaviorist counselor tracks a child's disruptive classroom behavior over two weeks (A), then introduces a token economy (B), then removes the token economy to restore baseline (A), then reintroduces it (B). This research design is called a(n):",
-    "options": [
-      "Solomon four-group design",
-      "AB single-subject design",
-      "ABAB withdrawal/reversal design",
-      "Factorial design"
-    ],
-    "correct_index": 2,
-    "rationale": "The ABAB withdrawal/reversal design: A = baseline, B = intervention, A = return to baseline (withdrawal), B = reintroduction of intervention. This four-phase design controls for extraneous variables more effectively than ABA — if the behavior pattern repeats across both AB sequences, it provides stronger evidence that B (the token economy) caused the change. An ethical concern: do NOT withdraw treatment if removal could harm the client."
-  },
-  {
-    "id": "ch09_q_011",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "A counselor wants to compare two unmatched (independent) groups' anxiety scores, but the data are NOT normally distributed and appear to be on an ordinal scale. The appropriate nonparametric test is the:",
-    "options": [
-      "One-way ANOVA",
-      "Wilcoxon signed-rank test",
-      "Mann-Whitney U test",
-      "Kruskal-Wallis H test"
-    ],
-    "correct_index": 2,
-    "rationale": "Mann-Whitney U test: nonparametric alternative to the t test for two UNMATCHED/UNCORRELATED (independent) groups. Memory device: the 'U' in Mann-Whitney U reminds you of 'uncorrelated/unmatched.' The Wilcoxon signed-rank is for two CORRELATED (matched) groups. The Kruskal-Wallis H is the nonparametric alternative to one-way ANOVA for three or more groups."
-  },
-  {
-    "id": "ch09_q_012",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "A counselor researcher classifies clients by their DSM-5 primary diagnosis. Which measurement scale does this exemplify?",
-    "options": [
-      "Ordinal scale — diagnoses can be rank-ordered by severity",
-      "Interval scale — equal psychological distance between diagnoses",
-      "Nominal scale — categories that classify but do not rank or measure",
-      "Ratio scale — has a true zero (no diagnosis)"
-    ],
-    "correct_index": 2,
-    "rationale": "Nominal scale: classifies, names, or labels into mutually exclusive categories without implying order or equal distances. DSM diagnostic categories are nominal — MDD is not 'more than' or 'twice as much as' GAD. Memory: NOIR (Nominal-Ordinal-Interval-Ratio). Parametric tests require interval or ratio data; nominal data requires nonparametric tests like chi-square."
-  },
-  {
-    "id": "ch09_q_013",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "A researcher needs to ensure that her sample of counselors includes exactly 25% from rural settings, 50% from suburban, and 25% from urban settings, matching the population distribution. This requires:",
-    "options": [
-      "Simple random sampling",
-      "Cluster sampling",
-      "Stratified (quota) sampling",
-      "Snowball sampling"
-    ],
-    "correct_index": 2,
-    "rationale": "Stratified sampling: ensures that specific subgroups (strata) are proportionally represented in the sample. When specific NUMBERS from each stratum are required (as here), it is called quota sampling — a type of stratified sampling. Simple random sampling may underrepresent rural settings. Cluster sampling uses existing groups for convenience when a population list is unavailable. Snowball uses subjects to recruit others."
-  },
-  {
-    "id": "ch09_q_014",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "Sam scores 2 out of 100 on a motor skills test (mean = 50). He retakes the test 3 weeks later. Based on statistical regression toward the mean, the BEST prediction is:",
-    "options": [
-      "Sam's score will remain approximately 2",
-      "Sam's score will increase, moving closer to 50",
-      "Sam's score will decrease further below 2",
-      "Sam's score will exceed 50 since regression always exceeds the mean"
-    ],
-    "correct_index": 1,
-    "rationale": "Statistical regression toward the mean: extreme scores (very high or very low) tend to move toward the population mean on retesting. Sam's extremely low score of 2 will likely increase toward 50 on retest — but probably won't reach 50. This is a threat to internal validity because a counselor could mistakenly attribute the improvement to a treatment intervention rather than to regression."
-  },
-  {
-    "id": "ch09_q_015",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "In a normal distribution of scores with a mean of 100 and standard deviation of 15, a z-score of +2 corresponds to what t-score?",
-    "options": [
-      "70",
-      "60",
-      "80",
-      "120"
+      "interpreting the results in the simplest way. 305",
+      "interpreting the results in the most complex manner.",
+      "interpreting the results using a correlation coefficient.",
+      "interpreting the results using a clinical interview."
     ],
     "correct_index": 0,
-    "rationale": "T-score conversion: t-score mean = 50, each SD = 10. A z-score of +2 means 2 SDs above the mean. On the t-score scale: 50 + (2 × 10) = 70. Conversely, z = -1 → t = 40; z = +1 → t = 60; z = +2 → t = 70; z = +3 → t = 80. T-scores eliminate negative numbers by using 50 as the mean instead of 0."
+    "rationale": "Parsimonious literally means a tendency to be miserly and not overspend. A parsimonious individual is said to be overly economical and stingy. In research, we strive for parsimony in the sense that the easiest and less-complex explanation is said to be the best; an economical description if you will. Simply put, the simplest explanation of the findings is always preferred. The factor analysis mentioned in the previous answer is parsimonious in the sense that 10 tests which measure the dimensions of an effective counselor can be explained via a short measure which describes three underlying variables. Factor analysis, then, is concerned with data reduction."
   },
   {
-    "id": "ch09_q_016",
-    "domain": "Research & Program Evaluation",
+    "id": "ch09_q_703",
+    "domain": "Research and Program Evaluation",
     "chapter": 9,
-    "question": "A researcher who conducts a single-blind study compared to a double-blind study has controlled for:",
+    "question": "Occam’s Razor suggests that experimenters",
     "options": [
-      "Experimenter effects, but not demand characteristics",
-      "Demand characteristics, but not experimenter effects",
-      "Neither demand characteristics nor experimenter effects",
-      "Both demand characteristics and experimenter effects"
+      "interpret the results in the simplest manner.",
+      "interpret the results in the most complex manner.",
+      "interpret the results using a correlation coefficient.",
+      "interpret the results using a clinical interview."
     ],
-    "correct_index": 1,
-    "rationale": "Single-blind: subjects do NOT know their group assignment → controls for demand characteristics (subjects can't manipulate results to confirm or deny hypotheses). But the researcher DOES know → experimenter effects remain (the researcher may unconsciously communicate expectations). Double-blind: both subjects AND researcher are blind → controls for BOTH demand characteristics AND experimenter effects."
+    "correct_index": 0,
+    "rationale": "A word to the wise: Exams often refer to parsimony as Occam’s Razor, the principle of economy, or Lloyd Morgan’s 1894 Canon (canon in this sense means “law”). Conway Lloyd Morgan was an English psychologist/physiologist, while William of Occam was a fourteenth-century philosopher and theologian. The early behaviorists (e.g., Watson) adhered closely to this principle. Key point: Have you ever placed a sticker on your car and tried to smooth it out? No matter how many times you attempt to do this the sticker usually retains a few trapped air bubbles. This analogy has often been used in conjunction with research, in the sense that flaws in research are often called bubbles."
   },
   {
-    "id": "ch09_q_017",
-    "domain": "Research & Program Evaluation",
+    "id": "ch09_q_704",
+    "domain": "Research and Program Evaluation",
     "chapter": 9,
-    "question": "A program evaluation is conducted halfway through a 12-month substance abuse prevention program to assess whether participants are reducing drug use. This is BEST described as:",
+    "question": "A counselor educator is running an experiment to test a new form of counseling. Unbeknownst to the experimenter one of the clients in the study is secretly seeing a gestalt therapist. This experiment",
     "options": [
-      "Summative evaluation — measuring the final product",
-      "Formative evaluation — ongoing process evaluation during the program",
-      "Ex post facto research — measuring after the fact",
-      "A longitudinal cohort study"
-    ],
-    "correct_index": 1,
-    "rationale": "Formative evaluation: ongoing assessment while the program is still in progress — used to make mid-course corrections. Summative evaluation measures final outcomes AFTER the program is complete. Ex post facto research uses preexisting groups after an IV has already occurred. The distinction formative (during) vs. summative (after) is a frequently tested program evaluation concept."
-  },
-  {
-    "id": "ch09_q_018",
-    "domain": "Research & Program Evaluation",
-    "chapter": 9,
-    "question": "After an ANOVA yields a significant F value across four treatment groups, a researcher wants to determine WHICH specific groups differ from each other. The appropriate next step is to use:",
-    "options": [
-      "A series of t tests comparing each pair of groups",
-      "The Pearson r to determine inter-group correlations",
-      "Post hoc tests such as Tukey's, Duncan's, or Scheffe's test",
-      "A one-tailed chi-square test"
+      "is parsimonious.",
+      "is an example of Occam’s Razor.",
+      "is confounded/flawed.",
+      "is valid and will most likely help the field of counseling."
     ],
     "correct_index": 2,
-    "rationale": "After a significant ANOVA F, post hoc (a posteriori) tests like Tukey's, Duncan's multiple range, or Scheffe's test identify which SPECIFIC group means differ significantly. Running multiple t tests instead inflates Type I error (false positive rate). Chi-square is for frequencies, not means. Pearson r measures relationships, not group differences."
+    "rationale": "The experiment is said to be invalid (so much for choice “d”) due to an extraneous independent variable (IV) (e.g., the gestalt therapy). Variables which are undesirable confound or “flaw” the experiment. The only experimental variable should be the IV—in this case the new form of counseling. The IV must have the effect on the dependent variable (here the DV would be some measure of the client’s mental health). In this experiment any changes could not be attributed with any degree of certainty to the new form of counseling since DV changes could be due to the gestalt intervention (an extraneous confounding variable). All correlational research is said to be confounded."
   },
   {
-    "id": "ch09_q_019",
-    "domain": "Research & Program Evaluation",
+    "id": "ch09_q_705",
+    "domain": "Research and Program Evaluation",
     "chapter": 9,
-    "question": "A client mentions she has been to 12 different inpatient treatment facilities using the 12-step model. When her counselor suggests trying a new evidence-based program, she says, 'Every treatment I've ever had uses 12 steps, so this new program must too.' This client is using:",
+    "question": "Nondirective is to person-centered as",
     "options": [
-      "Inductive reasoning — generalizing from specific experiences to a broad conclusion",
-      "Deductive reasoning — applying a general rule to a specific new situation",
-      "Cognitive distortion — catastrophizing",
-      "Anticipatory anxiety — fear of treatment failure"
+      "psychological testing is to counseling.",
+      "confounding is to experimenting.",
+      "appraisal is to research.",
+      "parsimony is to Occam’s Razor."
     ],
-    "correct_index": 1,
-    "rationale": "Deductive reasoning: applying a GENERAL rule to a SPECIFIC situation ('reductive' = reduces general to specific). The client has generalized her past 12-step experiences into a general rule and is now applying that rule to a new specific situation. Inductive reasoning goes the opposite direction — from specific observations to a general conclusion (e.g., 'paradox worked on one client, so it works for all phobics')."
+    "correct_index": 3,
+    "rationale": "A simple analogy question. Nondirective and person-centered therapy are synonymous; both refer to names given to Rogerian counseling. Parsimony is roughly synonymous with Occam’s Razor. Important exam reminder: Most counselors see themselves as practitioners rather than researchers. Research, nevertheless, helps the entire field of counseling advance. It has been pointed out that we know about the work of many famous counselors and career counselors because of their published research not because of what transpired in their sessions. Test hint: The APA’s Journal of Counseling Psychology publishes more counseling research articles than any other periodical in our field."
   },
   {
-    "id": "ch09_q_020",
-    "domain": "Research & Program Evaluation",
+    "id": "ch09_q_706",
+    "domain": "Research and Program Evaluation",
     "chapter": 9,
-    "question": "A researcher studying a new counseling technique for teenagers lowering their alpha level from P = .05 to P = .001. This change will MOST directly result in:",
+    "question": "An experiment is said to be confounded when",
     "options": [
-      "Decreasing both Type I and Type II errors simultaneously",
-      "Decreasing Type I errors but increasing the risk of Type II errors",
-      "Increasing Type I errors but decreasing the risk of Type II errors",
-      "No change in Type I or Type II error rates"
+      "undesirable variables are not kept out of the experiment.",
+      "undesirable variables are kept out of the experiment.",
+      "basic research is used in place of applied research.",
+      "the sample is random."
+    ],
+    "correct_index": 0,
+    "rationale": "I hope you didn’t mark choices “b” and “d” since they are necessary for a proper experiment. Confounding is said to occur when an undesirable variable which is not controlled by the researcher is introduced in the experiment. Hint: Your exam could refer to this as a contaminating variable. If you missed this one, fess up and review question 704. Take a good hard look at choice “c.” Basic research is conducted to advance our understanding of theory, while applied research (also called action research or experience-near research) is conducted to advance our knowledge of how theories, skills, and techniques can be used in terms of practical application. Often counselors assert that much of the research is not relevant to the actual counseling process and indeed they are correct."
+  },
+  {
+    "id": "ch09_q_707",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In experimental terminology IV stands for ________ and DV stands for ________.",
+    "options": [
+      "independent variable; dependent variable",
+      "dependent variable; independent variable",
+      "individual variable; dependent variable",
+      "independent variable; designer variable"
+    ],
+    "correct_index": 0,
+    "rationale": "Variables in an experiment are categorized as independent variables (IVs) or dependent variables (DVs). A variable is merely a behavior or a circumstance that can exist on at least two levels or conditions. In plain, simple, everyday English, a variable is a factor that “varies” or is capable of change. In an experiment the IV is the variable that the researcher manipulates, controls, alters, or wishes to experiment with. A neat little memory device is that IV begins with an “I,” so imagine yourself as the researcher and remember “I manipulate the IV” or “I experiment with the IV.” The DV expresses the outcome or the data. Here the memory device is a cinch: DV begins with a “D” and so does the word data. The DV expresses the data regarding factors you wish to measure. IVs and DVs—the variables of the experimental trade—can be discrete (e.g., a brand of counseling or occupation) or continuous (e.g., height or weight). Exam score booster: If your exam describes a true experiment—such as the biofeedback research described in the next several questions—except for the fact that the groups were not randomly assigned, then the new exams are calling this a causal comparative design. Expect to see this term on the exam. Data gleaned from the causal comparative ex post facto or after the fact design can be analyzed with a test of significance (e.g., a t test or ANOVA) just like any true experiment."
+  },
+  {
+    "id": "ch09_q_708",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A professor of counselor education hypothesized that biofeedback training could reduce anxiety and improve the average score on written board exams. If this professor decides to conduct a formal experiment the IV will be the ________, and the DV will be the ________.",
+    "options": [
+      "professor; anxiety level",
+      "anxiety level; board exam score",
+      "biofeedback; board exam score",
+      "board exam score; biofeedback"
+    ],
+    "correct_index": 2,
+    "rationale": "Ah, here we have it: the old standby in the field of comprehensive exams. The examinee is given an experiment to ferret out the IV and DV. Now I’ve got this uncanny feeling that you won’t be caught by surprise when you see it! Okay, time to plug in your memory devices. “I manipulate… or I experiment with, well, the biofeedback training, of course.” The “I” statement here gives you your “IV.” For your “DV” (remember DV begins with a “D” like “data”) your data are provided by the board exam score. True, the researcher here hypothesized that the training lowers anxiety, but you won’t have any direct data regarding this trait. Hence it will not be your DV in this experiment."
+  },
+  {
+    "id": "ch09_q_709",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Experimenters should always abide by a code of ethics. The variable you manipulate/control in an experiment is the",
+    "options": [
+      "DV.",
+      "dependent variable.",
+      "the variable you will measure to determine the outcome.",
+      "IV or independent variable."
+    ],
+    "correct_index": 3,
+    "rationale": "Again, repeat after me: “I am the researcher so I manipulate or experiment with the IV.” Choices “a,” “b,” and “c” all mention the DV, which deals with outcome “data.” Now, in any experiment the counselor researcher is guided by ethics: this suggests first, that subjects are informed of any risks; second, that negative after-effects are removed; third, that you will allow subjects to withdraw at any time; fourth, that confidentiality of subjects will be protected; fifth, that the results of research reports will be presented in an accurate format that is not misleading; and sixth, that you will use only techniques that you are trained in. Research is considered a necessary factor for professionalism in counseling."
+  },
+  {
+    "id": "ch09_q_710",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In order for the professor of counselor education (see question 708) to conduct an experiment regarding his hypothesis he will need a(n) ________ and a(n) ________.",
+    "options": [
+      "biofeedback group; systematic desensitization group",
+      "control group; systematic desensitization group",
+      "control group; experimental group",
+      "control group with at least 60 subjects; experimental group with at least 60 subjects"
+    ],
+    "correct_index": 2,
+    "rationale": "The control group and the experimental group both have the same characteristics except that members of the control group will not have the experimental treatment applied to them. In this case, for example, the control group will not receive the biofeedback training. The control group does not receive the IV. The experimental group receives the IV. The basic presupposition is that the averages (or means) of the groups do not differ significantly at the beginning of the experiment. Choice “d” would also be a correct answer if it said 15 per group instead of 60. Remember that if you cannot randomly assign the subjects to the two groups then your exam will consider the research a quasiexperiment. Most experts suggest that you need at least 30 people to conduct a true experiment. Correlational research requires 30 subjects per variable while a survey should include at least 100 people."
+  },
+  {
+    "id": "ch09_q_711",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In order for the professor of counselor education to conduct the experiment suggested in question 708 the experimental group would need to receive",
+    "options": [
+      "the manipulated IV.",
+      "the biofeedback training.",
+      "a and b.",
+      "the organismic IV."
+    ],
+    "correct_index": 3,
+    "rationale": "The experimental group receives the IV, which in this case is the biofeedback training. An organismic variable is one the researcher cannot control yet exists, such as height, weight, or gender. To determine whether an organismic IV exists you simply ask yourself if there is an experimental variable being examined which you cannot manipulate. In most cases, when you are confronted with IV/DV identification questions, the IV will be of the “manipulated variety.”"
+  },
+  {
+    "id": "ch09_q_712",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Hypothesis testing is most closely related to the work of (c)",
+    "options": [
+      "Robert Hoppock.",
+      "Sigmund Freud.",
+      "Lloyd Morgan.",
+      "R. A. Fisher."
+    ],
+    "correct_index": 3,
+    "rationale": "Hypothesis testing was pioneered by R. A. Fisher. A hypothesis is a hunch or an educated guess which can be tested utilizing the experimental model. A hypothesis might be that biofeedback raises board exam scores; or that reality therapy reduces dysfunctional classroom behavior in high school students; or perhaps that cognitive therapy relieves depression in males in the midst of a divorce. A hypothesis is a statement which can be tested regarding the relationship of the IV and the DV."
+  },
+  {
+    "id": "ch09_q_713",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The null hypothesis suggests that there will not be a significant difference between the experimental group which received the IV and the control group which did not. Thus, if the experiment in question 708 was conducted, the null hypothesis would suggest that",
+    "options": [
+      "all students receiving biofeedback training would score equally well on the board exam.",
+      "systematic desensitization might work better than biofeedback.",
+      "biofeedback will not improve the board exam scores.",
+      "meta-analysis is required."
+    ],
+    "correct_index": 2,
+    "rationale": "The null hypothesis asserts that the samples will not change (i.e., they will still be the same) even after the experimental variable is applied. Let me say that in a slightly different way: According to the null hypothesis the control group and the experimental group will not differ at the end of the experiment. The null hypothesis is simply that the IV does not affect the DV. Null means “nil” or “nothing.” Null is a statement of “no difference.” Choice “d” introduces the term meta-analysis, which is a study that analyzes the findings of numerous studies. Hence, a study of reality therapy that looked at the results of 20 reality therapy studies would be a meta-analysis."
+  },
+  {
+    "id": "ch09_q_714",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The hunch is known as the experimental or alternative hypothesis. The experimental hypothesis suggests that a difference will be evident between the control group and the experimental group (i.e., the group receiving the IV). Thus, if the experiment in question 708 were conducted, the experimental hypothesis would suggest that",
+    "options": [
+      "the biofeedback would raise board scores.",
+      "the control group will score better on the board exam.",
+      "there will be no difference between the experimental and the control groups.",
+      "the experiment has been confounded."
+    ],
+    "correct_index": 0,
+    "rationale": "An alternative hypothesis—which may be called the “affirmative hypothesis” on your exam—asserts that the IV has indeed caused a change."
+  },
+  {
+    "id": "ch09_q_715",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "From a purely statistical standpoint, in order to compare a control group (which does not receive the IV or experimental manipulation) to the experimental group the researcher will need",
+    "options": [
+      "a correlation coefficient",
+      "only descriptive statistics.",
+      "percentile rank.",
+      "a test of significance."
+    ],
+    "correct_index": 3,
+    "rationale": "Let’s go through each possible alternative here. Choice “a” or correlational research does not make use of the paradigm in which an IV is experimentally introduced. Descriptive statistics (choice “b”), as the name implies, merely describes data (e.g., the mean, the median, or the mode). In order to compare two groups, “inferential statistics,” which infer something about the population, are necessary. Choice “c,” percentile rank, is a descriptive statistic that tells the counselor what percentage of the cases fell below a certain level. Hence, if Joe’s score puts him at the 50th percentile, then 50% of the people had raw scores lower than his particular score. Do not confuse percentiles with percentage scores. A percentage score is just another way of stating a raw score. A percentage score of 50 could be a very high, a very low, or an average score on the test. It merely says that the examinee got half of the answers correct. Graphically speaking, a distribution of percentile scores will always appear rectangular and flat. The correct answer is that the researcher in this experiment will need a test of significance. Such statistical tests are used to determine whether a difference in the groups’ scores is “significant” or just due to chance factors. In this case a t test would be used to determine if a significant difference between two means exists. This has been called the “two-groups” or “two-randomized-groups” research design. In this study, the two groups were independent of each other in the sense that the change (or lack of it) in one group did not influence the other group. Thus, this is known as an “independent group comparison design.” If the researcher had measured the same group of subjects without the IV and with the IV, then the study would be a “repeated-measures comparison design.” Exam hint: When a research study uses different subjects for each condition, some exams refer to the study as a “betweensubjects design.” If the same subjects are employed (e.g., such as in repeated measures) your exam could refer to it as a “within-subjects design.” To state it in a different manner: In a between-subjects design, each subject receives only one value of the IV. In a within-subjects design, two or more values or levels of the IV are administered to each subject."
+  },
+  {
+    "id": "ch09_q_716",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "When you see the letter P in relation to a test of significance it means",
+    "options": [
+      "portion.",
+      "population parameter.",
+      "probability.",
+      "the researcher is using an ethnographic qualitative approach."
+    ],
+    "correct_index": 2,
+    "rationale": "Don’t be surprised if the word parameter makes its way into your exam. A parameter is technically a value obtained from a population while a statistic is a value drawn from a sample. A parameter summarizes a characteristic of a population (e.g., the average male’s height is 5’9”). The correct answer is choice “c” which refers to the probability or the level of significance. Traditionally, the probability in social science research (often indicated by a P) has been set at .05 or lower (i.e., .01 or .001). The .05 level indicates that differences would occur via chance only five times in 100. The significance level must be set before the experiment begins! And oh yes, ethnographic research involves research that is collected via interviews, observations, and inspection of documents."
+  },
+  {
+    "id": "ch09_q_717",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In the social sciences the accepted probability level is usually",
+    "options": [
+      ".05 or less.",
+      "1.0 or higher.",
+      ".0001 or less.",
+      ".05 or higher."
+    ],
+    "correct_index": 0,
+    "rationale": "The two most popular levels of significance are .05 and .01."
+  },
+  {
+    "id": "ch09_q_718",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "P = .05 really means that",
+    "options": [
+      "five subjects were not included in the study.",
+      "there is only a 5% chance that the difference between the control group and the experimental groups is due to chance factors.",
+      "the level of significance is .01.",
+      "no level of significance has been set."
     ],
     "correct_index": 1,
-    "rationale": "Type I and Type II errors are inversely related — like a seesaw. Making alpha more stringent (.05 → .001) makes it HARDER to reject null, which: (1) DECREASES the probability of falsely rejecting a true null (lower Type I error), and (2) INCREASES the probability of failing to reject a false null (higher Type II error). To reduce both simultaneously, increase the sample size."
+    "rationale": "Important note: Many experts in the field feel it is misleading when many exams still refer to this as the “95% confidence interval,” meaning that the results would be due to chance only five times out of 100. When P = .05, differences in the experimental group and the control group are evident at the end of the experiment, and the odds are only one in 20 that this can be explained by chance. So once more for good measure (no pun intended!) your exam could refer to the “level of significance” as the level of confidence or simply the confidence level. The meaning is intended to be the same."
+  },
+  {
+    "id": "ch09_q_719",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "P = .05 really means that",
+    "options": [
+      "differences truly exist; the experimenter will obtain the same results 95 times out of 100.",
+      "differences truly exist; the experimenter will obtain the same results 99 times out of 100.",
+      "there is a 95% error factor.",
+      "there is a 10% error factor."
+    ],
+    "correct_index": 0,
+    "rationale": "Review the previous three questions and answers if you missed this question."
+  },
+  {
+    "id": "ch09_q_720",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The study that would best rule out chance factors would have a significance level of P =",
+    "options": [
+      ".05.",
+      ".01.",
+      ".001.",
+      ".08."
+    ],
+    "correct_index": 2,
+    "rationale": "The smaller the value for P the more stringent the level of significance. Here, the .001 level is the most stringent level listed, indicating that there is only one chance in 1,000 that the results are due to chance, versus one in 20 for .05, and one in 100 for .01. In plain, everyday English it is easier to get significant results using .08, .05, or .01, than it is using .001."
+  },
+  {
+    "id": "ch09_q_721",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Type I and Type II errors are called ________ and ________ respectively.",
+    "options": [
+      "beta; alpha",
+      ".01; .05",
+      "a and b",
+      "alpha; beta"
+    ],
+    "correct_index": 3,
+    "rationale": "If it sounds a little like Greek, that’s because it is. Alpha and beta are the first and second letters of the Greek alphabet. A Type I (alpha error) occurs when a researcher rejects the null hypothesis when it is true; and a Type II error (beta error) occurs when you accept null when it is false. The memory device RA (as in “residence advisor”) works well here so you can remember the principle as well as the sequence. Let “R” signify “reject when true” and “A”—which comes after “R”—signify “accept when false.” If that memory device leaves you feeling apprehensive, here’s another one using the “RA” abbreviation. Let “RA” be your first error (i.e., alpha, Type I) and remember this error occurs when you “R” (reject) null when you should “A” for accept it. Or better still use both “RA” devices. The probability of committing a Type I error equals the level of significance mentioned earlier. Therefore, the level of significance is often referred to as the “alpha level.” 1 minus beta is called “the power of a statistical test.” In this respect, power connotes a statistical test’s ability to reject correctly a false null hypothesis. Parametric tests have more power than nonparametric statistical tests. Parametric tests are used only with interval and ratio data."
+  },
+  {
+    "id": "ch09_q_722",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A Type I error occurs when",
+    "options": [
+      "you have a beta error.",
+      "you accept null when it is false.",
+      "you reject null when it is true.",
+      "you fail to use a test of significance."
+    ],
+    "correct_index": 2,
+    "rationale": "Okay, here it is: Time to plug in your handy dandy memory formula—“RA” or “reject when applicable/true.” Since all statistical tests rely on probability there is always the possibility that the results were merely chance occurrences. Researchers call these chance factors “errors.”"
+  },
+  {
+    "id": "ch09_q_723",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A Type II error",
+    "options": [
+      "is also called a beta error.",
+      "means you reject null when it is applicable.",
+      "means you accept null when it is false.",
+      "a and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Although lowering the significance level (e.g., .01 to .001) lowers Type I errors, it “raises” the risk of committing a Type II or beta error. Simply think of the Type I/Type II relationship as a seesaw in the sense that when one goes up the other goes down. Hence, in determining an alpha level, the researcher needs to decide which error results in the most serious consequences. The safest bet is to set alpha at a very stringent level and then use a large sample size. If this can be accomplished, it is possible to make the correct decision (i.e., accept or reject null) the majority of the time."
+  },
+  {
+    "id": "ch09_q_724",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Assume the experiment in question 708 is conducted. The results indicate that the biofeedback helped raise written board exam scores but in reality this is not the case. The researcher has made a",
+    "options": [
+      "Type I error.",
+      "Type II error.",
+      "beta error.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Questions like this can be very difficult. Be sure to utilize scratch paper to write down your thoughts if your exam allows you to do so! First, write down (or mentally picture) the null hypothesis regarding the experiment in question. In this case null would indicate that biofeedback did not raise board exam scores. This question tells you that the experimental results revealed that biofeedback did raise board scores, so you will reject the null hypothesis. The question then goes on to say that in reality the biofeedback did not really cause the results. Therefore, you have rejected null when it is true/applicable. This is the definition of a Type I or alpha error. Since the experimenter sets the alpha level, he or she is always cognizant of the probability of making a Type I error."
+  },
+  {
+    "id": "ch09_q_725",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A counselor educator decides to increase the sample size in her experiment. This will",
+    "options": [
+      "confound the experiment in nearly every case.",
+      "raise the probability of Type I and Type II errors.",
+      "have virtually no impact on Type I and Type II errors.",
+      "reduce Type I and Type II errors."
+    ],
+    "correct_index": 3,
+    "rationale": "(a) Raising the size of a sample helps to lower the risk of chance/error factors. Simply put: Differences revealed via large samples are more likely to be genuine than differences revealed using a small sample size."
+  },
+  {
+    "id": "ch09_q_726",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "If a researcher changes the significance level from .05 to .001, then",
+    "options": [
+      "alpha and beta errors will increase.",
+      "alpha errors increase but beta errors decrease.",
+      "alpha errors decrease; however, beta errors increase.",
+      "this will have no impact on Type I and Type II errors."
+    ],
+    "correct_index": 2,
+    "rationale": "Review question 723. Let me mention as an aside that research can evoke fear, hostility, and anxiety in counselors. Why? Well, many counselors view research as cold, sterile, impersonal, and not related to the actual counseling process. There is also the fear of negative results related to the way one practices his or her craft."
+  },
+  {
+    "id": "ch09_q_727",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A counselor believes that clients who receive assertiveness training will ask more questions in counseling classes. An experimental group receives assertiveness training while a control group does not. In order to test for significant differences between the groups the counselor should utilize",
+    "options": [
+      "the student’s t test.",
+      "a correlation coefficient.",
+      "a survey.",
+      "an analysis of variance (ANOVA)."
+    ],
+    "correct_index": 0,
+    "rationale": "When comparing two sample groups the t test, which is a simplistic form of the analysis of variance, is utilized. The t test is used to ascertain whether two sample means are significantly different. The researcher sets the level of significance and then runs the experiment. The t test is computed and this yields a t value. The researcher then goes to a t table found in the index of most statistics’ texts. If the t value obtained statistically is lower than the t value (sometimes called “critical t”) in the table, then you accept the null hypothesis. Your computation must exceed the number cited in the table in order to reject null. If there are more than two groups, then the analysis of variance (choice “d”) is utilized. The results of an ANOVA yield an F-statistic. The researcher then consults an F table for a critical value of F. If F obtained (i.e., computed) exceeds the critical F value in the table, then the null hypothesis is rejected. The other major statistical tests likely to show up on your exam include the following six: the analysis of covariance (ANCOVA), which tests two or more groups while controlling for extraneous variables that are often called “covariates”; the Kruskal–Wallis, which is used instead of the one-way ANOVA when the data are nonparametric; the Wilcoxon signed-rank test, used in place of the t test when the data are nonparametric and you wish to test whether two correlated means differ significantly (use the “co” to remind you of “correlated”); the Mann–Whitney U test, to determine whether two uncorrelated means differ significantly when data are nonparametric (the “u” can remind you of “uncorrelated”); the Spearman correlation or Kendall’s tau, which is used in place of the Pearson r when parametric assumptions cannot be utilized; and the chi-square nonparametric test, which examines whether obtained frequencies differ significantly from expected frequencies. Note that statisticians have created nonparametric tests that parallel the popular parametric measures."
+  },
+  {
+    "id": "ch09_q_728",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The researcher in question 727 now attempts a more complex experiment. One group receives no assertiveness training, a second group receives four assertiveness training sessions, and a third receives six sessions. The statistic of choice would be the",
+    "options": [
+      "mean.",
+      "t test.",
+      "two-way ANOVA.",
+      "ANOVA."
+    ],
+    "correct_index": 3,
+    "rationale": "This is a tough question. A one-way analysis of variance is used for testing one independent variable, while a two-way analysis of variance is used to test two independent variables. When a study has more than one DV the term multivariate analysis of variance (MANOVA) is utilized. The answer is choice “d” since the simple ANOVA or one-way analysis of variance is used when there is more than one level of a single IV, which in this case is the assertiveness training."
+  },
+  {
+    "id": "ch09_q_729",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "If the researcher in the previous question utilized two IVs then the statistic of choice would be the",
+    "options": [
+      "median.",
+      "t test.",
+      "two-way ANOVA or MANOVA.",
+      "ANOVA."
+    ],
+    "correct_index": 2,
+    "rationale": "Two IVs requires a two-way ANOVA, three IVs, a three-way ANOVA, etc."
+  },
+  {
+    "id": "ch09_q_730",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "To complete a t test you would consult a tabled value of t. In order to see if significant differences exist in an ANOVA you would consult",
+    "options": [
+      "the mode.",
+      "a table for t values.",
+      "a table for F values.",
+      "the chi-square."
+    ],
+    "correct_index": 2,
+    "rationale": "More elaborate tests (e.g., Tukey’s, Duncan’s multiple range, and Scheffe’s test) can determine whether a significant difference exists between specific groups. Group comparison tests such as these are called “post hoc” or “a posteriori” tests for ANOVA calculations."
+  },
+  {
+    "id": "ch09_q_731",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Which level of significance would best rule out chance factors?",
+    "options": [
+      ".05",
+      ".01",
+      ".2",
+      ".001"
+    ],
+    "correct_index": 3,
+    "rationale": "Some researchers refer to the level of significance as where “one draws the line” or the “cutoff point” between findings that should or should not be ascribed to chance factors. The significance level must be set low. If, for example, a researcher foolishly set the level at .50, then the odds would be 50–50 that the results were due to pure chance. I guarantee you a reputable journal would never touch an article with statistics like that! If you marked anything other than choice “d,” you also should review question"
+  },
+  {
+    "id": "ch09_q_732",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "When a researcher uses correlation, then there is no direct manipulation of the IV. A researcher might ask, for example, how IQ correlates with the incidence of panic disorder. Again, nothing is manipulated; just measured. In cases such as this a correlation coefficient will reveal",
+    "options": [
+      "the relationship between IQ and panic disorder.",
+      "the probability that a significant difference exists.",
+      "an F test.",
+      "percentile rank."
+    ],
+    "correct_index": 0,
+    "rationale": "A statistic that indicates the degree or magnitude of relationship between two variables is known as a “correlation coefficient” and is often abbreviated using a lower-case r. A coefficient of correlation makes a statement regarding the association of two variables and how a change in one is related to the change in another. Correlations range from 0.00, no relationship, to 1.0 or -1.0 which signify perfect relationships. Important: A positive correlation is not a stronger relationship than a negative one of the same numerical value. A correlation of -.70 is still indicative of a stronger relationship than a positive correlation of .60. The minus sign merely describes the fact that as one variable goes up the other goes down."
+  },
+  {
+    "id": "ch09_q_733",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "If data indicate that students who study a lot get very high scores on state counselor licensing exams, then the correlation between study time and LPC exam scores would be",
+    "options": [
+      "positive.",
+      "negative.",
+      "0.00.",
+      "impossible to ascertain."
+    ],
+    "correct_index": 0,
+    "rationale": "A positive correlation is evident when both variables change in the same direction. A negative correlation is evident when the variables are inversely associated; one goes up and the other goes down. In the scenario for this question the relationship is positive since as study time increases, LPC exam scores also increase. A negative correlation (choice “b”) would be expected when correlating an association like the number of dental cavities and time spent brushing one’s teeth; as brushing time goes up dental cavities probably go down. Choice “c” or a zero correlation indicates an absence of a relationship between the variables in question. Note: Your exam could throw the term biserial correlation at you. This merely indicates that one variable is continuous (i.e., measured using an interval scale) while the other is dichotomous. An example would be evident if you decided to correlate state licensing exam scores to NCC status (here the dichotomy is licensed/unlicensed). If both variables are dichotomous (i.e., two valued) then a phi-coefficient correlation is necessary. Imagine a researcher who wants to correlate NCC status with CCMHC status or perhaps gender with certification status (has certification/does not have certification)."
+  },
+  {
+    "id": "ch09_q_734",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Which of the following would most likely yield a perfect correlation of 1.00?",
+    "options": [
+      "IQ and salary.",
+      "ICD diagnosis and salary.",
+      "Length in inches and length in centimeters.",
+      "Height and weight."
+    ],
+    "correct_index": 2,
+    "rationale": "In the real world, correlations may be strong (e.g., choice “d”), yet they are rarely 1.00. Correlation is concerned with what statisticians call “covariation.” When two variables vary together statisticians say the variables “covary positively,” and when one increases while the other decreases they are said to “covary negatively.”"
+  },
+  {
+    "id": "ch09_q_735",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A good guess would be that if you would correlate the length of CACREP graduates’ baby toes with their CPCE scores the result would be",
+    "options": [
+      "close to 0.00.",
+      "close to a perfect 1.00.",
+      "close to a perfect negative correlation of -1.00.",
+      "be about +.70."
+    ],
+    "correct_index": 0,
+    "rationale": "There is an absence of association here because as one variable changes the other variable varies randomly. The variation of one variable is most likely totally unrelated to the variation of the other."
+  },
+  {
+    "id": "ch09_q_736",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Dr. X discovered that the correlation between therapists who hold NCC status and therapists who practice systematic desensitization is .90. A student who perused Dr. X’s research told his fellow students that Dr. X had discovered that attaining NCC status causes therapists to become behaviorally oriented. The student is incorrect because 318",
+    "options": [
+      "systematic desensitization is clearly not a behavioral strategy.",
+      "this can only be determined via a histogram.",
+      "the study suffers from longitudinal and maturational effects.",
+      "correlation does not imply causal."
+    ],
+    "correct_index": 3,
+    "rationale": "Shout it out: Correlation does not mean causal! Correlational research is quasi-experimental, and hence, it does not yield cause–effect data. A major research study, for example, might discover a very high correlation between the number of college students in a given geographical area and number of smart devices owned. Yet it would certainly be misleading to conclude that owning a lot of smart devices causes one to become a college student. Exam hint: When correlational data describe the nature of two variables, the term bivariate is utilized. If more than two variables are under scrutiny, then the term multivariate is used to describe the correlational paradigm."
+  },
+  {
+    "id": "ch09_q_737",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Behaviorists often utilize N = 1, which is called intensive experimental design. The first step in this approach would be to",
+    "options": [
+      "consult a random number table.",
+      "decide on a nonparametric statistical test.",
+      "take a baseline measure.",
+      "compute the range."
+    ],
+    "correct_index": 2,
+    "rationale": "“N,” or the number of persons being studied, is one. This is a “case study” of one approach. This method is popular with behaviorists who seek overt (measurable) behavioral changes. The client’s dysfunctional behavior is measured (this is called a baseline measure), the treatment is implemented, and then the behavior is measured once again (i.e., another baseline is computed). Exams sometimes delineate this paradigm using upper-case As and Bs and Cs such that As signify baselines, Bs intervention implementation, and Cs a second or alternative form of intervention. Single case investigations are often called “idiographic studies” or “single-subject designs.” The original case study methodology was popularized by Freud, though needless to say, unlike the behaviorists, Freud did not rely on numerical baseline measures. Case studies are often misleading because the results are not necessarily generalizable."
+  },
+  {
+    "id": "ch09_q_738",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In a new study the clients do not know whether they are receiving an experimental treatment for depression or whether they are simply part of the control group. This is, nevertheless, known to the researcher. Thus, this is a",
+    "options": [
+      "double-blind study.",
+      "single-blind study.",
+      "baseline for an intensive N = 1 design.",
+      "participant observer model."
+    ],
+    "correct_index": 1,
+    "rationale": "In the single-blind study the subject would not know whether he or she is a member of the control group or the experimental group. This strategy helps eliminate “demand characteristics” which are cues or features of a study which suggest a desired outcome. In other words a subject can manipulate and confound an experiment by purposely trying to confirm or disprove the experimental hypothesis. Let us say that in the above-referenced experiment a subject is fond of the researcher. And let us further assume that a score on a standardized depression inventory will be used as the DV. Our subject might purposely answer the questions as if he is less depressed than he really is. A subject who disliked the researcher could present himself as even more depressed. Just in case you erroneously chose choice “c,” please notice that the question used the word clients which is plural. N = 1 designs rely on a single individual for investigation purposes. Choice “d” describes a study in which the researcher actually participates in the study, while making observations about what transpired."
+  },
+  {
+    "id": "ch09_q_739",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A large study at a major university gave an experimental group of clients a new type of therapy that was intended to ameliorate test anxiety. The control group did not receive the new therapy. Neither the clients nor the researchers knew which students received the new treatment. This was a",
+    "options": [
+      "double-blind study.",
+      "single-blind study.",
+      "typical AB design.",
+      "case of correlational research."
+    ],
+    "correct_index": 0,
+    "rationale": "A double-blind study goes one step beyond the single-blind version by making certain that the experimenter is also unaware of the subjects’ status. In fact, in the double-blind situation the persons assigned to rate or judge the subjects are often unaware of the hypothesis. This procedure helps eliminate confounding caused by “experimenter effects.” Experimenter effects can flaw an experiment because the experimenter might unconsciously communicate his or her intent or expectations to the subjects. Choice “c,” though incorrect, is a must-know concept. An AB or ABA time-series design is the simplest type of single-subject research and was initially popularized by behavior modifiers in the 1960s and 1970s. (You will recall that Freud used the case study paradigm, but needless to say, did not rely on the AB or ABA model.) Single-subject case studies of various types are once again gaining in popularity. Okay, back to the AB and ABA models that rely on “continuous-measurement.” A baseline is secured (A); intervention is implemented (B); and the outcome is examined via a new baseline (A) in the case of the ABA design. In order to improve the research process, an ABAB design can be utilized to better rule out extraneous variables. If the pattern for the second AB administration mimics that of the first AB, then the chances increase that B (the intervention or so-called treatment) caused the changes rather than an extraneous variable. Some exams will refer to ABA or ABAB paradigms as “withdrawal designs.” The rationale is that the behavior will move in the direction of the initial baseline each time the treatment is withdrawn if the treatment IV is responsible for the change. The ethical counselor must forego using a withdrawal or reversal design (as they are sometimes called) if the removal of the treatment variable could prove harmful to the subject or those who come in contact with the individual. Here, a simple AB or ABA must suffice. Remember that when a researcher employs more than one target behavior, the term multiple-baseline design probably will be used on your exam."
+  },
+  {
+    "id": "ch09_q_740",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Experimental is to cause and effect as correlational is to",
+    "options": [
+      "blind study.",
+      "double-blind study.",
+      "N = 1 design.",
+      "degree of relationship."
+    ],
+    "correct_index": 3,
+    "rationale": "A correlation coefficient is a descriptive statistic which indicates the degree of “linear relationship” between two variables. Statisticians use the phrase “linear relationship” to indicate that when a perfect relationship exists (i.e., a correlation of 1.0 or -1.0) and it is graphed, a straight line is formed (see the Graphical Representations section of this book). The Pearson Product-Moment Correlation r is used for interval or ratio data while the Spearman rho correlation is used for ordinal data. Correlational research is not experimental and hence does not imply causality. So what do you do if your exam sneaks in a question regarding the type of data which must be used with the Pearson r versus the Spearman rho? I’d opt for a memory device. Pearson r, the most common correlation coefficient, uses I and R (interval and ratio data) as in “information and referral.” Spearman rho ends in “o” as in ordinal. Yes you can do well on questions related to this section of the exam!"
+  },
+  {
+    "id": "ch09_q_741",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In a normal curve the mean, the median, and the mode all fall precisely in the middle of the curve. From a graphical standpoint the so-called normal or Gaussian curve (named after the astronomer/mathematician K. F. Gauss) looks like",
+    "options": [
+      "a symmetrical bell.",
+      "the top half of a bowling ball.",
+      "the top half of a hot dog.",
+      "a mountain which is leaning toward the left."
+    ],
+    "correct_index": 0,
+    "rationale": "The normal curve is a theoretical notion often referred to as a “bell-shaped curve.” The bell is symmetrical. Most physical and psychological traits are normally distributed. In other words, if enough data are collected in regard to a given trait, and a frequency polygon is constructed, it will resemble the bell-shaped curve. Curves that are not symmetrical (i.e., those which are asymmetrical) are called “skewed distributions.” (See the Graphical Representations section of this book.) Hot hint: I want you to commit to memory the fact that the 68-95-99.7 rule (the empirical rule) states that in a normal distribution 68% of the scores fall within +/-1 standard deviation (SD) of the mean; 95% within 2 SDs of the mean; and 99.7% within 3 SDs of the mean. The verdict: almost all the scores will fall between 3 SDs of the mean."
+  },
+  {
+    "id": "ch09_q_742",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The most common measures of central tendency are the mean, the median, and the mode. The mode is 321",
+    "options": [
+      "the most frequently occurring score and the least-important measure of central tendency.",
+      "always 10% less than the mean.",
+      "the arithmetic average.",
+      "the middle score in the distribution of scores."
+    ],
+    "correct_index": 0,
+    "rationale": "The mode is the highest or maximum point of concentration. The French phrase à la mode means “in style” or “in vogue.” The mode is the score that is most “in style” or occurs the most. Just remember that pie à la mode has a “high concentration of calories.” The modal score is the highest point on the curve. Hence, a test might tell you that a population of schizophrenics consists of 400 whites, 60 Asian Americans, and 100 African Americans and ask you to pick out the so-called modal category, rather than the modal score. In this case the highest value is held by the white population. Statisticians refer to choice “c” as the “mean” and choice “d” as the “median.”"
+  },
+  {
+    "id": "ch09_q_743",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A bimodal distribution has two modes (i.e., most frequently occurring scores). Graphically, this looks roughly like",
+    "options": [
+      "a symmetrical bell-shaped curve.",
+      "a camel’s back with two humps.",
+      "the top half of a bowling ball.",
+      "a mountain which is leaning toward the left."
+    ],
+    "correct_index": 1,
+    "rationale": "Come on, admit it now, the camel’s back makes a nice little memory device doesn’t it? If you decided to give the NCE to first-year counseling students and counselor educators teaching in CACREP programs, the distribution of scores would probably be bimodal. So would a distribution of men’s and women’s heights. Chances are that in both of the aforementioned situations two peaks would be evident. When a curve exhibits more than two peaks it is known as a “multimodal” distribution. This can be contrasted to the curve with just a single peak (e.g., the normal curve) which is said to be “unimodal” (see the Graphical Representations section of this book)."
+  },
+  {
+    "id": "ch09_q_744",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In a basic curve or so-called frequency polygon the point of maximum concentration is the",
+    "options": [
+      "mean.",
+      "median.",
+      "mode.",
+      "range."
+    ],
+    "correct_index": 2,
+    "rationale": "Say your exam provides you with a list of test scores such as this: 1, 10, 19, 1, 10, 19, 19, 19, 6, 54. You are then asked to delineate the mode. Your answer will simply be determined by finding the score that appears the most, which in this example would be 19 since four individuals scored 19. The mean, choice “a,” would be computed by adding the numbers provided (i.e., the scores) and then dividing by the number of scores which in this case is 10. Here the sum of the scores equals 158 divided by 10 which yields a mean value of 15.8. The median, choice “b,” is defined as the score which is the exact middle of the distribution. (Just remember that the median is in the middle of the highway.) Choice “d,” the range, which is a measure of variability, is the distance between the largest and the smallest scores (i.e., 54 and 1). To compute the range, you would take 54–1 and get a range of 53. The larger the range the greater the dispersion or spread of scores from the mean. Since the computation of the range is based solely on the computation of two scores, the variance and the standard deviation (the square root of the variance) are more stable statistics."
+  },
+  {
+    "id": "ch09_q_745",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The most useful measure of central tendency is the",
+    "options": [
+      "mean, often abbreviated by an X with a bar over it.",
+      "median, often abbreviated by Md. or Mdn.",
+      "mode, often abbreviated by Mo.",
+      "point of maximum concentration."
+    ],
+    "correct_index": 0,
+    "rationale": "In everyday life when we use the word average we are referring to the “mean.” Perhaps this is because in most instances it is the most useful of the three measures of central tendency. Nevertheless, if a distribution is plagued with extreme scores then the “median” is the statistic of choice. The median is best for skewed distributions. If a counselor decides to figure the average income of incoming undergraduate freshmen in a crisis-intervention class, and one of the students is a millionaire, then the median will be a more valuable statistic than the mean since the mean would be raised significantly by the millionaire’s income. And of course, you were able to discern that choice “d” is a definition of choice “c,” mode, which researchers consider the least-important measure of central tendency."
+  },
+  {
+    "id": "ch09_q_746",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In a career counseling session an electrical engineer mentions three jobs he has held. The first paid $10 per hour, the second paid $30 per hour, and the third paid a higher rate of $50 per hour. The counselor responds that the client is averaging $30 per hour. The counselor is using",
+    "options": [
+      "a Pearson Product-Moment Correlation coefficient.",
+      "a factorial design.",
+      "the harmonic mean.",
+      "the mean."
+    ],
+    "correct_index": 3,
+    "rationale": "The mean is the sum of scores divided by the number of scores: $10 + $30 + $50 = $90; $90 divided by three jobs = $30. A factorial design has virtually nothing to do with this question! The term factorial design—which can easily be confused with the term factor analysis—can be used when there are two or more independent variables. Choice “c,” the harmonic mean, refers to a central tendency statistic that is the reciprocal of the arithmetic mean of the reciprocals of the set of values. Say, for example, that your exam asks you to calculate the harmonic mean for three scores of: 2, 2, and 4. First you would convert them to reciprocals: ½, ½, and ¼. The arithmetic mean then is ½ + ½ + ¼ = 1¼ or 1.25/3 = .4166. The reciprocal of this gives you a harmonic mean of 1/.4166. The statistic has limited usage; however, it is occasionally called for if measurements were not made on an appropriate scale (e.g., data revealed the number of behaviors per hour, when the number of minutes per behavior would be more useful). The harmonic cannot be utilized with negative numbers or if the data include a score of zero."
+  },
+  {
+    "id": "ch09_q_747",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "From a mathematical standpoint, the mean is merely the sum of the scores divided by the number of scores. The mean is misleading when",
+    "options": [
+      "the distribution is skewed.",
+      "the distribution has no extreme scores.",
+      "there are extreme scores.",
+      "a and c."
+    ],
+    "correct_index": 3,
+    "rationale": "See question 745 for an explanation."
+  },
+  {
+    "id": "ch09_q_748",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "When a distribution of scores is not distributed normally, statisticians call it",
+    "options": [
+      "Gauss’s curve.",
+      "a symmetrical bell-shaped curve.",
+      "a skewed distribution.",
+      "an invalid distribution."
+    ],
+    "correct_index": 2,
+    "rationale": "Your exam might show you a graphic representation of a distribution and ask you whether the distribution is skewed. In a skewed distribution the left and right side of the curve are not mirror images. In a skewed distribution the mean, the median, and the mode fall at different points. In a normal curve they will fall at the same point (see the Graphical Representations section of this book)."
+  },
+  {
+    "id": "ch09_q_749",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The median is",
+    "options": [
+      "the middle score when the data are arranged from highest to lowest.",
+      "the arithmetic average.",
+      "the most-frequent value obtained.",
+      "never more useful than the mean."
+    ],
+    "correct_index": 0,
+    "rationale": "Use your memory device: the median is the exact “middle of the highway”—it is the “middle score.” In studies measuring variables with extreme scores (e.g., family size or income), the median would be the best statistic. Your exam could specify a distribution of scores and ask you to name the median score. Say, for example, your exam provides these scores: 1, 90, 12, 90, 6, 8, 7. First rank the scores from the lowest to the highest: 1, 6, 7, 8, 12, 90, 90. In this case, the median score is 8 since there are three scores above 8 (12, 90, 90) and three scores below it (1, 6, 7). Now let’s assume that the testconstruction committee isn’t so kind. In fact, maybe they are feeling a little sadistic that day. This time they add another score so there are eight scores rather than seven in the distribution. Now the distribution has an even rather than an odd number of scores. Assume the score of 10 was added. Thus when you rank order the distribution, it now looks like this: 1, 6, 7, 8, 10, 12, 90, 90. Do I hear some head-scratching here—maybe even a tinge of panic? What’s that you say? You can’t find a value that has an equal number of scores above and below it. Well you’re correct—it doesn’t exist. The trick here is to know that the median is a score or a “potential score” that divides the distribution in half. Therefore, when a distribution has an even number of scores, you take the arithmetic mean of the two middle scores and use this as the median. In this case: 8 + 10 = 18 and 18/2 = 9. The median of 9 lies midway between the middle scores of 8 and 10. In some cases, your computation could legitimately yield a fraction (e.g., 9½)."
+  },
+  {
+    "id": "ch09_q_750",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In a new experiment, a counselor educator wants to ferret out the effects of more than one IV. She will use a ________ design.",
+    "options": [
+      "Pearson Product-Moment r.",
+      "Spearman rank order rho",
+      "factorial",
+      "Solomon four-group"
+    ],
+    "correct_index": 2,
+    "rationale": "In a factorial experiment, several experimental variables are investigated and interactions can be noted. Factorial designs, therefore, include two or more IVs. Sometimes the IVs in a factorial design are called levels. Experts admonish you not to let the term levels throw you. It does not connote hierarchy. You could have two levels of the IV such as “individual therapy” and “group therapy” but this does not mean that one is better than another. Choices “a” and “b” are not considered pure experimental. Now even though choice “d” is incorrect, it is indeed a must-know term. In the Solomon four-group design (design created by psychologist Richard L. Solomon) the researcher uses two control groups. Only one experimental group and one control group are pretested. The other control group and experimental group are merely posttested. The genius of the design is that it lets the researcher know if results are influenced by pretesting. The two control groups as well as the two experimental groups can then be compared."
+  },
+  {
+    "id": "ch09_q_751",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Regardless of the shape, the ________ will always be the high point when a distribution is displayed graphically.",
+    "options": [
+      "degrees of freedom (df)",
+      "mean",
+      "median",
+      "mode"
+    ],
+    "correct_index": 3,
+    "rationale": "The mode will be highest because it is the point where the most frequently occurring score falls."
+  },
+  {
+    "id": "ch09_q_752",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A group of first-semester graduate students in counseling took an experimental counseling exam that was much more difficult than the NCE. All of the students scored very low. A distribution of their scores would",
+    "options": [
+      "always be a bimodal distribution.",
+      "be positively skewed.",
+      "be negatively skewed.",
+      "produce a curve with a long tail to the left side of the graph."
+    ],
+    "correct_index": 1,
+    "rationale": "Try to imagine this in your mind or roughly graph it on scratch paper. Most of the scores would fall on the left or the low side of the distribution. Graphically then, the “tail” of the distribution would point to the right or the positive side. Memory device: The tail indicates whether the distribution is positively or negatively skewed (see the Graphical Representations section of this book)."
+  },
+  {
+    "id": "ch09_q_753",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Nine of the world’s finest counselor educators are given an elementary exam on counseling theory. Needless to say, all of them scored extremely high. The distribution of scores would most likely be",
+    "options": [
+      "a bell-shaped curve.",
+      "positively skewed.",
+      "negatively skewed.",
+      "indicative that more information would be necessary."
+    ],
+    "correct_index": 2,
+    "rationale": "Since high scores pack the right side of the distribution, this gives you a long tail that points to the left, which indicates a negative skew. The tail points you in the direction of the correct answer! (See the Graphical Representations section.)"
+  },
+  {
+    "id": "ch09_q_754",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Billy received an 82 on his college math final. This is Billy’s raw score on the test. A raw score simply refers to the number of items correctly answered. A raw score is expressed in the units by which it was originally obtained. The raw score is not altered mathematically. Billy’s raw score indicates that",
+    "options": [
+      "he is roughly a B student.",
+      "he answered 82% correctly.",
+      "his percentile rank is 82.",
+      "more information is obviously necessary."
+    ],
+    "correct_index": 3,
+    "rationale": "Don’t get burnt on a question like this; the fact that Billy scored an 82 tells you next to nothing. Raw data is like a raw piece of meat; it is uncooked and nothing has been done to it. How many questions are on Billy’s test? Well, you don’t know, do you? So, you couldn’t choose choice “b” since you don’t have enough information to figure out the percentage. The question doesn’t specify this critical fact. You see, if Billy scored an 82 on a test with 82 questions, then he had a perfect score. If, however, the exam had several thousand items, his score may not have been all that high. I say “may not have been all that high,” since a raw score of 82 might have been the highest score of anybody tested. You would need a “transformed score” or “standard score” (such as choice “c”) to make this determination. Okay, now memorize this: The benefit of standard scores such as percentiles, t-scores, z-scores, stanines, or standard deviations over raw scores is that a standard score allows you to analyze the data in relation to the properties of the normal bell-shaped curve."
+  },
+  {
+    "id": "ch09_q_755",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A distribution with class intervals can be graphically displayed via a bar graph also called a",
+    "options": [
+      "histogram.",
+      "sociogram.",
+      "genogram.",
+      "genus."
+    ],
+    "correct_index": 0,
+    "rationale": "Most bar graphs are drawn in a vertical fashion. When the bars are drawn horizontally it is sometimes called a “horizontal bar chart.” A “double-barred histogram” can be used to compare two distributions of scores such as pre- and posttest scores (see Chapter 13)."
+  },
+  {
+    "id": "ch09_q_756",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "When a horizontal line is drawn under a frequency distribution it is known as",
+    "options": [
+      "mesokurtic.",
+      "the y axis.",
+      "the ordinate.",
+      "the x axis."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” is from the Latin root “meso” or middle, and kurtic refers to the peakedness of a curve. The normal Gaussian curve is said to be mesokurtic since the peak is in the middle. When graphically representing data, the “x axis” (also called the abscissa) is used to plot the independent variable. The x axis is the horizontal axis. The “y axis” (also called the ordinate) is the vertical axis which is used as a scale for the dependent variable."
+  },
+  {
+    "id": "ch09_q_757",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The x axis is used to plot the IV scores. The x axis could also be called the _______ on your exam.",
+    "options": [
+      "y axis",
+      "abscissa",
+      "DV",
+      "vertical axis"
+    ],
+    "correct_index": 1,
+    "rationale": "Again, it is the horizontal axis which plots the IV—the factor manipulated via the experimenter."
+  },
+  {
+    "id": "ch09_q_758",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The y axis is used to plot the frequency of the DVs. The y axis could also be called the ______ on your exam. 327",
+    "options": [
+      "ordinate",
+      "abscissa",
+      "IV",
+      "horizontal axis"
+    ],
+    "correct_index": 0,
+    "rationale": "The ordinate plots the DV or experimental data. A simple memory device might be that the y axis is vertical like the letter “y.” It works for me and a lot of students."
+  },
+  {
+    "id": "ch09_q_759",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "If a distribution is bimodal, then there is a good chance that",
+    "options": [
+      "the curve will be normal.",
+      "the curve will be shaped like a symmetrical bell.",
+      "the researcher is working with two distinct populations.",
+      "the research is useless in the field of counseling."
+    ],
+    "correct_index": 2,
+    "rationale": "Imagine if you will that you are plotting the average weights of adult men and boys under the age of 10. In all probability, two distinct points of concentration would be evident on the curve (see Chapter 13)."
+  },
+  {
+    "id": "ch09_q_760",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "If an experiment can be replicated by others with almost identical findings, then the experiment is",
+    "options": [
+      "impacted by the observer effect.",
+      "said to be a naturalistic observation.",
+      "the result of ethological observation.",
+      "said to be reliable."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” refers to a situation in which the person observing in a participant observer research study influences/alters the situation. You will recall that the term reliability in the social sciences is also used in regard to testing to indicate consistency in measurement. Choice “b” occurs when clients are observed in a “natural” setting or situation. Choice “c” relates to the observation of animals."
+  },
+  {
+    "id": "ch09_q_761",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The range is a measure of variance and usually is calculated by determining the difference between the highest and the lowest score. Thus, on a test where the top score was a 93 and the lowest score was a 33 out of 100, the range would be",
+    "options": [
+      "61.",
+      "77.",
+      "59.",
+      "more information is necessary."
+    ],
+    "correct_index": 0,
+    "rationale": "The range is the simplest way to measure the spread of scores. Technically, statistics that measure the spread of scores are known as “measures of variability.” The range is usually calculated by subtracting the lowest score from the highest score (e.g., 93 - 33 = 60). But wait: horrors, 60 is not a choice! Well, I purposely gave you this example to point out that some tests and statistics books define the range as the highest score minus the lowest score plus 1. If the test specifies the “inclusive range” then use the formula with plus 1. If not, I’d go with the “exclusive range” formula, which does not include it. My guess is that most counseling tests would give you either 60 or 61 as a choice (probably 60) but not both."
+  },
+  {
+    "id": "ch09_q_762",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A sociogram is to a counseling group as a scattergram is to",
+    "options": [
+      "the normal curve.",
+      "the range.",
+      "a correlation coefficient.",
+      "the John Henry effect."
+    ],
+    "correct_index": 2,
+    "rationale": "A scattergram—also known as a scatterplot—is a pictorial diagram or graph of two variables being correlated (see the Graphical Representations section of this book). And yes, my dear reader, choice “d” is for real. There really is a John Henry effect. The John Henry effect (also called compensatory rivalry of a comparison group) is a threat to the internal validity of an experiment that occurs when subjects strive to prove that an experimental treatment that could threaten their livelihood really isn’t all that effective. (An old railroad song asserts that John Henry died with a steam drill in his hand to prove he could outwork the machine.) Say, for example, that counselor educators were asked to use computers as part of the teaching experience but were worried that the computers might ultimately take their jobs! The counselor educators in the comparison control group might purposely spend more time preparing their materials and give students more support than they normally would. One way for the researcher to handle this problem is to make observations before the experiment begins. Another control group phenomenon that threatens internal validity in research is the “Resentful Demoralization of the Comparison Group” (also called “compensatory equalization”). Here, the comparison group lowers their performance or behaves in an inept manner because they have been denied the experimental treatment. When this occurs, the experimental group looks better than they should. If the comparison group deteriorates throughout the experiment while the experimental group does not, then demoralization could be noted. This could be measured via a pretest and a posttest."
+  },
+  {
+    "id": "ch09_q_763",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A counselor educator is teaching two separate classes in individual inventory. In the morning class the counselor educator has 53 students and in the afternoon class she has 177 students. A statistician would expect that the range of scores on a test would be",
+    "options": [
+      "greater in the afternoon class than the morning class.",
+      "smaller in the afternoon class.",
+      "impossible to speculate about without more data.",
+      "nearly the same in either class."
+    ],
+    "correct_index": 0,
+    "rationale": "The range generally increases with sample size."
+  },
+  {
+    "id": "ch09_q_764",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The variance is a measure of dispersion of scores around some measure of central tendency. The variance is the standard deviation squared. A popular IQ test has a standard deviation (SD) of 15. A counselor would expect that if the mean IQ score is 100, then",
+    "options": [
+      "the average score on the test would be 122.",
+      "95% of the people who take the test will score between 85 and 115.",
+      "99% of the people who take the test will score between 85 and 115.",
+      "68% of the people who take the test will score between 85 and 115."
+    ],
+    "correct_index": 3,
+    "rationale": "Statistically speaking 68.26% of the scores fall within + or -1 SD of the mean; 95.44% of the scores fall within + or -2 SD of the mean; and 99.74% of the scores fall within +/-3 SD of the mean."
+  },
+  {
+    "id": "ch09_q_765",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Using the data in question 764 one could say that a person with an IQ score of 122 would fall within",
+    "options": [
+      "+ or -1 SD of the mean.",
+      "the average IQ range.",
+      "an IQ score which is more that 2 SD above the mean.",
+      "+ or -2 SD of the mean."
+    ],
+    "correct_index": 3,
+    "rationale": "Two SD would be IQs from 70 to 130 since 2 SD would be 30 IQ points. Please note that if everybody scored the same on the test then the SD would be zero. An SD, for example, of 1.8 has scores closer to the mean (i.e., not as spread out or scattered) than an SD of 2.8. The greater the SD, the greater is the spread."
+  },
+  {
+    "id": "ch09_q_766",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The standard deviation (SD) is the square root of the variance. A z-score of +1 would be the same as",
+    "options": [
+      "1 SD above the mean.",
+      "1 SD below the mean.",
+      "the same as a so-called t-score.",
+      "the median score if the population is normal."
+    ],
+    "correct_index": 0,
+    "rationale": "Z-scores are the same as standard deviations! In fact, z-scores are often called standard scores. Write it on your wrist and don’t wash it off for a week. A z-score is the most elementary type of standard score. It is possible your exam will refer to it merely as a standard score. Just say it in slang: “z-score” (sounds rather like saying “the score”) is simply the SD. A z-score of +1 or 1 SD would include about 34% of the cases in a normal population. For those with a fear of negative integers, the normal distribution also can be described using t-scores sometimes called “transformed scores.” The t-score uses a mean of 50 with each SD as 10. Hence, a z-score of -1.0 would be a t-score of 40. A z-score of -1.5 would be a tscore of 35 and so on. If double digit figures intimidate you, then you might want to analyze the normal distribution using a “stanine” score which divides the distribution into nine equal parts with 1 the lowest and 9 the highest portion of the curve. (See Chapter 13)."
+  },
+  {
+    "id": "ch09_q_767",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Z-scores (also called standard scores) are the same as standard deviations, thus a z-score of -2.5 means",
+    "options": [
+      "2.5 SD below the mean.",
+      "2.5 SD above the mean.",
+      "a CEEB score of 500.",
+      "–.05% of the population falls within this area of the curve."
+    ],
+    "correct_index": 0,
+    "rationale": "This would be a t-score of 25. Now, let’s examine choice “c” which expresses the abbreviation for the College Entrance Examination Board (CEEB) scores. This standard score is used for tests such as the GRE or the SAT. The scale ranges from 200 to 800 with a mean of 500. CEEB scores use a standard deviation of 100. Scores lower than 200 or above 800 are simply rated as end-point scores. A score of 200 corresponds to 3 SD below the mean with 800 landing at a point 3 SD above the mean. Therefore, in this case, choice “c” would need to read “a CEEB score of 250” to be accurate. (That is to say, you would take the CEEB mean of 500 and subtract 2½ SD. Since each SD on the CEEB scale is 100 you would subtract 250 from 500 which gives you a CEEB score of 250.) It is conceivable that your exam could refer to a CEEB score as an ETS score and the scale was created to eliminate negative scores. (See Chapter 13)"
+  },
+  {
+    "id": "ch09_q_768",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A t-score is different from a z-score. A z-score is the same as the SD. A t-score, however, has a mean of 50 with every 10 points landing at a SD above or below the mean. Thus a t-score of 60 would equal +1 SD while a t-score of 40 would be",
+    "options": [
+      "–2 SD.",
+      "–1 SD.",
+      "a z-score of +2.",
+      "a z-score of +1."
+    ],
+    "correct_index": 1,
+    "rationale": "Note that the t-score isn’t as mathematically threatening since it is never expressed as a negative number. Choice “a” would be a t-score of 30, choice “c” a t-score of 70, and choice “d” a t-score of 60. Here again, a look at the normal curve displayed in the Graphical Representations section of the book should be helpful."
+  },
+  {
+    "id": "ch09_q_769",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "An IQ score on an IQ test which was 3 SD above the mean would be",
+    "options": [
+      "about average.",
+      "slightly below the norm for adults.",
+      "approximately 110.",
+      "very superior."
+    ],
+    "correct_index": 3,
+    "rationale": "Think of it this way. Over 99% of the population will score between + or -3 SD of the mean. Therefore, less than 1% of the population would score at a level 3 SD above the mean. Now that would be a very high IQ score; 145 on the WAIS-IV to be exact. Lewis M. Terman, a pioneer in the study of intelligence, classified any children with IQs over 140 as “geniuses.”"
+  },
+  {
+    "id": "ch09_q_770",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A platykurtic distribution would look approximately like",
+    "options": [
+      "the upper half of a bowling ball.",
+      "the normal distribution.",
+      "the upper half of a hot dog, lying on its side over the abscissa.",
+      "a camel’s back."
+    ],
+    "correct_index": 2,
+    "rationale": "If you see the word kurtosis on your exam, it refers to the peakedness of a frequency distribution. A “platykurtic” distribution is flatter and more spread out than the normal curve. This is easy to remember if you consider that “plat” sounds rather like “flat.” When a curve is very tall, thin, and peaked it is considered “leptokurtic.” Suggested memory device: A leptokurtic distribution leaps tall buildings in a single bound. Well, Superman fans, how about it; does that do it justice? (See Chapter 13.)"
+  },
+  {
+    "id": "ch09_q_771",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Test scores on an exam that fell below 3 SD of the mean or above 3 SD of the mean could be described as",
+    "options": [
+      "extreme.",
+      "very typical or within the average range.",
+      "close to the mean.",
+      "very low scores."
+    ],
+    "correct_index": 0,
+    "rationale": "If you graph this situation you will note that these scores would be unusually high (which negates choices “b,” “c,” and “d”) or very low."
+  },
+  {
+    "id": "ch09_q_772",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In World War II the Air Force used stanine scores as a measurement. Stanine scores divide the distribution into nine equal intervals with stanine 1 as the lowest ninth and 9 as the highest ninth. In this system 5 is the mean. Thus a Binet IQ score of 101 would fall in stanine",
+    "options": [
+      "1.",
+      "9.",
+      "5.",
+      "7."
+    ],
+    "correct_index": 2,
+    "rationale": "Stanine is the contraction of the words standard and nine. The mean or average score on the Binet is 100, so a Binet score of 101 would fall in stanine 5. (See Chapter 13.)"
+  },
+  {
+    "id": "ch09_q_773",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "There are four basic measurement scales: the nominal, the ordinal, the interval, and the ratio. The nominal scale is strictly a qualitative scale. It is the simplest type of scale. It is used to distinguish logically separated groups. Which of the following illustrates the function of the nominal scale?",
+    "options": [
+      "A horse categorized as a second-place winner in a show.",
+      "A DSM or ICD diagnostic category.",
+      "An IQ score of 111.",
+      "The weight of an Olympic barbell set."
+    ],
+    "correct_index": 1,
+    "rationale": "The order of complexity of S. S. Stevens’s four types of measurement scales can be memorized by noting the French word noir meaning black (nominal, ordinal, interval, ratio). Parametric tests rely strictly on interval and ratio data, while nonparametric tests are designed only for nominal or ordinal information. The nominal scale is the most elementary as it does not provide “quantitative” (measurable) information. The nominal scale merely classifies, names, labels, or identifies by group (choice “b” is thus correct). A nominal scale has no true zero point and does not indicate order. Other examples would be a street address, telephone number, political party affiliation, brand of therapy, or number on a player’s uniform. Adding, subtracting, multiplying, or dividing the aforementioned nominal categories would prove meaningless."
+  },
+  {
+    "id": "ch09_q_774",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The ordinal scale rank orders variables, though the relative distance between the elements is not always equal. An example of this would be",
+    "options": [
+      "a horse categorized as a second-place winner in a race.",
+      "an IQ score of 111.",
+      "the weight of an Olympic barbell set.",
+      "a temperature of 78 degrees Fahrenheit."
+    ],
+    "correct_index": 0,
+    "rationale": "This is the second level of measurement. Nominal data do not rank order the data like ordinal data. The rank does not indicate absolute differences. Thus, you could not say that the first-, second-, and third-place horses were equidistant apart. The ordinal scale provides relative placement or standing but does not delineate absolute differences. Again, adding, subtracting, multiplying, or dividing is a no-no with this scale. Ordinal sounds like “order” so you should have no problem committing this scale to memory."
+  },
+  {
+    "id": "ch09_q_775",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The interval scale has numbers scaled at equal distances but has no absolute zero point. Most tests used in school fall into this category. You can add and subtract using interval scales but cannot multiply or divide. An example of this would be that",
+    "options": [
+      "an IQ of 70 is 70 points below an IQ of 140, yet a counselor could not assert that a client with an IQ of 140 is twice as intelligent as a client with an IQ of 70. 333",
+      "a 20 lb weight is half as heavy as a 40 lb weight.",
+      "a first-place runner is three times as fast as the third-place finisher.",
+      "a baseball player with number 9 on his uniform can get 9 times more hits than player number 1."
+    ],
+    "correct_index": 0,
+    "rationale": "Since the intervals are the same, the amount of difference can be stipulated (e.g., three IQ points). Using this scale, distances between each number are equal yet it is unclear how far each number is from zero. Division is not permissible inasmuch as division assumes an absolute zero. (If you had an absolute zero then you could in fact assert that a person with an IQ of 140 would be twice as smart as someone with an IQ of 70. But of course, zero on an IQ test does not equal zero knowledge; hence, IQ tests provide interval measurement.)"
+  },
+  {
+    "id": "ch09_q_776",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A ratio scale is an interval scale with a true zero point. Ratio measurements are possible using this scale. Addition, subtraction, multiplication, and division all can be utilized on a ratio scale. In terms of counseling research",
+    "options": [
+      "the ratio scale is the most practical.",
+      "all true studies utilize the ratio scale.",
+      "a and b.",
+      "most psychological attributes cannot be measured on a ratio scale."
+    ],
+    "correct_index": 3,
+    "rationale": "If you remember your memory device “noir” you’ll recall that the final letter “r” stands for the ratio scale, which is the highest level of measurement. Time, height, weight, temperature on the Kelvin scale, volume, and distance meet the requirements of this scale. Please note the word most in the correct choice (i.e., choice “d”). Occasionally, a trait such as GSR (galvanic skin response) biofeedback could be classified as a ratio scale measurement. Since most measurements used in counseling studies do not qualify as ratio scales, choices “a” and “b” are misleading."
+  },
+  {
+    "id": "ch09_q_777",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Researchers often utilize naturalistic observation when doing ethological investigations or studying children’s behavior. In this approach",
+    "options": [
+      "the researcher manipulates the IV.",
+      "the researcher manipulates the IV and the DV.",
+      "the researcher does not manipulate or control variables.",
+      "the researcher will rely on a 2 × 3 factorial design."
+    ],
+    "correct_index": 2,
+    "rationale": "When utilizing naturalistic observation the researcher does not intervene. Preferably, the setting is “natural” rather than an artificial laboratory environment. Historically speaking, this is the oldest method of research. Choice “d” indicates a study using two independent variables. The 2 × 3 is called factorial notation. The first variable has two levels (e.g., male or female) and the second independent variable has three levels."
+  },
+  {
+    "id": "ch09_q_778",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The simplest form of descriptive research is the ________, which requires a questionnaire return or completion rate of ________ to be accurate.",
+    "options": [
+      "survey; 5%",
+      "survey; 10–25%",
+      "survey; 50–75%",
+      "survey; 95%"
+    ],
+    "correct_index": 2,
+    "rationale": "Unfortunately, it has been estimated that in most surveys the return rate hovers around the 40% mark. In a survey, the researcher attempts to gather large amounts of data, often utilizing a questionnaire or an interview, in order to generate generalizations regarding the behavior of the population as a whole. Ideally, the sample size will be at least 100. (Compare this to an experimental study which can generally get by with a sample size of 15 per group.) A public opinion poll such as the Gallup is an example of a survey. Survey problems include: poor construction of the instrument, a low return rate, and the fact that often subjects are not picked at random and thus are not representative of the population."
+  },
+  {
+    "id": "ch09_q_779",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher gives a depressed patient a sugar pill and the individual’s depression begins to lift. This is known as",
+    "options": [
+      "the Hawthorne effect.",
+      "the Halo effect.",
+      "the placebo effect.",
+      "the learned helplessness syndrome."
+    ],
+    "correct_index": 2,
+    "rationale": "A student once told me that while he was preparing for final exams his roommate suggested that he “pop a couple uppers” for energy. The student did indeed pop the pills, studied like a whirlwind, and aced all his finals. He was sold on the pills until his roommate discovered that the two amphetamine capsules were still sitting on the table—the student had swallowed two ordinary breath mints lying next to the drugs! The student thought the pills would work and so they did. Researchers often give clients involved in studies an inert substance (i.e., a placebo such as a gelatin capsule) so it can be compared with the real drug or treatment procedure. A nocebo, on the other hand, has a negative effect such as when a doctor comments that a person with such and such condition has only six weeks to live. If this happens to you or one of your clients always remember that a statistic may not apply to you personally. The fact that the average counselor at your agency wears a size 9 shoe is meaningless to you if you wear a size 7."
+  },
+  {
+    "id": "ch09_q_780",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher notes that a group of clients who are not receiving counseling, but are observed in a research study, are improving. Her hypothesis is that the attention she has given them has been curative. The best explanation of their improvement would be",
+    "options": [
+      "the Hawthorne effect. 335",
+      "the Halo effect.",
+      "the Rosenthal effect.",
+      "a Type II error in the research."
+    ],
+    "correct_index": 0,
+    "rationale": "Ah yes, this relates to the famous study by Australian psychologist Elton Mayo and Fritz Roethlisberger and colleagues that took place from 1924 to 1932 at the Hawthorne Works of the Western Electric Company, Cicero, Illinois. The research indicated that work production tended to increase with better lighting or worse lighting conditions. The verdict: Simply that if subjects know they are part of an experiment—or if they are given more attention because of the experiment—their performance sometimes improves. When observations are made and the subjects’ behavior is influenced by the very presence of the researcher, it is often called a “reactive effect” or “reactivity” of observation/experimentation. The subject is said to be reacting to the presence of the investigation. As I mentioned in question 760, this is sometimes known as an observer effect. A comprehensive test without at least one question on the Hawthorne effect—no way!"
+  },
+  {
+    "id": "ch09_q_781",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "An elementary school counselor tells the third-grade teacher that a test revealed that certain children will excel during the school year. In reality, no such test was administered. Moreover, the children were unaware of the experiment. By the end of the year, all of the children who were supposed to excel did excel! This would best be explained via",
+    "options": [
+      "the Hawthorne effect.",
+      "the Halo effect.",
+      "the Rosenthal effect or the experimenter expectancy effect.",
+      "observer bias."
+    ],
+    "correct_index": 2,
+    "rationale": "Well, forget the Hawthorne effect this time around since the kids don’t even know an experiment is in progress. Here the “Rosenthal effect” or experimenter expectancy effect is probably having the impact. The Rosenthal effect, named after noted psychologist Robert Rosenthal, and no relation to this author, asserts that the experimenter’s beliefs about the individual may cause the individual to be treated in a special way so that the individual begins to fulfill the experimenter’s expectations. Hint: When you see the Hawthorne effect question on your exam you can bet that the Rosenthal effect question is within shouting distance. Choice “d” is self-explanatory. The observer has perceptions regarding the research that are not accurate."
+  },
+  {
+    "id": "ch09_q_782",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A panel of investigators discovered that a researcher who completed a major study had unconsciously rated attractive females as better counselors. This is an example of",
+    "options": [
+      "the Hawthorne effect.",
+      "the Halo effect.",
+      "the Rosenthal effect.",
+      "trend analysis."
+    ],
+    "correct_index": 1,
+    "rationale": "The Halo effect occurs when a trait which is not being evaluated (e.g., attractiveness or how well he or she is liked) influences a researcher’s rating on another trait (e.g., counseling skill). Choice “d,” trend analysis, refers to a statistical procedure performed at different times to see if a trend is evident. Some exams use the term to describe an application of the ANOVA to see if performance on one variable mimics the same trend on a second variable. Say you have arranged three groups of subjects in regard to their ability to respond to reality therapy (i.e., poor clients, average clients, and good clients). Your hypothesis is that clients at each level also will respond better to REBT than will those on the level below them. (For example, good reality therapy clients will be better REBT clients than average or poor reality therapy clients.) Here the ANOVA allows you to statistically test this hypothesis."
+  },
+  {
+    "id": "ch09_q_783",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "All of the following describe the analysis of covariance technique except:",
+    "options": [
+      "It is a correlation coefficient.",
+      "It controls for sample differences which exist.",
+      "It helps to remove confounding, extraneous variables.",
+      "It statistically eliminates differences in average values influenced by covariates."
+    ],
+    "correct_index": 0,
+    "rationale": "Just what is the analysis of covariance or the ANCOVA/ANACOVA as they say in statistical circles? First and foremost, the ANCOVA is similar to the ANOVA yet more powerful because it can help to eliminate differences between groups which otherwise could not be solely attributed to the experimental IVs. In other words, although ideally each random sample will be equal to every other random sample this is not always the case. A so-called COVARIATE, which correlates with the DV, could be present. Let’s take this very simple example. Imagine that you are using an ANOVA to test the null hypothesis regarding three groups of college students. First, a random sample of college students is selected. Next, the sample is randomly divided into three groups. Group A receives biofeedback, Group B receives meditation, and Group C receives instruction in self-hypnosis. All are intended to reduce test anxiety. At the end of the semester a test which measures test anxiety will be administered to all three groups. The ANOVA would then be applied to test the null hypothesis. Null, of course, would be rejected if a significant difference between the three groups’ means was evident on the test anxiety measure. Here comes the problem, however; your random groups, as pointed out earlier, may not really be all that identical. You might suspect, for example, that athletic training is a covariate and thus impacts upon the measure of test anxiety; your DV. The ANCOVA allows you to correct for the differences in the groups (possibly due to prior athletic training). By making the groups more alike upfront, it will enhance the possibility that the IVs (biofeedback, meditation, and selfhypnosis instruction) rather than a covariate, such as athletic training, caused the differences (i.e., the DVs) in the groups. In summary, the ANCOVA tests a null hypothesis regarding the means of two or more groups after the random samples are adjusted to eliminate average differences. It is often referred to as an “adjusted average” statistical procedure. The ANCOVA is an advanced technique and thus there might be one question on it on an exam like the NCE or CPCE hence, I wouldn’t waste a great deal of time attempting to master all the nuances of this procedure."
+  },
+  {
+    "id": "ch09_q_784",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Three years ago an inpatient addiction treatment center in a hospital asked their clients if they would like to undergo an archaic form of therapy created by Wilhelm Reich known as “vegotherapy.” Approximately half of the clients stated they would like try the treatment while the other 50% stated that they would stick with the tried-and-true program of the center. Outcome data on their drinking was compiled at the end of seven weeks. Today—three years later—a statistician compared the two groups based on their drinking behavior at the end of the seven weeks using a t test. This study could best be described as",
+    "options": [
+      "correlation research.",
+      "a true experiment.",
+      "a cohort study.",
+      "causal comparative research."
+    ],
+    "correct_index": 3,
+    "rationale": "Since the groups were not randomly assigned and the current researcher did not truly control the IV in the study (since it took place three years ago), “d” is the best answer. Just for the record a cohort study examines people who were born at the same time (or shared an event; for example, fought in Vietnam) in regard to a given characteristic. For example, one might wish to discover how many women born during the Great Depression that began in 1929 committed suicide."
+  },
+  {
+    "id": "ch09_q_785",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "The WAIS-IV IQ test is given to 100 adults picked randomly. How many of the adults most likely would receive an IQ score between 85 and 115?",
+    "options": [
+      "7.",
+      "99.",
+      "95.",
+      "68."
+    ],
+    "correct_index": 3,
+    "rationale": "This is really an easy question to answer if you remember that in a normal distribution approximately 68% of the population will fall between +/-1 SD of the mean. One SD on most popular IQ tests is 15 or 16, and the mean score is generally 100. Choice “c” is indicative of +/-2 SD, while choice “b” approximates +/-3 SD."
+  },
+  {
+    "id": "ch09_q_786",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher creates a new motoric test in which clients throw a baseball at a target 40 feet away. Each client is given 100 throws, and the mean on the test is 50. (In other words, out of 100 throws the mean number of times the client will hit the target is 50 times.) Sam took the test and hit the target just two times out of the 100 throws allowed. Jeff, on the other hand, hit the target an amazing 92 times out of 100 trials. Using the concept of statistical regression toward the mean the research would predict that",
+    "options": [
+      "Sam’s and Jeff’s scores will stay about the same if they take the test again.",
+      "Sam and Jeff will both score over 95 next time. 338",
+      "Sam’s score will increase while Jeff’s will go down.",
+      "Sam will beat Jeff if they both are tested again."
+    ],
+    "correct_index": 2,
+    "rationale": "Statistical regression is a threat to internal validity. Statistical regression predicts that very high and very low scores will move toward the mean if a test is administered again. This concept is based on “the law of filial regression,” which is a genetic principle that asserts that generational traits move toward the mean. If a father is 7 feet tall, then the chances are that his son will be shorter (though still much taller than the average person), whereas if a father is 4 feet, 10 inches, chances are his son will have a few inches on his father. The statistical analogy suggests that extremely low scores on an exam or a pretest will improve while the unusually high scores will get lower. Statistical regression results from errors (i.e., lack of reliability) in measurement instruments and must be taken into account when interpreting test data. Now as for alternative “d” I can only say don’t bet on it. Most scores don’t change that much, and although Sam’s score will probably inch up a bit and Jeff’s will lose a little ground, Sam will probably still be in the lower quartile and Jeff the upper quartile. You must know the statistical lingo: the term quartile is common and refers to the points that divide a distribution into fourths. This indicates that the 25th percentile is the first quartile, the second quartile is the median, and the third lies at the 75th percentile. The score distance between the 25th percentile and the 75th percentile is called the interquartile range."
+  },
+  {
+    "id": "ch09_q_787",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Standardized tests always have",
+    "options": [
+      "formal procedures for test administration and scoring.",
+      "a mean of 100 and an SD of 15.",
+      "a mean of 100 and a standard error of measurement of 3.",
+      "a reliability coefficient of +.90 or above."
+    ],
+    "correct_index": 0,
+    "rationale": "Standardization implies that the testing format, the test materials, and the scoring process are consistent."
+  },
+  {
+    "id": "ch09_q_788",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "There are two distinct types of developmental studies. In a cross-sectional study, clients are assessed at one point in time. In a longitudinal study, however,",
+    "options": [
+      "the researcher has an accomplice pose as a client and act in a certain manner.",
+      "the same people are studied over a period of time.",
+      "the researcher relies on a single observation of a variable being investigated.",
+      "all of the above."
+    ],
+    "correct_index": 1,
+    "rationale": "Some exams refer to the cross-sectional method as the “synchronic method” and the longitudinal as the “diachronic method.” The longitudinal study is beneficial in the sense that age itself can be used as an IV. In a longitudinal study, data are collected at different points in time. In the cross-sectional method, data are indicative of measurements or observations at a single point in time, and thus it is preferable in terms of time consumption. The person in choice “a” is known as a “confederate” or a “stooge.” Social psychology studies routinely employ “confederates” or “stooges,” who are not real participants but in reality work with the researcher."
+  },
+  {
+    "id": "ch09_q_789",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A counselor educator, Dr. Y, is doing research on his classes. He hypothesizes that if he reinforces students in his morning class by smiling each time a student asks a relevant question, then more students will ask questions and exam grades will go up. Betty and Linda accidentally overhear Dr. Y discussing the experiment with the department chair. Betty is a real people pleaser and decides that she will ask lots of questions and try to help Dr. Y confirm his hypothesis. Linda, nevertheless, is angry that she is being experimented on and promises Betty that Dr. Y could smile until the cows came in but she still wouldn’t ask a question. Both Linda and Betty exemplify",
+    "options": [
+      "internal versus external validity.",
+      "ipsative versus normative interpretation of test scores.",
+      "the use of the nonparametric chi-square test.",
+      "demand characteristics of experiments."
+    ],
+    "correct_index": 3,
+    "rationale": "Ipsative implies a within-person analysis (was your jog today faster than yesterday?) rather than a normative analysis between individuals. In other words, are you looking at an individual’s own patterns revealed via measurement (e.g., highs and lows) or whether his or her score is compared to others evaluated by the same measure. The former is “ipsative” while the latter is “normative.” Choice “c” mentions what is perhaps the most popular nonparametric (i.e., a distribution which is not normal) statistical test, the chi-square. The chi-square—threatening as it sounds—is merely used to determine whether an obtained distribution differs significantly from an expected distribution. A chi-square might answer the question whether being a counseling major or a social work major determines if you will seek therapy for an elevator phobia. You must be able to have mutually exclusive categories to use the chi-square (such as “will seek therapy” or “won’t seek therapy”). The answer to this question, nevertheless, is choice “d.” A demand characteristic relates to any bit of knowledge—correct or incorrect—that the subject in an experiment is aware of that can influence his or her behavior. Demand characteristics can confound an experiment. Deception has been used as a tactic to reduce this dilemma."
+  },
+  {
+    "id": "ch09_q_790",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "If an ANOVA yields a significant F value, you could rely on ________ to test significant differences between group means.",
+    "options": [
+      "one- and two-tailed t tests",
+      "percentile rank",
+      "Duncan’s multiple-range, Tukey’s, or Scheffe’s test",
+      "summative or formative evaluation"
+    ],
+    "correct_index": 2,
+    "rationale": "Choice “a” refers to whether a statistical test places the rejection area at one end of the distribution (one-tailed) or both ends of the distribution curve (two-tailed). A two-tailed test is often called a “nondirectional experimental hypothesis,” while a one-tailed test is a “directional experimental hypothesis.” In a one-tailed test your hypothesis specifies that one average mean is larger than another. So, a two-tailed hypothesis would be, “The average patient who has completed psychoanalysis will have a statistically different IQ from the average patient who has not received analysis.” The one-tailed hypothesis would be, “The average patient who has completed psychoanalysis will have a statistically significantly higher IQ than the average patient who has not received analysis.” When appropriate, onetailed tests have the advantage of having more “power” than the two-tailed design (i.e., the statistical ability to reject correctly a false hypothesis). In choice “d” you should be aware that summative evaluation is used to assess a final product (e.g., how many high school students are not indulging in alcoholic beverages after completing a yearly program focusing on drug awareness education?). Summative research attempts to ascertain how well the goal has been met. Formative process research, on the other hand, is ongoing while the program is underway (e.g., after three weeks of a proposed year-long drug awareness education program how many high school students are taking drugs?). The correct answer to this question, of course, is alternative “c.” An F test for the ANOVA is analogous to the student’s t test table when performing a t test. In order to further discriminate between the ANOVA groups the post hoc measures mentioned in choice “c” would be appropriate."
+  },
+  {
+    "id": "ch09_q_791",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Switching the order in which stimuli are presented to a subject in a study is known as",
+    "options": [
+      "the Pygmalion effect.",
+      "counterbalancing.",
+      "ahistoric therapy.",
+      "multiple treatment interference."
+    ],
+    "correct_index": 3,
+    "rationale": "Let choice “a” come as no surprise if it shows up on your exam. The Rosenthal/Experimenter effect often shows up wearing this name tag. The experimenter falls in love with his or her own hypothesis and the experiment becomes a self-fulfilling prophecy. Choice “b,” the correct answer, is used to control for the fact that the order of an experiment could impact upon its outcome. The solution is merely to change the order of the experimental factors. Choice “c,” “ahistoric therapy,” connotes any psychotherapeutic model that focuses on the here and now rather than the past. This of course has nothing to do with answering the question. Choice “d” warns us that if a subject receives more than one treatment, then it is often tough to discern which modality truly caused the improvements."
+  },
+  {
+    "id": "ch09_q_792",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A doctoral student who begins working on his bibliography for his thesis would most likely utilize",
+    "options": [
+      "SPSS.",
+      "ERIC, for primary and secondary resources.",
+      "O*NET.",
+      "a random number table or random number-generation computer program."
+    ],
+    "correct_index": 1,
+    "rationale": "(b) Here’s a must-know question for anyone seriously contemplating a thesis or dissertation. The Educational Resources Information Center (ERIC), www.eric.ed.gov/, is a resource bank of scholarly literature and resources to help you complete your literature search before you begin writing. So what’s the scoop on the primary and secondary stuff? Glad you asked! If you say that Ellis said such and such and reference a book Ellis wrote then the resource or documentation is primary. If you say that Ellis said such and such and quote a general counseling text then the resource is considered secondary. The Statistical Package for the Social Sciences (SPSS) is a popular computer software program that can ease the pain of computing your statistics by hand in case you happen to have an aversion to numbers (e.g., a t test, correlation, or ANOVA). Actually, most large studies do rely on computers since they are faster and more accurate than scratch paper calculations. And if you marked choice “c” then you must have slept through my chapter on career development!"
+  },
+  {
+    "id": "ch09_q_793",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In a random sample each individual in the population has an equal chance of being selected. Selection is by chance. In a new study, however, it will be important to include 20% African Americans. What type of sampling procedure will be necessary?",
+    "options": [
+      "Standard (i.e., simple) random sampling is adequate.",
+      "Cluster sampling is called for.",
+      "Stratified sampling would be best.",
+      "Horizontal sampling is required."
+    ],
+    "correct_index": 2,
+    "rationale": "Remember: Random sampling (choice “a”) is like sticking your hand in a fish bowl to pick a winning ticket. In the random sample each subject has the same probability of being selected, and the selection of one subject does not affect the selection of another subject. The simple random sampling procedure eliminates the researcher’s tendency to pick a biased sample of subjects. In this case, nevertheless, a simple random sampling procedure will not suffice, since a “stratum” (plural “strata”) or a “special characteristic” needs to be represented. In this case it is race. In other studies it might be gender, educational degree, age, or perhaps therapeutic affiliation. The stratification variable in your sample should mimic the population at large. Thus, if 20% of all Rogerian counselors are African Americans, then your study on Rogerian counselors should have 20% African American counselors in your sample. In a research situation where a specific number of cases are necessary from each stratum, the procedure often is labeled as “quota sampling.” Quota sampling is merely a type of stratified sampling procedure. The “cluster sample” (choice “b”) is utilized when it is nearly impossible to find a list of the entire population. The cluster sample solves the problem by using an existing sample or cluster of people or selects a portion of the overall sample. A cluster sample will not be as accurate as a random sample yet it is often used due to time and practical considerations. Imagine trying to make a list of everybody in the United States who is securing treatment for heroin addiction so you can pick a random sample utilizing a random number generator. Instead, you might rely on the population in your home town chemical dependency unit. And yes there really is a procedure called “horizontal sampling,” mentioned in choice “d.” Horizontal sampling occurs when a researcher selects subjects from a single socioeconomic group. Horizontal sampling can be contrasted with “vertical sampling,” which occurs when persons from two or more socioeconomic classes are utilized. Since this question does not specify socioeconomic factors, you could have eliminated choice “d.” What if your exam asks about snowball sampling? Relax, I’ve got you covered. A snowball sample or a chain-referral sample uses subjects to … well … drum up other subjects for your study. Imagine you were studying heroin addicts living on the streets in a given location. It is possible you could not find them without the help of others in the same predicament."
+  },
+  {
+    "id": "ch09_q_794",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher wants to run a true experiment but insists she will not use a random sample. You could safely say that",
+    "options": [
+      "she absolutely, positively cannot run a true experiment.",
+      "her research will absolutely, positively be casual comparative research.",
+      "she could accomplish this using systematic sampling.",
+      "her research will be correlational."
+    ],
+    "correct_index": 2,
+    "rationale": "All good things come to an end. For years and years researchers relied on random sampling. Today researchers are slowly but surely embracing systematic sampling, since it is often easier to use. Here’s how it works. With this approach you take every nth person. Say you have a list of 10,000 folks. You want 1,000 in your study. You pick the first person between one and 10 at random and then use every 10th person. According to some statisticians your results will be virtually the same as if you used good old random sampling. Still the random versus systematic sampling debate rages on with the majority embracing the old tried and true random approach. Must-know exam concept: sampling error. One problem is that small samples intended to mimic the population sometimes do not! The average or mean IQ is 100. This is known as the population parameter. But say you took the mean IQ in a counseling class with 20 students. It could turn out to be 100, but there also is a good chance it might not. (I know, counselors have much higher IQs right!) The margin of error stated in political poll results is based on this concept."
+  },
+  {
+    "id": "ch09_q_795",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "An operational definition",
+    "options": [
+      "outlines a procedure.",
+      "is theoretical.",
+      "outlines a construct.",
+      "is synonymous with the word axiom."
+    ],
+    "correct_index": 0,
+    "rationale": "Choice “d” or axiom, unlike a theory, is a universally accepted idea needing no additional proof (e.g., hence REBT is a theory; gravity exists on planet earth is an axiom). It is very important that researchers “operationally define” procedures so that other researchers can attempt to “replicate” an experimental procedure. Replication implies that another researcher can repeat the experiment exactly as it was performed before. In most cases, counselors would not accept a finding as scientific unless an experiment has been replicated. This means that a researcher should never say something like, “we reinforced children for good classroom behavior.” Instead, the procedure must be delineated into specific values and exact terminology. For example: “We reinforced each child with 25 cents within 30 seconds after he or she answered five addition problems on the ABC Test correctly.”"
+  },
+  {
+    "id": "ch09_q_796",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "In a parametric test the assumption is that the scores are normally distributed. In nonparametric testing the curve is not a normal distribution. Which of these tests are nonparametric statistical measures?",
+    "options": [
+      "Mann–Whitney U test, often just called the U test.",
+      "Wilcoxon signed-rank test for matched pairs.",
+      "Soloman and the Kruskal–Wallis H test.",
+      "All of the above are nonparametric measures."
+    ],
+    "correct_index": 3,
+    "rationale": "All of the above-referenced tests are categorized as “nonparametric.” Many exams refer to nonparametric statistical tests as “distribution-free” tests. Before I explicate their differences I want to familiarize you with the term matched design. In a matched design the subjects are literally “matched” in regard to any variable that could be “correlated” with the DV, which is really the post-experimental performance. If you wanted to test a hypothesis concerning a new treatment for bipolar disorder but felt that IQ might be correlated with the DV, then you would try to match subjects based on IQ. This procedure is logically termed “matched sampling.” Hence, whether the experiment concluded that the IV did or did not have an impact, the researcher could breathe a little easier knowing that the IQ variable did not confound the study. A special kind of “matched subjects design” is the “repeatedmeasures” or “within-subjects” design in which the same subjects are used, once for the control condition and again for the experimental IV conditions. The theory here is that ultimately a subject is best matched by him- or herself assuming that counterbalancing is implemented. Now the Mann– Whitney U test (choice “a”) is used to determine whether two uncorrelated/unmatched means differ significantly, while the Wilcoxon signed-rank test examines whether two correlated means differ significantly from each other. By employing ranks, it is a good alternative to the correlated t test. Why not remind yourself that the U in Mann–Whitney U is like the u in uncorrelated/unmatched to help you distinguish it from the Wilcoxon? (Note: Unmatched/uncorrelated groups could be termed independent groups on your exam.) The U test, like the Wilcoxon, is an alternative to the t test when parametric precepts cannot be accepted. Now think back for just a moment and you will recall that if you were using a parametric test to examine a null hypothesis for two means, you could rely on the t test. If, however, you had three or more groups, then the ANOVA and the F test would be required. A similar situation is in order here. If parametric assumptions are in doubt, the Mann–Whitney U test or the Wilcoxon can be used for two groups; however, when the number of groups reaches three or above, the Kruskal–Wallis one-way ANOVA H test noted in choice “c” is utilized. The Solomon, you will recall, controls for pretest effects. Hint: Most comprehensive counseling exams will have several questions in which the examinee is given the basic factors concerning a research study and then is asked to pick the appropriate statistical test."
+  },
+  {
+    "id": "ch09_q_797",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher studies a single session of counseling in which a counselor treats a client’s phobia using a paradoxical strategy. He then writes in his research report that paradox is the treatment of choice for phobics. This is an example of",
+    "options": [
+      "deductive logic or reasoning.",
+      "inductive logic or reasoning.",
+      "attrition or so-called experimental mortality.",
+      "construct validity."
+    ],
+    "correct_index": 1,
+    "rationale": "This is inductive since the research goes from the specific to a generalization. Deductive—which sounds a bit like “reductive”—reduces the general to the specific. This question would have been answered using “deductive” if the researcher observed many clients being cured of their phobias via paradox and so he assumed that Mr. Smith’s phobia would be cured in the same manner. Choice “c” refers to subjects that drop out of a study."
+  },
+  {
+    "id": "ch09_q_798",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A client goes to a string of 14 chemical dependency centers that operate on the 12-step model. When his current therapist suggests a new inpatient program the client responds with, “What for, I already know the 12 steps?” This client is using",
+    "options": [
+      "deductive logic.",
+      "inductive logic.",
+      "an empathic assertion.",
+      "an I statement."
+    ],
+    "correct_index": 0,
+    "rationale": "Review the previous question if you missed this one. Here the client assumes that the general (his experience in 14 treatment facilities) can be reduced (deduction—remember your memory device) to the specific (the new treatment program)."
+  },
+  {
+    "id": "ch09_q_799",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "Mike takes a math achievement test. In order to predict his score if he takes the test again the counselor must know",
+    "options": [
+      "the range of scores in his class.",
+      "the standard deviation.",
+      "the standard error of measurement (SEM).",
+      "the mode for the test."
+    ],
+    "correct_index": 2,
+    "rationale": "The standard error is all you need to know. The SEM tells the counselor what would most likely occur if the same individual took the same test again. The question does not ask how well he did on the test, nor does it ask you to compare him to others."
+  },
+  {
+    "id": "ch09_q_800",
+    "domain": "Research and Program Evaluation",
+    "chapter": 9,
+    "question": "A researcher performs a study that has excellent external or so-called population validity, meaning that the results have generalizability. To collect his data the researcher gave clients a rating scale in which they were to respond with strongly agree, somewhat agree, neutral, somewhat disagree, or strongly disagree. This is",
+    "options": [
+      "a projective measure.",
+      "unacceptable for use in standardized testing.",
+      "a speed test.",
+      "a Likert Scale."
+    ],
+    "correct_index": 3,
+    "rationale": "Created by Rensis Likert in the early 1930s, this scale helps improve the overall degree of measurement. Response categories include such choices as strongly agree, agree, disagree, or strongly disagree. (Hmmm, that’s easy enough to remember: How much do you like/Likert something?)"
   }
 ]

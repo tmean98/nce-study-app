@@ -4,9 +4,17 @@ import { supabase } from '../lib/supabase'
 import { useStarred } from '../lib/useStarred'
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E']
+const SESSION_SIZES = [10, 20, 40, 'All']
+
+function buildPool(questions, size, starredSet, starredOnly) {
+  const source = starredOnly ? questions.filter(q => starredSet.has(q.id)) : questions
+  const shuffled = [...source].sort(() => Math.random() - 0.5)
+  return size === 'All' ? shuffled : shuffled.slice(0, Math.min(size, shuffled.length))
+}
 
 export default function QuizView({ questions, chapterName, chapterId, onBack, user }) {
-  const [shuffled] = useState(() => [...questions].sort(() => Math.random() - 0.5))
+  const [sessionSize, setSessionSize] = useState(null)
+  const [pool, setPool] = useState([])
   const [index, setIndex] = useState(0)
   const [selected, setSelected] = useState(null)
   const [score, setScore] = useState(0)
@@ -17,10 +25,15 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
   const [starredOnly, setStarredOnly] = useState(false)
   const { starred, toggle } = useStarred()
 
-  const pool = starredOnly ? shuffled.filter(q => starred.has(q.id)) : shuffled
   const q = pool[index]
   const total = pool.length
   const answered = selected !== null
+
+  function startSession(size) {
+    setSessionSize(size)
+    setPool(buildPool(questions, size, starred, starredOnly))
+    setIndex(0); setSelected(null); setScore(0); setDone(false); setSaved(false)
+  }
 
   function choose(i) {
     if (answered) return
@@ -51,18 +64,47 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
   }
 
   function restart() {
+    setSessionSize(null)
+    setPool([])
     setIndex(0); setSelected(null); setScore(0); setDone(false); setSaved(false)
   }
 
-  function switchFilter(starredOnlyNext) {
-    setStarredOnly(starredOnlyNext)
-    setIndex(0)
-    setSelected(null)
-    setScore(0)
-    setDone(false)
-    setSaved(false)
+  // Start screen
+  if (!sessionSize) {
+    const starredCount = questions.filter(q => starred.has(q.id)).length
+    return (
+      <div className="quiz-view">
+        <div className="study-header">
+          <button className="btn btn-ghost" onClick={onBack}>← Back</button>
+          <h2 className="study-title">{chapterName} — Quiz</h2>
+        </div>
+        <div className="quiz-start">
+          <p className="quiz-start-label">How many questions?</p>
+          <div className="quiz-size-grid">
+            {SESSION_SIZES.map(s => (
+              <button
+                key={s}
+                className="btn btn-secondary quiz-size-btn"
+                onClick={() => { setStarredOnly(false); startSession(s) }}
+              >
+                {s === 'All' ? `All ${questions.length}` : s}
+              </button>
+            ))}
+          </div>
+          {starredCount > 0 && (
+            <button
+              className="btn btn-ghost quiz-starred-btn"
+              onClick={() => { setStarredOnly(true); startSession('All') }}
+            >
+              ★ Starred only ({starredCount})
+            </button>
+          )}
+        </div>
+      </div>
+    )
   }
 
+  // Empty starred pool
   if (starredOnly && total === 0) {
     return (
       <div className="quiz-view">
@@ -72,12 +114,13 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
         </div>
         <div className="empty-state">
           <p>No starred questions in this chapter yet.</p>
-          <button className="btn btn-secondary" onClick={() => switchFilter(false)}>Show All Questions</button>
+          <button className="btn btn-secondary" onClick={restart}>Back to Start</button>
         </div>
       </div>
     )
   }
 
+  // Score screen
   if (done) {
     const pct = Math.round((score / total) * 100)
     return (
@@ -101,29 +144,23 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
 
         <div className="score-actions">
           <button className="btn btn-secondary" onClick={onBack}>← Chapters</button>
-          <button className="btn btn-primary" onClick={restart}>Retake</button>
+          <button className="btn btn-primary" onClick={restart}>New Session</button>
         </div>
       </div>
     )
   }
 
-  const starredCount = shuffled.filter(q => starred.has(q.id)).length
-
+  // Quiz in progress
   return (
     <div className="quiz-view">
       <div className="study-header">
-        <button className="btn btn-ghost" onClick={onBack}>← Back</button>
+        <button className="btn btn-ghost" onClick={restart}>← Back</button>
         <h2 className="study-title">{chapterName} — Quiz</h2>
       </div>
 
       <div className="card-toolbar">
-        <button
-          className={`toolbar-btn${starredOnly ? ' active' : ''}`}
-          onClick={() => switchFilter(!starredOnly)}
-        >
-          ★ {starredOnly ? 'All Questions' : `Starred (${starredCount})`}
-        </button>
         <span className="progress-label">{index + 1} / {total}</span>
+        <span className="progress-label">Score: {score}</span>
       </div>
 
       <div className="progress-bar-wrap">

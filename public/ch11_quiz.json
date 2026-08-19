@@ -1,282 +1,1402 @@
 [
   {
-    "id": "ch11_q_001",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_901",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A family brings in their 16-year-old son who is failing school and using marijuana. The parents insist that their son is 'the problem.' A family systems therapist would MOST likely reframe the problem by identifying the identified patient as:",
+    "question": "A married couple brings their two children to counseling for behavioral problems. The 14-year-old daughter stays out late and their 17-year-old son is using drugs. According to most marriage and family therapists the identified patient would be",
     "options": [
-      "The son — his behavior is clearly the presenting problem",
-      "The father — whose rigid parenting style drives the son's rebellion",
-      "The entire family system — whose dynamics are expressed through the son's symptoms",
-      "The mother — whose enabling behavior reinforces the son's drug use"
+      "the 17-year-old son.",
+      "the 14-year-old daughter.",
+      "the family.",
+      "both children."
     ],
     "correct_index": 2,
-    "rationale": "Family systems therapists reject the identified patient (IP) as a single individual. They view the ENTIRE FAMILY SYSTEM as dysfunctional — the son's symptoms are an expression of the whole system's distress, not simply his own pathology. The IP concept shifts blame from one person to the relational patterns of the family. Singling out any one member (father, mother, or son) contradicts the systems perspective."
+    "rationale": "Most family counselors believe that the entire family system, which is really a natural social system, is dysfunctional. Hence the entire family is the identified patient and in need of treatment. Traditionally, the identified patient (IP) was seen as the person who was having a problem."
   },
   {
-    "id": "ch11_q_002",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_902",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A family therapist explains to a couple: 'When you criticize her, she withdraws; when she withdraws, you criticize more harshly; and that withdrawal makes you escalate.' This explanation reflects which foundational family therapy concept?",
+    "question": "You are seeing a husband and wife for marriage counseling. During one of the sessions you decide to see them separately. The husband tells you he has seen an attorney because he is filing for divorce. He has not told his wife and indicates that he will not do so. You feel the wife has a right to know this because it will help her plan for the future. You should",
     "options": [
-      "Linear causality — criticism is the root cause of withdrawal",
-      "Circular (reciprocal) causality — each person's behavior influences and is influenced by the others'",
-      "Homeostasis — the couple has reached a stable, balanced state",
-      "Nonsummativity — the couple's problem cannot be understood by studying them separately"
+      "only tell his wife if he gives you permission.",
+      "communicate his intent to his wife since ethics guidelines state you may do so when a member of the couple is contemplating divorce.",
+      "not tell the wife since research indicates that women respond more positively to divorce when they have less time to think about it.",
+      "terminate the husband unless he tells her."
+    ],
+    "correct_index": 0,
+    "rationale": "According to ethics guidelines counselors must not disclose information about one family member in counseling to another without prior consent. Could this situation happen in your caseload? Consider this: In the United States, getting married could be likened to playing the ponies—approximately 50% of all marriages end in divorce, while about 65% of second marriages end in divorce. By the third marriage the figure tops 70%. In general, family therapy seems to be briefer than counseling or therapy provided to individuals."
+  },
+  {
+    "id": "ch11_q_903",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "You are supervising a licensing candidate who is primarily interested in marriage and family counseling. You are very attracted to her and have sex with her. According to ethics guidelines",
+    "options": [
+      "this is perfectly ethical, since this is a student and not a client.",
+      "this is unethical.",
+      "this is perfectly ethical, since this is a supervisee and not a client.",
+      "a and c are both correct."
     ],
     "correct_index": 1,
-    "rationale": "Circular (reciprocal) causality, introduced to family therapy by Gregory Bateson, means everyone is simultaneously influencing and being influenced by others — there is no single 'first cause.' Linear causality (A causes B) is the model of individual therapy; circular causality is the hallmark of systems/family therapy. Nonsummativity (choice D) is a related systems concept but refers to the family being more than the sum of its parts, not to the feedback loop described here."
+    "rationale": "There’s a clear-cut answer here folks: Counselors should never engage in sexual or romantic relationships with current students or supervisees. Likewise for sexual harassment. This refers to inperson as well as electronic relationships. The fact that the supervisee is interested in marriage and family counseling is totally irrelevant."
   },
   {
-    "id": "ch11_q_003",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_904",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "Under stress, a husband in couples therapy agrees with everything his wife says to avoid conflict, sacrificing his own preferences and needs. According to Virginia Satir, this communication style is called:",
+    "question": "The fastest growing clientele for professional counselors are persons",
     "options": [
-      "Blaming — he is avoiding responsibility by capitulating",
-      "Overly reasonable — he is intellectualizing the conflict",
-      "Placating — he is a people pleaser who fears rejection",
-      "Irrelevant — he is distracting from the real issue"
+      "experiencing bipolar disorder.",
+      "experiencing suicidal ideation.",
+      "experiencing marriage and family problems.",
+      "who abuse their children."
     ],
     "correct_index": 2,
-    "rationale": "Satir identified 4 dysfunctional stress communication patterns: (1) PLACATING = people pleaser who sacrifices own needs to avoid rejection — this husband fits perfectly. (2) BLAMING = 'It's your fault.' (3) OVERLY REASONABLE = functions like a computer, emotionally detached, intellectualizes. (4) IRRELEVANT = constantly introduces off-topic content to distract from the problem. On the exam, the overly reasonable style is sometimes called the 'responsible analyzer.'"
+    "rationale": "Philosophical differences between organizations are evident. The American Association for Marriage and Family Therapy (AAMFT) sees marriage and family therapy as a separate profession in and of itself. The International Association of Marriage and Family Counselors (IAMFC)—a division of ACA and adheres to CACREP guidelines—believes that marriage and family counseling is a specialty mastered by an individual who has experience and generic training in counseling. Coursework areas between CACREP programs and those set forth to meet AAMFT curriculum are similar, though certainly not identical."
   },
   {
-    "id": "ch11_q_004",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_905",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A family therapy supervisor describes a famous theorist as 'atheoretical, using symbolism and even absurdity to join the family emotionally rather than intellectually.' This BEST describes:",
+    "question": "Family counselors generally believe in",
     "options": [
-      "Virginia Satir — her experiential conjoint model emphasized communication",
-      "Carl Whitaker — the dean of experiential/symbolic family therapy who rejected formal theory",
-      "Jay Haley — whose strategic directives could appear absurd but were carefully calculated",
-      "Murray Bowen — whose intergenerational model relied on intellectual differentiation"
+      "circular/reciprocal causality (e.g., dynamics of family members).",
+      "linear causality.",
+      "random causality.",
+      "dream analysis."
+    ],
+    "correct_index": 0,
+    "rationale": "Linear causality is where you assume a causes b. For example, a person was physically abused as a child so now that person becomes an abusive parent. Linear causality is generally accepted as a valid concept in individual counseling; however, marriage and family therapists usually prefer the notion of circular causality. Anthropologist Gregory Bateson became interested in cybernetics (the analysis of information interactions and how the flow of information regulates and controls a system) after World War II and launched the concept of circular causality. Bateson was fond of explaining the new paradigm by taking the example of a man who kicks a stone versus a man who kicks a dog. When a man kicks a stone a linear or Newtonian physics model is appropriate. That is to say, if we know the weight of the stone, the angle it was kicked, the air density, and so on we can calculate the result of the kick. If a man kicks a dog, however, the dog’s behavior may control the man’s next response. Hence, the dog might bark and merely sit there; howl and run; or perhaps growl and attempt to bite the man. The man is influencing the dog; nevertheless, the dog is influencing the man. Thus, since everybody is influencing everybody else the problem resides in the family rather than a given individual. The distinction between linear causality and circular causality is a must-know concept for most exams in this field. Performing family therapy often seems to resemble group therapy more than individual work; however, most group models do not work well with families since they are a very special type of group."
+  },
+  {
+    "id": "ch11_q_906",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Cybernetics is a concept used by family therapists. It is usually associated with the work of",
+    "options": [
+      "Sigmund Freud and Albert Ellis.",
+      "Norbert Wiener.",
+      "Virginia Satir.",
+      "behavioral family therapists and cognitive family therapists."
     ],
     "correct_index": 1,
-    "rationale": "Carl Whitaker is the 'dean of experiential/symbolic family therapy.' He deliberately avoided theory, arguing it keeps therapists emotionally distant from the family. He used psychotherapy of the absurd (e.g., asking a feuding couple to have a tug-of-war) and believed symbolic experience — not education — changes families. A co-therapist was important in Whitaker's model. Satir was also experiential but focused on communication, not symbolism or absurdity."
+    "rationale": "Cybernetics was pioneered in the early 1940s and named (from the Greek word for steersman) by MIT mathematician Norbert Wiener. Wiener was asked to investigate how guns could be aimed to hit moving targets. He teamed up with mathematician John von Neumannn, who worked on the Manhattan Project in Los Alamos, New Mexico, the site of the first U.S. nuclear weapons production. This information, which initially related to machines, was used to analyze family systems thanks to Gregory Bateson. In family therapy, cybernetics suggests that the family has feedback loops to selfcorrect a family system."
   },
   {
-    "id": "ch11_q_005",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_907",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A behavioral family therapist tells a 15-year-old: 'You must finish cleaning your room (which you hate) before you can go to the movies with your friends (which you love).' This intervention is BEST explained by:",
+    "question": "A family that is stable and reaches an equilibrium is in a state of",
     "options": [
-      "Quid pro quo — a behavioral contract between two parties",
-      "Negative reinforcement — removing an aversive stimulus to increase behavior",
-      "Premack's principle — a low-probability behavior precedes a high-probability behavior",
-      "Reciprocity — equal reinforcement exchange between family members"
+      "adaptability.",
+      "enmeshment.",
+      "nonsummativity.",
+      "homeostasis."
+    ],
+    "correct_index": 3,
+    "rationale": "The best answer is choice “d,” homeostasis—and that can be good or bad— which refers to maintaining a balanced state. A thermostat that controls the temperature in your home is a device that monitors and controls homeostasis as is a guidance system on a missile or a smart bomb. A balanced state is not necessarily healthy! The family will attempt to hold onto a given pattern of functioning that could indeed be dysfunctional. Choice “a” describes a family’s ability to change or display flexibility in order to change. Choice “b,” enmeshment, occurs when family members are overinvolved with each other and thus lose their autonomy. Nonsummativity, choice “c,” is a concept suggesting that any system including the family is greater than the sum of its parts (the individuals in it) and therefore it is necessary to examine patterns rather than merely each individual’s behavior."
+  },
+  {
+    "id": "ch11_q_908",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Adaptability is the ability of the family to balance",
+    "options": [
+      "ego strength.",
+      "stability and change.",
+      "morphostasis and morphogenesis.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Morphostasis is the ability of the family to balance stability while morphogenesis refers to the family’s ability to change."
+  },
+  {
+    "id": "ch11_q_909",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A family wants to see you for counseling; however, they have a very limited income and can’t afford to pay. You therefore agree to see the family for free (i.e., pro bono). The term that best describes your actions would be",
+    "options": [
+      "aspirational ethics.",
+      "mandatory ethics.",
+      "empathy.",
+      "all of the above."
+    ],
+    "correct_index": 0,
+    "rationale": "Exam hint: The answer to this question would be the same whether the question was asking about individual, group, or family treatment. Ethics guidelines are documents that sometimes contain two types of ethics: mandatory and aspirational. The literature describes mandatory ethics as guidelines that are strictly enforced. If you violate a mandatory ethic there are consequences for your actions. Your exam may call mandatory ethics, standards of practice. Mandatory ethics are often very clear-cut and have no gray areas (e.g., you should never have sex with a current client). Aspirational ethics, on the other hand, describe ideal or optimal practice. Pro bono services would fall into this category because it would be difficult to win an ethics’ violation charge against a counselor because he or she would not see the client for free. Indeed, counseling ethics currently mention pro bono work, but the ethics do not stipulate the principle as limited to “seeing a client for free,” so the best answer seems to be aspirational. Expect to see a number of vague questions like this on the actual exam."
+  },
+  {
+    "id": "ch11_q_910",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Experiential conjoint family therapy is closely related to the work of",
+    "options": [
+      "Virginia Satir.",
+      "Albert Ellis.",
+      "Jay Haley.",
+      "Salvador Minuchin."
+    ],
+    "correct_index": 0,
+    "rationale": "Satir was a social worker who began seeing families in private practice in 1951. She felt that the family could be healed via love while Minuchin, the father of structural family therapy, felt that family therapy was a science requiring therapeutic interventions well beyond warmth. These two family therapy titans clashed during a 1974 meeting in Venezuela, and Satir—who felt Minuchin was speaking for the entire movement—went her own way for the rest of her career. She died of pancreatic cancer in 1988. The term conjoint merely implies that two or more family members are in the therapy session at the same time."
+  },
+  {
+    "id": "ch11_q_911",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Virginia Satir felt that a major goal of therapy was to improve intrafamily communication (i.e., communication between family members). According to Satir, four basic patterns prevented good communication under stress. These defensive postures or stress positions are: placating, blaming, being overly reasonable, and being irrelevant. Placating means",
+    "options": [
+      "you disagree with all the other family members.",
+      "you pick a favorite family member and agree with him or her.",
+      "you ignore the other family members.",
+      "you try to please everybody out of a fear of rejection."
+    ],
+    "correct_index": 3,
+    "rationale": "The placating style causes the individual to sacrifice his or her own needs as a way of dealing with stress."
+  },
+  {
+    "id": "ch11_q_912",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "The placater is a people pleaser under stress while the blamer",
+    "options": [
+      "will sacrifice others to feel good about himself.",
+      "will often say “if it weren’t for you….”",
+      "will point the finger at others to avoid dealing with his or her own issues.",
+      "all of the above are typical behaviors of the blamer."
+    ],
+    "correct_index": 3,
+    "rationale": "The blamer basically asserts that, “It’s your fault I’m the way I am.”"
+  },
+  {
+    "id": "ch11_q_913",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "The person who becomes overly reasonable",
+    "options": [
+      "practices excitation.",
+      "cries a lot during therapy sessions.",
+      "is likely to engage in the defense mechanism of intellectualization.",
+      "has a high degree of emotion."
     ],
     "correct_index": 2,
-    "rationale": "Premack's principle: a LOW-PROBABILITY BEHAVIOR (LPB — the unpleasant task the person is unlikely to do spontaneously) must be completed before engaging in a HIGH-PROBABILITY BEHAVIOR (HPB — the pleasant activity the person naturally gravitates toward). This is a one-person contingency. Quid pro quo involves a two-party exchange contract. Reciprocity refers to the balance of reinforcement between marital partners over time. Negative reinforcement removes an aversive stimulus — not what's happening here."
+    "rationale": "Choice “a” is an old term for expressing true emotion—basically the opposite of what the overly reasonable person does! Some of the literature describes the overly reasonable individual as “functioning like a computer” to keep his or her emotions in check. The person is emotionally detached. Exam hint: Your test could refer to the overly reasonable client as the responsible analyzer."
   },
   {
-    "id": "ch11_q_006",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_914",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A strategic family therapist hypnotizes a client who wants to stop smoking, then immediately tells her to 'smoke as many cigarettes as you possibly can for the next three days.' The client follows the instruction and smokes prolifically, then calls the therapist frustrated. The therapist responds, 'Of course — that's what I told you to do.' This technique is BEST described as:",
+    "question": "According to Virginia Satir, the individual displaying an irrelevant style",
     "options": [
-      "Restraining — warning the client about the consequences of change",
-      "Positioning — exaggerating the hopelessness of the client's condition",
-      "A paradoxical intervention — prescribing the symptom creates a double-bind",
-      "Reframing — redefining the smoking in a positive context"
+      "will distract the family from the problem via constantly talking about irrelevant topics.",
+      "will become a people pleaser. 396",
+      "will analyze the situation more than most.",
+      "all of the above."
+    ],
+    "correct_index": 0,
+    "rationale": "Choice “a” is typical of this dysfunctional type of communication. Choice “b” is clearly the pattern of the placater, while choice “c” describes the overly reasonable client."
+  },
+  {
+    "id": "ch11_q_915",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Virginia Satir is considered a leading figure in experiential family therapy. ________ is sometimes called the dean of experiential family therapy.",
+    "options": [
+      "Ludwig von Bertalanffy",
+      "Gregory Bateson",
+      "Carl Whitaker",
+      "Murray Bowen"
     ],
     "correct_index": 2,
-    "rationale": "This is prescribing the symptom — a paradoxical technique where the therapist tells the client to engage in the very behavior they want to eliminate. The double-bind: if she smokes, the behavior is under therapeutic control; if she stops, she succeeds. Either way, the therapist has leverage. Restraining involves warning against change ('maybe it's better not to change'). Positioning exaggerates the negative ('your problem may be hopeless'). Reframing puts the behavior in a positive light — none of these describe prescribing the symptom."
+    "rationale": "Okay, calm down! Nobody is asking you to learn to spell von Bertalanffy’s name—yet! His name often comes up in discussions of family therapy since Ludwig von Bertalanffy was the biologist who popularized the notion of the connectedness of all living things or the so-called systems theory model. The analogy is that the family is more than merely the separate persons but rather a system with rules, patterns that connect members, and so on. Murray Bowen based his family therapy on systems theory. The correct answer to this question is Carl Whitaker, who was fond of saying that experience, not education, changes families. Experience goes beyond consciousness, according to Whitaker and the best way to access the unconscious is symbolically. Exam reminder: Your exam may refer to Whitaker’s approach as experiential symbolic family therapy."
   },
   {
-    "id": "ch11_q_007",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_916",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A wife tells a strategic family therapist that her husband yells at her every time she goes out with her friends. The therapist responds, 'You know, research suggests that men who react that intensely usually do so because they love their partners so much — it's actually an expression of deep attachment.' This intervention is BEST described as:",
+    "question": "Carl Whitaker’s interaction with the family could best be described as",
     "options": [
-      "Prescribing the symptom — the therapist told the husband to keep yelling",
-      "Restraining — the therapist warned about the consequences of change",
-      "Reframing/relabeling — the behavior is redefined in a positive context",
-      "Positioning — the therapist exaggerated the negativity of the situation"
-    ],
-    "correct_index": 2,
-    "rationale": "Reframing (also called relabeling or redefining): the therapist redefines the problematic behavior in a POSITIVE or alternative context to evoke a different emotional response. The situation hasn't changed — the husband still yells — but its meaning has been reinterpreted as love rather than hostility. This is distinct from prescribing (telling client to do the behavior), restraining (warning against change), and positioning (making the problem seem worse)."
-  },
-  {
-    "id": "ch11_q_008",
-    "domain": "Helping Relationships",
-    "chapter": 11,
-    "question": "A family enters structural family therapy. In the first session, the therapist sits close to the family, uses their informal language, jokes along with their humor, and mirrors the pace of their conversation before addressing any clinical issues. This BEST illustrates:",
-    "options": [
-      "Enactment — the therapist is re-enacting the family's problem with them",
-      "Joining and mimesis — bonding with the family by matching their style",
-      "Reframing — the therapist is redefining the family's communication positively",
-      "Boundary marking — the therapist is altering the family's physical arrangement"
+      "quiet and empathic.",
+      "joining the family and experiencing it as if he were a family member.",
+      "a reality therapist.",
+      "a cognitive behavior therapist."
     ],
     "correct_index": 1,
-    "rationale": "Joining (Minuchin): the therapist bonds with the family in the INITIAL SESSION to build confidence and reduce resistance. Mimesis: the therapist mimics or copies the family's language, pace, and style to facilitate joining. This is the therapist's first move — before any challenging of dysfunctional patterns occurs. Enactment (asking the family to re-enact a problematic scene) comes later. Boundary marking involves changing seating arrangements."
+    "rationale": "Whitaker, a psychiatrist by training, intentionally minimized the importance of theory, noting that therapeutic interaction is more of an art. Note: Although some theories created for individual counseling (e.g., reality therapy or Adlerian) can be used with families and couples, other approaches, such as Whitaker’s that emphasize systems, are unique and generally not covered in sources and courses that focus only on individual models."
   },
   {
-    "id": "ch11_q_009",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_917",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A mother tells a structural family therapist that whenever her teenage daughter has a problem at school, she calls her daughter's teachers, organizes the daughter's homework, and stays home from work to help. The daughter is now 19 and the pattern continues. A structural therapist would MOST likely identify this family as having:",
+    "question": "According to Carl Whitaker,",
     "options": [
-      "Clear boundaries — the mother is appropriately nurturing her daughter",
-      "Rigid boundaries — the mother is disengaged from the daughter's real needs",
-      "Diffuse boundaries — the family is enmeshed, preventing the daughter's individuation",
-      "Second-order change — the family has altered its fundamental structure"
+      "a co-therapist is helpful.",
+      "a co-therapist should never be used.",
+      "a co-therapist should be used only with blended families.",
+      "all of the above could be true."
     ],
-    "correct_index": 2,
-    "rationale": "Diffuse (permeable) boundaries characterize ENMESHMENT — family members are over-involved, and individuals lose their autonomy. Minuchin's structural model: enmeshed children often struggle to make friends outside the home, feel uncomfortable alone, and rely excessively on their family of origin when they eventually marry. Clear boundaries are firm yet flexible — supportive but individuation-promoting. Rigid boundaries lead to disengagement, where members are disconnected and seek support outside the family."
+    "correct_index": 0,
+    "rationale": "Whitaker felt that a co-therapist can provide meaningful feedback and allows the therapist to be an active participant in the therapy rather than merely a teacher."
   },
   {
-    "id": "ch11_q_010",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_918",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A couple in therapy has been arguing intensely. The wife begins complaining to her mother-in-law about the conflict, and the mother-in-law starts spending more time at the couple's home and taking sides. According to Murray Bowen, this BEST illustrates:",
+    "question": "Psychotherapy of the absurd is primarily related to the work of",
     "options": [
-      "Differentiation — the couple is separating their emotional and intellectual selves",
-      "Fusion — the couple's intellect and emotion have merged pathologically",
-      "Triangulation — the stressed dyad has recruited a third person to stabilize the conflict",
-      "The nuclear family emotional system — the conflict is influenced by past generations"
-    ],
-    "correct_index": 2,
-    "rationale": "Triangulation (Bowen): when a dyad (the couple) is under stress, they pull in a THIRD PERSON (the mother-in-law) to stabilize the tension. The triangle typically makes the original problem WORSE. This is distinct from differentiation (the ability to separate intellect from emotion, a goal in Bowen therapy), fusion (the pathological merger of intellect and emotion), and the nuclear family emotional system (the concept that current family dynamics are shaped by all prior generations)."
-  },
-  {
-    "id": "ch11_q_011",
-    "domain": "Helping Relationships",
-    "chapter": 11,
-    "question": "A Bowenian therapist says her primary goal is to help each family member achieve 'differentiation.' What does this mean?",
-    "options": [
-      "Each member learns to be different from one another in personality and preferences",
-      "Each member learns to separate their intellectual functioning from their emotional reactivity",
-      "Each member learns to disengage from the family emotional system entirely",
-      "Each member achieves insight into how past generations created the current family structure"
+      "Virginia Satir.",
+      "Carl Whitaker.",
+      "Maxie C. Maultsby, Jr.",
+      "William Glasser."
     ],
     "correct_index": 1,
-    "rationale": "Differentiation (Bowen): the ability to SEPARATE one's INTELLECT from one's EMOTIONAL SELF. A differentiated person can remain in contact with others while also maintaining a clear sense of their own identity under stress. The opposite is FUSION — when the intellectual and emotional aspects of personality merge, the person loses a clear sense of self. Note: differentiation does NOT mean disengagement or emotional cut-off from the family — Bowen sees total cut-off as just as problematic as fusion."
+    "rationale": "Whitaker could be wild at times. A couple who was in a power struggle, for example, might be asked to have a tug of war in order to prove who really had control. In today’s world with an attorney’s billboard on every corner, I’d probably not recommend an activity of that nature! Maultsby—the psychiatrist in choice “c”—is noted for creating rational self-counseling that is similar to Ellis’s REBT."
   },
   {
-    "id": "ch11_q_012",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_919",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A family therapist asks a family to create a diagram using squares for males, circles for females, horizontal lines for marriages, and vertical lines for children — showing at least three generations. This tool is BEST described as a:",
+    "question": "A behavioristic marriage and family therapist is counseling the entire family together. She turns to the 18-year-old son who is attending community college and says, “You must complete your sociology essay before you can use the family car and go out with your friends.” Which theorist is primarily guiding her intervention strategy?",
     "options": [
-      "Sociogram — mapping the emotional relationships within the family",
-      "Structural map — diagramming the family's hierarchy and subsystems",
-      "Genogram — a multigenerational pictorial family history tool (Bowen)",
-      "Family sculpting — physically positioning family members to represent dynamics"
+      "David Premack’s principle or law.",
+      "Ivan Pavlov and John B. Watson.",
+      "B. F. Skinner.",
+      "all of the above."
+    ],
+    "correct_index": 0,
+    "rationale": "Behaviorists who practice marriage and family therapy rely on the same theorists as individual practitioners of this persuasion. All of the theorists listed are behaviorists. Premack’s work, nevertheless, suggests that a family member must complete an unpleasant task (known as a lowprobability behavior; LPB) before he or she would be allowed to engage in a pleasant task (known as a high-probability behavior; HPB). This is known as Premack’s principle."
+  },
+  {
+    "id": "ch11_q_920",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A behavioristic marriage and family counselor is counseling the entire family together. She turns to the 18-year-old son who is attending community college and says, “I know you like to play golf. Therefore, every time you cut the grass your father will take you to play golf. I am going to have you and your dad sign a contract confirming that you agree with this policy.” Which principle is primarily guiding her strategy?",
+    "options": [
+      "Negative reinforcement.",
+      "Thought stopping.",
+      "Shaping with successive approximations.",
+      "Quid pro quo."
+    ],
+    "correct_index": 3,
+    "rationale": "In Latin quid pro quo means “one thing for another,” “something for something,” or “this for that.” Gee, I knew there was some reason I spent two years studying a dead language in high school! Anyway, this technique, which generally makes use of a behavioral contingency contract, is based on the notion that one person in the family will do something as long as the other member agrees to do something comparable. Just for the record, all of the choices are behavioristic."
+  },
+  {
+    "id": "ch11_q_921",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A male is supervising a female counselor for state licensing. He tells her that he will continue to supervise her as long as she has sex with him. This is an example of",
+    "options": [
+      "quid pro quo.",
+      "a legal but not an ethical violation.",
+      "a and b.",
+      "none of the above."
+    ],
+    "correct_index": 0,
+    "rationale": "Surprise! The correct answer is choice “a.” Here the term (i.e., quid pro quo) is being used (in a different context to question 920) in a negative manner that constitutes sexual harassment. Needless to say, the term still has “something for something” or “you do this for me and I’ll do this for you” connotations. Expect to see it in either context on your exam. Choice “b” is incorrect since this is clearly an ethical violation."
+  },
+  {
+    "id": "ch11_q_922",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A behavioristic family counselor suggests that the family chart the number of times that 6-year-old Billy says “no” when he is told to do something. The baseline of the chart would refer to the period",
+    "options": [
+      "when positive reinforcement is being implemented.",
+      "when negative reinforcement is being implemented.",
+      "when quid pro quo is being implemented.",
+      "before the behavior modification begins."
+    ],
+    "correct_index": 3,
+    "rationale": "In behaviorism, a baseline is merely a measure of the behavior prior to the treatment or when treatment is not being implemented. What’s with the A and the B stuff? On some exams the baseline is signified via the upper-case letter A while the behavior modification treatment is written with an upper-case B."
+  },
+  {
+    "id": "ch11_q_923",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "The family counselor explains to Mrs. Smith that the next time that 9-year-old Sally hits her little brother she must sit in the family room by herself. The counselor is using",
+    "options": [
+      "shaping.",
+      "shaping with successive approximations.",
+      "reciprocity.",
+      "time-out, a procedure that most behaviorists feel is a form of extinction."
+    ],
+    "correct_index": 3,
+    "rationale": "Time-out occurs when a family member (usually a child) is isolated or removed from an environment for a specified period of time so as to ensure that he or she does not receive reinforcement for dysfunctional behavior."
+  },
+  {
+    "id": "ch11_q_924",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Mrs. Chance tells a family therapist that she pays all the bills, does all the cleaning, and brings in 90% of the family’s income. Moreover, Mrs. Chance is convinced that her husband does not appreciate her or show her affection. According to the behavioristic principle of family therapy known as reciprocity",
+    "options": [
+      "there is a good chance that Mrs. Chance will consider leaving the marriage.",
+      "it may seem paradoxical; nevertheless, Mrs. Chance will be more committed to making the marriage work.",
+      "it may seem paradoxical; nevertheless, there is a good chance Mr. Chance will consider leaving the marriage.",
+      "this situation will have virtually no impact on this couple’s marriage."
+    ],
+    "correct_index": 0,
+    "rationale": "Yes, reciprocity can mean that one state accepts another state’s license or credential but that obviously isn’t what it means in this respect. In fact, if that crossed your mind, take a break, you’ve been studying too darn long! The concept of reciprocity in marriage asserts that in most cases two people will reinforce each other at about the same level over time. When this doesn’t happen marital discord may result."
+  },
+  {
+    "id": "ch11_q_925",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A couple is having sexual problems that stem from anxiety. A marriage counselor who is a strict behaviorist would most likely",
+    "options": [
+      "dispute the couple’s irrational thinking.",
+      "prescribe thought stopping.",
+      "rely on systematic desensitization procedures.",
+      "rely primarily on paraphrasing and reflection."
     ],
     "correct_index": 2,
-    "rationale": "The genogram, popularized by Murray Bowen, is a three-generation family diagram using standardized symbols: squares (males), circles (females), horizontal lines (marriages), vertical lines (parent-child). It resembles an electronics schematic. A SOCIOGRAM maps interpersonal relationships within a group (used in group research). A STRUCTURAL MAP (Minuchin) uses symbols to diagram family hierarchy and subsystems, but is distinct from a genogram. FAMILY SCULPTING (Satir) involves physical positioning — not a diagram."
+    "rationale": "Joseph Wolpe’s systematic desensitization pairs feared mental imagery with relaxation to eliminate the fear. Choice “a” isn’t necessarily a poor choice since it refers to rational-emotive behavior therapy (REBT; formerly known as rational-emotive therapy—RET) that does employ behavioristic techniques. Nevertheless, a strict behaviorist would be more likely to rely on a purist technique such as systematic desensitization."
   },
   {
-    "id": "ch11_q_013",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_926",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A family therapist asks a couple: 'Suppose that one night, while you were asleep, a miracle happened and all the problems in your marriage were solved. How would you know? What would be different when you woke up?' This technique is MOST associated with:",
+    "question": "A family counselor notices that the husband in a blended family is having obsessive sexual thoughts about a woman living down the street. A strict behaviorist would most likely",
     "options": [
-      "Narrative therapy — helping the couple re-author their marital story",
-      "Bowen's intergenerational approach — examining the nuclear family emotional system",
-      "Solution-focused brief therapy — the miracle question shifts focus to a desired future",
-      "Structural family therapy — enacting the ideal family scenario in session"
+      "analyze the man’s dreams.",
+      "have him chart the incidence of the behavior, but do little else.",
+      "practice thought stopping.",
+      "rely primarily on Wolpe’s systematic desensitization."
     ],
     "correct_index": 2,
-    "rationale": "The miracle question, popularized by Steve de Shazer in SOLUTION-FOCUSED BRIEF THERAPY (SFBT), directs clients away from the problem and toward a concrete vision of a desired future. SFBT therapists put little or no emphasis on understanding the problem — the goal is to co-create a plan for what life looks like when the problem is absent. Narrative therapy uses externalization (separating person from problem). Bowen uses the genogram. Minuchin uses enactment (re-enacting actual problems, not ideal scenarios)."
+    "rationale": "Behavioral family therapy first appeared on the scene in the late 1960s, initially focusing on kids in the family who had problems. Psychologist Gerald Patterson (who popularized behavioral parent training in the family’s home), psychiatrist Robert Liberman, and social worker Richard Stuart (who created operant interpersonal therapy) are generally cited as the pioneers of this approach. Thought stopping is intended to do just what it sounds like—stop thoughts! The man would be taught to yell in his mind stop! as loudly as possible every time he experienced a sexual thought related to his neighbor."
   },
   {
-    "id": "ch11_q_014",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_927",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A counselor working with a family where domestic violence is present says to the abusive partner: 'I know you want to end this violence. Tell me about a time when you stopped yourself from becoming violent — what was different then?' This BEST illustrates:",
+    "question": "You secure a job as the executive director of a family counseling agency. As you go through your files you discover that five years before you took the job the agency selected 100 families and counseled them using a strict behaviorist model. The agency took the next group of 100 families and counseled them using Satir’s experiential conjoint family therapy model. Each family received 12 sessions of therapy and each family took a before and after assessment that accurately depicted how well the family was functioning. You decide to run a t test to examine whether or not a statistically significant difference is evident between the two approaches. This is",
     "options": [
-      "Reframing — the counselor is redefining violence as an expression of love",
-      "Externalizing the problem — narrative therapy separating the person from the violence",
-      "Prescribing the symptom — the counselor is having the client relive the violence paradoxically",
-      "Positioning — the counselor is making the abuse seem inevitable"
+      "an ex post facto (i.e., after the fact) correlation study.",
+      "causal comparative or ex post facto (i.e., after the fact) research.",
+      "a true experiment.",
+      "simple survey research."
     ],
     "correct_index": 1,
-    "rationale": "Narrative therapy (Michael White, Cheryl White, David Epston): EXTERNALIZATION separates the problem from the person — 'the violence' is the enemy, not 'the violent person.' The therapist allies with the client against the problem. The question about a time when violence DIDN'T occur is an exception-finding question used to re-author a new story of the client as someone capable of change. Note: in intimate partner violence (IPV), verbal abuse typically precedes physical abuse — an exam fact."
+    "rationale": "Since the research occurred in the past and the researcher did not have control over the independent variable this qualifies as causal comparative research. The fact that a t test was used would allow you to eliminate choices “a” and “d.” Causal comparative and correlational research and surveys are called nonexperimental designs."
   },
   {
-    "id": "ch11_q_015",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_928",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "After many sessions, a family's communication has improved and members report feeling better. However, the family's fundamental power structure remains unchanged — the father still dominates all decisions unilaterally without input from others. According to Watzlawick, Weakland, and Fisch, the therapy has produced:",
+    "question": "All of the techniques listed below would be used by a behavioristic family therapist except:",
     "options": [
-      "Second-order change — the family communication has genuinely transformed",
-      "First-order change — symptoms improved but the underlying family structure did not change",
-      "Morphogenesis — the family successfully adapted to new patterns",
-      "Homeostasis — the family returned to its pre-therapy equilibrium"
+      "Family sculpting.",
+      "A functional analysis of behavior followed by operant conditioning.",
+      "Modeling.",
+      "Chaining and extinction."
     ],
-    "correct_index": 1,
-    "rationale": "First-order change: behavioral improvements occur, but the ORGANIZATION OR STRUCTURE of the family system remains unchanged. Symptom relief may be temporary because the structural pattern that generated the symptoms persists. Second-order change requires an actual change in family structure — here, the father's domination (the structural issue) remains intact despite improved surface communication. Morphogenesis refers to the family's capacity for change (part of the circumplex model). Homeostasis is the tendency to return to a balanced state."
+    "correct_index": 0,
+    "rationale": "Family sculpting, popularized by Virginia Satir, is an experiential/expressive technique in which a family member places other family members in positions that symbolize their relationships with other members of the family. Finally, the member places him- or herself. This helps the therapist understand family dynamics that might be missing from a mere discussion of family issues."
   },
   {
-    "id": "ch11_q_016",
-    "domain": "Helping Relationships",
+    "id": "ch11_q_929",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A family therapist observes that 10-year-old Lily has been having frequent stomachaches that get her excused from school. During sessions it becomes clear that whenever Lily has a stomachache, her parents stop fighting and unite around caring for her. Cloe Madanes would MOST likely describe this as:",
+    "question": "Which statement is true of families?",
     "options": [
-      "A perverse triangle — Lily and one parent have allied against the other",
-      "An incongruous hierarchy — the child is controlling the parents' behavior through her symptoms",
-      "Reframing — the stomachaches serve a positive function for the family",
-      "Enmeshment — the parents are over-involved in Lily's physical health"
-    ],
-    "correct_index": 1,
-    "rationale": "Incongruous hierarchy (Madanes): the child is in CONTROL of the parents' behavior rather than the reverse. Lily's stomachaches stop her parents' fighting — she is regulating the parental emotional system. The symptom serves a function: protecting the family from parental conflict. Madanes's therapeutic goal is to help children find more direct ways to help their parents so the symptom becomes unnecessary. A perverse triangle (Haley) involves a parent-child coalition AGAINST another parent — not what's happening here."
-  },
-  {
-    "id": "ch11_q_017",
-    "domain": "Helping Relationships",
-    "chapter": 11,
-    "question": "A counselor supervisor tells a supervisee: 'Seeing your clients for free is wonderful practice, but I cannot pursue an ethics violation against you if you don't.' The supervisor is distinguishing between:",
-    "options": [
-      "Licensure vs. certification — credentialing bodies have different standards",
-      "Mandatory ethics (standards of practice) vs. aspirational ethics (ideal but not enforceable)",
-      "ACA vs. NBCC codes — they have different requirements for pro bono work",
-      "Legal requirements vs. ethical guidelines — pro bono is legally required but not ethically"
-    ],
-    "correct_index": 1,
-    "rationale": "MANDATORY ETHICS (standards of practice): strictly enforced, clear bright-line rules — violations have consequences (e.g., no sex with clients). ASPIRATIONAL ETHICS: describe IDEAL or OPTIMAL practice but cannot support an ethics violation charge if not followed (e.g., pro bono services). Most ethics codes contain both. Pro bono work is mentioned in ethics codes but is aspirational — no counselor can be sanctioned for NOT providing free services. The exam may refer to mandatory ethics as 'standards of practice.'"
-  },
-  {
-    "id": "ch11_q_018",
-    "domain": "Helping Relationships",
-    "chapter": 11,
-    "question": "A researcher gives 30 clients a depression inventory, provides them with 4 sessions of solution-focused therapy, then gives the same 30 clients the same depression inventory again. She uses a t test to compare their before and after scores. This research design is BEST described as a:",
-    "options": [
-      "Between-subjects design — the two groups (before/after) are independent",
-      "Within-subjects (related measures) design — subjects serve as their own controls",
-      "True experimental design — participants were randomly assigned to conditions",
-      "Causal comparative (ex post facto) design — the researcher did not control the IV"
-    ],
-    "correct_index": 1,
-    "rationale": "Within-subjects (related measures) design: the SAME people are measured at two time points — before and after treatment. Each subject serves as their own control. This is a pre-experimental design (no control group, no random assignment) — depicted as OXO. Between-subjects designs use DIFFERENT people in control and experimental groups. A true experiment requires random assignment. Ex post facto research involves groups that naturally differ on an IV the researcher did not manipulate — not applicable here."
-  },
-  {
-    "id": "ch11_q_019",
-    "domain": "Helping Relationships",
-    "chapter": 11,
-    "question": "A researcher studying marital satisfaction observes that couples who show contempt for each other during conflict (eye-rolling, sarcasm, mockery) have the highest divorce rates in follow-up studies. This finding is MOST associated with the work of:",
-    "options": [
-      "Murray Bowen — whose triangulation theory predicts relational dissolution",
-      "Salvador Minuchin — whose structural model identifies rigid boundaries as predictive of divorce",
-      "John Gottman — who identified criticism, contempt, defensiveness, and stonewalling as the 'Four Horsemen'",
-      "Jay Haley — whose strategic model links power imbalance to marital failure"
+      "The divorce rate has decreased markedly in the last several years.",
+      "Remarriage today is uncommon.",
+      "Remarriage today is common.",
+      "The divorce rate in the United States hovers at about 10%."
     ],
     "correct_index": 2,
-    "rationale": "John Gottman identified 6 predictors of divorce, with NEGATIVITY — specifically criticism, contempt, defensiveness, and stonewalling (the 'Four Horsemen') — as central. Contempt is considered the most corrosive of the four. Gottman's other predictors: harsh startup, flooding, body language changes (elevated pulse), failed repair attempts, and lack of fond early memories. Important exam caveat: Gottman's research was NOT based on true experiments — a common criticism of his work."
+    "rationale": "Four in ten new marriages are remarriages. Choices “a” and “d” are incorrect inasmuch as the divorce rate is rather stable at about 50%."
   },
   {
-    "id": "ch11_q_020",
-    "domain": "Career Development",
+    "id": "ch11_q_930",
+    "domain": "Human Development and Family Counseling",
     "chapter": 11,
-    "question": "A female engineering student has consistently earned A grades in her advanced math courses. Yet when her career counselor asks about her career interests, she says she has never considered engineering because 'I've always thought math was more of a guy thing.' Her counselor's BEST conceptual framework for understanding this pattern is:",
+    "question": "Which statement is true?",
     "options": [
-      "Holland's RIASEC — her Investigative interests are suppressed by Realistic barriers",
-      "Gottfredson's circumscription — she has eliminated engineering based on sex-type boundaries",
-      "Social Cognitive Career Theory (SCCT) — low self-efficacy beliefs are overriding demonstrated ability",
-      "Super's career maturity — she has not yet reached the exploration stage of development"
+      "Single life is short-lived for divorced persons. About 30% of all divorced persons are remarried within 12 months of being divorced.",
+      "Most persons who are divorced do not remarry.",
+      "Most persons who are divorced wait a minimum of five years to remarry.",
+      "Women remarry quickly, however, men do not."
+    ],
+    "correct_index": 0,
+    "rationale": "The average divorce takes place after eight years. On average, after the marriage ends the partners will remarry in three or four years."
+  },
+  {
+    "id": "ch11_q_931",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "The theory of psychodynamic family counseling is primarily associated with",
+    "options": [
+      "William Glasser.",
+      "Sigmund Freud.",
+      "Virginia Satir and Carl Whitaker.",
+      "Nathan Ackerman."
+    ],
+    "correct_index": 3,
+    "rationale": "Although Freud is the father of psychoanalysis, it was Ackerman—an analytically trained child psychiatrist—who as early as 1938, recommended studying the family and not just the child who was brought into treatment as the identified patient. Some experts consider this the true beginning of the family therapy movement. Because he was analytically trained, Ackerman—unlike many family therapists—was concerned with the internal feelings and thoughts of each individual as well as the dynamics between them. Prior to Ackerman it was considered inappropriate to include family members in analytic treatment sessions."
+  },
+  {
+    "id": "ch11_q_932",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "In psychoanalytic family therapy the word object means",
+    "options": [
+      "a dream.",
+      "a significant other with whom a child wishes to bond.",
+      "transference.",
+      "countertransference."
+    ],
+    "correct_index": 1,
+    "rationale": "This is the notion that an individual (or the individual’s ego) attempts to establish a relationship with an object—often a person or a part of the body—to satisfy needs. When this does not occur anxiety is manifested."
+  },
+  {
+    "id": "ch11_q_933",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "In psychoanalytic family therapy the term introjects really means that the client",
+    "options": [
+      "unconsciously internalizes the positive and negative characteristics of the objects within themselves.",
+      "possesses internal verbalizations. 402",
+      "possesses a finite number of problem-solving options.",
+      "possesses the internal motivation to solve his or her own difficulties."
+    ],
+    "correct_index": 0,
+    "rationale": "Eventually, these introjects (taking in personality attributes of others that become part of your own self-image) determine how the individual will relate to others."
+  },
+  {
+    "id": "ch11_q_934",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Pick the best example(s) of the psychoanalytic concept of splitting.",
+    "options": [
+      "A client who realistically perceives her therapist as a very empathic person.",
+      "A client who realistically perceives her therapist as only having good qualities.",
+      "A client who sees her therapist as all bad.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Splitting occurs when the client sees an object (another person) as either all good or all bad. Splitting allows one to keep anxiety in check by making objects predictable. This tendency begins in childhood, usually by categorizing one’s mother as all good or all bad. Removing dysfunctional introjects from childhood is curative."
+  },
+  {
+    "id": "ch11_q_935",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A 72-year-old woman you are counseling in a family reminds you of your mother and this is bringing up unresolved childhood issues for you as the counselor. This is an example of",
+    "options": [
+      "positive transference.",
+      "negative transference.",
+      "countertransference.",
+      "ambivalent transference."
     ],
     "correct_index": 2,
-    "rationale": "Social Cognitive Career Theory (SCCT): SELF-EFFICACY BELIEFS — personal beliefs about whether one can perform a task — directly influence career exploration and choice. Even when objective ability is high (consistent A grades), LOW SELF-EFFICACY ('math is a guy thing') can prevent career pursuit. The core SCCT question: 'Can I really do this?' Gottfredson's circumscription (also correct-ish) involves eliminating options based on social acceptability, but SCCT more precisely describes the self-efficacy mechanism. Holland focuses on personality type-environment fit, not self-efficacy beliefs."
+    "rationale": "Yes, I realize that I have introduced you to these concepts earlier in the text, nevertheless, repetition can help ensure that you truly understand the concepts. Countertransference occurs when a counselor has an unresolved issue that impacts treatment. A strict psychodynamic theorist would assert that the counselor has an unconscious reaction to the family or to the 72-year-old woman that is similar to a reaction he or she experienced in a previous situation; often his or her own childhood."
+  },
+  {
+    "id": "ch11_q_936",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A family actually changes the structure of their family system. According to Watzlawick, Weakland, and Fisch the family has achieved",
+    "options": [
+      "second-order change that is more desirable than first-order change.",
+      "first-order change that is more desirable than second-order change.",
+      "mediation.",
+      "a Greek chorus."
+    ],
+    "correct_index": 0,
+    "rationale": "Second-order change is indeed more desirable than first-order change. Why? The answer is easy. First-order change can be defined as changes that are superficial. That is to say, behavioral changes do occur; however, the organization or structure of the system does not change. Therefore, first-order change often ameliorates symptoms but the changes are often temporary. Second-order change involves an actual change in the family structure that alters an undesirable behavioral pattern. Mediation—a term that is becoming more popular—refers to a procedure used by attorneys and trained mental health professionals to settle disputes between couples getting a divorce without going to court. Yes, my dear reader, choice “d” is a real bona fide must-know exam term. Peggy Papp’s Greek chorus refers to a consultant or supervisory team that observes a session from behind a one-way mirror and sends messages to the therapist or the family. This so-called treatment-team approach is very popular with strategic therapists. Keep in mind that the counselor may accept or reject notions put forth via the Greek chorus."
+  },
+  {
+    "id": "ch11_q_937",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A woman sees her husband as all good sometimes and all bad at others. An analytically trained family therapist who believes in object relations would see this as",
+    "options": [
+      "ambivalent transference.",
+      "splitting.",
+      "persistent depressive disorder.",
+      "psychotic behavior."
+    ],
+    "correct_index": 1,
+    "rationale": "Here is another type of splitting (the first type is depicted in question 934). As a child this woman internalized an image of her mother as all good at times and all bad at others. She now adheres to this pattern as an adult. You old pros reading this will know that choice “c” was formerly dysthymia but goes under the label of persistent depressive disorder in the DSM-5. Both terms refers to a low-level chronic depression that occurs for more days than not, for two years or more."
+  },
+  {
+    "id": "ch11_q_938",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Nathan Ackerman is considered a famous psychoanalytic family therapist; so are",
+    "options": [
+      "Carl Rogers and Albert Ellis.",
+      "Arnold Lazarus and Joseph Wolpe.",
+      "William Glasser and Robert Wubbolding.",
+      "James Framo and Robin Skynner."
+    ],
+    "correct_index": 3,
+    "rationale": "Here’s a very brief mini-review: Rogers is person-centered; Ellis is rational-emotive behavior therapy; Lazarus is multimodal therapy based on his BASIC-ID structure; Wolpe is systematic desensitization (behavior therapy); and Glasser and Wubbolding are reality therapy. Framo believes that important objects (usually parents) often fuel “love–hate” feelings in kids. The more pathological the early life experiences are the more that person as an adult will make all relationships fit the internal “love–hate” scenario from childhood. Skynner (not Skinner!) is a British psychoanalyst who feels that kids who had poor role models as children possess protective systems. This simply means that such individuals harbor unrealistic expectations of people in current relationships carried over from childhood."
+  },
+  {
+    "id": "ch11_q_939",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Cloe Madanes and Jay Haley are associated with the ________ school of family counseling.",
+    "options": [
+      "strategic",
+      "behavioral 404",
+      "psychodynamic",
+      "object relations"
+    ],
+    "correct_index": 0,
+    "rationale": "Haley is the name we associate most with this area. Haley was impacted by the late great Milton Erickson (not Erik Erikson) who believed in “designing a strategy for each specific problem.” It has been said that Haley helped alter Erickson’s work so that it helped families as much as individuals. Haley actually coined the term strategic therapy to explain Erickson’s method."
+  },
+  {
+    "id": "ch11_q_940",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "When Jay Haley began investigating psychotherapy he",
+    "options": [
+      "was already trained as a Freudian analyst like so many other pioneers in the field.",
+      "was already trained as a behaviorist.",
+      "had studied REBT with Albert Ellis.",
+      "had a degree in the arts and communication rather than the helping professions."
+    ],
+    "correct_index": 3,
+    "rationale": "Could it be that Haley viewed his lack of formal training in the counseling field as an advantage? Possibly! While at the Philadelphia Child Guidance Clinic he and pioneer Salvador Minuchin trained people with virtually no background in psychotherapeutic intervention. Since these individuals did not harbor preconceived notions of what therapy should or should not be they were seemingly more open to innovative ideas."
+  },
+  {
+    "id": "ch11_q_941",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Jay Haley believes in giving clients directives. You are counseling a family and during the session the 14-year-old daughter exclaims that she is suicidal. The best example of a directive would be",
+    "options": [
+      "you turn to the 14-year-old daughter and say, “You seem to be saying that living is too painful.”",
+      "you turn to the 14-year-old daughter and say, “Could it be that you want to hurt yourself because your boyfriend no longer wishes to see you?”",
+      "you turn to the family and say, “If your daughter threatens suicide this week I want the entire family—including your daughter—to stay home and nobody leaves for the day.”",
+      "you turn to the family and say, “Could this be a family problem rather than a difficulty for your daughter?”"
+    ],
+    "correct_index": 2,
+    "rationale": "A directive or prescription is when the therapist tells a client or family what to do."
+  },
+  {
+    "id": "ch11_q_942",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Which of these responses is the best example of the double-bind concept used in Haley’s strategic therapy? You are trying to help a client stop smoking:",
+    "options": [
+      "You hypnotize her and tell her she will never smoke another cigarette again. After you awaken her you admonish her to smoke as many cigarettes as she can for the first three days.",
+      "You recommend that the client chart the number of cigarettes she smokes.",
+      "You tell her to mentally visualize herself as a nonsmoker whenever she has the desire to smoke.",
+      "All of the above."
+    ],
+    "correct_index": 0,
+    "rationale": "A double bind is a no-win situation characterized by contradictory messages such as never smoke again and then smoke as much as you want. It constitutes a paradox in the sense that the client is told he or she can engage in a behavior that the person wishes to abate. Although it is used therapeutically, Gregory Bateson (mentioned previously) believed that when parents repeatedly double-bind children the result could be schizophrenia. Yes, my dear reader, a therapeutic technique resulted from studying pathological behavior. Choice “b” represents a behavioristic ploy. Choice “c” is also a possible mode of intervention. I have personally used the correct answer (choice “a”) and it tends to work well with smokers. A person who has just been hypnotized will do anything to prove that he or she can still smoke!"
+  },
+  {
+    "id": "ch11_q_943",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "The directive or prescription given to the smoker in the previous question could best be described as",
+    "options": [
+      "a paradoxical intervention.",
+      "a cognitive intervention.",
+      "an object relations intervention.",
+      "a behavioristic intervention."
+    ],
+    "correct_index": 0,
+    "rationale": "A directive is really a therapeutic task or command. When a person follows a paradoxical directive the symptoms are under therapeutic control. So if the client in the previous question called the counselor and said, “Hey you hypnotized me and I smoked five cigarettes after the session,” the therapist could remark, “Well of course you did, I told you to smoke as many cigarettes as you could.” One definition of paradox is that the helper prescribes what the client or family would probably do anyway and can even tell them to exaggerate it! Paradox is roughly the direct antithesis of common sense and is a must-know concept for your exam!"
+  },
+  {
+    "id": "ch11_q_944",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A couple tells a therapist using strategic family therapy that they have a quarrel at least once every evening. The therapist says, “Between now and the next time I see you I want you to have a serious quarrel at least twice every evening.” This is an example of",
+    "options": [
+      "relabeling, which is commonly used in this form of therapy.",
+      "reframing, which is commonly used in this form of therapy.",
+      "prescribing the symptom.",
+      "a directive that is not paradoxical or a double bind."
+    ],
+    "correct_index": 2,
+    "rationale": "Choices “a” and “b” mean roughly the same thing and are used by Jay Haley and his followers. Choice “d” stands incorrect since prescribing the symptom is a paradoxical strategy."
+  },
+  {
+    "id": "ch11_q_945",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Strategic family counselors often rely on relabeling or reframing. A client says his girlfriend yells at him every time he engages in a certain behavior. The best example of reframing or relabeling would be",
+    "options": [
+      "a counselor who remarks, “Research seems to show that when she yells at you it is because she loves you so much. A woman often feels foolish if she hugs or kisses you in a situation like that.”",
+      "a counselor who remarks, “Can you tell me about it in the present moment, as if she is yelling at you this very minute?”",
+      "a counselor who remarks, “You are upset by her verbal assaults.”",
+      "a counselor who remarks, “Are you really hurt by your girlfriend’s remarks or is it the fact that you are telling yourself how catastrophic it is that she said these things?”"
+    ],
+    "correct_index": 0,
+    "rationale": "Reframing occurs when you redefine a situation in a positive context (i.e., make the situation or behavior seem acceptable to the client). The situation is described in a positive light to evoke a different emotional response. Choice “c” is a technique used by Rogerian therapists while choice “d” would be a common response for an REBT family therapist."
+  },
+  {
+    "id": "ch11_q_946",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "In strategic family counseling the person with the power in the family",
+    "options": [
+      "has the authority to make rules and enforce them.",
+      "is usually extremely aggressive.",
+      "is usually not willing to follow a family therapist’s prescriptions or directives.",
+      "is the one who talks the most."
+    ],
+    "correct_index": 0,
+    "rationale": "Jay Haley believes you enhance the power of a family member within the context of therapy by speaking to him or her first during the initial session of therapy."
+  },
+  {
+    "id": "ch11_q_947",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Psychoanalytic practitioners do not attack symptoms directly. Strategic therapy",
+    "options": [
+      "does not attack the symptoms directly either.",
+      "is pragmatic and often focuses on abating symptoms.",
+      "does not take a position on whether a counselor should attempt to ameliorate symptoms or not.",
+      "takes the position that if you can change each family member’s unconscious, then symptoms will gradually disappear."
+    ],
+    "correct_index": 1,
+    "rationale": "Haley’s therapy is solution/symptom focused and very action oriented."
+  },
+  {
+    "id": "ch11_q_948",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Cloe Madanes insisted that symptoms serve a function. A child, for example, sees that her mother is depressed. The daughter throws a glass cup to the floor to break it. This brings her mother out of the depressed state and makes her mother angry and powerful. This is known as",
+    "options": [
+      "symptom substitution.",
+      "the perverse triangle.",
+      "incongruous hierarchy.",
+      "latency."
+    ],
+    "correct_index": 2,
+    "rationale": "Madanes believed that one of the keys to family functioning is to help children find more direct ways to help their parents so that their symptoms (in this case breaking one of the family’s cups!) no longer serve a viable purpose. In a normal family hierarchy, the mother controls her daughter; however, in this case, since the daughter is in control, the term incongruous hierarchy is evident. Haley has stated that a malfunctioning hierarchy is evident in most dysfunctional families. The strategic approach asserts that a symptom controls a situation when everything else has failed. A symptom is sometimes viewed as a metaphor for a difficulty being expressed by another family member."
+  },
+  {
+    "id": "ch11_q_949",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Madanes advocated pretend techniques that are somewhat paradoxical. An example might be",
+    "options": [
+      "a child who has panic attacks pretends he has a mental bullhorn in his head and shouts “stop.”",
+      "a child who has panic attacks pretends in his mind that a therapist is counseling him.",
+      "a child who has panic attacks pretends his dad is a therapist during the actual family therapy session.",
+      "a child who has panic attacks pretends to have one during the session and the parents pretend to help him."
+    ],
+    "correct_index": 3,
+    "rationale": "In the pretending, the family enacts a make-believe scenario of the problem. Most experts maintain that the pretend technique is more gentle and less confrontational than traditional paradoxical interventions."
+  },
+  {
+    "id": "ch11_q_950",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A strategic family therapist says to a family, “I don’t know what else you can do to stop the bickering and fighting in your house.” This is an example of",
+    "options": [
+      "restraining.",
+      "quid pro quo.",
+      "pretending.",
+      "interpretation."
+    ],
+    "correct_index": 0,
+    "rationale": "In restraining a therapist may warn the family or individual about the negative consequences of change. The counselor might tell the family to take it very slow or expect a relapse. Restraining helps overcome resistance by suggesting that it might be best if the family does not change!"
+  },
+  {
+    "id": "ch11_q_951",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A client remarks that her depression is extremely intense. Her strategic counselor remarks, “It is very possible your depression is hopeless. It is possible you will never get over it.” Her comment is an example of",
+    "options": [
+      "a blatant ethical violation.",
+      "positioning.",
+      "cohesion.",
+      "behavioral disputation."
+    ],
+    "correct_index": 1,
+    "rationale": "Who knows, at some point in time choice “a” could be the correct answer, however, choice “b” is currently correct. Positioning occurs when a helper accepts the client’s predicament and then exaggerates the condition. Positioning paints an even more negative picture of the situation for the client than restraining, mentioned in the previous question. The strategic techniques of restraining, positioning, prescribing the symptom, and relabeling (also called redefining and reframing on some exams) are all examples of paradoxical interventions since they defy common sense. Choice “c” refers to the degree of bonding between family members or members in a counseling group. Choice “d” is associated with Albert Ellis’s REBT. In REBT, the primary goal is to dispute and change the client’s cognitions. In behavioral dispute, the client tries to behave in a way that is markedly different from his or her normal, though undesirable, pattern."
+  },
+  {
+    "id": "ch11_q_952",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A family counselor treats an Asian American family exactly like he treats the Arab American families in his caseload. He also imposes values from his own culture on them. This counselor has been described in the literature as",
+    "options": [
+      "culturally sensitive.",
+      "lacking cultural sensitivity.",
+      "culturally encapsulated.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Cultural encapsulation (a term suggested by counseling pioneer Gilbert Wrenn) results in a counselor imposing goals from his or her own culture on people from another culture. This is a no-no in counseling. Counselors who treat all families the same ignore key cultural differences."
+  },
+  {
+    "id": "ch11_q_953",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Which statement is true of African American families?",
+    "options": [
+      "They are the largest minority in the United States.",
+      "Fewer African Americans are getting married.",
+      "African Americans are less likely to be concerned about gender roles (e.g., men and women can cook meals or work outside of the home).",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” is false since as of this writing African Americans constitute the second largest minority. Latino/as constitute the largest minority group."
+  },
+  {
+    "id": "ch11_q_954",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "When working with an African American family, the best approach would probably be",
+    "options": [
+      "Bowen’s family therapy; Minuchin’s structural family therapy; or Haley’s strategic family therapy.",
+      "cognitive family therapy.",
+      "Ackerman’s psychoanalytic approach to family therapy.",
+      "a strict reality therapy approach based on the work of psychiatrist William Glasser."
+    ],
+    "correct_index": 0,
+    "rationale": "Several studies indicate that African American families are less likely to seek professional treatment because they often rely on the extended family and the church for support and guidance. This is viewed as a strength. When family counseling is utilized, problem-focused, brief, or multigenerational approaches mentioned in the first choice seem to fare best."
+  },
+  {
+    "id": "ch11_q_955",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "When counseling Asian American families the best approach would most likely be 409",
+    "options": [
+      "Ackerman’s psychoanalytic approach.",
+      "behavioral family therapy.",
+      "solution-focused/problem-focused modalities.",
+      "a, b, and c."
+    ],
+    "correct_index": 2,
+    "rationale": "Remember that there are huge differences between one cultural group and another, however, no culture is purely homogeneous. That said, when a study by P. Wang et al. looked at Asian Americans, the researchers found that Asian Americans might be mentally healthier than the general population (8.6% had mental health symptoms compared to 17.9% for the population at large). Moreover, those with a DSM diagnosis were less likely to seek treatment (34.1% for the Asian Americans versus 41.1% for the general population)."
+  },
+  {
+    "id": "ch11_q_956",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Which statement is true of Latino/a families?",
+    "options": [
+      "They have a high unemployment rate, often live in poverty, and rarely earn high school diplomas or college degrees.",
+      "They have higher than average incomes but usually don’t finish high school or college.",
+      "They have college degrees, but still generally live in poverty.",
+      "They prefer long-term treatment in therapy."
+    ],
+    "correct_index": 0,
+    "rationale": "In general, Latino/as tend to have a higher unemployment rate than whites, are more likely to live in poverty, and earn high school diplomas or college degrees less frequently. Let me address choice “d.” In a high percentage of the cases Latino/a clients expect mental health treatment to mimic the treatment they receive from their medical doctors. Short-term behavioral family therapy or structural approaches appear to work well."
+  },
+  {
+    "id": "ch11_q_957",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A model by Olson, Sprenkle, and Russell suggests that family functioning can be described in two dimensions—cohesion and adaptability. The family therapy term cohesion refers to the level of emotional bonding between family members. Adaptability refers to",
+    "options": [
+      "a family’s level of enmeshment or disengagement.",
+      "a family’s ability to adapt to the therapist’s personality.",
+      "a family’s ability to adapt to the theoretical persuasion of the therapist.",
+      "how rigid, structured, flexible, or chaotic the family is."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” is incorrect since it clearly describes the family’s level of cohesion. Adaptability refers to the family’s balance between stability, known as morphostasis and change, known as morphogenesis. According to this model the key factor is that the family should have balance in cohesion as well as adaptability. This is the so-called circumplex family model. A word to the wise: Since a number of popular texts include information on this topic it is likely that you will see a question on one or more of the terms included in this question."
+  },
+  {
+    "id": "ch11_q_958",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Which statement is true regarding Native American families? 410",
+    "options": [
+      "They are a very diverse group as they belong to over 550 state-recognized tribes, with over 220 in Alaska.",
+      "Extended family and the tribe are very significant.",
+      "A high percentage of children have been placed in foster care homes, residential facilities, or adoption homes that are non-Native American.",
+      "All of the above are true."
+    ],
+    "correct_index": 3,
+    "rationale": "Most theorists agree that the result of choices “a,” “b,” and “c” (all true, by the way) has been identity confusion."
+  },
+  {
+    "id": "ch11_q_959",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "The statement “Native Americans, also called American Indians in some of the literature, have a problem with alcoholism and suicide” is",
+    "options": [
+      "false.",
+      "true as far as alcoholism is concerned, however, false where suicide is concerned.",
+      "true.",
+      "true regarding the suicide rate, however, false regarding their use of alcoholic beverages."
+    ],
+    "correct_index": 2,
+    "rationale": "The Centers for Disease Control and Prevention (CDC) statistics indicate suicide is the second leading cause of death among Native Americans/Alaska Natives between the ages of 10 and 34. Alcohol is involved in 69% of the suicides for all age brackets in this cultural group, topping all other groups tabulated. The high rates of suicide and alcoholism create issues with suicide bereavement (people mourning a suicide are known as “survivors of suicide”), fetal alcoholism, and cirrhosis of the liver."
+  },
+  {
+    "id": "ch11_q_960",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Murray Bowen is known for his work in intergenerational family therapy. When Bowen refers to triangulation he means",
+    "options": [
+      "that most people have three ego states (i.e., the Parent, the Adult, and the Child) in their personality.",
+      "that most people have a personality structure composed of the id, the ego, and the superego.",
+      "when a dyad (i.e., two individuals) is under stress a third person is recruited to help stabilize the difficulty between the original dyad. This could even be a child placed in the middle of the conflict.",
+      "therapy has three distinct phases."
+    ],
+    "correct_index": 2,
+    "rationale": "Choice “a” is postulated via transactional analysis while choice “b” is the darling of the Freudians. Choice “c” is the correct answer. Unfortunately, the ploy usually makes the situation between the original pair worse!"
+  },
+  {
+    "id": "ch11_q_961",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "One of the primary goals of Bowen’s intergenerational family therapy is differentiation. Differentiation is 411",
+    "options": [
+      "the extent that one can separate one’s intellect from one’s emotional self.",
+      "the extent that one is different from one’s peers.",
+      "the extent that one is different from one’s childhood.",
+      "the same as fusion."
+    ],
+    "correct_index": 0,
+    "rationale": "Did you mark choice “d”? If so, you’d be going back a space or two if this were a board game since fusion is the direct opposite of differentiation. It occurs when the intellectual and emotional aspects of the personality merge. A person who does not possess differentiation does not have a clear sense of the self and others."
+  },
+  {
+    "id": "ch11_q_962",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Bowen popularized a three-generational pictorial diagram as a therapy tool. This is known as",
+    "options": [
+      "an histogram.",
+      "a sociogram.",
+      "a genogram.",
+      "family sculpting."
+    ],
+    "correct_index": 2,
+    "rationale": "A genogram is a family tree of sorts that relies on lines, words, and geometric figures (e.g., squares for males, circles for females, horizontal lines for marriages, and vertical lines for children). If you’ve ever studied electronics you will note that a genogram looks a bit like a schematic. Bowen suggested that the genogram should depict three or more generations."
+  },
+  {
+    "id": "ch11_q_963",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "An intergenerational family therapist says she is concerned with the nuclear family emotional system. She is referring to",
+    "options": [
+      "the fact that although the current family in therapy has an emotional system, this emotional system is influenced by previous generations whether they are alive or dead.",
+      "the fact that a genogram should depict a single generation.",
+      "the fact that emotional discord is a function of the unconscious mind.",
+      "the miracle question."
+    ],
+    "correct_index": 0,
+    "rationale": "The “miracle question” introduced in choice “d” is a common term popping up on exams these days. The miracle question is a brief-therapy technique in which the therapist asks, “Suppose one night, while you were asleep, there was a miracle and this problem was solved. How would you know? What would be different?” The miracle question, popularized by the solution-oriented therapy of Steve de Shazer, allows clients to look beyond the problem. Bowen originally referred to the nuclear family emotional process as an “undifferentiated family ego mass” since families with difficulties display a high degree of fusion."
+  },
+  {
+    "id": "ch11_q_964",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Albert Ellis is to REBT as Salvador Minuchin is to",
+    "options": [
+      "the MRI model.",
+      "structural family therapy. 412",
+      "intergenerational family counseling.",
+      "behavioral family counseling."
+    ],
+    "correct_index": 1,
+    "rationale": "Note that choice “a” uses the abbreviation MRI for Mental Research Institute in Palo Alto, California. Haley’s strategic model has also been called the MRI model or the communications model. To answer the question you would need to know that Ellis is the father of rational-emotive behavior therapy while Minuchin is the founder of action-oriented structural family therapy. This approach posits that an individual’s behavior can only be interpreted by analyzing family interaction. Moreover, a change in the family’s patterns of communication and interaction must occur to create a healthy family. Here again, play with a memory device like “Salvador begins with an S and so does structural.”"
+  },
+  {
+    "id": "ch11_q_965",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "An important technique in structural family therapy is joining. Which statement most accurately depicts this intervention?",
+    "options": [
+      "The therapist meets, greets, and attempts to bond with the family. The therapist will use language similar to that of the family and mimesis which means that he or she will mimic communication patterns.",
+      "The therapist is professional but distant.",
+      "The therapist joins the family and sympathizes with their difficulties.",
+      "Joining is used during the final session of therapy."
+    ],
+    "correct_index": 0,
+    "rationale": "Joining occurs during the initial session to boost the family’s confidence in the treatment process and reduce resistance. In subsequent sessions the therapist will challenge the dysfunctional communication patterns and the structure of the family."
+  },
+  {
+    "id": "ch11_q_966",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A family is seeing a structural family therapist because there is a huge argument every time the subject of the 16-year-old daughter’s boyfriend comes up. The therapist says, “Okay, I want you to play like you are at home and act out precisely what transpires when the subject of your daughter’s boyfriend is mentioned.” The structural family therapist is using a technique called",
+    "options": [
+      "joining.",
+      "reframing.",
+      "enactment.",
+      "cognitive disputation."
+    ],
+    "correct_index": 2,
+    "rationale": "Enactment is a strategy that allows the counselor to see an instant replay, if you will, of what genuinely transpires in the family. Although “c” is the correct answer here structural therapists do employ reframing (defined as an alternative way of describing or perceiving an event) and relabeling discussed in earlier questions."
+  },
+  {
+    "id": "ch11_q_967",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "When a structural therapist uses the term boundaries he or she really means",
+    "options": [
+      "the limits of the human mind. 413",
+      "the limits of behavior in the family.",
+      "the separation of the family members from their family of origin.",
+      "the physical and psychological entities that separate individuals and subsystems from others in the family."
+    ],
+    "correct_index": 3,
+    "rationale": "When structural therapists attempt to help the family create healthy boundaries it is known as changing boundaries or the boundary marking technique. In this technique the family seating is often altered and family members are placed at a different distance from each other."
+  },
+  {
+    "id": "ch11_q_968",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "In Minuchin’s structural approach, clear boundaries are",
+    "options": [
+      "pathological.",
+      "rigid.",
+      "also called diffuse boundaries.",
+      "ideal—firm yet flexible."
+    ],
+    "correct_index": 3,
+    "rationale": "Clear boundaries are considered healthy. When boundaries are clear persons in the family are supported and nurtured, but each has the freedom to be his or her own person (i.e., individuate)."
+  },
+  {
+    "id": "ch11_q_969",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A woman is having difficulties at her place of employment. Her husband turns to her in a session and says, “You’re on your own, I’ve got my own problems.” A structural family therapist would assert that the boundaries between this couple are",
+    "options": [
+      "rigid.",
+      "clear.",
+      "diffuse.",
+      "a combination of a and c."
+    ],
+    "correct_index": 0,
+    "rationale": "Rigid boundaries are characterized by individuals or subsystems being disengaged. What will the wife do in this situation? Well, according to this theory she will seek support outside of the family system."
+  },
+  {
+    "id": "ch11_q_970",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A mother insists on accompanying her 20-year-old daughter on a date. A structural therapist would assume that the family",
+    "options": [
+      "has clear boundaries.",
+      "has rigid boundaries.",
+      "has diffuse boundaries.",
+      "supports individuation."
+    ],
+    "correct_index": 2,
+    "rationale": "Okay, so some of you overprotective moms out there thought I should have included a choice “e”— cautious! Very funny. The answer I was looking for, nonetheless, was choice “c,” diffuse boundaries. Minuchin does not feel that the “I devote my life to my children” mentality is a healthy one. In fact, he believes that if the spousal subsystem becomes obsessed with parenting the child will be afraid to experiment and thus could mature slowly. This child will often have trouble making friends outside of the home. When such individuals get married they rely far too much on their family of origin. Such children often grow up to not feel comfortable when they are alone."
+  },
+  {
+    "id": "ch11_q_971",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Minuchin would often mimic the family’s style. This is known as",
+    "options": [
+      "cognitive disputation.",
+      "the structural map.",
+      "permeable boundaries.",
+      "none of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Minuchin did rely on a so-called structural map with symbols to diagram the structure of the family, but of course, choice “b” is not the correct answer. Choice “d” is correct. The correct term is mimesis and it implies that the therapist copies the family’s style. This helps the therapist join the family and helps the family accept him or her as a helper."
+  },
+  {
+    "id": "ch11_q_972",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Ackerman is psychodynamic. Haley is strategic. Minuchin is structural. Bowen is intergenerational. Another well-known intergenerational family therapist would be",
+    "options": [
+      "Alfred Adler.",
+      "Ivan Boszormenyi-Nagy (enunciated Naahge).",
+      "Andrew Salter.",
+      "Mara Selvini-Palazzoli."
+    ],
+    "correct_index": 1,
+    "rationale": "Boszormenyi-Nagy—thank your lucky stars you need not know how to spell it for the exam—is a Hungarian analytically trained psychiatrist who discusses the importance of give and take fairness or relational ethics in the family. According to the notion of relational ethics a healthy family can negotiate imbalances and preserve a sense of fairness and accountability. Boszormenyi-Nagy introduced the term family legacy, which refers to expectations handed down from generation to generation. He is also known for his family ledger technique. The ledger is a multigenerational balance sheet or accounting system, if you will. The ledger outlines who gave what to whom and who owes what to whom. Mara Selvini-Palazzoli is associated with Milan systematic family therapy."
+  },
+  {
+    "id": "ch11_q_973",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A family member who is emotionally distant is",
+    "options": [
+      "disengaged.",
+      "enmeshed.",
+      "an example of equifinality.",
+      "a placater."
+    ],
+    "correct_index": 0,
+    "rationale": "Disengagement is often defined as an isolated lack of connectedness between family members."
+  },
+  {
+    "id": "ch11_q_974",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "During the course of a family session you discover that the man and his 14-year-old son are putting pressure on mom to quit her job. Mom very much likes her work. In Haley’s theory this set of dynamics would be called",
+    "options": [
+      "reframing.",
+      "equifinality.",
+      "the perverse triangle.",
+      "paradox."
+    ],
+    "correct_index": 2,
+    "rationale": "The perverse triangle is a situation when two members who are at different levels of the family hierarchy (usually a coalition between parent and a child) team up against another family member. The alliance between the parent and the child may be overt or covert. In any event, the alliance against the other parent undermines his or her power and authority."
+  },
+  {
+    "id": "ch11_q_975",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "________ was a pioneer in the early history of family therapy.",
+    "options": [
+      "Carl Jung",
+      "David Wechsler",
+      "Alfred Adler",
+      "Franz Anton Mesmer"
+    ],
+    "correct_index": 2,
+    "rationale": "Adler opened over 30 child guidance clinics in Vienna in the 1920s that were later eliminated by the Nazi Party in 1934. These clinics would often perform open forum therapy in which Adler worked with the family as well as the open forum audience."
+  },
+  {
+    "id": "ch11_q_976",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Which therapist could best be described as atheoretical?",
+    "options": [
+      "Jay Haley.",
+      "Carl Whitaker.",
+      "Alfred Adler.",
+      "Nathan Ackerman."
+    ],
+    "correct_index": 1,
+    "rationale": "Whitaker asserted that theory is often used as an excuse to keep therapists emotionally distant from the family. Whitaker promoted “craziness” (not a typo!) and creativity of family members."
+  },
+  {
+    "id": "ch11_q_977",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Solution-oriented therapy as practiced by William O’Hanlon, Insoo Kim Berg, Steve de Shazer, and Michelle Weiner Davis focuses primarily on",
+    "options": [
+      "the past.",
+      "the present.",
+      "the future.",
+      "dream analysis."
+    ],
+    "correct_index": 2,
+    "rationale": "This approach puts little or no emphasis on understanding the problem. The therapist’s verbalizations center on the future. The therapist co-formulates a plan of action with the client or family. There may be more than one appropriate course of action."
+  },
+  {
+    "id": "ch11_q_978",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Narrative therapy (NT), which highlights stories in counseling, is associated with the work of",
+    "options": [
+      "William O’Hanlon.",
+      "William Glasser.",
+      "Milton H. Erickson.",
+      "Michael White, his wife Cheryl White, and David Epston."
+    ],
+    "correct_index": 3,
+    "rationale": "Narrative therapy fits in a new category of treatment known as postmodernism or constructivism. Constructivism or social constructivism asserts that a client constructs or invents the way he or she perceives the world. Clients come up with a story about their lives and they can reauthor these stories in therapy. Simply put: Reality is invented or constructed; it is not objective. The Whites and Epston believe that every country and culture espouses viewpoints or social narratives. Social narratives dictate what a family ought to be like. In narrative therapy the therapist asks questions or uses language to externalize the problem. Externalize, in this case, means to separate the problem from the person. The therapist utilizing this approach teams up with the family to take on the enemy (i.e., the problem). Thus, a therapist working with a family with an abusive spouse might say to the abuser, “I know you want to put an end to this violence. Tell me about a time when you stopped a violent episode that keeps you from being the wonderful, loving husband you want to be.” Quick hint: In cases of intimate partner violence (IPV), verbal abuse typically takes place prior to physical abuse."
+  },
+  {
+    "id": "ch11_q_979",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Postmodernist Tom Anderson, a psychiatrist from Norway, became disenchanted with traditional family therapy. He began using a radical approach based primarily on",
+    "options": [
+      "a one-way mirror and a reflecting treatment team.",
+      "three therapists.",
+      "the gestalt empty chair technique.",
+      "homework assignments."
+    ],
+    "correct_index": 0,
+    "rationale": "Postmodernism is a key concept that assumes that there are no fixed truths in the world, only people’s individual perceptions of what constitutes reality or the truth. This technique was discovered when Anderson asked a family if they would like to hear what the team was saying about them. The family said “yes.” The family and the family therapist listen as the team (called a reflecting team) discusses the case. Finally, the therapist processes the family’s reaction to the team’s observations. A number of schools of family therapy have now incorporated this technique. Constructivism is not really a unified therapy based on a single individual but rather the theorists mentioned in this question as well as the trailblazers mentioned in the previous two questions. The theory stresses that therapy should be less hierarchical. A helper does not treat a client. Instead the client and the therapist have a conversation to work together in a collaborative effort."
+  },
+  {
+    "id": "ch11_q_980",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Feminist therapy criticizes traditional therapies 417",
+    "options": [
+      "because they are androcentric (i.e., they use male views to analyze the personality).",
+      "because they are gendercentric (i.e., they assume that there are two separate psychological developmental patterns—one for men and one for women).",
+      "because they emphasize heterosexism and debase same-sex relationships.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Feminist counselors often wisely note that a psychological difficulty can be located in the environment or the political system, rather than in the person (i.e., intrapsychic). A woman who is depressed because she is being beaten by her partner would be an excellent example. In the case of a woman who is making less money than a man for the same job, the phrase “the personal is political” rings true. In a nutshell, feminist therapies are said to be “gender free,” in the sense that differences between men and women are seen to be the result of socialization—not whether they are male or female. Like the postmodernists, the feminist therapists attempt to have an egalitarian relationship with the client. Bibliotherapy, appropriate therapist disclosure, and assertiveness training are often used. This modality tends to dispute sex-role stereotypes (e.g., women are less assertive and less aggressive than men). Feminists strive for equality in human relationships and the counselor can help in this area by avoiding complex clinical jargon. Many feminist practitioners have a person-centered slant to their work. Can a male be an effective feminist therapist? Well, as it now stands, the feminists themselves are not in agreement on this issue. It is common, nevertheless, for feminist therapists to work with male batterers. Your exam might refer to feminist counseling as gender-fair counseling. One interesting fact related to the women’s counseling movement and its emphasis on abating sexism is that it helped illuminate the special issues in counseling men, masculinity, and men’s psychology. Since the early to mid-1980s, counseling and clinical services for men have become much more commonplace. Another interesting finding is that parents and society are more tolerant of girls who adopt masculine behaviors, than of boys who take on feminine behaviors. In childhood, young girls are often reinforced for showing emotions. This is generally not the case with boys, who are reinforced for physical pursuits and not showing affective/emotional expression. Men are therefore less likely to seek out counseling services and may do so only when they are experiencing a crisis. When men do engage in counseling services their competitiveness can help them work hard to succeed."
+  },
+  {
+    "id": "ch11_q_981",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "The term skeleton keys as used in Steve de Shazer’s brief solution-focused therapy (BSFT) indicates",
+    "options": [
+      "a standard or stock intervention that will work for numerous problems.",
+      "a technique where the client goes home to see his or her family of origin.",
+      "a technique that works for one specific problem, but usually will not work with other difficulties.",
+      "a technique in which the therapist hands the client or clients a sheet of paper with a compliment on it."
+    ],
+    "correct_index": 0,
+    "rationale": "Choice “d,” although it is not the correct answer, is a de Shazer technique that has been dubbed simply as a compliment. When using a similar technique known as past successes the therapist may also compliment past successes without specifically relating them to the current obstacles. Brief therapy is sometimes abbreviated as BT."
+  },
+  {
+    "id": "ch11_q_982",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "One criticism of using cognitive-behavioral methods like REBT with families or individuals in multicultural counseling would be",
+    "options": [
+      "that the theory is not intended to be used with diverse populations.",
+      "the theory suggests that the therapist must have ethnic or racial ties with the client in order for efficacious treatment to occur.",
+      "that it ignores present moment problems.",
+      "that the cognitive disputation could go against cultural messages."
+    ],
+    "correct_index": 3,
+    "rationale": "Another criticism is that Albert Ellis views dependency as unhealthy and some cultures see interdependence as a positive attribute."
+  },
+  {
+    "id": "ch11_q_983",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Most experts predict that in the twenty-first century, theories of counseling and psychotherapy will",
+    "options": [
+      "become more integrative, since about 30–50% of all therapists say they are eclectic.",
+      "become more behavioristic, since this is the approach that uses statistical outcomes.",
+      "become more Rogerian, since the world as a whole is becoming more humanistic.",
+      "not tolerate eclecticism, since it is not scientific."
+    ],
+    "correct_index": 0,
+    "rationale": "Will we see an end to therapy wars as we know them? Is the battle between psychotherapeutic and counseling modalities winding down? It would seem that the answer is yes. The trend is clearly toward integration. Theorists and practitioners alike have discovered that one theory is never extensive enough to include all behaviors. In addition, studies often indicate that one approach is not necessarily superior to another, or to put it very simply: Most approaches are equal in terms of their therapeutic value. Persons who pay allegiance to one school of psychotherapy are now incorporating approaches from other (sometimes rival!) modalities. So much for the therapy wars of the twentieth century. Expect to see the term integrative psychotherapy more frequently in the coming years. One notion is that theories of counseling are helpful because they have elements that are common to all approaches. This is called a “common factor approach.” Another theory about why integrative counseling works is that regardless of the paradigm there are “common stages of change.”"
+  },
+  {
+    "id": "ch11_q_984",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Pick the most accurate statement.",
+    "options": [
+      "Brief solution-oriented therapy requires the use of a one-way mirror with a treatment team behind the mirror.",
+      "Brief solution-oriented therapy does not utilize a treatment team behind a one-way mirror.",
+      "Brief solution-oriented therapy sometimes uses a treatment team behind a one-way mirror, nevertheless, it is not required.",
+      "Brief solution-oriented therapy does not utilize paradoxical interventions."
+    ],
+    "correct_index": 2,
+    "rationale": "This therapy often relies on paradox; hence, choice “d” is incorrect. On brief strategic/family therapy questions on your exam, the term ecosystems refers to the fact that larger systems often impact client and family functioning (e.g., the schools, church, or health care system). An ecosystemic approach always takes these larger systems into account."
+  },
+  {
+    "id": "ch11_q_985",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A researcher takes a group of clients and gives them a depression inventory. He then provides each client with two sessions of brief solution-oriented therapy and gives them the same depression inventory. A t test is used to compare the two sets of scores on the same people (i.e., the before and after measures of depression). This would be",
+    "options": [
+      "a between-groups design.",
+      "a correlation coefficient.",
+      "a related measures within-subject design.",
+      "survey research."
+    ],
+    "correct_index": 2,
+    "rationale": "In the within-subjects design, each subject acts as his or her own control. The between-groups design (which relies on separate people in the control and experimental groups) is a much more popular form of research. When a single group is used in research or two groups that are not equivalent, your exam will probably refer to this situation as a pre-experimental design."
+  },
+  {
+    "id": "ch11_q_986",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A question on the NCE or CPCE regarding a pre-experimental design uses the letters XO. The letters stand for",
+    "options": [
+      "treatment (X) and observation, measurement, or score (O).",
+      "the mean (X) and no treatment was given (O).",
+      "the median (X) and other group (O).",
+      "treatment (X) and the number of observations taken (O)."
+    ],
+    "correct_index": 0,
+    "rationale": "Experimental designs are often diagrammed. The most popular abbreviations are: O for observation, measurement, or score—O is the dependent variable (DV) in the experiment; X for treatment; E for experimental group; C for control group; R for random sampling; and NR for no random sampling of groups. Hence, the pre-experimental design in the group in question 985 could be connoted by: Group: E Subject Assignment: NR Pretest: O (since a score was accrued) Treatment: X (in this case two sessions of brief-solution oriented therapy) Posttest: O (since another score was accrued) If you were not acquainted with these abbreviations in graduate school I highly recommend you reread this question several times!"
+  },
+  {
+    "id": "ch11_q_987",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Another type of pre-experimental design is the one-group only posttest design. This is best depicted by",
+    "options": [
+      "OXO.",
+      "XO.",
+      "OX.",
+      "XX."
+    ],
+    "correct_index": 1,
+    "rationale": "Okay, let’s walk through this quagmire together. The group only receives treatment (remember a capital X) and a score (that would be O) so the correct answer is choice “b.” What would the correct sequence be for the previous question? Choice “a” since the group received a test (O), treatment (X), and then another test (O). Geez! I wonder if researchers stay up all night trying to come up with abbreviations and nomenclature to make exams more difficult. We should get together and do a study on that one! If the results are significant I’m certain we can find a journal dealing with psychopathology that will be more than happy to put our findings in print."
+  },
+  {
+    "id": "ch11_q_988",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A time-series design is a quasi-experimental design",
+    "options": [
+      "that utilizes two randomly chosen groups; a control group and an experimental group.",
+      "without randomly chosen control and experimental groups, which relies on multiple observations of the dependent variable (i.e., the thing you are measuring) before and after the treatment occurs.",
+      "a and b.",
+      "is not depicted by any of the answers above."
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “a” is incorrect since two randomly chosen groups would constitute a true experiment. Using our abbreviations this design would look something like this: O1, O2, O3, X, O4, O5, O6."
+  },
+  {
+    "id": "ch11_q_989",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "The Solomon four-group is considered a true experimental design since each group is chosen via a random sample. When using this design",
+    "options": [
+      "all groups receive a pretest.",
+      "there is no pretest.",
+      "one control group receives a pretest and one experimental group receives a pretest; the other control group and experimental group do not.",
+      "there is no posttest."
+    ],
+    "correct_index": 2,
+    "rationale": "In this design one pair of control/experimental groups receives a pretest while the other pair does not. This design helps weed out the impact of a pretest."
+  },
+  {
+    "id": "ch11_q_990",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "John Gottman is known for",
+    "options": [
+      "setting the level for intoxication driving while under the influence (DUI) or driving while intoxicated (DWI) at .08 or higher in most states.",
+      "creating a paradigm to predict which marriages would likely end in divorce. 421",
+      "demonstrating that physical biomarkers of older adults can be reversed if they are placed in an environment from the past and told to act like they are living in the past.",
+      "popularizing the notion of propinquity."
+    ],
+    "correct_index": 1,
+    "rationale": "Let’s survey our choices. Although Gottman had nothing to do with it, the legal limit in most states for blood alcohol concentration or blood alcohol content (BAC) is set at .08. The limit for commercial vehicle operators, say truck drivers, will be more stringent or lower such as .04. The same often holds true for those under the age of 21. Just for the record, at .3 you lose consciousness and at .4 some people will die. Gottman’s claim to fame is depicted in choice “b.” He postulates six predictors of divorce: (1) The marriage got off to harsh “start up.” (2) The relationship is characterized via negativity which includes criticism, contempt, defensiveness, and stonewalling. (3) There is flooding” in the sense that the negativity comes on suddenly and is overwhelming. (4) “Body language” changes such as a pulse rate between 110 and 165. (5) Attempts to repair the marriage fail. (6) A lack of fond memories from the early days of the relationship. Detractors are quick to point out that Gottman did not rely on true experiments to come up with his theories. Choice “c”—also a must-know—depicts the work of Dr. Ellen Langer. When she placed 70–80-year-old men in an environment commensurate with the one they lived in 20 years ago and told them to act like it was 20 years earlier, their biomarkers of aging actually went backwards! People even thought they looked younger at the end of the research. Her book on this fascinating study, Counter Clockwise, has become a classic in the mindfulness movement. Finally, the term propinquity, often pops up on exams. It also goes under the name of the “mere exposure effect,” indicating that the more you are around a person the greater the likelihood is you will become attracted to them. Emerging research suggests this is even true, though to a lesser degree, for virtual relationships such as via e-mail or instant messaging."
+  },
+  {
+    "id": "ch11_q_991",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "The newest career theory would be",
+    "options": [
+      "constructivist and cognitive approaches.",
+      "the trait-and-factor approach.",
+      "the developmental and psychoanalytic approaches.",
+      "the transactional analysis approach."
+    ],
+    "correct_index": 0,
+    "rationale": "Career experts wonder if traditional theories are applicable now since the majority of theories were based on research using white, middle-class males, which is hardly representative of the work market today that includes more people of color, a large number of women and teens, and more persons from lower socioeconomic classes."
+  },
+  {
+    "id": "ch11_q_992",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A popular TWA career counseling model by René V. Dawis and Lloyd Lofquist uses the abbreviation PEC. This stands for",
+    "options": [
+      "person emotion consequence.",
+      "person education consequence.",
+      "person environment correspondence. 422",
+      "person environment consequence."
+    ],
+    "correct_index": 2,
+    "rationale": "Wait a minute! What in the world does TWA stand for? It stands for Theory of Work Adjustment or what Dawis considers his “greatest accomplishment” (with the help of Lofquist, whom he admits had equal input). This theory posits that the person must fit the job (i.e., the correspondence or congruence between the individual and the work must be high), and also that the work must meet the needs of the person. In other words the relationship works both ways. This theory therefore espouses that higher work satisfaction generally results in greater productivity. Work adjustment is basically the match between the expectations of the employee and the expectations of the place he or she is working. Tests are routinely used in this model to assess one’s work personality, abilities, and needs. Criticisms? Well pundits charge that the theory does not take into account the fact that the individual changes over time. So does the work environment."
+  },
+  {
+    "id": "ch11_q_993",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Most experts believe that the number of multigenerational families with a child, a parent, and a grandparent living together will",
+    "options": [
+      "decrease.",
+      "increase.",
+      "remain static.",
+      "will continue to go up and down on a fairly regular basis."
+    ],
+    "correct_index": 1,
+    "rationale": "The number of families of this ilk nearly doubled between 1980 and 1990. When the economy goes into a recession and young adults can’t afford to live on their own they often live with their family. In addition, as more people live longer, the number will go up since many of the older folks are incapable of caring for themselves. And just in case your exam asks, the number of single adults in the United States is also increasing."
+  },
+  {
+    "id": "ch11_q_994",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A researcher wants to prove that structural family therapy is the most effective modality. She conducted a study a year ago using a significance level of .05. Several colleagues felt her significance level needed to come down. She thus ran the same basic experiment again with new people using a significance level of .01. Her chances of making a Type I error or so-called alpha error reduced. Now assume you compare her new research to her old research. What could you say about the possibility that her results will indicate that structural family therapy was not significantly different when in reality it truly is significant?",
+    "options": [
+      "Statistically, nothing.",
+      "The chance of this occurring will go down when compared to the first experiment.",
+      "The chance of this occurring increases when compared to the first experiment.",
+      "It would totally depend on the sample size."
+    ],
+    "correct_index": 2,
+    "rationale": "The situation described in this question is a Type II error or so-called beta error. When the chance of making a Type I error goes down (as stated in the question) then the probability of making a Type II error goes up. Type I and Type II errors are like a see-saw—as one goes up the other goes down. Why do you think I called this section advanced?"
+  },
+  {
+    "id": "ch11_q_995",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A question on your comprehensive exam asks you to compute the coefficient of determination. You are given a correlation coefficient of .70. How would you mathematically accomplish this task?",
+    "options": [
+      "You would subtract .70 from a perfect correlation of 1.00.",
+      "You would multiply the mean of the population by .70.",
+      "You would add .70 to a perfect correlation of 1.00.",
+      "You would square the .70."
+    ],
+    "correct_index": 3,
+    "rationale": "The coefficient of determination is computed by squaring the correlation coefficient. Thus, in this case the variance would be 49%."
+  },
+  {
+    "id": "ch11_q_996",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "A correlation coefficient between variables X and Y is .60. If we square this figure we now have the coefficient of determination or true common variance of 36%. What is the coefficient of nondetermination that shows unique rather than common variance?",
+    "options": [
+      "There is no such concept.",
+      "You would subtract 36 from 100.",
+      "It would still be 36%.",
+      "It would be 64%."
+    ],
+    "correct_index": 3,
+    "rationale": "You subtract the coefficient of determination from 100."
+  },
+  {
+    "id": "ch11_q_997",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "John Krumboltz proposes a ________ model of career development.",
+    "options": [
+      "social learning behavioristic",
+      "trait-and-factor",
+      "developmental",
+      "psychoanalytic"
+    ],
+    "correct_index": 0,
+    "rationale": "Krumboltz builds on the social learning theory of Albert Bandura. Krumboltz insists that learning, not interests, guides people into a certain occupation. In addition, changes of interest, hence jobs, occur due to learning. This theory notes that career decisions are influenced by: (a) genetic endowment and special abilities (e.g., a certain physique); (b) environmental conditions and events (e.g., a government policy or an earthquake); and (c) instrumental learning (e.g., positive reinforcement for solving math problems) and/or association learning (e.g., a client wants to go to medical school because everyone in the family loves her uncle who is a physician)."
+  },
+  {
+    "id": "ch11_q_998",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Krumboltz’s social learning theory is sometimes referred to as a cognitive theory because it emphasizes beliefs that clients have about themselves as well as the world of work. When Krumboltz speaks of self-observation generalizations he really means",
+    "options": [
+      "generalizations regarding a given occupation and how successful the client would be in the occupation.",
+      "Pavlov’s principle of stimulus generalization.",
+      "Skinner’s principle of operant conditioning.",
+      "in career counseling your primary concern is the manner in which people view themselves and their ability to perform in an occupation."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a,” though incorrect, is what Krumboltz calls worldview generalizations that are also important when counseling a client."
+  },
+  {
+    "id": "ch11_q_999",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "SCCT stands for",
+    "options": [
+      "social cognitive career theory.",
+      "social cognitive family therapy.",
+      "self-control career theory.",
+      "self-contained career therapy."
+    ],
+    "correct_index": 0,
+    "rationale": "Social cognitive career theory asserts that self-efficacy beliefs can influence one’s career decisions. A woman, for example, may have very good math skills, nevertheless, she might not consider the field due to the belief that women are not as proficient in math as men. Self-efficacy really deals with the personal question of, “Can I really do this and what will happen if I try to do this?”"
+  },
+  {
+    "id": "ch11_q_1000",
+    "domain": "Human Development and Family Counseling",
+    "chapter": 11,
+    "question": "Career counselors refer to job shadowing and volunteering as ________ activities, while reading the job hunting book What Color Is Your Parachute? is ________.",
+    "options": [
+      "noninteractive; interactive",
+      "interactive; noninteractive",
+      "interactive; interactive",
+      "noninteractive; noninteractive"
+    ],
+    "correct_index": 1,
+    "rationale": "With noninteractive activities and media (e.g., reading a book, hearing a speech, or watching a video regarding a job or career) the client has some control over the process. Noninteractive approaches to career decisions have been called linear. On the other hand, interactive approaches (e.g., a field visit to a business, interviewing a worker in a given field, or a computer-based career guidance system) are said to be nonlinear. Interactive approaches are often more expensive and reduce the influence or control that the client has over the process. A counselor could decide that she no longer wishes to read a job pamphlet, however, she cannot control the hours of employment of the agency she is visiting."
   }
 ]

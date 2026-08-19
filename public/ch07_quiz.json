@@ -1,282 +1,1402 @@
 [
   {
-    "id": "ch07_q_001",
+    "id": "ch07_q_501",
     "domain": "Career Development",
     "chapter": 7,
-    "question": "A client describes loving to fix cars, build furniture, and work outdoors with tools. According to Holland's RIASEC theory, this client most likely has a dominant ________ personality type.",
+    "question": "Lifestyle and career development have been emphasized",
     "options": [
-      "Investigative",
-      "Realistic",
-      "Conventional",
-      "Enterprising"
-    ],
-    "correct_index": 1,
-    "rationale": "Realistic types prefer hands-on, mechanical, outdoor, and physical work — fixing cars and building furniture are classic Realistic activities. Investigative types prefer analytical and scientific work; Conventional types prefer structured data/clerical tasks; Enterprising types prefer leading and persuading."
-  },
-  {
-    "id": "ch07_q_002",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "Frank Parsons' trait-and-factor model of vocational guidance requires three sequential steps. Which of the following correctly states the THIRD step?",
-    "options": [
-      "Assessing the individual's traits, abilities, and interests",
-      "Analyzing the requirements and conditions of different occupations",
-      "Using 'true reasoning' to match the person to the right occupation",
-      "Providing occupational information through the Dictionary of Occupational Titles"
-    ],
-    "correct_index": 2,
-    "rationale": "Parsons' three steps are: (1) study the individual, (2) study occupations, (3) use true reasoning to match them. The DOT wasn't created until 1939, decades after Parsons founded the Boston Vocation Bureau in 1908."
-  },
-  {
-    "id": "ch07_q_003",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "An HR department finds that their selection test passes 60% of White applicants but only 42% of Black applicants. Under EEOC guidelines, this test:",
-    "options": [
-      "Is legal because the pass rate difference is under 20 percentage points",
-      "Demonstrates adverse impact because the minority pass rate is below 80% of the majority pass rate",
-      "Is legal because fewer than half of minority applicants were rejected",
-      "Demonstrates adverse impact only if intent to discriminate can be proven"
-    ],
-    "correct_index": 1,
-    "rationale": "The four-fifths (80%) rule: 42/60 = 70%, which is below the 80% threshold, indicating adverse impact. Adverse impact is determined statistically — intent to discriminate is NOT required. The 20-percentage-point test is not the correct standard."
-  },
-  {
-    "id": "ch07_q_004",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "Super's Career Rainbow concept illustrates that across a lifetime, individuals simultaneously occupy multiple life roles. Which of the following is NOT one of Super's five major life stages?",
-    "options": [
-      "Growth",
-      "Exploration",
-      "Consolidation",
-      "Decline"
-    ],
-    "correct_index": 2,
-    "rationale": "Super's five stages are Growth, Exploration, Establishment, Maintenance, and Decline (GEE MD). 'Consolidation' is not one of Super's stages — it is sometimes associated with other developmental models. Confusing 'Establishment' with 'Consolidation' is a common exam error."
-  },
-  {
-    "id": "ch07_q_005",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "A 14-year-old is choosing courses based on whether she imagines herself as a doctor 'when she grows up,' but her ideas about medicine are vague and romanticized. According to Ginzberg, she is in which stage of vocational development?",
-    "options": [
-      "Fantasy stage",
-      "Tentative stage — Interest substage",
-      "Tentative stage — Capacity substage",
-      "Realistic stage — Exploration substage"
-    ],
-    "correct_index": 1,
-    "rationale": "Ginzberg's Tentative stage (ages 11–17) has four substages: Interest (11–12), Capacity (13–14), Value (15–16), and Transition (17). At 14, the girl is beginning to think about interests but not yet seriously evaluating her capacities. The Fantasy stage ends around age 11."
-  },
-  {
-    "id": "ch07_q_006",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "A client tells her counselor: 'I know I want to work with people, but I keep choosing jobs based on what my parents approve of rather than what I truly want.' Gottfredson's theory would describe this pattern primarily as:",
-    "options": [
-      "Circumscription based on gender-role orientation",
-      "Compromise driven by social prestige concerns",
-      "Circumscription based on social space",
-      "Compromise driven by accessibility factors"
+      "only since the late 1950s.",
+      "only since the late 1960s.",
+      "only since nondirective counseling became popular.",
+      "since the beginning of the counseling and guidance movement and are still major areas of concern."
     ],
     "correct_index": 3,
-    "rationale": "Gottfredson's theory holds that individuals first circumscribe (eliminate options) and then compromise (settle for accessible options). Choosing based on parental approval reflects compromising on accessibility/social acceptability over personal interest. Circumscription (eliminating based on gender or prestige) occurs earlier developmentally."
+    "rationale": "Several former ACA presidents (e.g., Sam Gladding and Mark Pope) wisely posit that counseling is the only mental health profession with proficiency in the area of career counseling. In fact, the beginning of the guidance movement has often been associated with the work of Frank Parsons, who started the Boston Vocation Bureau on January 13, 1908 just nine months prior to his death. He was a Cornell graduate who later became Boston’s chief law clerk and then the Dean of the Liberal Arts College at Glen Ellyn, Illinois. His landmark work, Choosing a Vocation, was published posthumously, thus it is doubtful that he ever knew the true impact he had on the field. Parsons served as the Bureau’s director as well as a vocational counselor. The Bureau was set up at the Civic Service House though Parsons also had office hours in branch offices at the YMCA, the Economic Club, and the Women’s Educational and Industrial Union. This explains why historians insist that the guidance movement in the United States began with vocational guidance. John M. Brewer, a director of the Bureau during World War I and the author of the 1942 work History of Vocational Guidance, speculated that as a bachelor Parsons could have been drawn to the Civic Service House in search of friendship. How do neophyte counselors really feel about conducting career counseling? In a nutshell: not that great! Most of the literature suggests that grad students and beginning counselors sport a negative attitude toward the career counseling and see the work of performing personal counseling as having more prestige. Interestingly enough, career counseling trailblazer John O. Crites feels that the need for career counseling exceeds the need for therapy. Moreover, according to Crites, career counseling (which he feels is more difficult than performing psychotherapy) can be therapeutic since a positive correlation between career counseling and personal adjustment is evident. Although not all counselors would agree with Crites’s assertions, it seems safe to say that in reality, the two disciplines overlap."
   },
   {
-    "id": "ch07_q_007",
+    "id": "ch07_q_502",
     "domain": "Career Development",
     "chapter": 7,
-    "question": "A rehabilitation counselor is placing a client with a back injury. The physician's report states the client can lift a maximum of 8 pounds. According to the U.S. Department of Labor physical demand categories, this client is classified as capable of:",
+    "question": "One trend is that women are moving into more careers that in the past were populated by males. Women workers are often impacted by the “glass ceiling phenomenon.” Assuming that a counselor’s behavior is influenced by the phenomenon, which statement would he most likely make when conducting a career counseling session with a female client who wants to advance to a higher position?",
     "options": [
-      "Light work",
-      "Sedentary work",
-      "Medium work",
-      "Limited light work"
-    ],
-    "correct_index": 1,
-    "rationale": "Sedentary work = occasionally lifting up to 10 lbs and walking/standing only occasionally. At 8 lbs maximum, this client meets only the sedentary category. Light work requires lifting up to 20 lbs occasionally. 'Limited light work' and 'limited sedentary' are not official DOL categories."
-  },
-  {
-    "id": "ch07_q_008",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "John Krumboltz's Learning Theory of Career Counseling (LTCC) identifies four factors that influence career decisions. Which factor involves the individual's learned beliefs about themselves and the world of work?",
-    "options": [
-      "Genetic endowment and special abilities",
-      "Environmental conditions and events",
-      "Learning experiences",
-      "Task approach skills"
+      "“Your ability to advance in the corporate world is generally based on your mother’s attitude toward work. Can you tell me a little about that?”",
+      "“Actually, women can advance quite rapidly in the corporate world. I support you 100%. I’d say you should be optimistic and go for the position.”",
+      "“Let’s be rational: A woman can only advance so far. You really have very little if any chance of becoming a corporate executive. I’m here to help you cope with this reality.”",
+      "“In most cases a female will work in a position that is at the same level as her father. Did your dad ever work as a corporate executive?”"
     ],
     "correct_index": 2,
-    "rationale": "Krumboltz's four factors are: (1) genetic endowment, (2) environmental conditions/events, (3) learning experiences (instrumental and associative), and (4) task approach skills. Learned beliefs — including self-observation generalizations and worldview generalizations — emerge from learning experiences. Task approach skills are what the person does with those beliefs."
+    "rationale": "Women now form nearly 60% of the U.S. workforce or approximately 72 million women, so statistically speaking lots of women can benefit from career counseling. Women now own half of all businesses. This number has risen dramatically since 1900. The glass ceiling phenomenon suggests that women are limited in terms of how far they can advance in the world of work. The glass ceiling effect is a form of occupational sex-role stereotyping that can limit women’s careers. This concept is somewhat analogous to the lavender ceiling which purports that the same basic notion is true for gay, lesbian, bisexual, and transgender individuals. Gender-aware career counseling is a must. Okay, back to the subject of female workers. One notion is that the high divorce rate (which currently impacts nearly one out of two marriages) created the phenomenon of the “displaced homemaker.” A displaced homemaker is a woman with children who was a homemaker but is currently in need of work to support her family. Women who have made the transition from homemaker to jobs outside the home could very well be referred to as “reentry women” on your exam. It has been estimated that 75% of all divorces occur in families with children. As adults, kids who grew up in divorced families experience more depression and have more marital problems. In roughly the last 35 years, career counseling experts have begun to focus on women’s issues. Most scholars believe that the focus on minorities is still lagging behind."
   },
   {
-    "id": "ch07_q_009",
+    "id": "ch07_q_503",
     "domain": "Career Development",
     "chapter": 7,
-    "question": "A career counselor is working with a client who cannot decide on a career. Krumboltz's theory would most likely interpret this occupational indecisiveness as:",
+    "question": "Most research in the area of career development and its relationship to students indicates that",
     "options": [
-      "An Eriksonian identity crisis requiring psychoanalytic exploration",
-      "A deficit in occupational information that can be remediated",
-      "A fixed trait requiring assessment via the Strong Interest Inventory",
-      "Evidence of a pathological attachment to the dependency role"
-    ],
-    "correct_index": 1,
-    "rationale": "Krumboltz viewed occupational indecisiveness as an information deficit, not a personality pathology. The counselor's role is to provide learning experiences and accurate information. This optimistic, educational framing contrasts with psychodynamic interpretations that treat indecisiveness as deep-seated pathology."
-  },
-  {
-    "id": "ch07_q_010",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "Anne Roe's personality theory of career choice links early childhood parenting styles to eventual occupational choice. A client raised in an overprotective home who always had her emotional needs met would be predicted to gravitate toward:",
-    "options": [
-      "Science and technology occupations (person-not-oriented)",
-      "Outdoor occupations requiring independence",
-      "Service and social occupations (person-oriented)",
-      "Business and managerial occupations"
-    ],
-    "correct_index": 2,
-    "rationale": "Roe proposed that children raised in warm, overprotective homes (needs met) develop a person-oriented focus and gravitate toward service, business contact, and arts/entertainment occupations. Cold or neglectful parenting leads to not-person-oriented choices (science, outdoor, technology). This is Roe's primary career theory contribution."
-  },
-  {
-    "id": "ch07_q_011",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "Which occupational information resource replaced the Dictionary of Occupational Titles (DOT) and is now maintained online, providing skill-based job descriptions rather than task-based ones?",
-    "options": [
-      "Occupational Outlook Handbook (OOH)",
-      "O*NET",
-      "Standard Occupational Classification (SOC)",
-      "GATB"
-    ],
-    "correct_index": 1,
-    "rationale": "O*NET (Occupational Information Network) replaced the DOT and is maintained by the Department of Labor online. It uses a skills-based framework. The OOH (also DOL) describes job outlooks and salaries but did not replace the DOT. The GATB is an aptitude test, not an occupational information system."
-  },
-  {
-    "id": "ch07_q_012",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "A client says, 'I work 60 hours a week because my boss is difficult, but at home I make up for it by being the most relaxed, present parent I can be.' This client's work-leisure pattern best illustrates the ________ effect.",
-    "options": [
-      "Spillover",
-      "Compensatory",
-      "Segmentation",
-      "Dual-career"
-    ],
-    "correct_index": 1,
-    "rationale": "The compensatory effect occurs when a person compensates in leisure for what is lacking or negative at work (e.g., overworked → deliberately relaxed at home). Spillover means work attitudes/behavior carry over into leisure (positive or negative). Segmentation means work and leisure are kept entirely separate with no influence either way."
-  },
-  {
-    "id": "ch07_q_013",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "A test measures how much chemistry a student has LEARNED after completing a semester course. This is best described as a(n):",
-    "options": [
-      "Aptitude test",
-      "Achievement test",
-      "Interest inventory",
-      "Work sample"
-    ],
-    "correct_index": 1,
-    "rationale": "Achievement tests measure what has already been learned. Aptitude tests measure potential to learn or perform in the future (e.g., SAT, GATB). The distinction is past learning (achievement) vs. future potential (aptitude). On the NCE, scenarios about 'after completing training' or 'following instruction' signal achievement."
-  },
-  {
-    "id": "ch07_q_014",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "During a performance appraisal, a supervisor rates all employees higher than their actual performance warrants because she dislikes giving negative feedback. This error is called:",
-    "options": [
-      "Recency error",
-      "Central tendency error",
-      "Leniency error",
-      "Halo effect"
-    ],
-    "correct_index": 2,
-    "rationale": "Leniency error occurs when a rater inflates ratings to avoid conflict or discomfort. Recency error overweights recent events. Central tendency error rates everyone in the middle of the scale. The halo effect occurs when one positive trait causes overestimation of all other traits."
-  },
-  {
-    "id": "ch07_q_015",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "Edgar Schein identified 'career anchors' — deeply held values that people refuse to give up when making career choices. A client who says, 'I will never take a job that requires me to follow someone else's rules — I have to be my own boss' is most clearly anchored in:",
-    "options": [
-      "Security/stability",
-      "Technical/functional competence",
-      "Autonomy/independence",
-      "Entrepreneurial creativity"
-    ],
-    "correct_index": 2,
-    "rationale": "The autonomy/independence anchor reflects a need to set one's own rules and resist organizational constraints. Entrepreneurial creativity involves creating new ventures (not just self-direction). Security/stability prioritizes predictability. Technical/functional competence anchors value expertise in a specific field above all else."
-  },
-  {
-    "id": "ch07_q_016",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "Super's concept of 'career maturity' in adolescents refers to:",
-    "options": [
-      "Having selected a final occupational goal by age 18",
-      "The degree of readiness to make age-appropriate career decisions",
-      "The ability to earn a living wage without parental support",
-      "Successfully completing the Exploration stage of career development"
-    ],
-    "correct_index": 1,
-    "rationale": "Career maturity (Super) refers to readiness — not the actual choice made. An adolescent high in career maturity has age-appropriate planfulness, knowledge of career decision-making, and realistic self-appraisal. Super later used 'career adaptability' for adults to reflect ongoing flexibility rather than a fixed developmental milestone."
-  },
-  {
-    "id": "ch07_q_017",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "A woman returns to the workforce after 15 years of raising children and finds her previous skills are outdated. She does not qualify for unemployment because she was never laid off from a job. She is BEST described as a:",
-    "options": [
-      "Dislocated worker",
-      "Displaced homemaker",
-      "Underemployed worker",
-      "Reentry woman"
-    ],
-    "correct_index": 1,
-    "rationale": "A displaced homemaker is someone (traditionally a woman) who has been dependent on another person's income and must now enter or reenter the workforce, typically due to divorce, death of a spouse, or other family disruption. Dislocated workers were previously employed and lost their jobs. 'Reentry woman' is a broader term; displaced homemaker is the specific clinical/policy designation."
-  },
-  {
-    "id": "ch07_q_018",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "According to research on job-seeking, what percentage of job openings are estimated to be part of the 'hidden job market' — positions that are never formally advertised?",
-    "options": [
-      "Approximately 30%",
-      "Approximately 50%",
-      "More than 76%",
-      "More than 90%"
-    ],
-    "correct_index": 2,
-    "rationale": "Career development literature consistently cites that more than 76% of job openings are never formally advertised — they are filled through networking, referrals, and informal contacts. This is a frequently tested NCE statistic. Counselors should encourage networking as the primary job-search strategy."
-  },
-  {
-    "id": "ch07_q_019",
-    "domain": "Career Development",
-    "chapter": 7,
-    "question": "Holland developed the Self-Directed Search (SDS) and proposed that vocational types and work environments can be arranged in a hexagonal model. The two types MOST psychologically similar (adjacent on the hexagon) to Investigative are:",
-    "options": [
-      "Realistic and Artistic",
-      "Social and Conventional",
-      "Enterprising and Social",
-      "Conventional and Artistic"
+      "a very high proportion of students in high school and at the junior high or middle school level wanted guidance in planning a career. Career interests are more stable after college.",
+      "students did not want career guidance despite its importance.",
+      "many students were too inflexible to benefit from career guidance.",
+      "high school students wanted career guidance but junior-high school- or middle school-level students did not."
     ],
     "correct_index": 0,
-    "rationale": "On Holland's hexagon (R-I-A-S-E-C in order), Investigative is flanked by Realistic and Artistic — these are the most similar types. Types opposite on the hexagon (e.g., Investigative opposite Social) are the most psychologically dissimilar. Understanding adjacency helps predict person-environment congruence."
+    "rationale": "Simply put: except for the current generation of college students who seem to be avoiding career counseling, K-12 students seem to want the service. Three-fourths of the eleventh graders wanted help with career planning and the number who wanted help in the eighth grade was nearly as high, rendering choice “d” incorrect. Most studies indicate that students would like more help in the area of career planning, including the fact that 50% of all college students have career difficulties. This information is especially important in regard to young African Americans who have fewer positive work role models. Why limit our discussion to just young people? Perhaps you’ve heard the statistic floating around which suggests that one in five workers snares a job based on chance factors and that 60% of all workers would like more information about the world of work if they had to do it all over again. Some brief comments on decision making, job performance, and career counseling: Another key issue is pervasive indecisiveness. This label describes a person who has a lifelong pattern of severe anxiety related to decision making. Needless to say, this affliction makes the act of deciding on a career that much more difficult. Victor Vroom’s motivation and management expectancy theory throws another mix of factors into the ring that is relevant once the individual is employed. He suggests that an employee’s performance is influenced by valence (will the work provide rewards such as money, a promotion, or satisfaction?); expectancy (what does the person feel he or she is capable of doing?); and instrumentality (will the manager actually give the employee the promised reward such as a raise?)."
   },
   {
-    "id": "ch07_q_020",
+    "id": "ch07_q_504",
     "domain": "Career Development",
     "chapter": 7,
-    "question": "A career counselor who uses Mark Savickas's career construction approach asks a client to describe their favorite childhood hero and the stories they loved as a child. The counselor is primarily using this technique to:",
+    "question": "A dual-career family (or dual-worker couple) is one in which both partners have jobs to which they are committed on a somewhat continuous basis. Which statement is true of dual-career families?",
     "options": [
-      "Assess Holland type through projective identification with characters",
-      "Identify the client's career anchor using biographical data",
-      "Elicit the client's life narrative and personal meaning about work",
-      "Evaluate Ginzberg's Fantasy stage residue affecting adult choices"
+      "Surprisingly enough, dual-career families have lower incomes than families in which only one partner works.",
+      "Dual-career families have higher incomes than the so-called traditional family in which only one partner is working.",
+      "Dual-career families have incomes which are almost identical to families with one partner working.",
+      "Surprisingly enough, no research has been conducted on dual-career families."
+    ],
+    "correct_index": 1,
+    "rationale": "Common sense prevails here as two incomes are indeed usually better than one. Nevertheless, since both partners are working there are more problems related to household chores and responsibilities. Competition between the partners can also be an issue that may need to be dealt with in counseling. Today over 54% of all marriages are dual-wage earner marriages making them the majority. The figure hovers around the 60% mark when we examine families with children. Compare this to the 1950 statistic of 20.4%. Simply put: Dual-career couples are now the norm."
+  },
+  {
+    "id": "ch07_q_505",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "In the dual-career family, partners seem to be more self-sufficient than in the traditional family. In a dual-career household, the woman",
+    "options": [
+      "generally has children before entering the workforce.",
+      "rarely if ever has children.",
+      "is not self-reliant.",
+      "is typically secure in her career before she has children."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” is true of the traditional family while choice “d” describes the dual-career family. Choice “c” contradicts research which insists that partners in a dual-career family are more selfsufficient than in the traditional family."
+  },
+  {
+    "id": "ch07_q_506",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Studies indicate that",
+    "options": [
+      "students receive ample vocational guidance.",
+      "most parents can provide appropriate vocational guidance.",
+      "students want more vocational guidance than they receive.",
+      "career days meet the vocational guidance needs of most students."
     ],
     "correct_index": 2,
-    "rationale": "Savickas's career construction theory is a narrative/constructivist approach. The counselor elicits life stories — including childhood heroes and favorite stories — to help clients construct meaning and identity around work. This contrasts with Holland's type-matching or Ginzberg's stage theory. The goal is a coherent career narrative, not trait measurement."
+    "rationale": "If you missed this question please review question 503. Hint: Some exams will distinguish between career counseling and vocational guidance. Guidance is seen as a developmental and educational process within a school system while career counseling is viewed as a therapeutic service for adults performed outside an educational setting. Semantics? Perhaps, but you may need it to boost your exam score!"
+  },
+  {
+    "id": "ch07_q_507",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Statistics reveal that",
+    "options": [
+      "on average, a worker with a bachelor’s degree earns over $10,000 a year more than a worker with a high school diploma.",
+      "fewer workers possess a high school diploma than ever before.",
+      "blue-collar jobs are growing faster than white-collar jobs.",
+      "older workers are slower than younger workers and have fewer skills."
+    ],
+    "correct_index": 0,
+    "rationale": "Roughly speaking, a bachelor’s level worker brings in about $57,000 per year in comparison with a worker who has a high school diploma who will earn an average of $33,500 yearly. Asian Americans/Pacific Islanders have the highest percentage of individuals with a bachelor’s degree, followed by whites, African Americans, and Latino/as. The good news is that all of the aforementioned groups have raised their graduation rates since 1990. Choice “b” is blatantly false. The number of workers in the labor force with a high school diploma has increased. The same could be said of choice “c”: blue-collar jobs have not increased as rapidly as white-collar positions. These changes may be based partially on the fact that the United States has become a service economy rather than focusing primarily on the production of goods. Some exams—as well as many textbooks—will mention the “changing view of work.” This phrase generally indicates that in the past work was seen as drudgery, while today it is seen as a vehicle to express our identity, self-esteem, and status. In the past work was primarily a way to pay the bills. Today, the rewards of a career are often conceptualized as fulfilling emotional needs. This would seem to indicate that people who don’t need to work will still continue to do so. Is this really the case? According to a 1978 text on lottery winners by H. R. Kaplan, million dollar winners who quit their jobs felt dissatisfied. A Dutch study confirmed his findings. (We should all be lucky enough to be included in a study like this!) And did you by any chance mark choice “d”? Well if you did, you need to know that experience impacts job performance more than age does. Some research demonstrates that older workers are actually more adept than younger ones in terms of skill as well as speed! This phenomenon disproved a notion in psychology known as “decrement,” which suggested that speed, skills, and retention would decrease as one entered old age."
+  },
+  {
+    "id": "ch07_q_508",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "When professional career counselors use the term leisure they technically mean",
+    "options": [
+      "the client is having fun at work or away from work.",
+      "the client is relaxing at work or away from work.",
+      "the client is working at less than 100% capacity at work or away from work.",
+      "the time the client has away from work which is not being utilized for obligations."
+    ],
+    "correct_index": 3,
+    "rationale": "Leisure time is defined as time away from work in which the individual has the freedom to choose what he or she would like to do. Leisure time is said to be “self-determined.” Leisure can sometimes help compensate for dissatisfaction in the work place. Career is sometimes defined as the total work one does in a lifetime plus leisure. A leisure activity that one engages in for pleasure rather than money is often referred to as an avocation. Dual-career couples often report a lack of leisure time which can in turn foster additional stress for both partners."
+  },
+  {
+    "id": "ch07_q_509",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "In terms of leisure time and dual-career families/couples,",
+    "options": [
+      "dual-career families/couples have more leisure time.",
+      "dual-career families/couples have the same amount of leisure time as families/couples with one wage earner.",
+      "dual-career families/couples have less leisure time.",
+      "dual-career families/couples have more weekend leisure time."
+    ],
+    "correct_index": 2,
+    "rationale": "Both partners in the single-career relationship have more leisure time. Some books and exams are already using the term leisure counseling, which should alert you to the emphasis which is being placed on this topic. Fortunately, research shows that in most cases, dual-career households manage to spend as much time with their children as households with a single wage earner."
+  },
+  {
+    "id": "ch07_q_510",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A client who says, “I feel I cannot really become an administrator in our agency because I am a woman” is showing an example of",
+    "options": [
+      "gender bias.",
+      "counselor bias.",
+      "the trait-and-factor theory.",
+      "developmental theory and career choice."
+    ],
+    "correct_index": 0,
+    "rationale": "Here is an agency that makes “biased” employment choices based on one’s “gender.” The ideal answer to this dilemma was set forth in 1964 when Title VII of the Civil Rights Act (amended in 1972) stated that women would have equal work opportunities and equal job pay. I purposely used the word ideal inasmuch as some statistics demonstrated that in 1964 a man was earning a buck for every 59 cents earned by a woman. Since 1964, however, progress has been slower than a tortoise with ankle weights, with women now bringing in about 76 cents for each dollar a man earns. The Equal Employment Opportunity Commission (EEOC) is the watchdog for Title VII guidelines that prohibit discrimination on the basis of color, sex, religion, race, or national origin. Since 1978, EEOC has enforced “Uniform Guidelines on Employee Selection Procedures.” The procedures speak of “adverse impact.” A test or selection process is said to have adverse impact if it does not meet the “80% Fourfifths Rule.” Here, the hiring rate for minorities is divided by the figure for nonminorities. If the quotient is less than 80% (4/5), then adverse impact is evident. Thus, a typical exam question might inform you that a firm’s selection process is such that 60 of the employees hired are African American, while 80 are white. You would then be asked to determine whether the selection process was plagued via adverse impact. Your computation would be: 60/80 = 75%. Since 75% is less than 80%, the process would indeed have an adverse impact. This formula also is used for promotion situations. The fact that minorities ought to be moved “up” more in jobs could be used as a memory device that the minority or subgroup rate is placed “up” or on the top (i.e., the numerator) of the equation. The uniform guidelines also discuss “differential validity,” which is evident when a selection process (e.g., a test) is valid for one group, yet less valid or totally invalid for another group. (Note: This is not the same as “discriminant validity.” See question 627 for a discussion of this term.) Tests plagued by differential validity should not be utilized for hiring or promotion purposes. Incidentally, choice “b” or “counselor bias” might be used to describe a counselor who was sympathetic with the agency’s position. As for choices “c” and “d” be prepared to see them a lot. The chances are extremely good that you will see a question related to “trait-and-factor theory” and “developmental theory” on any major exam. The trait-and-factor theory assumes that via psychological testing one’s personality could be matched to an occupation which stresses those particular personality traits. Some industrial psychology exams will speak of “profile matching.” In this approach, a job candidate’s personality or skills profile is matched to that of successful workers. The decision to hire is then based on the closeness or similarity of the match based on a pattern of predictor scores. The developmental approach, choice “d,” views career decisions as longitudinal and reversible."
+  },
+  {
+    "id": "ch07_q_511",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "One major category of career theory is known as the trait-factor (also called the trait-and-factor) approach. It has also been dubbed the actuarial or matching approach. This approach",
+    "options": [
+      "attempts to match conscious and unconscious work motives.",
+      "attempts to match the worker and the work environment (job factors). The approach thus makes the assumption that there is one best or single career for the person.",
+      "attempts to match career behavior with attitudes.",
+      "attempts to match cognition with the workload."
+    ],
+    "correct_index": 1,
+    "rationale": "Historically speaking, the trait-and-factor theory is considered the first major and most durable theory of career choice. The term actuarial used in the question means that empirical statistical data (such as the results from a test) is used rather than simply relying on subjective clinical judgment. Parsons’s work mentioned earlier (i.e., Choosing a Vocation) stressed a careful self-analysis conducted “under guidance” and then put down on paper to determine your personal “traits.” The traits could then be matched to occupations using advice from individuals who had “made a careful study of men and vocations of the conditions of success.” Also familiarize yourself with the name Edmund Griffith Williamson, the chief spokesperson for the so-called Minnesota Viewpoint, which expanded upon Parsons’s model to create a theory of counseling which transcended vocational issues. Choice “a” would be indicative of a psychoanalytic theory of career counseling. Exam hint: Most popular career theories are based on middle-class or upper-middle-class white males who are heterosexual and not disabled."
+  },
+  {
+    "id": "ch07_q_512",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The trait-and-factor career counseling, actuarial, or matching approach (which matches clients with a job) is associated with",
+    "options": [
+      "Parsons and Williamson.",
+      "Roe and Brill.",
+      "Holland and Super.",
+      "Tiedeman and O’Hara."
+    ],
+    "correct_index": 0,
+    "rationale": "The trait-and-factor model is sometimes classified as a “structural” theory since it emphasizes individual differences or what your exam might call structural differences. Note: Some exams may ask you if the trait-and-factor model is grounded in “differential psychology,” which is the study of individual differences. The answer is a resounding “yes,” of course. The assumption in this approach is that human beings are rational. Hence, when the proper information (e.g., from tests) is available, the individual can make a proper or wise choice of career. C. F. Patterson, from the University of Minnesota, was the other major proponent of this approach and thus, his name could easily be added to choice “a.” The theory has been accused of being oversimplified because it subordinated personal choice making and advanced the idea of “a single job for life.” In other words, the theory assumes that an individual’s traits can be measured so accurately that the choice of an occupation is a one-time process. Computer career guidance programs often adhere to the trait-and-factor model. Experts began to question the notion that a single “right occupation” existed for each personality profile. Choice “b” mentions Anne Roe and A. A. Brill, who espoused personality theories of career choice. In choice “c,” John Holland suggested that a person’s personality needs to be congruent with the work environment, while Donald Super emphasized career development rather than career choice. As for choice “d,” David Tiedeman and Robert O’Hara support a decision-making theory."
+  },
+  {
+    "id": "ch07_q_513",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The trait-and-factor or actuarial approach asserts that",
+    "options": [
+      "job selection is a long-term development process.",
+      "testing is an important part of the counseling process.",
+      "a counselor can match the correct person with the appropriate job.",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Parsons suggests three steps to implement the trait-and-factor approach. (a) Knowledge of the self and aptitudes and interests. (b) Knowledge of jobs, including the advantages and disadvantages of them. (c) Matching the individual with the work. Though today’s career counselors generally do not practice from a pure trait-factor base, experts insist, nevertheless, that remnants of the trait-and-factor approach are still evident in some of the modern theories such as those suggested by John O. Crites, Donald Super, and John Holland."
+  },
+  {
+    "id": "ch07_q_514",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "In 1909 a landmark book entitled Choosing a Vocation was released. The book was written by Frank Parsons. Parsons has been called",
+    "options": [
+      "the father of lifestyle.",
+      "the father of modern counseling.",
+      "the father of vocational guidance.",
+      "the fourth force in counseling."
+    ],
+    "correct_index": 2,
+    "rationale": "What’s that: You felt you could have answered this one in your sleep? Well don’t scold me for being redundant. Instead, why not thank your lucky stars that the repetition could save you a point on the test? The phrase “the fourth force in counseling” referenced in choice “d” has been suggested to describe “multiculturalism.” Third force psychology usually refers to humanistic approaches."
+  },
+  {
+    "id": "ch07_q_515",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Which statement is not true of the trait-and-factor approach to career counseling?",
+    "options": [
+      "The approach attempts to match the person’s traits with the requirements of a job.",
+      "The approach usually relies on psychometric information.",
+      "The approach is developmental and thus focuses on career maturity.",
+      "The approach is associated with the work of Parsons and Williamson."
+    ],
+    "correct_index": 2,
+    "rationale": "Developmental approaches delineate stages or specify vocational choice in terms of a process which can change throughout the life span. Thus, vocational development parallels psychosocial, cognitive, and personality development. Eli Ginzberg, an economist, Sol Ginsburg, a psychiatrist, Sidney Axelrad, a sociologist, and John Herma, a psychologist, are often cited as pioneers in this area, questioning the premise that career choice was a single event. The theories proposed by Super and Tiedeman and O’Hara are also derived from developmental psychology."
+  },
+  {
+    "id": "ch07_q_516",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Edmund Griffith Williamson’s work (or the so-called Minnesota Viewpoint) purports to be scientific and didactic, utilizing test data from instruments such as the",
+    "options": [
+      "Rorschach and the Thematic Apperception Test (TAT).",
+      "Binet and the Wechsler.",
+      "Beck Depression Inventory (BDI) and the Minnesota Multiphasic Personality Inventory (MMPI).",
+      "Minnesota Occupational Rating Scales."
+    ],
+    "correct_index": 3,
+    "rationale": "Suggested memory devices: Minnesota means matching or Minnesota and matching both begin with an “M.” Williamson was associated with the University of Minnesota for over 40 years. Remember that you are looking for the best answer. All of the tests listed might be used by a modern-day counselor of the trait-factor persuasion; nevertheless, choice “d” mentions a test specifically aimed at enhancing the actuarial approach to career choice. The Myers–Briggs Type Indicator (MBTI), the Guilford– Zimmerman Temperment Survey (GZTS), the Adjective Checklist, BDI, and MMPI-2 would probably be the choice of counselors who favor a personality theory of career selection. The model is not overly popular with our current crop of counselors and it has been sarcastically referred to as the “testand-tell” paradigm of career counseling."
+  },
+  {
+    "id": "ch07_q_517",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The trait-and-factor approach fails to take ________ into account.",
+    "options": [
+      "individual change throughout the life span",
+      "relevant psychometric data",
+      "personality",
+      "job requirements"
+    ],
+    "correct_index": 0,
+    "rationale": "Choice “b,” psychometric data, refers to the use of test results in counseling, a practice which is stressed by trait-and-factor practitioners. The correct answer (choice “a”) has been a major criticism of this model and perhaps accounts for some of the popularity of developmental theories."
+  },
+  {
+    "id": "ch07_q_518",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Anne Roe suggested a personality approach to career choice",
+    "options": [
+      "based on cognitive-behavioral therapy.",
+      "based on a model of strict operant conditioning.",
+      "based on the premise that a job satisfies an unconscious need.",
+      "based on the work of Pavlov."
+    ],
+    "correct_index": 2,
+    "rationale": "The American clinical psychologist Anne Roe was one of the first individuals to suggest a theory of career choice based heavily on personality theory. Some exams refer to Roe’s work as the “person– environment” theory. The theory is primarily psychoanalytic, though it also draws on Maslow’s hierarchy of needs. Roe’s major propositions are that needs which are satisfied do not become unconscious motivators; that higher-order needs will disappear even if they are rarely satisfied, but lower-order needs (such as safety) will be the major concern; and that needs which are satisfied after a long delay will become unconscious motivators. Roe emphasized that early child-rearing practices influence later career choices since a job is a major source of gratification for an unconscious need. P.S. If you answered “d,” salivate and crack open your old career counseling text! You’re rusty!"
+  },
+  {
+    "id": "ch07_q_519",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Roe was the first career specialist to utilize a two-dimensional system of occupational classification utilizing",
+    "options": [
+      "unconscious and preconscious.",
+      "fields and levels.",
+      "yin and yang.",
+      "transactional analysis nomenclature."
+    ],
+    "correct_index": 1,
+    "rationale": "The eight occupational “fields” include: service, business contact, organizations, technology, outdoor, science, general culture, and arts/entertainment. The six “levels” of occupational skill include: professional and managerial 1, professional and managerial 2, semiprofessional/small business, skilled, semiskilled, and unskilled."
+  },
+  {
+    "id": "ch07_q_520",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "All of the following are examples of Anne Roe’s “fields” except:",
+    "options": [
+      "Service.",
+      "Science.",
+      "Arts and entertainment.",
+      "Unskilled."
+    ],
+    "correct_index": 3,
+    "rationale": "See the previous answer. “Unskilled” refers to a “level” of occupational skill or responsibility rather than an “occupational field.”"
+  },
+  {
+    "id": "ch07_q_521",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "All of the following are examples of Anne Roe’s “levels” except:",
+    "options": [
+      "Outdoor.",
+      "Semiskilled.",
+      "Semiprofessional/small business.",
+      "Professional and managerial."
+    ],
+    "correct_index": 0,
+    "rationale": "Review the last two questions and answers unless you chose choice “a.” All of the other alternatives describe “levels.”"
+  },
+  {
+    "id": "ch07_q_522",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Roe spoke of three basic parenting styles: overprotective, avoidant, or acceptant. The result is that the child",
+    "options": [
+      "experiences neurosis or psychosis.",
+      "will eventually have a lot of jobs or a lack of employment.",
+      "will develop a personality which gravitates (i.e., moves) toward people or away from people.",
+      "will suffer from depression in the work setting or will be highly motivated to succeed."
+    ],
+    "correct_index": 2,
+    "rationale": "Some texts and exams will refer to the avoidant child-rearing style as “rejecting.” It is an emotionally cold or hostile style. The acceptant style is “democratic.” If the person moves “toward” people, he or she would choose the “fields” of service, business, organization, or general cultural while an individual who moves away from people would gravitate toward outdoor, science, or perhaps technology. Research tends to support the contention that an individual raised in a warm, accepting family where person-toperson interaction was rewarded would tend to seek out careers emphasizing contact with others. A cold, “avoiding” family of origin would thus be more likely to produce an individual who would shun person-oriented careers."
+  },
+  {
+    "id": "ch07_q_523",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Roe’s theory relies on Abraham Maslow’s hierarchy of needs in the sense that in terms of career choice",
+    "options": [
+      "lower-order needs take precedence over higher-order needs. 245",
+      "self-actualization needs take precedence over lower-order needs.",
+      "all needs are given equal consideration.",
+      "the need for self-actualization would overpower a physical need."
+    ],
+    "correct_index": 0,
+    "rationale": "The job meets the “most urgent need.”"
+  },
+  {
+    "id": "ch07_q_524",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Some support for Roe’s theory comes from",
+    "options": [
+      "the BDI.",
+      "the Wechsler Adult Intelligence Scale-Fourth Edition (WAIS-IV).",
+      "the Rorschach and the TAT.",
+      "the gestalt therapy movement."
+    ],
+    "correct_index": 2,
+    "rationale": "Suggested memory device: Roe begins with an “r” and so does Rorschach. The Thematic Apperception Test (TAT) is similar in that it is a projective test."
+  },
+  {
+    "id": "ch07_q_525",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "In terms of genetics, Roe’s theory would assert that",
+    "options": [
+      "genetics play a very minor role in career choice.",
+      "genetics help to determine intelligence and education, and hence this influences one’s career choice.",
+      "genetics are important while upbringing is not.",
+      "genetics are important while the unconscious is not."
+    ],
+    "correct_index": 1,
+    "rationale": "Time for a Roe Review (hey was that great alliteration or what?): career choice is influenced by genetics, parent–child interaction, unconscious motivators, current needs, interests (people/things), education, and intelligence."
+  },
+  {
+    "id": "ch07_q_526",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "According to Anne Roe, who categorized occupations by fields and levels,",
+    "options": [
+      "the decision to pursue a career is purely a conscious decision.",
+      "using the Strong is the best method of explaining career choice.",
+      "early childhood experiences are irrelevant in terms of career choice.",
+      "the choice of a career helps to satisfy an individual’s needs."
+    ],
+    "correct_index": 3,
+    "rationale": "Roe determined that choice “c” was incorrect and early childhood experiences are indeed important."
+  },
+  {
+    "id": "ch07_q_527",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A 37-year-old white male states during a counseling session that he is working as a clerk at Main Street Plumbing. This verbalization depicts the client’s",
+    "options": [
+      "career.",
+      "lifestyle.",
+      "job or position.",
+      "occupation."
+    ],
+    "correct_index": 2,
+    "rationale": "Technically, a job refers to a given position or similar positions within an organization. An occupation is broader and refers to similar jobs occupied via different people in different settings (e.g., psychotherapists). Career is the broadest category because it depicts a person’s lifetime positions plus leisure. Possible memory device to recall the order from most specific to most general: Joc (which sounds like the word Jock)."
+  },
+  {
+    "id": "ch07_q_528",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Roe recognized the role of the unconscious mind in terms of career choice. Another theorist who emphasized the unconscious processes in this area of study was",
+    "options": [
+      "Krumboltz.",
+      "Schein.",
+      "Super.",
+      "Bordin."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” is decidedly incorrect as John Krumboltz worked with a behavioristic model. Choice “b” refers to Edgar H. Schein who proposed an approach using eight so-called anchors. The goal is to find an anchor that encompasses your career values, motives, and competence. This model lends itself to helping a worker who has been in the workforce for a few years. Edwin Bordin, though, felt that career choices could be used to solve unconscious conflicts. Psychoanalytic approaches—used in regard to career choice or other issues—have never been extremely popular with helpers trained in counseling departments since short-term, time efficient modalities are stressed. Choice “c” refers to Donald Super, who created a five-stage life-span theory emphasizing that career choice is a developmental process based on the individual’s self-concept."
+  },
+  {
+    "id": "ch07_q_529",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Edwin Bordin felt that difficulties related to job choice",
+    "options": [
+      "are indicative of neurotic symptoms.",
+      "are indicative of inappropriate reinforcers in the environment.",
+      "are related to a lack of present moment awareness.",
+      "are the result of irrational cognitions."
+    ],
+    "correct_index": 0,
+    "rationale": "This is the kind of exam question you literally could answer correctly via the process of elimination. In the previous question, it was noted that Bordin analyzed career choices using the unconscious mind. Needless to say, this is a psychoanalytic assumption. Hence, choice “b” can be eliminated since “reinforcers” are seen as modifiers in the behaviorist school. Choice “c” also can be eliminated inasmuch as analysis is not a present moment approach. Lastly, “irrational cognitions” are stressed in rationalemotive behavior therapy and some related cognitive schools of intervention. Krumboltz’s approach to career counseling is considered a cognitive approach."
+  },
+  {
+    "id": "ch07_q_530",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Another career theorist who drew upon psychoanalytic doctrines was A. A. Brill. Brill emphasized ________ as an ego defense mechanism.",
+    "options": [
+      "subliminal 247",
+      "sublimation",
+      "repression",
+      "rationalization"
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “a” is not a defense mechanism. Sublimation occurs when an individual expresses an unacceptable need in a socially acceptable manner. A person, for example, who likes to cut things up might pursue a career as a butcher or perhaps a surgeon. Review the counseling theories and helping relationship section if you do not know the definitions of the four alternatives."
+  },
+  {
+    "id": "ch07_q_531",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A client who becomes a professional football player because he unconsciously likes to hurt people would be utilizing ________ according to Brill’s theory of career choice.",
+    "options": [
+      "subliminal",
+      "sublimation",
+      "suppression",
+      "introjection"
+    ],
+    "correct_index": 1,
+    "rationale": "See the explanation to the previous question."
+  },
+  {
+    "id": "ch07_q_532",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Today, the most popular approach to career choice reflects the work of",
+    "options": [
+      "Anne Roe.",
+      "Donald Super.",
+      "John Holland.",
+      "Jane Loevinger."
+    ],
+    "correct_index": 2,
+    "rationale": "Choice “d” is the most outlandish—at least, if you marked any other choice you chose a career theorist. Loevinger is noted for her seven-stage transition continuum theory of ego development. John Holland’s theory can be best described by his four assumptions. First, in our culture, there are six basic personality types: realistic, investigative, artistic, social, enterprising, or conventional. Second, most work environments correspond to six personality types. Third, people search out an agreeable environment which lets them express their personality type. Fourth, the individual’s behavior is determined by an interaction of the personality and the environment. Possible memory device for the six types of personality/environments: “as rice.” Holland’s Self-Directed Search (SDS) is designed to measure the six personality types."
+  },
+  {
+    "id": "ch07_q_533",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Holland categorized ________ personality orientations which correspond to analogous work environments.",
+    "options": [
+      "two",
+      "five",
+      "three",
+      "six"
+    ],
+    "correct_index": 3,
+    "rationale": "In this theory the counselor attempts to find a job for the client in which the personality–environment interaction is congruent. Holland felt that people try to avoid environments which are disagreeable. A host of studies lends support to his theory of personality types."
+  },
+  {
+    "id": "ch07_q_534",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Most experts in the field of career counseling would classify Roe, Brill, and Holland as ________ theorists.",
+    "options": [
+      "behavior modification",
+      "ego psychologists",
+      "experiential",
+      "personality"
+    ],
+    "correct_index": 3,
+    "rationale": "Remember: your exam could use the term structural theory in place of the term personality theory. Don’t let it throw you!"
+  },
+  {
+    "id": "ch07_q_535",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Counselors who support John Holland’s approach believe that",
+    "options": [
+      "an appropriate job allows one to express his or her personality.",
+      "stereotypes cannot be considered relevant.",
+      "four major personality categories exist.",
+      "sublimation is the major factor in job selection."
+    ],
+    "correct_index": 0,
+    "rationale": "Choice “b” is incorrect: Holland did indeed believe in stereotypes, and some critics have thus said his theory is too simplistic and somewhat sexist. Choice “c” would need to read “six major personality categories” to be accurate."
+  },
+  {
+    "id": "ch07_q_536",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Holland mentioned six modal orientations: artistic, conventional, enterprising, investigative, realistic, and social. A middle school counselor is most likely",
+    "options": [
+      "artistic.",
+      "social.",
+      "enterprising.",
+      "realistic."
+    ],
+    "correct_index": 1,
+    "rationale": "Teachers, counselors, speech therapists, and social workers would fit into the social category. John Holland said that the person in the “social” category prefers to solve problems using interpersonal skills and feelings."
+  },
+  {
+    "id": "ch07_q_537",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Holland’s theory would predict that the vice president of the United States would be",
+    "options": [
+      "artistic.",
+      "social.",
+      "enterprising",
+      "realistic."
+    ],
+    "correct_index": 2,
+    "rationale": "The “enterprising” person likes to sell to others or perform leadership tasks. He or she tends to value power and status. Other enterprising occupations would include real estate agents, business owners, television producers, and hotel managers."
+  },
+  {
+    "id": "ch07_q_538",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A client who wishes to work on an assembly line would fit into Holland’s ________ typology.",
+    "options": [
+      "artistic",
+      "conventional",
+      "social",
+      "realistic"
+    ],
+    "correct_index": 3,
+    "rationale": "The “realistic” or “motoric” person likes machines. This individual might become a truck driver, an auto mechanic, or might fancy plumbing."
+  },
+  {
+    "id": "ch07_q_539",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Holland’s psychological needs career personality theory would say that a research chemist is primarily the ________ type.",
+    "options": [
+      "investigative",
+      "social",
+      "enterprising",
+      "artistic"
+    ],
+    "correct_index": 0,
+    "rationale": "The “investigative” personality type likes to think his or her way through a problem. Occupations congruent with this type include scientists, design engineers, geologists, mathematicians, and philosophers. Reader-generated, super-cool memory device: Most textbooks recommend the memory device RIASEC to recall the six vocational personalities/work environments, but a clever reader suggested Rosenthal Is A Successful Educator Counselor. You’ve got to love it! (Turn to the Graphical Representations section of the text for a visual picture of this paradigm.)"
+  },
+  {
+    "id": "ch07_q_540",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Holland’s artistic type seems to value feelings over pure intellect or cognitive ability. Which of the following clients would not be best described via the artistic typology?",
+    "options": [
+      "A 72-year-old part-time, male ballet instructor.",
+      "A 29-year-old female fiction writer.",
+      "A 33-year-old female drill press operator.",
+      "A 41-year-old singer for a heavy metal rock band."
+    ],
+    "correct_index": 2,
+    "rationale": "Hint: The typist on the NCE or other major exam will probably not be kind enough to type the word “not” in italics, so read the questions carefully. The “artistic” type shuns conformity as well as structure. The emphasis is on self-expression. The drill press operator would be a “realistic” type who likes physical labor and enjoys working with tools."
+  },
+  {
+    "id": "ch07_q_541",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Holland did indeed believe in career stereotypes. In other words the person psychologically defines himself or herself via a given job. Thus, a bookkeeper or a clerical worker would primarily fit into the ________ category.",
+    "options": [
+      "artistic",
+      "conventional",
+      "realistic",
+      "social"
+    ],
+    "correct_index": 1,
+    "rationale": "The “conventional” type values conformity, structure, rules, and feels comfortable in a subordinate role. Statisticians, bank clerks, and controllers fit this stereotype. By the way, “conventional” and “conformity” both begin with a “c.” Nice memory device, huh? Although Holland’s theory is usually dubbed as a personality theory, it has been viewed as a trait-and-factor approach. Since most exams won’t mention the trait-and-factor category, the answer they are usually looking for is that Holland created a personality approach to career counseling."
+  },
+  {
+    "id": "ch07_q_542",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "In regard to an individual’s behavioral style or so-called modal orientation, Holland believed that",
+    "options": [
+      "every person has a pure or discrete orientation that fits perfectly into one of the six categories.",
+      "occupational measures like the Strong Vocational are for the most part useless.",
+      "most people are not pure personality types and thus can best be described by a distribution of types such as Realistic, Social, Investigative (RSI).",
+      "a and b."
+    ],
+    "correct_index": 2,
+    "rationale": "If you marked “b” try again; the Strong Interest Inventory (SII) is based on Holland’s model. Although each individual has a primary direction or type, the person can be described best using a “profile” over three areas also known as a three digit code. Graphically, the six types generally are placed on a hexagon such that adjacent or consistent types are next to each other on the geometric figure. Thus RIA (Realistic, Investigative, Artistic) would be “consistent” while RAE (Realtistic, Artistic, Enterprising) would be “inconsistent” (see the Graphical Representations section of this book)."
+  },
+  {
+    "id": "ch07_q_543",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Holland believed that",
+    "options": [
+      "a given occupation will tend to attract persons with similar personalities.",
+      "a given occupation will tend to attract persons with a very wide range of personality attributes.",
+      "one’s personality is, for the most part, unrelated to one’s occupational choice.",
+      "b and c."
+    ],
+    "correct_index": 0,
+    "rationale": "Like Roe, Holland felt that early childhood development influences adult personality characteristics."
+  },
+  {
+    "id": "ch07_q_544",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Holland relied on a personality theory of career choice. Robert Hoppock’s theory, based on the work of ________ is also considered a personality approach.",
+    "options": [
+      "Donald Super",
+      "Robert Rosenthal",
+      "David Wechsler 251",
+      "Henry Murray"
+    ],
+    "correct_index": 3,
+    "rationale": "Henry Murray created the “needs-press” theory and the TAT (along with Christina Morgan) projective test. The occupation is used to meet a person’s current need. Rosenthal (choice “b,” no relation to me) is famous for his research regarding the “experimenter effect,” while David Wechsler (choice “c”) is wellknown for creating the Wechsler intelligence scales."
+  },
+  {
+    "id": "ch07_q_545",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Developmental career theorists view career choice as an ongoing or so-called longitudinal process rather than a single decision made at one point in time. The pioneer theorists in this area—who were the first to forsake the matching models—were",
+    "options": [
+      "Super and Roe.",
+      "Hoppock and Holland.",
+      "Ginzberg, Ginsburg, Axelrad, and Herma.",
+      "Brill and Bordin."
+    ],
+    "correct_index": 2,
+    "rationale": "Until 1950 the trait-and-factor or matching model was king. Then in early 1951 Ginzberg and his associates began to emphasize developmental factors related to occupational choice. Based on a small research sample they concluded that occupational choice takes place over a 6–10-year period; the choice is irreversible; and always has the quality of compromise. The theory postulated three stages: fantasy— until age 11, based strongly on impulses; tentative—ages 11–17, where interests and abilities are examined; and realistic—age 17 to early twenties, where a choice is made by weighing abilities and needs and making a compromise. Exploration was said to lead to crystallization. By 1972, Ginzberg modified his position by stating that the process of choice is open-ended and lifelong. This, of course, refuted the notion of irreversibility. He also replaced “compromise” with the concept of “optimization,” meaning that individuals try to make the best of what they have to offer and what is available in the job market."
+  },
+  {
+    "id": "ch07_q_546",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Ginzberg and his colleagues now believe in a development model of career choice which asserts that",
+    "options": [
+      "the process of choosing a career does not end at age 20 or adulthood.",
+      "career choice decisions are really made throughout the life span.",
+      "career choice is reversible.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "See the question and answer to 545."
+  },
+  {
+    "id": "ch07_q_547",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Initially, Ginzberg and his associates viewed career choice as irreversible and the result of compromises between wishes and realistic possibilities. This theory identified three stages of career development:",
+    "options": [
+      "informal, formal, and concrete.",
+      "fantasy (birth to age 11), tentative (ages 11–17), and realistic (age 17 to early twenties).",
+      "sensorimotor, formal, and concrete. 252",
+      "oral, anal, and phallic."
+    ],
+    "correct_index": 1,
+    "rationale": "See the question and answer to 545."
+  },
+  {
+    "id": "ch07_q_548",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The most popular developmental career theorist is Donald Super. Super emphasizes",
+    "options": [
+      "id impulses.",
+      "the Critical Parent.",
+      "the self-concept.",
+      "ego strength."
+    ],
+    "correct_index": 2,
+    "rationale": "Super and self-concept both begin with an “s.” How convenient! The assumption here is that the individual chooses a career which allows the self-concept to be expressed."
+  },
+  {
+    "id": "ch07_q_549",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Super’s life-span theory emphasizes ________ life stages.",
+    "options": [
+      "five",
+      "four",
+      "three",
+      "nine"
+    ],
+    "correct_index": 0,
+    "rationale": "The stages are: first, Growth (birth to age 14); second, Exploration (ages 15–24); third, Establishment (ages 24–44); fourth, Maintenance (ages 44–64); and fifth, Decline (age 65+). Suggested memory device: GEE MD. (Note, so far as the two “Es” are concerned, common sense would dictate that exploration would come before establishment.) Developmental theories like Donald Super’s emphasize longitudinal career-related behavior."
+  },
+  {
+    "id": "ch07_q_550",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Super’s life-span theory includes",
+    "options": [
+      "the life-career rainbow.",
+      "the life-career stars.",
+      "the life-career moon.",
+      "the life-career psychosis."
+    ],
+    "correct_index": 0,
+    "rationale": "The person can play a number of potential roles as he or she advances through the five stages mentioned in the previous question; they are parent, homemaker, worker, citizen, leisurite, student, or child. Super called the graphic display of the roles unfolding over the life span, the “career rainbow.” The roles are played out in the “theaters” of the home, community, school, and work. So far as Super is concerned, career can include student, employee, pensioner, retirement, civic duties, avocations, and even family roles."
+  },
+  {
+    "id": "ch07_q_551",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Research into the phenomenon of career maturity reflects the work of",
+    "options": [
+      "John Crites.",
+      "Anne Roe. 253",
+      "John Holland.",
+      "Nancy Schlossberg."
+    ],
+    "correct_index": 0,
+    "rationale": "Career maturity might be referred to as “vocational maturity” on your exam. Choice “d” mentions the work of Schlossberg, who has focused heavily on adult career development. She suggested five noteworthy factors: behavior in the adult years is primarily determined by social rather than biological factors; behavior can either be a function of one’s life stage or one’s age at other times; sex differences are actually more powerful than age or stage differences; adults continually experience transitions which require adaptation and self-assessment; identity, intimacy, and generativity are recurring themes in adulthood."
+  },
+  {
+    "id": "ch07_q_552",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The decision-making theory, which refers to periods of anticipation and implementation/adjustment, was proposed by",
+    "options": [
+      "John O. Crites.",
+      "John Holland.",
+      "David Tiedeman and Robert O’Hara.",
+      "Donald Super."
+    ],
+    "correct_index": 2,
+    "rationale": "Tiedman and O’Hara suggested that the decision process is best explained by breaking it down into a two-part process. In the anticipation stage the individual imagines himself or herself in a given career. In the implementation phase (also sometimes called accommodation or induction) the person engages in reality testing regarding his or her expectations concerning the occupation. All decision-making theories contend that the individual has the power to choose from the various career options."
+  },
+  {
+    "id": "ch07_q_553",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "John Krumboltz postulated a social learning approach to career choice. This model is based mainly on the work of",
+    "options": [
+      "Joseph Wolpe.",
+      "Albert Bandura.",
+      "Donald Super.",
+      "Karen Homey."
+    ],
+    "correct_index": 1,
+    "rationale": "The purpose of this question is straightforward: You must know something about the concept of social learning theory in order to do well on your exam! Anita Mitchell, G. Brian Jones, and John Krumboltz utilized the work of Albert Bandura to explain career choice. Bandura emphasized the role of modeling in the acquisition of new behaviors. The theory states that people learn not only from the consequences of their own behavior but also from observing the consequences of others. Learning which takes place by watching others is sometimes called “vicarious learning.” Krumboltz felt that interests are the result of “learning,” such that changes in interests can be “learned.” Thus, actual exposure to a wide range of work settings (i.e., site visits) is highly desirable. Occupational indecisiveness is seen as an indication of an information deficit rather than a lack of career maturity. Two popular behavioral techniques (though they are not necessarily just related to the work of Krumboltz) include the RJP (realistic job preview) and guided imagery. To conduct a RJP the student, usually in college, would contact a worker in the field and then interview the worker. Guided imagery, effective for adults and adolescents, can be implemented by having the client imagine a day in the future working in the job or even receiving an award for outstanding performance in the position."
+  },
+  {
+    "id": "ch07_q_554",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The model Krumboltz suggested is",
+    "options": [
+      "a human capital theory.",
+      "an accident theory of career development.",
+      "a status attainment theory.",
+      "a behavioristic model of career development."
+    ],
+    "correct_index": 3,
+    "rationale": "Okay, let’s review the incorrect choices (i.e., “a,” “b,” and “c”) since they are terms that could conceivably pop up on your exam. The human capital theory purports that individuals secure training and education to get the best possible income. This theory, however, doesn’t seem valid when applied to folks of lower economic status. The accident theory simply suggests that chance factors influence one’s career. For example, a student liked his history teacher so he decided to become a history teacher himself. The socalled status attainment theory posits that the child will eventually secure a job commensurate with his or her family status. This notion will not hold water with a child who has exceptionally low or high career aspirations (e.g., a lower-class child who insists she will become a physician). Some textbooks and exams may categorize Krumboltz’s theory as a decision-making theory or even a cognitive one. Krumboltz believed that decision making—in terms of career options as well as noncareer options—is a skill which can be learned. Krumboltz acknowledged the role of genetics and the environment but focused on what can be changed via learning."
+  },
+  {
+    "id": "ch07_q_555",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A counselor who favors a behavioristic mode of career counseling would most likely",
+    "options": [
+      "analyze dreams related to jobs and/or occupations.",
+      "give the client a standardized career test.",
+      "suggest a site visit to a work setting.",
+      "a and b."
+    ],
+    "correct_index": 2,
+    "rationale": "Choice “a,” come on—you didn’t really choose it, did you? It sounds like something out of a primer on Freudian analysis. Ideally, all individuals should be exposed to as many learning experiences as possible. Another behavioristic strategy known as the “job club” has been suggested by Nathan Azrin who created the approach in the 1970s to help returning Vietnam vets and went on to write the book Job Club Counselor’s Manual: A Behaviorial Approach to Vocational Counseling. The job club operates like a behaviorist group in which members share job leads and discuss or role-play specific behaviors (e.g., interviewing skills) necessary for job acquisition. The club helps members learn from each other. The original model also utilized a classroom model for dispensing information. You may recall from grad school that Azrin was one of the leading pioneers who created the specific guidelines for running a behavior modification token economy (i.e., giving plastic tokens which could be turned in for actual reinforcers such as food)."
+  },
+  {
+    "id": "ch07_q_556",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A fairly recent model to explain career development is the decision approach. The Gelatt Decision Model created by Harry B. Gelatt refers to information as “the fuel of the decision.” The Gelatt Model asserts that information can be organized into three systems:",
+    "options": [
+      "predictive, value, and decision.",
+      "internal, external, and in-between.",
+      "predictive, external, and internal.",
+      "internal and external."
+    ],
+    "correct_index": 0,
+    "rationale": "Decision-making theory asserts that although occupational choice is an ongoing process, there are times when a key decision must be made. In the Gelatt Model the predictive system is concerned with the probable alternatives, actions, and possibilities. The person’s value system is concerned with one’s relative preferences regarding the outcomes, while the decision system provides rules and criteria for evaluating the outcome."
+  },
+  {
+    "id": "ch07_q_557",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "In the Gelatt Model the predictive system deals with",
+    "options": [
+      "personal likes, dislikes, and preferences.",
+      "personal rules.",
+      "alternatives and the probability of outcomes.",
+      "the Self-Directed Search."
+    ],
+    "correct_index": 2,
+    "rationale": "Choice “a” would be the value system while choice “b” refers to the decision system. Prediction focuses on the probability of an outcome. Choice “d,” abbreviated SDS, is a self-administered, self-scored interest inventory based on John Holland’s theoretical notions."
+  },
+  {
+    "id": "ch07_q_558",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Linda Gottfredson’s developmental theory of career focuses on",
+    "options": [
+      "fields and levels.",
+      "circumscription and compromise theory.",
+      "the career rainbow.",
+      "on the concept of career maturity, mainly."
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “a” is associated with Anne Roe, choice “c” with Donald Super, and choice “d” with John O. Crites, leaving “b” as the only valid choice. You won’t find tons of information on this theory yet, and thus I wouldn’t expect more than a question or so related to this modality. According to Gottfredson people do restrict choices (circumscription) and when people do compromise in regard to picking a job (and indeed she feels they do) they will often sacrifice the field of work before they sacrifice sex-typed behavior or prestige."
+  },
+  {
+    "id": "ch07_q_559",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The most effective method adults use to find jobs in the United States is 256",
+    "options": [
+      "to see a state employment counselor for job leads.",
+      "to visit a private practice career counselor for job leads.",
+      "surfing the Web to find job leads.",
+      "securing information via ads in the newspaper."
+    ],
+    "correct_index": 3,
+    "rationale": "Surprisingly, according to a 2015 report by the Bureau for Labor Statistics, newspaper ads were still number one. What about the Internet? Well, career experts still aren’t sure! Some research indicates that only 15% of the population has found a job from job boards. Some exams are calling the process of finding a job on the Internet “job-netting.” This is the type of question that could change rapidly. I suggest you do your own research prior to taking the exam."
+  },
+  {
+    "id": "ch07_q_560",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "When career counselors speak of the OOH they are referring to the",
+    "options": [
+      "Occupational Options Handbook.",
+      "Occupational Outlook Handbook.",
+      "Career Options Occupational Titles.",
+      "Optional Occupations Handbook."
+    ],
+    "correct_index": 1,
+    "rationale": "The OOH was originally published by the U.S. Department of Labor in 1949 to aid World War II veterans. The original edition sold for just $1.75 and sold 40,000 copies. The Occupational Outlook Handbook is revised every two years and highlights the salient factors of the job, necessary training, earnings, and even advancement opportunities. It also discusses job prospects for the future. Since 1994, information in the OOH can also be accessed online and the web page gets about seven million monthly hits! Check it out at www.bls.gov./ooh/ by the Bureau of Labor Statistics (BLS) of the U.S. Department of Labor. Today, the OOH is the top career-information source in the country."
+  },
+  {
+    "id": "ch07_q_561",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "At its zenith the DOT listed",
+    "options": [
+      "approximately 10,000 job titles.",
+      "nearly 5,000 job titles.",
+      "approximately 20,000 job titles.",
+      "nearly 100,000 job titles."
+    ],
+    "correct_index": 2,
+    "rationale": "This is the largest, most comprehensive source and it was used more than any other printed resource in the field. As with the OOH you can thank the U.S. Department of Labor, which began publishing the DOT (Dictionary of Occupational Titles) in 1938. The DOT was similar to the DSM (Diagnostic and Statistical Manual). While the DSM provides a classification system for mental health workers, the DOT … 13 years earlier, I might add … provided a system a classification system for career counselors. The Occupational Information Network O*NET (www.online.onecenter.org) became a virtual replacement for the DOT in 1991. The new O*NET lists far fewer occupations than the old DOT. Many highly specialized jobs that only a small number of individuals worked as were dropped. Since O*NET is an online program it will have the advantage of being easier and quicker to update. There are current books using DOT in the title; however, at this point in time these works do not appear to be published by the U.S. Department of Labor."
+  },
+  {
+    "id": "ch07_q_562",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "In the Dictionary of Occupational Titles each job was given a ________ digit code.",
+    "options": [
+      "nine",
+      "eight",
+      "six",
+      "five"
+    ],
+    "correct_index": 0,
+    "rationale": "The first three digits designated the occupational category and divisions, whereas the middle three described tasks in relation to data, people, and things respectively. The final digits helped alphabetize the titles."
+  },
+  {
+    "id": "ch07_q_563",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The DOT was first published by the U.S. Department of Labor in 1938. The first three digits in a DOT code referred to",
+    "options": [
+      "an occupational group.",
+      "career options.",
+      "OOH data.",
+      "the transfer of skills."
+    ],
+    "correct_index": 0,
+    "rationale": "The first digit in the DOT designated one of nine occupational categories: 0/1 professional, technical, and managerial careers; 2 clerical and sales careers; 3 service careers; 4 agricultural, fishery, forestry, and related Careers; 5 processing careers; 6 machine trade careers; 7 bench work careers; 8 structural work careers; and 9 miscellaneous. Thus, in the code for counselor (045.107-010) the first digit (0) is from the professional, technical, and managerial occupations category. The second digit (4) refers to occupations in life sciences; while the third digit defines the occupational group. In this case, 045 is “occupations in psychology.” The final three digits alphabetize titles designated by the first six-digit code groups. Choices “b” and “d” would require information from the middle three digits of the code."
+  },
+  {
+    "id": "ch07_q_564",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "You are working as a counselor for a major university. A student wants detailed statistics about the average wages in her state. The best resource would be",
+    "options": [
+      "Richard N. Bolles’s What Color Is Your Parachute?",
+      "the Bureau of Labor Statistics website.",
+      "any professional journal related to career counseling is inundated with articles of this nature.",
+      "Choices and the System of Interactive Guidance and Information known as SIGI."
+    ],
+    "correct_index": 1,
+    "rationale": "Choice “a” depicts the bestselling job hunting book of all time while choice “d” mentions two of the most popular computer-assisted career guidance programs. Choices is a software program for high school students that provides information to help them make informed decisions about career and transition planning. A middle school edition, Choices Explorer, is also available. SIGI 3 is a self-assessment software and web-based program that helps college students and adults pick a major and a career based on their own values, interests, and education. SIGI allows users to compare job choices and fine tune decisions. If you go to the Bureau of Labor Statistics website (the correct answer) at www.stats.bls.gov you will truly be amazed at the amount of career data you can find."
+  },
+  {
+    "id": "ch07_q_565",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A counselor who is interested in trends in the job market should consult the",
+    "options": [
+      "State Department of Economic Regulation or the Department of Insurance, Financial Institutions, and Professional Regulations.",
+      "SOC.",
+      "SIC.",
+      "OOH."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” is the state department that often handles counselor licensing. The other division that might handle mental health licensing would be the board of healing arts. Remember that licenses are conferred by each state and not the federal government. Next, let’s look at choices “b” and “c,” which are incorrect in terms of this answer yet excellent resources for the adept career counselor. The SOC (choice “b”) is the Standard Occupational Classification Manual, which codes job clusters (e.g., teachers, librarians, and counselors) via similar worker function. Thus, it is very useful for a counselor who wants to find additional occupations that a worker might already be trained for or could consider with additional training. Federal agencies use SOC to collect, classify, and report data. You can scope it out at www.bls.gov/soc/. The SIC (choice “c”), the Standard Industrial Classification Manual, classified businesses in regard to the type of activity they are engaged in (i.e., the type of service or product). “Hopefully, working in industry won’t make you sic” is a rather pessimistic, yet useful memory device here! Industry growth was often computed on SIC codes, but it was last revised in 1987 due to criticism. The replacement system is the National Industry Classification System (NAICS). The OOH, as its name implies, focuses on “outlook” and useful trends or predictions (hence the word Outlook in the title) in the labor market."
+  },
+  {
+    "id": "ch07_q_566",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Gender issues impact career counseling such as career segregation. Men are overrepresented in ________ positions while women often have ________ .",
+    "options": [
+      "nursing; physician’s positions",
+      "pink-collar; executive positions",
+      "CEO; positions as financial advisors",
+      "labor and executive positions; pink-collar jobs"
+    ],
+    "correct_index": 3,
+    "rationale": "The gender career gap might be getting a tad more narrow, but it is by no means closed! As an example, over 90% of nurses are women, while only 34% are physicians. The U.S. service economy is often classified as white collar (professional and administrative); blue collar (skilled manual labor); and pink collar (jobs dominated by women such as waitressing, secretary, child-care worker, K- middle school teacher, or beautician). Some point their finger at the fact that the service economy has helped spawn the feminization of poverty since some, but certainly not all, pink-collar jobs pay less. Females dominate the counseling and social work professions with the percentages running at about 70% and 80% respectively."
+  },
+  {
+    "id": "ch07_q_567",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A counselor with a master’s degree who is working for minimum wage at a fast-food restaurant due to a lack of jobs in the field is a victim of",
+    "options": [
+      "unemployment.",
+      "underemployment.",
+      "the phi phenomenon.",
+      "the risky shift phenomenon."
+    ],
+    "correct_index": 1,
+    "rationale": "Underemployment occurs when a worker is engaged in a position which is below his or her skill level. This phenomenon can occur when an abundance of educated people floods a labor market which does not have enough jobs that require a high level of training. Hence, as more people go to college the rate of underemployment is expected to increase."
+  },
+  {
+    "id": "ch07_q_568",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "According to the OOH, the highest-paying profession would be",
+    "options": [
+      "a social worker.",
+      "a counselor.",
+      "a psychiatrist.",
+      "an I/O psychologist."
+    ],
+    "correct_index": 2,
+    "rationale": "You might need to guess if confronted with a question of this ilk on the exam. I mean come on now … you can’t commit to memory every statistic imaginable. So how would you make an educated guess? Simple, psychiatrist is the only helper with a medical school education and nearly all the top-paying jobs listed on the OOH are types of physicians such as surgeons or internists. The current OOH lists a psychiatrist’s salary at approximately $173,000, while the median figure for a master’s level counselor is $50,000. But money can’t buy happiness. Physicians now have the highest suicide rate of any profession with dentists running a close second. In the general population males commit suicide about four times as much as females, but across physicians the number is roughly the same. It is noteworthy that industrial organizational psychologists (choice “d”) was rated as the fastest growing."
+  },
+  {
+    "id": "ch07_q_569",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "In a lifetime the average person has",
+    "options": [
+      "10 to 15 jobs.",
+      "two jobs.",
+      "a single job and stays with it for his or her entire career.",
+      "about five jobs."
+    ],
+    "correct_index": 0,
+    "rationale": "The actual figure is a hairline over 11 for men or women. Different sources often sport slightly different figures. Advocates of the constructivist approaches such as Savickas point to this as a sign that the old trait factor or matching where a career prescription is proposed is outdated."
+  },
+  {
+    "id": "ch07_q_570",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Self-efficacy theory is based on the work of",
+    "options": [
+      "Anne Roe.",
+      "John Holland.",
+      "H. B. Gelatt.",
+      "Albert Bandura."
+    ],
+    "correct_index": 3,
+    "rationale": "Bandura proposed that one’s belief or expectation of being successful in an occupation causes the individual to gravitate toward that particular occupation. Bandura felt that “chance factors,” such as accidentally being exposed to certain situations, influence career development."
+  },
+  {
+    "id": "ch07_q_571",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The System of Interactive Guidance and Information (SIGI) and Choices are",
+    "options": [
+      "computer-assisted career guidance systems (CACG).",
+      "paper and pencil career tests.",
+      "career theories proposed in the 1940s.",
+      "computer systems which are slower to use than traditional texts such as the DOT or the OOH."
+    ],
+    "correct_index": 0,
+    "rationale": "Note: Your exam could use computer-based career information systems (CBCISs) in place of CACG. Choice “d” is obviously incorrect since computer programs often speed up information retrieval. Just a reminder: Although web-based and online career counseling is a growing trend it is not as effective as the traditional face-to-face model."
+  },
+  {
+    "id": "ch07_q_572",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A client who likes her flower-arranging job begins doing flower arranging in her spare time on weekends and after work. This phenomenon is best described as",
+    "options": [
+      "the contrast effect.",
+      "sublimation.",
+      "the compensatory effect.",
+      "spillover."
+    ],
+    "correct_index": 3,
+    "rationale": "Let me introduce you to three key terms in the field of career counseling: the contrast effect (choice “a”), the compensatory effect (choice “c”), and spillover (choice “d”). In psychology, contrast refers to a heightened sense of awareness regarding the difference between the successive juxtapositions of two stimuli. The word juxtaposition simply means to put side by side. Hence, in career placement settings the term has been used to suggest that an interviewer’s impression of an interviewee is often affected by previous interviewees. Thus, a typical applicant would look more impressive if she is interviewed after a string of applicants who are ill qualified for the job. Unfortunately, the converse is also true. An average applicant whose interview comes after several highly qualified (or overqualified) applicants will not be judged as favorably by the person who is doing the interviewing. The compensatory effect suggests that a worker compensates or makes up for things he or she can’t do on the job. Thus, a librarian who must be quiet from 8.00 to 5.00 may go out after work and get wild, crazy, and most importantly loud. Work can also help folks compensate for things missing in one’s family life. When work and family are kept separate the term segmentation can be utilized. Spillover, on the other hand, is like a glass of water spilling over onto the table. Here, the individual’s work spills over, if you will, into his or her time off the job. When spillover takes place the person can talk about work with other family or household members and engages in activities similar to work during periods of leisure. The aforementioned florist or an engineer who is building a satellite in his or her basement would be a victim of spillover. The connection between family and work is known as work interface. This question clearly shows why it is imperative for career counselors to have adept family therapy skills."
+  },
+  {
+    "id": "ch07_q_573",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A male client who hates his job is trying desperately to be the perfect father, husband, and family man. This phenomenon is best described as",
+    "options": [
+      "the recency effect.",
+      "the leniency/strictness bias.",
+      "the compensatory effect.",
+      "spillover."
+    ],
+    "correct_index": 2,
+    "rationale": "In some instances, textbooks and exams will refer to the compensatory effect in a psychodynamic fashion, which infers that an individual might tend to compensate for poor job satisfaction by excelling in his or her activities outside of work. My advice: although the definition given in the previous question is the most common, you should read questions of this ilk very carefully to ascertain the context in which the term compensatory effect is being used. Choices “a” and “b” are terms utilized to describe subjective biases of individuals who rate employee performance. The recency effect occurs when a rater’s judgment of an employee reflects primarily his or her most recent performance. This is, of course, undesirable inasmuch as the employee’s performance over the entire rating period should be duly noted. The term was borrowed from memory experiments in psychology demonstrating that numbers toward the end of a list are more likely to be recalled than those in the middle. The leniency/strictness bias occurs when a rater tends to give employees very high/lenient or very low/strict ratings while avoiding the middle or so-called average range. Raters who do the opposite (i.e., rate almost everybody in the average range) are said to display a central tendency bias."
+  },
+  {
+    "id": "ch07_q_574",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The National Vocational Guidance Association was founded in 1913. It was fused with other organizations in 1952 to become the",
+    "options": [
+      "APA.",
+      "AACD.",
+      "APGA.",
+      "NASW."
+    ],
+    "correct_index": 2,
+    "rationale": "Did you choose “b”? If so, give yourself a pat on the back for an A answer. You see, AACD was actually the American Personnel and Guidance Association (APGA) until 1983, making choice “c” an even better response—say an A+. In 1983 APGA changed its name to AACD (American Association for Counseling and Development), which was changed in 1992 to ACA (American Counseling Association)."
+  },
+  {
+    "id": "ch07_q_575",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Lifestyle includes",
+    "options": [
+      "work.",
+      "leisure.",
+      "style of living.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "Lifestyle is a broad term which describes the overall balance of work, leisure, family, and social activities. Some exams will use the term avocational in place of the term leisure."
+  },
+  {
+    "id": "ch07_q_576",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The Strong Interest Inventory (SCII) is based on John Holland’s theory. The test assumes that a person who is interested in a given subject will experience",
+    "options": [
+      "satisfaction in a job with workers who have different interests.",
+      "satisfaction in a job with workers who have similar interests.",
+      "generalized anxiety if he or she is placed in a job where people have similar interests.",
+      "the best results if he or she finishes the inventory in one hour or less."
+    ],
+    "correct_index": 1,
+    "rationale": "The interest inventory first appeared on the scene in 1927 when E. K. Strong, Jr., developed the Strong Vocational Interest Blank (SVIB) for men. The test indicated how an examinee’s likes and dislikes were similar to the likes and dislikes of workers in various occupations. Later, in 1933, women’s occupations were examined in the same manner using the SVIB for women. Strong died in 1963, and in 1974 the inventory was expanded by David P. Campbell. The inventory has been the subject of over 1,700 papers and studies. Recent efforts have focused on eliminating sex bias from the instrument. The test, which consists of 291 items and takes 30–45 minutes, is based on John Holland’s typology (discussed earlier), and is untimed (in other words choice “d” is incorrect). The examinee responds to questions using a forced choice format of “strongly like” “like,” “indifferent,” or “dislike” or “strongly dislike” to each item. (Each occupational scale for the inventory was created by examining 200–300 happily employed men and women in an occupation.) It takes most adults about 30 minutes to finish the inventory. The inventory is suited to high school, college, and adult populations and must be computer scored. Keep in mind that the SII measures interests, not abilities."
+  },
+  {
+    "id": "ch07_q_577",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The Self-Directed Search (SDS) is",
+    "options": [
+      "based on the work of Holland and yields scores on his six types.",
+      "self-administered.",
+      "self-scored and self-interpreted.",
+      "all of the above."
+    ],
+    "correct_index": 3,
+    "rationale": "John Holland introduced the SDS in 1970 to help those who did not have access (or could not afford) professional career counseling. The test takes about 20 minutes and is suitable for ages 15 and older. The measure provides a three-letter code (such as EIR or ISC) to describe the individual’s career personality type. Holland warned that the test is not suitable for grossly disturbed, uneducated, or illiterate persons, although an easy form (known as Form “E”) is available for those with limited reading skills or those who lack a high school education. Form “E” is shorter than the regular SDS and uses no words beyond the fourth-grade level. The SDS is specifically not recommended for those who have a great deal of difficulty making decisions."
+  },
+  {
+    "id": "ch07_q_578",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "At a case staffing, one career counselor says to another, “The client’s disability suggests she can only physically handle sedentary work.” This technically implies",
+    "options": [
+      "the client will not need to lift over 10 pounds.",
+      "the client will not need to lift over 100 pounds.",
+      "the client will be standing a lot.",
+      "the client could walk or stand up to six hours daily."
+    ],
+    "correct_index": 0,
+    "rationale": "Sedentary: maximum lifting is 10 pounds. Light work: maximum lifting is up to 20 pounds. Medium work: maximum lifting is 50 pounds. Heavy work: maximum lifting is up to 100 pounds. Very heavy work: maximum lifts exceed 100 pounds. The stipulation in choice “d” applies to the “light work” category."
+  },
+  {
+    "id": "ch07_q_579",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The notion of the hidden job market would suggest that",
+    "options": [
+      "most jobs will appear on college bulletin boards.",
+      "most jobs will appear in supermarket tabloids.",
+      "most jobs will appear in daily newspaper classified ads.",
+      "most jobs are not advertised."
+    ],
+    "correct_index": 3,
+    "rationale": "Perhaps you are shocked, but experts insist it is true! A high percentage of jobs (over 76%!) are not advertised and that is why networking is so important. Experts also praise networking as an effective tool for finding gay-friendly employers."
+  },
+  {
+    "id": "ch07_q_580",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The SDS (available online or in print) score will reveal",
+    "options": [
+      "career aptitude.",
+      "the personality via projective measures.",
+      "the individual’s three highest scores based on Holland’s personality types.",
+      "spillover personality tendencies."
+    ],
+    "correct_index": 2,
+    "rationale": "Just for review: The SDS provides the user with a three-letter code that indicates the three personality types the examinee most resembles. A Spanish version is available. An occupational finder describes numerous occupations in order to ascertain which occupations best match the personality type. A special occupational finder is available to investigate careers and occupations for the military and veterans."
+  },
+  {
+    "id": "ch07_q_581",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "As you walk into a professional seminar on career counseling you note that the instructor is drawing a hexagon on the blackboard. The instructor is most likely discussing",
+    "options": [
+      "David Tiedeman.",
+      "John Holland.",
+      "Anne Roe.",
+      "John Crites."
+    ],
+    "correct_index": 1,
+    "rationale": "Was this just an easy question, or could it be that now you really know this material? Come on, how about giving yourself credit for all your knowledge! (See the Graphical Representations section of this book for a pictorial display of the hexagon.)"
+  },
+  {
+    "id": "ch07_q_582",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The Kuder Career Planning System (KCPS) would be appropriate for",
+    "options": [
+      "K-12, postsecondary, and even adults.",
+      "children who have not completed the sixth grade.",
+      "kids who have taken the Peabody Picture Vocabulary Test (PPVT).",
+      "high school students."
+    ],
+    "correct_index": 0,
+    "rationale": "KCPS offers career planning and online education for virtually any age bracket. The Kuder Galaxy program is for elementary students, the Kuder Navigator targets secondary students, while the Kuder Journey rounds out the choices by providing information to the postsecondary and adult population. The PPVT-4 noted in choice “c” is a measure of hearing or receptive vocabulary and a screening test of verbal ability that can be used for kids under 3 years to those over 90 and it takes 15 minutes or less. The PPVT requires no reading skills."
+  },
+  {
+    "id": "ch07_q_583",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Some exams will split hairs and distinguish a dual-earner household from a dual-career household or family. All the statements below are false except:",
+    "options": [
+      "Dual-earner families have a better chance for advancement than dual-career families.",
+      "Dual-earner families are more likely to have managerial or administrative jobs than dual-career families.",
+      "Dual-career families earn more than dual-earner families.",
+      "Dual-career families have less competition."
+    ],
+    "correct_index": 2,
+    "rationale": "Generally speaking, the dual-career family has a job where advancement is possible versus the dualearner family which is characterized by job positions where moving up the line is not possible or at best minimal. Statistically, dual-wage earning couples are now the norm. Authors have humorously called single-income families an endangered species!"
+  },
+  {
+    "id": "ch07_q_584",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Occupational aptitude tests such as the Differential Aptitude Test (DAT), the Armed Services Vocational Aptitude Test Battery (ASVAB), and the O*NET Ability Profiler grew out of the",
+    "options": [
+      "cognitive therapy movement.",
+      "humanistic psychology movement.",
+      "individual psychology movement.",
+      "trait-and-factor movement related to career counseling."
+    ],
+    "correct_index": 3,
+    "rationale": "The primary purpose of any aptitude test is to predict future performance, though career placement should never rest solely on a single source of data such as the aforementioned tests. Must-know fact: An aptitude test does not imply that you are adept at the skill (say math, music, or principles taught in law school) at the present moment. That, my dear reader, is the province of an achievement test. The aptitude test merely speculates about whether or not you could capture these skills with proper training and experience. Aptitude tests attempt to measure potential."
+  },
+  {
+    "id": "ch07_q_585",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A client says she has always stayed home and raised her children. Now the children are grown and she is seeking employment. She is best described",
+    "options": [
+      "as a displaced homemaker.",
+      "as a victim of underemployment.",
+      "by conducting a job analysis.",
+      "as a victim of the hidden job market."
+    ],
+    "correct_index": 0,
+    "rationale": "This is the definition of a displaced homemaker who also could be divorced or widowed. Just a reminder that gender bias (i.e., any factor that might rule out a job or career choice due to gender) must be avoided when conducting career counseling with women. Tough terminology: Note job analysis in choice “c.” This refers to a procedure where tasks, duties, skills, required education, safety issues, and other data are examined. A job evaluation rates the value of the job within the organization to decide what it should pay. It does not rate the person performing the job in question! A job analysis leads to a job description or what can be known as job specifications."
+  },
+  {
+    "id": "ch07_q_586",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "According to the concept of sex-wage or gender-wage discrimination",
+    "options": [
+      "women make more than men for doing the same job.",
+      "women make less than men for doing the same job.",
+      "men and women make identical salaries thanks to legislation.",
+      "women who are seen as attractive still make 6% more than men for doing the same job."
+    ],
+    "correct_index": 1,
+    "rationale": "Although in a fair world choice “c” would be true, choice “b” still depicts reality."
+  },
+  {
+    "id": "ch07_q_587",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "According to the concept of occupational sex segregation",
+    "options": [
+      "most women hold high-paying executive jobs. 266",
+      "most women hold low-paying jobs with low status.",
+      "most women hold jobs which require a college degree.",
+      "men still make considerably less than women."
+    ],
+    "correct_index": 1,
+    "rationale": "The concept of “occupational sex segregation” suggests that female occupations generally pay less and lack the status of male occupations."
+  },
+  {
+    "id": "ch07_q_588",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A counselor advises a female to steer clear of police work as he feels this is a male occupation. This suggests",
+    "options": [
+      "positive transference.",
+      "negative transference.",
+      "counselor bias based on gender bias.",
+      "sex-wage discrimination."
+    ],
+    "correct_index": 2,
+    "rationale": "But wait, don’t jump to conclusions here. It’s not just male counselors who are the culprit here! Not by a long shot. Research indicates that female counselors urge females to seek out traditionally feminine occupations, and worse yet some tests and inventories used in the area of career counseling are guilty of gender bias!"
+  },
+  {
+    "id": "ch07_q_589",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Most research would suggest that a woman who has the same intelligence, skills, and potential as a man will often",
+    "options": [
+      "make the same job choice as a man.",
+      "choose a supervisory position more often than a man.",
+      "have lower career aspirations than a man.",
+      "choose a career well above her ability level."
+    ],
+    "correct_index": 2,
+    "rationale": "Louise Fitzgerald and John Crites discovered that even when girls manifest higher career maturity than boys, their aspirations are lower."
+  },
+  {
+    "id": "ch07_q_590",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A displaced homemaker might have grown children or",
+    "options": [
+      "be widowed and seeking employment.",
+      "be divorced and seeking employment.",
+      "a and b.",
+      "none of the above."
+    ],
+    "correct_index": 2,
+    "rationale": "See question 585. The high divorce rate and the declining birth rate have increased the number of women seeking employment in recent years. Another related exam term is dislocated worker. It refers to an individual who loses his or her job because a company downsizes or relocates. It can also refer to a person who has an obsolete set of job skills."
+  },
+  {
+    "id": "ch07_q_591",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Midlife career change 267",
+    "options": [
+      "is not that unusual.",
+      "is often discussed, but in reality is very rare.",
+      "would be extremely rare after the death of a spouse.",
+      "would be extremely rare after all the children leave home."
+    ],
+    "correct_index": 0,
+    "rationale": "This generally takes place between ages 35 and 45 and additional training is often needed. Precipitating factors for the change include divorce, having a baby, caring for a disabled child, empty nest syndrome, and perhaps most important, job dissatisfaction. Choices “c” and “d” are typical motivators and thus constitute incorrect answer choices."
+  },
+  {
+    "id": "ch07_q_592",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The term reentry woman would best describe",
+    "options": [
+      "a 32-year-old female police officer promoted to sergeant.",
+      "a 22-year-old female teacher who becomes a school counselor.",
+      "a 59-year-old female administrative assistant who switched positions for two years and will return to her job.",
+      "a 29-year-old female who was babysitting in her home but is currently working at a fast-food restaurant."
+    ],
+    "correct_index": 3,
+    "rationale": "The term reentry women refers to women who go from working within the home to working outside the home. Counselors need to be aware of the fact that reentry women typically experience an extremely high degree of career indecision. My prediction: In the coming years expect to see more and more questions on the career area of comprehensive and licensing exams related to women, older adults, minority groups, and persons with disabilities."
+  },
+  {
+    "id": "ch07_q_593",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A counselor doing multicultural career counseling should be aware",
+    "options": [
+      "of his or her own ethnocentric biases.",
+      "that Asian Americans rarely choose scientific careers.",
+      "that African American males will often choose enterprising jobs in terms of Holland’s typology.",
+      "that career inventories have eliminated cultural biases."
+    ],
+    "correct_index": 0,
+    "rationale": "Actually, Asian Americans (see choice “b”) are the only minority that has a large number of individuals in the scientific community. African American males are highly represented in realistic rather than enterprising occupations (see choice “c”). Thus the counselor has to be aware of his or her own stereotypical attitudes (e.g., African American women make good housekeepers or Latino women are best off working in secretarial jobs)."
+  },
+  {
+    "id": "ch07_q_594",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "In terms of the labor market",
+    "options": [
+      "music is very effective in increasing the workers’ output.",
+      "the number of employees that employers want to hire goes down as salary goes up.",
+      "the number of employees willing to work for an employer goes up as the salary increases. 268",
+      "b and c."
+    ],
+    "correct_index": 3,
+    "rationale": "Choice “a” is false. Music is generally ineffective in terms of significantly boosting a worker’s level of production. The lack of effectiveness is thought to be the result of “habituation.” Habituation—which will be referred to as “adaptation” on some exams—indicates a decrease in response to a constant stimulus or a stimulus that is repeated too frequently. Thus, as the music becomes a familiar stimulus, the employees will not really notice it, and its positive effects are minimal. Career counselors often refer to the phenomenon described in choices “b” and “c” as the “supply and demand curve,” a concept borrowed from economics."
+  },
+  {
+    "id": "ch07_q_595",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The career anchor theory was espoused by",
+    "options": [
+      "Roe.",
+      "Tiedman and Ohara.",
+      "Schein.",
+      "Super and Savickas."
+    ],
+    "correct_index": 2,
+    "rationale": "Choice “b” Tiedman and Ohara proposed a decision-making developmental theory based on Erikson’s psychosocial stages. Every decision is characterized by anticipation and implementation."
+  },
+  {
+    "id": "ch07_q_596",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "A career counselor who is helping a client design a resume",
+    "options": [
+      "should downplay the value of the cover letter.",
+      "should emphasize that a lengthy resume is invariably more effective.",
+      "should emphasize the importance of listing height and weight data.",
+      "should emphasize the importance of a cover letter."
+    ],
+    "correct_index": 3,
+    "rationale": "Choices “a,” “b,” and “c” all would be considered counter-productive. The resume should always be accompanied by a cover letter. Many personnel workers will not read a resume which is received without a cover letter. The letter should be brief (i.e., generally about three short paragraphs) and ideally the paper and type should match the resume and be of excellent quality. Counselors routinely recommend the bestselling job hunting book of all time What Color Is Your Parachute? by Richard Bolles, to clients who are seeking employment or a change in employment."
+  },
+  {
+    "id": "ch07_q_597",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The in-basket technique would be best",
+    "options": [
+      "when you are on a hiring committee and assessing candidates for a managerial position.",
+      "when you are counseling an elementary school child in regard to future job choices and careers.",
+      "when you are counseling a senior in high school who is unsure whether to go to college.",
+      "when you are counseling a senior in college who is contemplating graduate school."
+    ],
+    "correct_index": 0,
+    "rationale": "The in-basket technique is a job simulation in which the job candidate is given a basket (or package of materials) including memos, e-mails, phone messages, requests for presentations, data reports, and, yes, even complaints, that a manager would typically encounter after being off work for a period of time. The person making the hiring decision then monitors how the candidate makes decisions, prioritizes, pays attention to detail, delegates, and responds to the correspondence. This technique is very popular with formal assessment centers and the job applicant is generally expected to communicate why he or she is choosing the various responses. The strategy is also recommended for trainees. Should a hiring committee put much stock in reference letters? The short answer appears to be: not really! First, how many people do you know who use reference letters that are negative? Probably about the same number of folks you can list who have won the lottery at least five times: None. In addition, providers of reference letters don’t want applicants to be angry at them or worse yet, have the job seeker contact their favorite lawyer on the highway billboard ad to file a defamation suit."
+  },
+  {
+    "id": "ch07_q_598",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "The concept of job clubs as promoted by Azrin et al.",
+    "options": [
+      "is very behavioristic.",
+      "is indicative of a client-centered approach.",
+      "is psychodynamic.",
+      "is appropriate, but not with disabled populations."
+    ],
+    "correct_index": 0,
+    "rationale": "Choice “b” is roughly the opposite of the so-called selective placement philosophy. In the clientcentered approach to career counseling the counselor lets the client find his or her own leads and job contacts. A counselor who believes in the “selective placement” philosophy may give the client job leads and may take an active stance in terms of working with the client. The selective approach is preferable with clients who lack the concrete skills necessary to land a job. The job-finding club is an example of a behavioristic group strategy in that the clients share job leads and work on actual skills (e.g., interviewing) which are necessary in order to secure work. Job clubs are highly recommended for the disabled."
+  },
+  {
+    "id": "ch07_q_599",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "Which counselor would most likely say that we choose a job to meet our needs?",
+    "options": [
+      "Albert Ellis.",
+      "John O. Crites.",
+      "John Krumboltz.",
+      "Robert Hoppock."
+    ],
+    "correct_index": 3,
+    "rationale": "Crites (choice “b”) is well-known for his Career Maturity Inventory (CMI) that measures attitudes and competencies related to the career choice process. Hoppock, the correct theorist here, feels that to make an accurate career decision you must know your personal needs and then find an occupation that meets a high percentage of the needs. Lastly, as your personal needs change you might need to secure a different occupation."
+  },
+  {
+    "id": "ch07_q_600",
+    "domain": "Career Development",
+    "chapter": 7,
+    "question": "All of the following are difficulties with career testing except:",
+    "options": [
+      "Stereotyping. 270",
+      "The tests all take at least three hours to administer.",
+      "The counselor may rely too heavily on test results.",
+      "Many tests are biased in favor of white middle-class clients."
+    ],
+    "correct_index": 1,
+    "rationale": "Most instruments take less than an hour to complete."
   }
 ]
