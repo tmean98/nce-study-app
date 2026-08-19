@@ -5,7 +5,6 @@ import ExamView from './components/ExamView'
 import Leaderboard from './components/Leaderboard'
 import LandingPage from './components/LandingPage'
 import WelcomeModal from './components/WelcomeModal'
-import ChapterIcon from './components/ChapterIcon'
 import { supabase } from './lib/supabase'
 import { useMastery } from './lib/useMastery'
 import { useMissedFlashcards } from './lib/useMissedFlashcards'
@@ -184,7 +183,7 @@ export default function App() {
           onDontShowAgain={() => { localStorage.setItem(`nce_onboarded_${user.id}`, 'dismissed'); setShowWelcome(false) }}
         />
       )}
-      <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} />
+      <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} onLeaderboard={() => setView('leaderboard')} />
 
       {view === 'flashcards' && data && (
         <FlashcardView cards={data} missedCards={missedByChapter[activeChapter?.id] || []} chapterName={chapterLabel} onBack={goHome} />
@@ -214,7 +213,33 @@ export default function App() {
             {/* Mascot */}
             <div className="sidebar-mascot">
               <img src="/eagle-mascot.png" alt="NCE Study mascot" className="sidebar-mascot-img" />
+              <p className="mascot-tagline">"Ready to study?"</p>
             </div>
+
+            {/* Today's Target */}
+            {(() => {
+              const target = CHAPTERS.find(c => {
+                const m = masteredByChapter[c.id] || 0
+                return m > 0 && m < c.questions
+              }) || CHAPTERS[0]
+              const m = masteredByChapter[target.id] || 0
+              const pct = Math.round((m / target.questions) * 100)
+              return (
+                <div className="sidebar-section">
+                  <p className="sidebar-label">TODAY'S TARGET</p>
+                  <div className="target-card">
+                    <p className="target-card-chapter">Ch. {target.num} · 20 Questions</p>
+                    <div className="target-bar-wrap">
+                      <div className="target-bar" style={{ width: `${pct}%` }} />
+                    </div>
+                    <div className="target-card-footer">
+                      <span className="target-pct">{m} / {target.questions} mastered</span>
+                      <button className="ch-btn ch-btn-primary" onClick={() => openView(target, 'quiz')}>Keep going →</button>
+                    </div>
+                  </div>
+                </div>
+              )
+            })()}
 
             {/* Progress Stats */}
             <div className="sidebar-section">
@@ -258,7 +283,6 @@ export default function App() {
               </div>
             )}
 
-
           </aside>
 
           {/* ── Main Content ── */}
@@ -292,7 +316,6 @@ export default function App() {
             <div>
               <div className="chapter-grid-header">
                 <span className="chapter-grid-label">STUDY BY CHAPTER</span>
-                <button className="btn btn-ghost btn-sm" onClick={() => setView('leaderboard')}>Leaderboard</button>
               </div>
               <div className="chapter-grid">
                 {CHAPTERS.map(ch => {
@@ -303,30 +326,28 @@ export default function App() {
                   const started = chMastered > 0
                   return (
                     <div key={ch.id} className={`chapter-card${complete ? ' chapter-card-complete' : ''}`}>
-                      <div className="chapter-card-num">
-                        <ChapterIcon chapterId={ch.id} />
-                        {ch.num}
-                      </div>
-                      <div>
-                        <p className="chapter-card-title">{ch.title}</p>
-                        <p className="chapter-card-meta">50 FLASHCARDS · {chTotal} QUESTIONS</p>
-                        <div className="chapter-card-bar-wrap">
-                          <div className="chapter-card-bar" style={{ width: `${chPct}%`, background: complete ? '#22c55e' : undefined }} />
-                        </div>
-                        <div className="chapter-card-footer">
-                          <span className="chapter-card-score">
-                            {complete ? '✓ Complete' : started ? `${chMastered} / ${chTotal} mastered` : 'Not started'}
-                          </span>
-                          <div className="chapter-card-actions">
-                            <button className="ch-btn ch-btn-ghost" onClick={() => openView(ch, 'flashcards')}>Cards</button>
-                            <button className="ch-btn ch-btn-primary" onClick={() => openView(ch, 'quiz')}>
-                              {started ? 'Continue →' : 'Start →'}
-                            </button>
+                      <div className="chapter-card-inner">
+                        <div className="chapter-card-numeral">{ch.num}</div>
+                        <div className="chapter-card-body">
+                          <p className="chapter-card-title">{ch.title}</p>
+                          <p className="chapter-card-meta">{ch.questions} QUESTIONS · 50 FLASHCARDS</p>
+                          {started && (
+                            <div className="chapter-card-bar-wrap">
+                              <div className="chapter-card-bar" style={{ width: `${chPct}%`, background: complete ? '#22c55e' : undefined }} />
+                            </div>
+                          )}
+                          <div className="chapter-card-footer">
+                            <span className="chapter-card-score">
+                              {complete ? '✓ Complete' : started ? `${chMastered} / ${chTotal} mastered` : 'Not started'}
+                            </span>
+                            <div className="chapter-card-actions">
+                              <button className="ch-btn ch-btn-ghost" onClick={() => openView(ch, 'flashcards')}>Cards</button>
+                              <button className="ch-btn ch-btn-primary" onClick={() => openView(ch, 'quiz')}>
+                                {started ? 'Continue →' : 'Start →'}
+                              </button>
+                            </div>
                           </div>
                         </div>
-                      </div>
-                      <div className="chapter-card-pct" style={{ color: complete ? '#22c55e' : started ? '#2F6FED' : '#1E3048' }}>
-                        {complete ? '✓' : started ? `${chPct}%` : '—'}
                       </div>
                     </div>
                   )
@@ -362,7 +383,7 @@ export default function App() {
   )
 }
 
-function Header({ user, onSignOut, onHelp }) {
+function Header({ user, onSignOut, onHelp, onLeaderboard }) {
   return (
     <header className="header">
       <div className="header-brand">
@@ -376,6 +397,7 @@ function Header({ user, onSignOut, onHelp }) {
         <span className="header-user">{user.user_metadata?.display_name || user.email.split('@')[0]}</span>
         <button className="btn-help" onClick={onHelp} title="Platform guide">?</button>
         <a className="btn btn-ghost btn-sm" href="mailto:thomas.meaney16@northwestu.edu" title="Contact Tommy">Contact</a>
+        <button className="btn btn-ghost btn-sm" onClick={onLeaderboard}>Leaderboard</button>
         <button className="btn btn-ghost btn-sm" onClick={onSignOut}>Sign Out</button>
       </div>
     </header>
