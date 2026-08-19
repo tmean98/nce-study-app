@@ -64,17 +64,13 @@ const STEPS = [
   },
 ]
 
-export default function WelcomeModal({ onClose }) {
+export default function WelcomeModal({ onClose, onDontShowAgain }) {
   const [step, setStep] = useState(0)
   const s = STEPS[step]
   const isLast = step === STEPS.length - 1
 
-  function handleClose() {
-    onClose()
-  }
-
   return (
-    <div className="wm-overlay" onClick={handleClose}>
+    <div className="wm-overlay" onClick={onClose}>
       <div className="wm-modal" onClick={e => e.stopPropagation()}>
 
         <div className="wm-header">
@@ -87,7 +83,7 @@ export default function WelcomeModal({ onClose }) {
               />
             ))}
           </div>
-          <button className="wm-close" onClick={handleClose}>✕</button>
+          <button className="wm-close" onClick={onClose}>✕</button>
         </div>
 
         <div className="wm-content">
@@ -97,14 +93,17 @@ export default function WelcomeModal({ onClose }) {
         </div>
 
         <div className="wm-footer">
+          <button className="wm-dont-show" onClick={onDontShowAgain}>
+            Don't show again
+          </button>
+          <div style={{ flex: 1 }} />
           {step > 0 && (
             <button className="btn btn-ghost btn-sm" onClick={() => setStep(s => s - 1)}>
               ← Back
             </button>
           )}
-          <div style={{ flex: 1 }} />
           {isLast ? (
-            <button className="wm-cta" onClick={handleClose}>
+            <button className="wm-cta" onClick={onClose}>
               Get Started →
             </button>
           ) : (

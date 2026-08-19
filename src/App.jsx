@@ -60,7 +60,7 @@ export default function App() {
   }, [])
 
   useEffect(() => {
-    if (user && !localStorage.getItem(`nce_onboarded_${user.id}`)) {
+    if (user && localStorage.getItem(`nce_onboarded_${user.id}`) !== 'dismissed') {
       setShowWelcome(true)
     }
   }, [user])
@@ -164,7 +164,12 @@ export default function App() {
 
   return (
     <div className="app">
-      {showWelcome && <WelcomeModal onClose={() => { localStorage.setItem(`nce_onboarded_${user.id}`, '1'); setShowWelcome(false) }} />}
+      {showWelcome && (
+        <WelcomeModal
+          onClose={() => setShowWelcome(false)}
+          onDontShowAgain={() => { localStorage.setItem(`nce_onboarded_${user.id}`, 'dismissed'); setShowWelcome(false) }}
+        />
+      )}
       <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} />
 
       {view === 'flashcards' && data && (

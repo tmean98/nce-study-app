@@ -1626,6 +1626,18 @@
   border-top: 1px solid #1E3048;
 }
 
+.wm-dont-show {
+  background: none;
+  border: none;
+  color: #4A6080;
+  font-size: 12px;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.wm-dont-show:hover { color: #e2e8f0; }
+
 .wm-cta {
   background: #D4A84F;
   color: #0D172A;
