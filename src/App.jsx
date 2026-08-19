@@ -7,6 +7,7 @@ import LandingPage from './components/LandingPage'
 import WelcomeModal from './components/WelcomeModal'
 import { supabase } from './lib/supabase'
 import { useMastery } from './lib/useMastery'
+import { useMissedFlashcards } from './lib/useMissedFlashcards'
 import './App.css'
 
 const EXAM_DOMAINS = [
@@ -51,6 +52,7 @@ export default function App() {
   const [chapterScores, setChapterScores] = useState({})
   const [showWelcome, setShowWelcome] = useState(false)
   const { mastered, masteredByChapter, markMastered } = useMastery(user?.id)
+  const { missedByChapter, addMissed } = useMissedFlashcards(user?.id)
 
   useEffect(() => {
     if (!supabase) { setUser(null); return }
@@ -178,10 +180,10 @@ export default function App() {
       <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} />
 
       {view === 'flashcards' && data && (
-        <FlashcardView cards={data} chapterName={chapterLabel} onBack={goHome} />
+        <FlashcardView cards={data} missedCards={missedByChapter[activeChapter?.id] || []} chapterName={chapterLabel} onBack={goHome} />
       )}
       {view === 'quiz' && data && (
-        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} />
+        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} addMissed={addMissed} />
       )}
       {view === 'exam' && data && (
         <ExamView questions={data} onBack={goHome} user={user} />

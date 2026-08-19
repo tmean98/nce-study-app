@@ -14,7 +14,7 @@ function buildPool(questions, size, masteredSet, mode, starredSet, starredOnly) 
   return size === 'All' ? shuffled : shuffled.slice(0, Math.min(size, shuffled.length))
 }
 
-export default function QuizView({ questions, chapterName, chapterId, onBack, user, mastery, markMastered }) {
+export default function QuizView({ questions, chapterName, chapterId, onBack, user, mastery, markMastered, addMissed }) {
   const [sessionSize, setSessionSize] = useState(null)
   const [sessionMode, setSessionMode] = useState('unmastered')
   const [pool, setPool] = useState([])
@@ -51,6 +51,8 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
     if (i === q.correct_index) {
       setScore(s => s + 1)
       markMastered?.(q.id, chapterId)
+    } else {
+      addMissed?.(q, chapterId)
     }
   }
 
