@@ -1205,12 +1205,23 @@
   text-align: center;
   max-width: 340px;
 }
-.q-mastered-badge {
+.q-status-badge {
   font-size: 11px;
   font-weight: 600;
-  color: #22c55e;
   margin-left: 8px;
+  padding: 2px 7px;
+  border-radius: 4px;
   letter-spacing: .03em;
+}
+.q-badge-review { background: #14532d; color: #4ade80; }
+.q-badge-missed { background: #431407; color: #fb923c; }
+.quiz-session-note {
+  font-size: 12px;
+  color: #4A6080;
+  text-align: center;
+  max-width: 380px;
+  line-height: 1.5;
+  margin-top: -4px;
 }
 .score-mastery-note {
   font-size: 13px;

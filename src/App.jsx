@@ -183,7 +183,7 @@ export default function App() {
         <FlashcardView cards={data} missedCards={missedByChapter[activeChapter?.id] || []} chapterName={chapterLabel} onBack={goHome} />
       )}
       {view === 'quiz' && data && (
-        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} addMissed={addMissed} />
+        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} addMissed={addMissed} missedIds={new Set((missedByChapter[activeChapter.id] || []).map(c => c.id))} />
       )}
       {view === 'exam' && data && (
         <ExamView questions={data} onBack={goHome} user={user} />

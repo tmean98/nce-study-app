@@ -14,7 +14,7 @@ function buildPool(questions, size, masteredSet, mode, starredSet, starredOnly) 
   return size === 'All' ? shuffled : shuffled.slice(0, Math.min(size, shuffled.length))
 }
 
-export default function QuizView({ questions, chapterName, chapterId, onBack, user, mastery, markMastered, addMissed }) {
+export default function QuizView({ questions, chapterName, chapterId, onBack, user, mastery, markMastered, addMissed, missedIds }) {
   const [sessionSize, setSessionSize] = useState(null)
   const [sessionMode, setSessionMode] = useState('unmastered')
   const [pool, setPool] = useState([])
@@ -115,6 +115,9 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
             <>
               {/* Primary: unmastered */}
               <p className="quiz-section-label">Study unmastered — {unmasteredCount} left</p>
+              <p className="quiz-session-note">
+                Questions are drawn randomly from your unmastered pool. Each correct answer permanently marks that question as mastered — keep going until you reach 0.
+              </p>
               <div className="quiz-size-grid">
                 {unmasteredSizes.map(s => (
                   <button key={s} className="btn btn-secondary quiz-size-btn"
@@ -246,7 +249,11 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
         <div className="quiz-q-header">
           <div className="quiz-q-number">
             Question {index + 1}
-            {masteredSet.has(q.id) && <span className="q-mastered-badge">✓ mastered</span>}
+            {masteredSet.has(q.id)
+              ? <span className="q-status-badge q-badge-review">✓ Review</span>
+              : missedIds?.has(q.id)
+                ? <span className="q-status-badge q-badge-missed">Previously missed</span>
+                : null}
           </div>
           <div style={{ display: 'flex', gap: 6 }}>
             <button
