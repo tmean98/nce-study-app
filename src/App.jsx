@@ -9,6 +9,9 @@ import ChapterIcon from './components/ChapterIcon'
 import { supabase } from './lib/supabase'
 import { useMastery } from './lib/useMastery'
 import { useMissedFlashcards } from './lib/useMissedFlashcards'
+import { useAchievements, ACHIEVEMENTS } from './lib/useAchievements'
+import { useStreaks } from './lib/useStreaks'
+import AchievementToast from './components/AchievementToast'
 import './App.css'
 
 const EXAM_DOMAINS = [
@@ -54,6 +57,8 @@ export default function App() {
   const [showWelcome, setShowWelcome] = useState(false)
   const { mastered, masteredByChapter, markMastered } = useMastery(user?.id)
   const { missedByChapter, addMissed } = useMissedFlashcards(user?.id)
+  const { earned: earnedAchievements, newlyEarned, dismissToast, check: checkAchievements } = useAchievements(user?.id)
+  const { streak, recordActivity } = useStreaks(user?.id)
 
   useEffect(() => {
     if (!supabase) { setUser(null); return }
@@ -172,6 +177,7 @@ export default function App() {
 
   return (
     <div className="app">
+      {newlyEarned.length > 0 && <AchievementToast achievement={newlyEarned[0]} onDismiss={dismissToast} />}
       {showWelcome && (
         <WelcomeModal
           onClose={() => setShowWelcome(false)}
@@ -184,7 +190,7 @@ export default function App() {
         <FlashcardView cards={data} missedCards={missedByChapter[activeChapter?.id] || []} chapterName={chapterLabel} onBack={goHome} />
       )}
       {view === 'quiz' && data && (
-        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} addMissed={addMissed} missedIds={new Set((missedByChapter[activeChapter.id] || []).map(c => c.id))} />
+        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} addMissed={addMissed} missedIds={new Set((missedByChapter[activeChapter.id] || []).map(c => c.id))} masteredByChapter={masteredByChapter} checkAchievements={checkAchievements} recordActivity={recordActivity} />
       )}
       {view === 'exam' && data && (
         <ExamView questions={data} onBack={goHome} user={user} />
@@ -222,8 +228,8 @@ export default function App() {
                   <span className="pstat-label">Average Score</span>
                 </div>
                 <div className="pstat">
-                  <span className="pstat-num">{totalMastered > 0 ? `${totalQuestions - totalMastered}` : '—'}</span>
-                  <span className="pstat-label">Remaining</span>
+                  <span className="pstat-num">{streak > 0 ? `${streak}🔥` : '—'}</span>
+                  <span className="pstat-label">Day Streak</span>
                 </div>
               </div>
             </div>
@@ -317,6 +323,26 @@ export default function App() {
                       <div className="chapter-card-pct" style={{ color: complete ? '#22c55e' : started ? '#2F6FED' : '#1E3048' }}>
                         {complete ? '✓' : started ? `${chPct}%` : '—'}
                       </div>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+
+            {/* Achievements */}
+            <div>
+              <div className="chapter-grid-header">
+                <span className="chapter-grid-label">ACHIEVEMENTS</span>
+                <span className="achievements-earned-count">{earnedAchievements.size} / {ACHIEVEMENTS.length} earned</span>
+              </div>
+              <div className="achievements-grid">
+                {ACHIEVEMENTS.map(a => {
+                  const isEarned = earnedAchievements.has(a.id)
+                  return (
+                    <div key={a.id} className={`achievement-badge${isEarned ? ' earned' : ''}`}>
+                      <span className="achievement-badge-icon">{a.icon}</span>
+                      <span className="achievement-badge-title">{a.title}</span>
+                      <span className="achievement-badge-desc">{a.desc}</span>
                     </div>
                   )
                 })}

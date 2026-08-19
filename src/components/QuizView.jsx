@@ -1,4 +1,5 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
+import confetti from 'canvas-confetti'
 import FlagModal from './FlagModal'
 import { supabase } from '../lib/supabase'
 import { useStarred } from '../lib/useStarred'
@@ -14,13 +15,14 @@ function buildPool(questions, size, masteredSet, mode, starredSet, starredOnly) 
   return size === 'All' ? shuffled : shuffled.slice(0, Math.min(size, shuffled.length))
 }
 
-export default function QuizView({ questions, chapterName, chapterId, onBack, user, mastery, markMastered, addMissed, missedIds }) {
+export default function QuizView({ questions, chapterName, chapterId, onBack, user, mastery, markMastered, addMissed, missedIds, masteredByChapter, checkAchievements, recordActivity }) {
   const [sessionSize, setSessionSize] = useState(null)
   const [sessionMode, setSessionMode] = useState('unmastered')
   const [pool, setPool] = useState([])
   const [index, setIndex] = useState(0)
   const [selected, setSelected] = useState(null)
   const [score, setScore] = useState(0)
+  const [consecutive, setConsecutive] = useState(0)
   const [done, setDone] = useState(false)
   const [flagged, setFlagged] = useState(null)
   const [saved, setSaved] = useState(false)
@@ -42,7 +44,7 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
     setSessionSize(size)
     setSessionMode(mode)
     setPool(buildPool(questions, size, masteredSet, mode, starred, starredOnly))
-    setIndex(0); setSelected(null); setScore(0); setDone(false); setSaved(false)
+    setIndex(0); setSelected(null); setScore(0); setConsecutive(0); setDone(false); setSaved(false)
   }
 
   function choose(i) {
@@ -50,11 +52,32 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
     setSelected(i)
     if (i === q.correct_index) {
       setScore(s => s + 1)
+      const newConsecutive = consecutive + 1
+      setConsecutive(newConsecutive)
       markMastered?.(q.id, chapterId)
+      // Compute post-answer mastery counts optimistically
+      const wasAlreadyMastered = masteredSet.has(q.id)
+      const totalMastered = Object.values(masteredByChapter || {}).reduce((s, n) => s + n, 0) + (wasAlreadyMastered ? 0 : 1)
+      const chapterMastered = (masteredByChapter?.[chapterId] || 0) + (wasAlreadyMastered ? 0 : 1)
+      checkAchievements?.('question_correct', { totalMastered, chapterId, chapterMastered, chapterTotal: questions.length, consecutiveCorrect: newConsecutive })
+      recordActivity?.(streak => checkAchievements?.('streak', { streak }))
     } else {
+      setConsecutive(0)
       addMissed?.(q, chapterId)
     }
   }
+
+  useEffect(() => {
+    if (!done) return
+    checkAchievements?.('quiz_complete', { correct: score, total })
+    const masteredInChapter = questions.filter(q => masteredSet.has(q.id)).length
+    if (masteredInChapter === questions.length) {
+      confetti({ particleCount: 220, spread: 80, origin: { y: 0.5 }, colors: ['#2F6FED', '#D4A84F', '#4ade80', '#f8fafc', '#a78bfa'] })
+      setTimeout(() => confetti({ particleCount: 80, spread: 60, origin: { y: 0.4, x: 0.3 }, colors: ['#D4A84F', '#f8fafc'] }), 300)
+    } else if (score === total && total > 0) {
+      confetti({ particleCount: 90, spread: 55, origin: { y: 0.6 }, colors: ['#D4A84F', '#f8fafc', '#2F6FED'] })
+    }
+  }, [done])
 
   function next() {
     if (index + 1 >= total) setDone(true)
