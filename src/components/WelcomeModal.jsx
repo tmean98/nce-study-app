@@ -3,10 +3,10 @@ import { useState } from 'react'
 const STEPS = [
   {
     eyebrow: 'Welcome',
-    title: 'Your NCE Study Platform',
+    title: 'Built for NU CMHC \'25',
     body: (
       <>
-        <p>This platform was built specifically for graduate counseling students preparing for the National Counselor Examination (NCE) and CPCE. Everything is organized around the 8 CACREP domains tested on the actual exam.</p>
+        <p>This platform was built for the Northwest University Clinical Mental Health Counseling cohort of 2025 to prepare for the program qualifying exam — structured around the 8 CACREP domains tested on the NCE.</p>
         <div className="wm-stats">
           <div className="wm-stat"><span className="wm-stat-num">1,099</span><span className="wm-stat-label">Quiz Questions</span></div>
           <div className="wm-stat"><span className="wm-stat-num">493</span><span className="wm-stat-label">Flashcards</span></div>

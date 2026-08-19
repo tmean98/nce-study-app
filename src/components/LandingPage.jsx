@@ -51,14 +51,14 @@ export default function LandingPage() {
           </svg>
           <div>
             <p className="landing-brand-name">NCE STUDY</p>
-            <p className="landing-brand-sub">Study Platform</p>
+            <p className="landing-brand-sub">NU CMHC · Class of 2025</p>
           </div>
         </div>
 
         <div className="landing-headline">
           <h1 className="landing-title">Prepare<br />With Purpose.</h1>
           <p className="landing-tagline">
-            A structured exam prep platform built specifically for graduate counseling students pursuing NCE and CPCE licensure.
+            Built for the Northwest University CMHC cohort of 2025 — your dedicated prep tool for the program qualifying exam.
           </p>
         </div>
 
