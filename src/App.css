@@ -72,8 +72,8 @@
   height: 220px;
   object-fit: contain;
   object-position: center bottom;
-  border-radius: 16px;
-  filter: drop-shadow(0 8px 24px #00000055);
+  mix-blend-mode: multiply;
+  filter: contrast(1.1) brightness(1.05);
 }
 
 .sidebar-mascot { display: flex; justify-content: center; }
@@ -82,7 +82,8 @@
   height: 140px;
   object-fit: contain;
   object-position: center bottom;
-  filter: drop-shadow(0 4px 12px #00000055);
+  mix-blend-mode: multiply;
+  filter: contrast(1.1) brightness(1.05);
 }
 
 .landing-features {
