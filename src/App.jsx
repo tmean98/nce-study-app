@@ -1,6 +1,9 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import FlashcardView from './components/FlashcardView'
 import QuizView from './components/QuizView'
+import AuthModal from './components/AuthModal'
+import Leaderboard from './components/Leaderboard'
+import { supabase } from './lib/supabase'
 import './App.css'
 
 const CHAPTERS = [
@@ -17,45 +20,42 @@ const CHAPTERS = [
 ]
 
 export default function App() {
-  const [view, setView] = useState('home') // 'home' | 'flashcards' | 'quiz'
+  const [view, setView] = useState('home')
   const [activeChapter, setActiveChapter] = useState(null)
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
+  const [user, setUser] = useState(null)
+  const [showAuth, setShowAuth] = useState(false)
 
-  async function openFlashcards(ch) {
+  useEffect(() => {
+    if (!supabase) return
+    supabase.auth.getSession().then(({ data }) => setUser(data.session?.user ?? null))
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((_e, session) => {
+      setUser(session?.user ?? null)
+    })
+    return () => subscription.unsubscribe()
+  }, [])
+
+  async function openView(ch, mode) {
     setLoading(true)
-    const res = await fetch(`/${ch.id}_flashcards.json`)
-    const cards = await res.json()
-    setData(cards)
+    const res = await fetch(`/${ch.id}_${mode}.json`)
+    const json = await res.json()
+    setData(json)
     setActiveChapter(ch)
-    setView('flashcards')
+    setView(mode === 'flashcards' ? 'flashcards' : 'quiz')
     setLoading(false)
   }
 
-  async function openQuiz(ch) {
-    setLoading(true)
-    const res = await fetch(`/${ch.id}_quiz.json`)
-    const questions = await res.json()
-    setData(questions)
-    setActiveChapter(ch)
-    setView('quiz')
-    setLoading(false)
-  }
+  function goHome() { setView('home'); setData(null); setActiveChapter(null) }
 
-  function goHome() {
-    setView('home')
-    setData(null)
-    setActiveChapter(null)
-  }
+  const chapterLabel = activeChapter ? `${activeChapter.name}: ${activeChapter.title}` : ''
 
   if (view === 'flashcards' && data) {
     return (
       <div className="app">
-        <header className="header">
-          <h1>NCE Study</h1>
-          <span className="header-badge">Flashcards</span>
-        </header>
-        <FlashcardView cards={data} chapterName={`${activeChapter.name}: ${activeChapter.title}`} onBack={goHome} />
+        <Header user={user} onAuth={() => setShowAuth(true)} onSignOut={() => supabase?.auth.signOut()} />
+        <FlashcardView cards={data} chapterName={chapterLabel} onBack={goHome} />
+        {showAuth && <AuthModal onClose={() => setShowAuth(false)} />}
       </div>
     )
   }
@@ -63,39 +63,74 @@ export default function App() {
   if (view === 'quiz' && data) {
     return (
       <div className="app">
-        <header className="header">
-          <h1>NCE Study</h1>
-          <span className="header-badge">Quiz</span>
-        </header>
-        <QuizView questions={data} chapterName={`${activeChapter.name}: ${activeChapter.title}`} onBack={goHome} />
+        <Header user={user} onAuth={() => setShowAuth(true)} onSignOut={() => supabase?.auth.signOut()} />
+        <QuizView
+          questions={data}
+          chapterName={chapterLabel}
+          chapterId={activeChapter.id}
+          onBack={goHome}
+          user={user}
+        />
+        {showAuth && <AuthModal onClose={() => setShowAuth(false)} />}
+      </div>
+    )
+  }
+
+  if (view === 'leaderboard') {
+    return (
+      <div className="app">
+        <Header user={user} onAuth={() => setShowAuth(true)} onSignOut={() => supabase?.auth.signOut()} />
+        <Leaderboard onBack={goHome} />
+        {showAuth && <AuthModal onClose={() => setShowAuth(false)} />}
       </div>
     )
   }
 
   return (
     <div className="app">
-      <header className="header">
-        <h1>NCE Study</h1>
-        <span className="header-badge">NCE / CPCE Prep</span>
-      </header>
+      <Header user={user} onAuth={() => setShowAuth(true)} onSignOut={() => supabase?.auth.signOut()} />
       <main className="home">
-        <h2>Choose a Chapter</h2>
-        <p className="home-subtitle">
-          {loading ? 'Loading…' : '493 flashcards · 200 quiz questions across 10 chapters'}
-        </p>
+        <div className="home-top">
+          <div>
+            <h2>NCE / CPCE Study</h2>
+            <p className="home-subtitle">
+              {loading ? 'Loading…' : '493 flashcards · 200 quiz questions across 10 chapters'}
+            </p>
+          </div>
+          <button className="btn btn-secondary" onClick={() => setView('leaderboard')}>🏆 Leaderboard</button>
+        </div>
         <div className="chapter-grid">
           {CHAPTERS.map(ch => (
             <div key={ch.id} className="chapter-card">
               <h3>{ch.name}: {ch.title}</h3>
-              <p>Flashcards + Quiz</p>
+              <p>50 flashcards · 20 quiz questions</p>
               <div className="chapter-card-actions">
-                <button className="btn btn-primary" onClick={() => openFlashcards(ch)}>Flashcards</button>
-                <button className="btn btn-secondary" onClick={() => openQuiz(ch)}>Quiz</button>
+                <button className="btn btn-primary" onClick={() => openView(ch, 'flashcards')}>Flashcards</button>
+                <button className="btn btn-secondary" onClick={() => openView(ch, 'quiz')}>Quiz</button>
               </div>
             </div>
           ))}
         </div>
       </main>
+      {showAuth && <AuthModal onClose={() => setShowAuth(false)} />}
     </div>
+  )
+}
+
+function Header({ user, onAuth, onSignOut }) {
+  return (
+    <header className="header">
+      <h1>NCE Study</h1>
+      <div className="header-right">
+        {user ? (
+          <>
+            <span className="header-user">{user.email.split('@')[0]}</span>
+            <button className="btn btn-ghost btn-sm" onClick={onSignOut}>Sign Out</button>
+          </>
+        ) : (
+          <button className="btn btn-secondary btn-sm" onClick={onAuth}>Sign In</button>
+        )}
+      </div>
+    </header>
   )
 }
