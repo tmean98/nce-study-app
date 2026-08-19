@@ -690,20 +690,34 @@
   align-items: center;
 }
 
-.ch-link {
-  background: none;
-  border: none;
+.ch-btn {
+  padding: 5px 12px;
   font-size: 12px;
   font-weight: 600;
-  color: #4A6080;
+  border-radius: 5px;
   cursor: pointer;
-  padding: 0;
   font-family: 'Inter', sans-serif;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
 }
-.ch-link:hover { color: #94a3b8; }
+.ch-btn-ghost {
+  background: none;
+  border: 1px solid #2a3f5f;
+  color: #94a3b8;
+}
+.ch-btn-ghost:hover { border-color: #4A6080; color: #e2e8f0; }
+.ch-btn-primary {
+  background: none;
+  border: 1px solid #2F6FED;
+  color: #2F6FED;
+}
+.ch-btn-primary:hover { background: #2F6FED; color: #fff; }
 
-.ch-link-primary { color: #2F6FED; }
-.ch-link-primary:hover { color: #5B90F5; }
+.chapter-card-icon {
+  font-size: 18px;
+  display: block;
+  margin-bottom: 4px;
+  line-height: 1;
+}
 
 .chapter-card-pct {
   font-family: 'Manrope', sans-serif;

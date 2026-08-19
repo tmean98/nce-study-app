@@ -22,16 +22,16 @@ const EXAM_DOMAINS = [
 ]
 
 const CHAPTERS = [
-  { id: 'ch03', name: 'Ch 3',  num: '03', title: 'Human Growth & Development',       questions: 100 },
-  { id: 'ch04', name: 'Ch 4',  num: '04', title: 'Social & Cultural Diversity',       questions: 100 },
-  { id: 'ch05', name: 'Ch 5',  num: '05', title: 'Helping Relationships',             questions: 199 },
-  { id: 'ch06', name: 'Ch 6',  num: '06', title: 'Group Work',                        questions: 100 },
-  { id: 'ch07', name: 'Ch 7',  num: '07', title: 'Career Development',               questions: 100 },
-  { id: 'ch08', name: 'Ch 8',  num: '08', title: 'Assessment & Testing',             questions: 100 },
-  { id: 'ch09', name: 'Ch 9',  num: '09', title: 'Research & Program Evaluation',    questions: 100 },
-  { id: 'ch10', name: 'Ch 10', num: '10', title: 'Professional Orientation & Ethics', questions: 100 },
-  { id: 'ch11', name: 'Ch 11', num: '11', title: 'Family Therapy, Career & Research', questions: 100 },
-  { id: 'ch12', name: 'Ch 12', num: '12', title: 'Neuro, CBT Waves, DBT, MI & ACT',  questions: 100 },
+  { id: 'ch03', name: 'Ch 3',  num: '03', icon: '🌱', title: 'Human Growth & Development',       questions: 100 },
+  { id: 'ch04', name: 'Ch 4',  num: '04', icon: '🌍', title: 'Social & Cultural Diversity',       questions: 100 },
+  { id: 'ch05', name: 'Ch 5',  num: '05', icon: '🤝', title: 'Helping Relationships',             questions: 199 },
+  { id: 'ch06', name: 'Ch 6',  num: '06', icon: '👥', title: 'Group Work',                        questions: 100 },
+  { id: 'ch07', name: 'Ch 7',  num: '07', icon: '📈', title: 'Career Development',               questions: 100 },
+  { id: 'ch08', name: 'Ch 8',  num: '08', icon: '📋', title: 'Assessment & Testing',             questions: 100 },
+  { id: 'ch09', name: 'Ch 9',  num: '09', icon: '🔬', title: 'Research & Program Evaluation',    questions: 100 },
+  { id: 'ch10', name: 'Ch 10', num: '10', icon: '⚖️', title: 'Professional Orientation & Ethics', questions: 100 },
+  { id: 'ch11', name: 'Ch 11', num: '11', icon: '🏠', title: 'Family Therapy, Career & Research', questions: 100 },
+  { id: 'ch12', name: 'Ch 12', num: '12', icon: '🧠', title: 'Neuro, CBT Waves, DBT, MI & ACT',  questions: 100 },
 ]
 
 const QUOTES = [
@@ -238,7 +238,7 @@ export default function App() {
                   </div>
                   <div className="continue-card-footer">
                     <span className="continue-pct">{recentChapterScore != null ? `${recentChapterScore}%` : '—'}</span>
-                    <button className="ch-link ch-link-primary" onClick={() => openView(recentChapter, 'quiz')}>
+                    <button className="ch-btn ch-btn-primary" onClick={() => openView(recentChapter, 'quiz')}>
                       Continue →
                     </button>
                   </div>
@@ -291,7 +291,10 @@ export default function App() {
                   const started = chMastered > 0
                   return (
                     <div key={ch.id} className={`chapter-card${complete ? ' chapter-card-complete' : ''}`}>
-                      <div className="chapter-card-num">{ch.num}</div>
+                      <div className="chapter-card-num">
+                        <span className="chapter-card-icon">{ch.icon}</span>
+                        {ch.num}
+                      </div>
                       <div>
                         <p className="chapter-card-title">{ch.title}</p>
                         <p className="chapter-card-meta">50 FLASHCARDS · {chTotal} QUESTIONS</p>
@@ -303,8 +306,8 @@ export default function App() {
                             {complete ? '✓ Complete' : started ? `${chMastered} / ${chTotal} mastered` : 'Not started'}
                           </span>
                           <div className="chapter-card-actions">
-                            <button className="ch-link" onClick={() => openView(ch, 'flashcards')}>Cards</button>
-                            <button className="ch-link ch-link-primary" onClick={() => openView(ch, 'quiz')}>
+                            <button className="ch-btn ch-btn-ghost" onClick={() => openView(ch, 'flashcards')}>Cards</button>
+                            <button className="ch-btn ch-btn-primary" onClick={() => openView(ch, 'quiz')}>
                               {started ? 'Continue →' : 'Start →'}
                             </button>
                           </div>
