@@ -31,12 +31,22 @@ const CHAPTERS = [
   { id: 'ch12', name: 'Ch 12', num: '12', title: 'Neuro, CBT Waves, DBT, MI & ACT',  questions: 100 },
 ]
 
+const QUOTES = [
+  { text: "Excellence is the gradual result of always striving to do better.", author: "Pat Riley" },
+  { text: "The secret of getting ahead is getting started.", author: "Mark Twain" },
+  { text: "Preparation is the key to success.", author: "Alexander Graham Bell" },
+  { text: "It always seems impossible until it's done.", author: "Nelson Mandela" },
+]
+const quote = QUOTES[Math.floor(Date.now() / 86400000) % QUOTES.length]
+
 export default function App() {
   const [view, setView] = useState('home')
   const [activeChapter, setActiveChapter] = useState(null)
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
   const [user, setUser] = useState(undefined) // undefined = still checking
+  const [userStats, setUserStats] = useState(null)
+  const [chapterScores, setChapterScores] = useState({})
 
   useEffect(() => {
     if (!supabase) { setUser(null); return }
@@ -46,6 +56,50 @@ export default function App() {
     })
     return () => subscription.unsubscribe()
   }, [])
+
+  useEffect(() => {
+    if (!supabase || !user) return
+    async function fetchStats() {
+      const { data: rows, error } = await supabase
+        .from('quiz_scores')
+        .select('*')
+        .eq('user_id', user.id)
+        .order('created_at', { ascending: false })
+      if (error || !rows || rows.length === 0) return
+
+      const totalAnswered = rows.reduce((sum, r) => sum + (r.total || 0), 0)
+      const avgScore = Math.round(rows.reduce((sum, r) => sum + (r.percentage || 0), 0) / rows.length)
+
+      // Best % per chapter
+      const bestByChapter = {}
+      rows.forEach(r => {
+        const key = r.chapter_id
+        if (!bestByChapter[key] || r.percentage > bestByChapter[key]) {
+          bestByChapter[key] = r.percentage
+        }
+      })
+      const allChapterIds = CHAPTERS.map(c => c.id)
+      const overallPct = Math.round(
+        allChapterIds.reduce((sum, id) => sum + (bestByChapter[id] || 0), 0) / allChapterIds.length
+      )
+
+      const scores = {}
+      Object.entries(bestByChapter).forEach(([id, pct]) => {
+        scores[id] = { bestPct: pct }
+      })
+      setChapterScores(scores)
+
+      const mostRecent = rows[0]
+      setUserStats({
+        totalAnswered,
+        avgScore,
+        overallPct,
+        recentChapterId: mostRecent.chapter_id,
+        recentChapterName: mostRecent.chapter_name,
+      })
+    }
+    fetchStats()
+  }, [user])
 
   async function openView(ch, mode) {
     setLoading(true)
@@ -132,74 +186,149 @@ export default function App() {
     )
   }
 
+  const displayName = user.user_metadata?.display_name || user.email.split('@')[0]
+  const recentChapter = userStats
+    ? CHAPTERS.find(c => c.id === userStats.recentChapterId)
+    : null
+  const recentChapterScore = recentChapter && chapterScores[recentChapter.id]
+    ? chapterScores[recentChapter.id].bestPct
+    : null
+
   return (
     <div className="app">
       <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
       <main className="home">
+        <div className="home-layout">
 
-        {/* ── Exam Hero ── */}
-        <div className="exam-hero">
-          <div className="exam-hero-body">
-            <span className="exam-hero-eyebrow">Full-Length Practice Exam</span>
-            <h2 className="exam-hero-title">NCE Qualifying Exam</h2>
-            <div className="exam-hero-meta">
-              <span>200 Questions</span>
-              <span className="exam-hero-dot">·</span>
-              <span>4 Hours</span>
-              <span className="exam-hero-dot">·</span>
-              <span>8 CACREP Domains</span>
+          {/* ── Sidebar ── */}
+          <aside className="home-sidebar">
+
+            {/* Greeting */}
+            <div>
+              <p className="greeting-eyebrow">WELCOME BACK,</p>
+              <p className="greeting-name">{displayName}</p>
             </div>
-            <p className="exam-hero-desc">Simulate the real thing. See where you stand.</p>
-          </div>
-          <button className="exam-hero-btn" onClick={openExam} disabled={loading}>
-            {loading ? 'Loading…' : 'Begin Exam →'}
-          </button>
-        </div>
 
-        {/* ── Stats strip ── */}
-        <div className="home-stats">
-          <div className="stat-item">
-            <span className="stat-num">1,099</span>
-            <span className="stat-label">Quiz Questions</span>
-          </div>
-          <div className="stat-divider" />
-          <div className="stat-item">
-            <span className="stat-num">493</span>
-            <span className="stat-label">Flashcards</span>
-          </div>
-          <div className="stat-divider" />
-          <div className="stat-item">
-            <span className="stat-num">10</span>
-            <span className="stat-label">Chapters</span>
-          </div>
-          <div className="stat-divider" />
-          <div className="stat-item">
-            <span className="stat-num">8</span>
-            <span className="stat-label">CACREP Domains</span>
-          </div>
-        </div>
-
-        {/* ── Chapter list ── */}
-        <div className="chapter-section-header">
-          <h3 className="chapter-section-title">Study by Chapter</h3>
-          <button className="btn btn-ghost btn-sm" onClick={() => setView('leaderboard')}>Leaderboard</button>
-        </div>
-        <div className="chapter-list">
-          {CHAPTERS.map(ch => (
-            <div key={ch.id} className="chapter-row">
-              <div className="chapter-row-num">{ch.num}</div>
-              <div className="chapter-row-info">
-                <h3 className="chapter-row-title">{ch.title}</h3>
-                <p className="chapter-row-meta">50 Flashcards · {ch.questions} Questions</p>
-              </div>
-              <div className="chapter-row-actions">
-                <button className="btn btn-ghost btn-sm" onClick={() => openView(ch, 'flashcards')}>Flashcards</button>
-                <button className="btn btn-primary btn-sm" onClick={() => openView(ch, 'quiz')}>Quiz</button>
+            {/* Progress Stats */}
+            <div className="sidebar-section">
+              <p className="sidebar-label">YOUR PROGRESS</p>
+              <div className="progress-stats-grid">
+                <div className="pstat">
+                  <span className="pstat-num">{userStats ? `${userStats.overallPct}%` : '—'}</span>
+                  <span className="pstat-label">Overall Progress</span>
+                </div>
+                <div className="pstat">
+                  <span className="pstat-num">{userStats ? userStats.totalAnswered : '—'}</span>
+                  <span className="pstat-label">Questions Answered</span>
+                </div>
+                <div className="pstat">
+                  <span className="pstat-num">{userStats ? `${userStats.avgScore}%` : '—'}</span>
+                  <span className="pstat-label">Average Score</span>
+                </div>
+                <div className="pstat">
+                  <span className="pstat-num">—</span>
+                  <span className="pstat-label">Day Streak</span>
+                </div>
               </div>
             </div>
-          ))}
-        </div>
 
+            {/* Continue Studying */}
+            {userStats && recentChapter && (
+              <div className="sidebar-section">
+                <p className="sidebar-label">CONTINUE STUDYING</p>
+                <div className="continue-card">
+                  <p className="continue-card-title">Ch {recentChapter.num}: {recentChapter.title}</p>
+                  <div className="continue-bar-wrap">
+                    <div className="continue-bar" style={{ width: `${recentChapterScore || 0}%` }} />
+                  </div>
+                  <div className="continue-card-footer">
+                    <span className="continue-pct">{recentChapterScore != null ? `${recentChapterScore}%` : '—'}</span>
+                    <button className="ch-link ch-link-primary" onClick={() => openView(recentChapter, 'quiz')}>
+                      Continue →
+                    </button>
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {/* Quote */}
+            <blockquote className="home-quote">
+              <p>{quote.text}</p>
+              <cite>– {quote.author}</cite>
+            </blockquote>
+
+          </aside>
+
+          {/* ── Main Content ── */}
+          <div className="home-main">
+
+            {/* Exam Hero */}
+            <div className="exam-hero">
+              <div className="exam-hero-stamp">NCE<br/>PRACTICE<br/>EXAM</div>
+              <span className="exam-hero-eyebrow">📋 Full-Length Practice Exam</span>
+              <h2 className="exam-hero-title">NCE<br/>QUALIFYING EXAM</h2>
+              <div className="exam-hero-specs">
+                <div className="exam-spec">
+                  <span className="exam-spec-icon">📋</span>
+                  <span className="exam-spec-num">200</span>
+                  <span className="exam-spec-label">Questions</span>
+                </div>
+                <div className="exam-spec-divider" />
+                <div className="exam-spec">
+                  <span className="exam-spec-icon">🕐</span>
+                  <span className="exam-spec-num">4</span>
+                  <span className="exam-spec-label">Hours</span>
+                </div>
+              </div>
+              <p className="exam-hero-desc">Simulate the real thing. See where you stand.</p>
+              <button className="exam-hero-cta" onClick={openExam} disabled={loading}>
+                {loading ? 'LOADING…' : 'BEGIN EXAM →'}
+              </button>
+            </div>
+
+            {/* Chapter Grid */}
+            <div>
+              <div className="chapter-grid-header">
+                <span className="chapter-grid-label">STUDY BY CHAPTER</span>
+                <button className="btn btn-ghost btn-sm" onClick={() => setView('leaderboard')}>Leaderboard</button>
+              </div>
+              <div className="chapter-grid">
+                {CHAPTERS.map(ch => {
+                  const score = chapterScores[ch.id]
+                  const bestPct = score ? score.bestPct : null
+                  const started = bestPct != null
+                  return (
+                    <div key={ch.id} className="chapter-card">
+                      <div className="chapter-card-num">{ch.num}</div>
+                      <div>
+                        <p className="chapter-card-title">{ch.title}</p>
+                        <p className="chapter-card-meta">50 FLASHCARDS · {ch.questions} QUESTIONS</p>
+                        <div className="chapter-card-bar-wrap">
+                          <div className="chapter-card-bar" style={{ width: `${bestPct || 0}%` }} />
+                        </div>
+                        <div className="chapter-card-footer">
+                          <span className="chapter-card-score">
+                            {started ? `${bestPct}% best score` : 'Not started'}
+                          </span>
+                          <div className="chapter-card-actions">
+                            <button className="ch-link" onClick={() => openView(ch, 'flashcards')}>Cards</button>
+                            <button className="ch-link ch-link-primary" onClick={() => openView(ch, 'quiz')}>
+                              {started ? 'Continue →' : 'Start →'}
+                            </button>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="chapter-card-pct" style={{ color: started ? '#2F6FED' : '#1E3048' }}>
+                        {started ? `${bestPct}%` : '—'}
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+
+          </div>
+        </div>
       </main>
     </div>
   )
@@ -209,8 +338,11 @@ function Header({ user, onSignOut }) {
   return (
     <header className="header">
       <div className="header-brand">
-        <span className="header-mark">NCE</span>
-        <span className="header-brand-text">Study Platform</span>
+        <svg width="20" height="22" viewBox="0 0 20 22" fill="none">
+          <path d="M10 1L2 4.5V10.5C2 15.1 5.4 19.4 10 21C14.6 19.4 18 15.1 18 10.5V4.5L10 1Z" stroke="#D4A84F" strokeWidth="1.5" fill="none"/>
+          <path d="M7 11L9 13L13 9" stroke="#D4A84F" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+        </svg>
+        <span className="header-mark">NCE STUDY</span>
       </div>
       <div className="header-right">
         <span className="header-user">{user.user_metadata?.display_name || user.email.split('@')[0]}</span>
