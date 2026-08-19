@@ -1231,6 +1231,16 @@
   justify-content: space-between;
   gap: 12px;
 }
+.exam-header-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.exam-abandon-btn {
+  color: #ef4444;
+  opacity: 0.7;
+}
+.exam-abandon-btn:hover { opacity: 1; }
 .exam-timer {
   font-size: 22px;
   font-weight: 800;

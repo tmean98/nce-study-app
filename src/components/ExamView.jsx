@@ -29,6 +29,7 @@ export default function ExamView({ questions, onBack }) {
   const [timeLeft, setTimeLeft] = useState(EXAM_DURATION)
   const [submitted, setSubmitted] = useState(false)
   const [confirmSubmit, setConfirmSubmit] = useState(false)
+  const [confirmAbandon, setConfirmAbandon] = useState(false)
   const [showPalette, setShowPalette] = useState(false)
   const timeLeftRef = useRef(EXAM_DURATION)
 
@@ -192,9 +193,14 @@ export default function ExamView({ questions, onBack }) {
           Q {currentIndex + 1} / {questions.length}
           <span className="exam-answered-count"> · {answeredCount} answered</span>
         </div>
-        <button className="btn btn-ghost btn-sm" onClick={() => setShowPalette(true)}>
-          Grid
-        </button>
+        <div className="exam-header-right">
+          <button className="btn btn-ghost btn-sm" onClick={() => setShowPalette(true)}>
+            Grid
+          </button>
+          <button className="btn btn-ghost btn-sm exam-abandon-btn" onClick={() => setConfirmAbandon(true)}>
+            ✕ Abandon
+          </button>
+        </div>
       </div>
 
       <div className="progress-bar-wrap">
@@ -282,6 +288,20 @@ export default function ExamView({ questions, onBack }) {
             </div>
             <div className="palette-summary">
               {answeredCount} answered · {flagged.size} flagged · {unansweredCount} remaining
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Abandon exam modal */}
+      {confirmAbandon && (
+        <div className="palette-overlay" onClick={() => setConfirmAbandon(false)}>
+          <div className="confirm-modal" onClick={e => e.stopPropagation()}>
+            <h3>Abandon Exam?</h3>
+            <p>Your progress will not be saved. You'll return to the home screen and can start a fresh exam whenever you're ready.</p>
+            <div className="confirm-actions">
+              <button className="btn btn-ghost" onClick={() => setConfirmAbandon(false)}>Keep Going</button>
+              <button className="btn btn-danger" onClick={onBack}>Abandon</button>
             </div>
           </div>
         </div>
