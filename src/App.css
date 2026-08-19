@@ -66,6 +66,25 @@
   max-width: 300px;
 }
 
+.landing-mascot { display: flex; justify-content: center; }
+.landing-mascot-img {
+  width: 220px;
+  height: 220px;
+  object-fit: contain;
+  object-position: center bottom;
+  border-radius: 16px;
+  filter: drop-shadow(0 8px 24px #00000055);
+}
+
+.sidebar-mascot { display: flex; justify-content: center; }
+.sidebar-mascot-img {
+  width: 140px;
+  height: 140px;
+  object-fit: contain;
+  object-position: center bottom;
+  filter: drop-shadow(0 4px 12px #00000055);
+}
+
 .landing-features {
   display: flex;
   flex-direction: column;
