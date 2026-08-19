@@ -1,10 +1,13 @@
 import { useState } from 'react'
 import { supabase } from '../lib/supabase'
 
+function fakeEmail(username) {
+  return `${username.toLowerCase().replace(/\s+/g, '_')}@nce-study-app.com`
+}
+
 export default function AuthModal({ onClose }) {
-  const [mode, setMode] = useState('login') // 'login' | 'signup'
-  const [displayName, setDisplayName] = useState('')
-  const [email, setEmail] = useState('')
+  const [mode, setMode] = useState('login')
+  const [username, setUsername] = useState('')
   const [password, setPassword] = useState('')
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
@@ -15,20 +18,25 @@ export default function AuthModal({ onClose }) {
     if (!supabase) return
     setLoading(true)
     setError('')
-    setSuccess('')
+
+    const email = fakeEmail(username)
 
     if (mode === 'signup') {
       const { error } = await supabase.auth.signUp({
         email,
         password,
-        options: { data: { display_name: displayName } },
+        options: { data: { display_name: username } },
       })
       if (error) { setError(error.message); setLoading(false); return }
       setSuccess('Account created! You are now signed in.')
-      setTimeout(onClose, 1500)
+      setTimeout(onClose, 1200)
     } else {
       const { error } = await supabase.auth.signInWithPassword({ email, password })
-      if (error) { setError(error.message); setLoading(false); return }
+      if (error) {
+        setError('Incorrect username or password.')
+        setLoading(false)
+        return
+      }
       onClose()
     }
     setLoading(false)
@@ -43,24 +51,15 @@ export default function AuthModal({ onClose }) {
           <p style={{ color: '#4ade80', fontSize: 14 }}>{success}</p>
         ) : (
           <form onSubmit={submit} style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
-            {mode === 'signup' && (
-              <input
-                className="modal-input"
-                type="text"
-                placeholder="Display name (shown on leaderboard)"
-                value={displayName}
-                onChange={e => setDisplayName(e.target.value)}
-                required
-                minLength={2}
-              />
-            )}
             <input
               className="modal-input"
-              type="email"
-              placeholder="Email"
-              value={email}
-              onChange={e => setEmail(e.target.value)}
+              type="text"
+              placeholder="Username"
+              value={username}
+              onChange={e => setUsername(e.target.value)}
               required
+              minLength={2}
+              autoComplete="username"
             />
             <input
               className="modal-input"
@@ -70,6 +69,7 @@ export default function AuthModal({ onClose }) {
               onChange={e => setPassword(e.target.value)}
               required
               minLength={6}
+              autoComplete={mode === 'signup' ? 'new-password' : 'current-password'}
             />
             {error && <p className="modal-error">{error}</p>}
             <div className="modal-actions">
