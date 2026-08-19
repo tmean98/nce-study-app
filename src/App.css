@@ -1431,6 +1431,217 @@
 .exam-domain-result-score { color: #f1f5f9; font-weight: 600; text-align: right; }
 .exam-domain-pct { color: #64748b; font-weight: 400; }
 
+/* ── Help button ── */
+.btn-help {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: transparent;
+  border: 1px solid #1E3048;
+  color: #4A6080;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 0.15s, color 0.15s;
+  font-family: 'Inter', sans-serif;
+  flex-shrink: 0;
+}
+.btn-help:hover { border-color: #D4A84F; color: #D4A84F; }
+
+/* ── Welcome Modal ── */
+.wm-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 200;
+  padding: 20px;
+}
+
+.wm-modal {
+  background: #111D2E;
+  border: 1px solid #1E3048;
+  border-radius: 6px;
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.wm-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 24px 0;
+}
+
+.wm-dots { display: flex; gap: 6px; }
+
+.wm-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: none;
+  background: #1E3048;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.15s;
+}
+.wm-dot.active { background: #D4A84F; }
+
+.wm-close {
+  background: none;
+  border: none;
+  color: #4A6080;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 4px;
+  line-height: 1;
+  transition: color 0.15s;
+}
+.wm-close:hover { color: #F4F1E8; }
+
+.wm-content {
+  padding: 28px 28px 24px;
+  flex: 1;
+}
+
+.wm-eyebrow {
+  font-family: 'Manrope', sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #D4A84F;
+  margin: 0 0 10px;
+}
+
+.wm-title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  color: #F4F1E8;
+  letter-spacing: -0.5px;
+  margin: 0 0 20px;
+}
+
+.wm-body p {
+  font-size: 14px;
+  color: #94a3b8;
+  line-height: 1.7;
+  margin: 0 0 14px;
+}
+.wm-body p:last-child { margin-bottom: 0; }
+.wm-body em { color: #D8E4F0; font-style: italic; }
+
+/* Step 1 stats */
+.wm-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #1E3048;
+}
+.wm-stat { display: flex; flex-direction: column; gap: 3px; }
+.wm-stat-num {
+  font-family: 'Manrope', sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  color: #F4F1E8;
+  letter-spacing: -0.5px;
+}
+.wm-stat-label { font-size: 10px; color: #4A6080; font-weight: 500; }
+
+/* Step 2 source note */
+.wm-source-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: #0D172A;
+  border: 1px solid #1E3048;
+  border-radius: 4px;
+  padding: 12px 14px;
+  margin-top: 16px;
+  font-size: 12px;
+  color: #4A6080;
+  line-height: 1.5;
+}
+.wm-source-icon { flex-shrink: 0; font-size: 14px; }
+
+/* Step 3 modes */
+.wm-modes {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+.wm-mode {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+.wm-mode-num {
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 800;
+  color: #D4A84F;
+  min-width: 24px;
+  padding-top: 1px;
+}
+.wm-mode-title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #D8E4F0;
+  margin: 0 0 3px;
+}
+.wm-mode-desc {
+  font-size: 13px;
+  color: #4A6080;
+  line-height: 1.5;
+  margin: 0;
+}
+.wm-tip {
+  font-size: 12px;
+  color: #4A6080;
+  font-style: italic;
+  border-left: 2px solid #D4A84F;
+  padding-left: 12px;
+  margin: 0;
+}
+
+/* Footer */
+.wm-footer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 24px 20px;
+  border-top: 1px solid #1E3048;
+}
+
+.wm-cta {
+  background: #D4A84F;
+  color: #0D172A;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 22px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+.wm-cta:hover { background: #C49A45; }
+
 /* ── Mobile ── */
 @media (max-width: 600px) {
   .study-view, .quiz-view { padding: 16px; }

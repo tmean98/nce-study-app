@@ -4,6 +4,7 @@ import QuizView from './components/QuizView'
 import ExamView from './components/ExamView'
 import Leaderboard from './components/Leaderboard'
 import LandingPage from './components/LandingPage'
+import WelcomeModal from './components/WelcomeModal'
 import { supabase } from './lib/supabase'
 import './App.css'
 
@@ -47,6 +48,7 @@ export default function App() {
   const [user, setUser] = useState(undefined) // undefined = still checking
   const [userStats, setUserStats] = useState(null)
   const [chapterScores, setChapterScores] = useState({})
+  const [showWelcome, setShowWelcome] = useState(false)
 
   useEffect(() => {
     if (!supabase) { setUser(null); return }
@@ -56,6 +58,12 @@ export default function App() {
     })
     return () => subscription.unsubscribe()
   }, [])
+
+  useEffect(() => {
+    if (user && !localStorage.getItem('nce_onboarded')) {
+      setShowWelcome(true)
+    }
+  }, [user])
 
   useEffect(() => {
     if (!supabase || !user) return
@@ -143,49 +151,6 @@ export default function App() {
     )
   }
 
-  // Logged in views
-  if (view === 'flashcards' && data) {
-    return (
-      <div className="app">
-        <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
-        <FlashcardView cards={data} chapterName={chapterLabel} onBack={goHome} />
-      </div>
-    )
-  }
-
-  if (view === 'quiz' && data) {
-    return (
-      <div className="app">
-        <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
-        <QuizView
-          questions={data}
-          chapterName={chapterLabel}
-          chapterId={activeChapter.id}
-          onBack={goHome}
-          user={user}
-        />
-      </div>
-    )
-  }
-
-  if (view === 'exam' && data) {
-    return (
-      <div className="app">
-        <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
-        <ExamView questions={data} onBack={goHome} user={user} />
-      </div>
-    )
-  }
-
-  if (view === 'leaderboard') {
-    return (
-      <div className="app">
-        <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
-        <Leaderboard onBack={goHome} />
-      </div>
-    )
-  }
-
   const displayName = user.user_metadata?.display_name || user.email.split('@')[0]
   const recentChapter = userStats
     ? CHAPTERS.find(c => c.id === userStats.recentChapterId)
@@ -196,7 +161,22 @@ export default function App() {
 
   return (
     <div className="app">
-      <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
+      {showWelcome && <WelcomeModal onClose={() => setShowWelcome(false)} />}
+      <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} />
+
+      {view === 'flashcards' && data && (
+        <FlashcardView cards={data} chapterName={chapterLabel} onBack={goHome} />
+      )}
+      {view === 'quiz' && data && (
+        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} />
+      )}
+      {view === 'exam' && data && (
+        <ExamView questions={data} onBack={goHome} user={user} />
+      )}
+      {view === 'leaderboard' && (
+        <Leaderboard onBack={goHome} />
+      )}
+      {view === 'home' && (
       <main className="home">
         <div className="home-layout">
 
@@ -330,11 +310,12 @@ export default function App() {
           </div>
         </div>
       </main>
+      )}
     </div>
   )
 }
 
-function Header({ user, onSignOut }) {
+function Header({ user, onSignOut, onHelp }) {
   return (
     <header className="header">
       <div className="header-brand">
@@ -346,6 +327,7 @@ function Header({ user, onSignOut }) {
       </div>
       <div className="header-right">
         <span className="header-user">{user.user_metadata?.display_name || user.email.split('@')[0]}</span>
+        <button className="btn-help" onClick={onHelp} title="Platform guide">?</button>
         <button className="btn btn-ghost btn-sm" onClick={onSignOut}>Sign Out</button>
       </div>
     </header>
