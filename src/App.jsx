@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react'
 import FlashcardView from './components/FlashcardView'
 import QuizView from './components/QuizView'
-import AuthModal from './components/AuthModal'
 import Leaderboard from './components/Leaderboard'
+import LandingPage from './components/LandingPage'
 import { supabase } from './lib/supabase'
 import './App.css'
 
@@ -24,11 +24,10 @@ export default function App() {
   const [activeChapter, setActiveChapter] = useState(null)
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
-  const [user, setUser] = useState(null)
-  const [showAuth, setShowAuth] = useState(false)
+  const [user, setUser] = useState(undefined) // undefined = still checking
 
   useEffect(() => {
-    if (!supabase) return
+    if (!supabase) { setUser(null); return }
     supabase.auth.getSession().then(({ data }) => setUser(data.session?.user ?? null))
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_e, session) => {
       setUser(session?.user ?? null)
@@ -50,12 +49,24 @@ export default function App() {
 
   const chapterLabel = activeChapter ? `${activeChapter.name}: ${activeChapter.title}` : ''
 
+  // Still checking auth — render nothing to avoid flash
+  if (user === undefined) return null
+
+  // Not logged in — show landing page
+  if (!user) {
+    return (
+      <div className="app">
+        <LandingPage />
+      </div>
+    )
+  }
+
+  // Logged in views
   if (view === 'flashcards' && data) {
     return (
       <div className="app">
-        <Header user={user} onAuth={() => setShowAuth(true)} onSignOut={() => supabase?.auth.signOut()} />
+        <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
         <FlashcardView cards={data} chapterName={chapterLabel} onBack={goHome} />
-        {showAuth && <AuthModal onClose={() => setShowAuth(false)} />}
       </div>
     )
   }
@@ -63,7 +74,7 @@ export default function App() {
   if (view === 'quiz' && data) {
     return (
       <div className="app">
-        <Header user={user} onAuth={() => setShowAuth(true)} onSignOut={() => supabase?.auth.signOut()} />
+        <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
         <QuizView
           questions={data}
           chapterName={chapterLabel}
@@ -71,7 +82,6 @@ export default function App() {
           onBack={goHome}
           user={user}
         />
-        {showAuth && <AuthModal onClose={() => setShowAuth(false)} />}
       </div>
     )
   }
@@ -79,20 +89,19 @@ export default function App() {
   if (view === 'leaderboard') {
     return (
       <div className="app">
-        <Header user={user} onAuth={() => setShowAuth(true)} onSignOut={() => supabase?.auth.signOut()} />
+        <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
         <Leaderboard onBack={goHome} />
-        {showAuth && <AuthModal onClose={() => setShowAuth(false)} />}
       </div>
     )
   }
 
   return (
     <div className="app">
-      <Header user={user} onAuth={() => setShowAuth(true)} onSignOut={() => supabase?.auth.signOut()} />
+      <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
       <main className="home">
         <div className="home-top">
           <div>
-            <h2>NCE / CPCE Study</h2>
+            <h2>Choose a Chapter</h2>
             <p className="home-subtitle">
               {loading ? 'Loading…' : '493 flashcards · 200 quiz questions across 10 chapters'}
             </p>
@@ -112,24 +121,17 @@ export default function App() {
           ))}
         </div>
       </main>
-      {showAuth && <AuthModal onClose={() => setShowAuth(false)} />}
     </div>
   )
 }
 
-function Header({ user, onAuth, onSignOut }) {
+function Header({ user, onSignOut }) {
   return (
     <header className="header">
       <h1>NCE Study</h1>
       <div className="header-right">
-        {user ? (
-          <>
-            <span className="header-user">{user.email.split('@')[0]}</span>
-            <button className="btn btn-ghost btn-sm" onClick={onSignOut}>Sign Out</button>
-          </>
-        ) : (
-          <button className="btn btn-secondary btn-sm" onClick={onAuth}>Sign In</button>
-        )}
+        <span className="header-user">{user.user_metadata?.display_name || user.email.split('@')[0]}</span>
+        <button className="btn btn-ghost btn-sm" onClick={onSignOut}>Sign Out</button>
       </div>
     </header>
   )
