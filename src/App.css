@@ -713,10 +713,15 @@
 .ch-btn-primary:hover { background: #2F6FED; color: #fff; }
 
 .chapter-card-icon {
-  font-size: 18px;
   display: block;
-  margin-bottom: 4px;
-  line-height: 1;
+  margin-bottom: 6px;
+  color: #2F6FED;
+  opacity: 0.7;
+}
+.chapter-card-icon svg {
+  width: 20px;
+  height: 20px;
+  display: block;
 }
 
 .chapter-card-pct {
