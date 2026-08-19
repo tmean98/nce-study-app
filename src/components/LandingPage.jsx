@@ -71,10 +71,6 @@ export default function LandingPage() {
           ))}
         </div>
 
-        <blockquote className="landing-quote">
-          <p>"Preparation is the key to success."</p>
-          <cite>— Alexander Graham Bell</cite>
-        </blockquote>
       </div>
 
       {/* ── Right auth panel ── */}
