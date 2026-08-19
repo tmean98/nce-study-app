@@ -62,10 +62,6 @@ export default function LandingPage() {
           </p>
         </div>
 
-        <div className="landing-mascot">
-          <img src="/eagle-mascot.png" alt="NCE Study mascot" className="landing-mascot-img" />
-        </div>
-
         <div className="landing-features">
           {FEATURES.map(f => (
             <div key={f.label} className="landing-feature">

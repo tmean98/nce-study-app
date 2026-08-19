@@ -211,11 +211,6 @@ export default function App() {
               <p className="greeting-name">{displayName}</p>
             </div>
 
-            {/* Mascot */}
-            <div className="sidebar-mascot">
-              <img src="/eagle-mascot.png" alt="NCE Study mascot" className="sidebar-mascot-img" />
-            </div>
-
             {/* Progress Stats */}
             <div className="sidebar-section">
               <p className="sidebar-label">YOUR PROGRESS</p>
