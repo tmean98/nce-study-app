@@ -19,16 +19,16 @@ const EXAM_DOMAINS = [
 ]
 
 const CHAPTERS = [
-  { id: 'ch03', name: 'Ch 3', title: 'Human Growth & Development' },
-  { id: 'ch04', name: 'Ch 4', title: 'Social & Cultural Diversity' },
-  { id: 'ch05', name: 'Ch 5', title: 'Helping Relationships' },
-  { id: 'ch06', name: 'Ch 6', title: 'Group Work' },
-  { id: 'ch07', name: 'Ch 7', title: 'Career Development' },
-  { id: 'ch08', name: 'Ch 8', title: 'Assessment & Testing' },
-  { id: 'ch09', name: 'Ch 9', title: 'Research & Program Evaluation' },
-  { id: 'ch10', name: 'Ch 10', title: 'Professional Orientation & Ethics' },
-  { id: 'ch11', name: 'Ch 11', title: 'Family Therapy, Career & Research' },
-  { id: 'ch12', name: 'Ch 12', title: 'Neuro, CBT Waves, DBT, MI & ACT' },
+  { id: 'ch03', name: 'Ch 3',  num: '03', title: 'Human Growth & Development',       questions: 100 },
+  { id: 'ch04', name: 'Ch 4',  num: '04', title: 'Social & Cultural Diversity',       questions: 100 },
+  { id: 'ch05', name: 'Ch 5',  num: '05', title: 'Helping Relationships',             questions: 199 },
+  { id: 'ch06', name: 'Ch 6',  num: '06', title: 'Group Work',                        questions: 100 },
+  { id: 'ch07', name: 'Ch 7',  num: '07', title: 'Career Development',               questions: 100 },
+  { id: 'ch08', name: 'Ch 8',  num: '08', title: 'Assessment & Testing',             questions: 100 },
+  { id: 'ch09', name: 'Ch 9',  num: '09', title: 'Research & Program Evaluation',    questions: 100 },
+  { id: 'ch10', name: 'Ch 10', num: '10', title: 'Professional Orientation & Ethics', questions: 100 },
+  { id: 'ch11', name: 'Ch 11', num: '11', title: 'Family Therapy, Career & Research', questions: 100 },
+  { id: 'ch12', name: 'Ch 12', num: '12', title: 'Neuro, CBT Waves, DBT, MI & ACT',  questions: 100 },
 ]
 
 export default function App() {
@@ -136,31 +136,70 @@ export default function App() {
     <div className="app">
       <Header user={user} onSignOut={() => supabase?.auth.signOut()} />
       <main className="home">
-        <div className="home-top">
-          <div>
-            <h2>Choose a Chapter</h2>
-            <p className="home-subtitle">
-              {loading ? 'Loading…' : '493 flashcards · 200 quiz questions across 10 chapters'}
-            </p>
+
+        {/* ── Exam Hero ── */}
+        <div className="exam-hero">
+          <div className="exam-hero-body">
+            <span className="exam-hero-eyebrow">Full-Length Practice Exam</span>
+            <h2 className="exam-hero-title">NCE Qualifying Exam</h2>
+            <div className="exam-hero-meta">
+              <span>200 Questions</span>
+              <span className="exam-hero-dot">·</span>
+              <span>4 Hours</span>
+              <span className="exam-hero-dot">·</span>
+              <span>8 CACREP Domains</span>
+            </div>
+            <p className="exam-hero-desc">Simulate the real thing. See where you stand.</p>
           </div>
-          <button className="btn btn-secondary" onClick={() => setView('leaderboard')}>🏆 Leaderboard</button>
+          <button className="exam-hero-btn" onClick={openExam} disabled={loading}>
+            {loading ? 'Loading…' : 'Begin Exam →'}
+          </button>
         </div>
 
-        <button className="btn btn-exam" onClick={openExam} disabled={loading}>
-          {loading ? 'Loading…' : '📋 NCE Practice Exam — 200 Questions · 4 Hours'}
-        </button>
-        <div className="chapter-grid">
+        {/* ── Stats strip ── */}
+        <div className="home-stats">
+          <div className="stat-item">
+            <span className="stat-num">1,099</span>
+            <span className="stat-label">Quiz Questions</span>
+          </div>
+          <div className="stat-divider" />
+          <div className="stat-item">
+            <span className="stat-num">493</span>
+            <span className="stat-label">Flashcards</span>
+          </div>
+          <div className="stat-divider" />
+          <div className="stat-item">
+            <span className="stat-num">10</span>
+            <span className="stat-label">Chapters</span>
+          </div>
+          <div className="stat-divider" />
+          <div className="stat-item">
+            <span className="stat-num">8</span>
+            <span className="stat-label">CACREP Domains</span>
+          </div>
+        </div>
+
+        {/* ── Chapter list ── */}
+        <div className="chapter-section-header">
+          <h3 className="chapter-section-title">Study by Chapter</h3>
+          <button className="btn btn-ghost btn-sm" onClick={() => setView('leaderboard')}>Leaderboard</button>
+        </div>
+        <div className="chapter-list">
           {CHAPTERS.map(ch => (
-            <div key={ch.id} className="chapter-card">
-              <h3>{ch.name}: {ch.title}</h3>
-              <p>50 flashcards · 20 quiz questions</p>
-              <div className="chapter-card-actions">
-                <button className="btn btn-primary" onClick={() => openView(ch, 'flashcards')}>Flashcards</button>
-                <button className="btn btn-secondary" onClick={() => openView(ch, 'quiz')}>Quiz</button>
+            <div key={ch.id} className="chapter-row">
+              <div className="chapter-row-num">{ch.num}</div>
+              <div className="chapter-row-info">
+                <h3 className="chapter-row-title">{ch.title}</h3>
+                <p className="chapter-row-meta">50 Flashcards · {ch.questions} Questions</p>
+              </div>
+              <div className="chapter-row-actions">
+                <button className="btn btn-ghost btn-sm" onClick={() => openView(ch, 'flashcards')}>Flashcards</button>
+                <button className="btn btn-primary btn-sm" onClick={() => openView(ch, 'quiz')}>Quiz</button>
               </div>
             </div>
           ))}
         </div>
+
       </main>
     </div>
   )
@@ -169,7 +208,10 @@ export default function App() {
 function Header({ user, onSignOut }) {
   return (
     <header className="header">
-      <h1>NCE Study</h1>
+      <div className="header-brand">
+        <span className="header-mark">NCE</span>
+        <span className="header-brand-text">Study Platform</span>
+      </div>
       <div className="header-right">
         <span className="header-user">{user.user_metadata?.display_name || user.email.split('@')[0]}</span>
         <button className="btn btn-ghost btn-sm" onClick={onSignOut}>Sign Out</button>

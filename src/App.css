@@ -94,9 +94,10 @@
 
 /* ── Header ── */
 .header {
-  background: #1e293b;
-  border-bottom: 1px solid #334155;
-  padding: 14px 20px;
+  background: #0D172A;
+  border-bottom: 1px solid #1E3048;
+  padding: 0 24px;
+  height: 56px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -106,67 +107,241 @@
   z-index: 10;
 }
 
-.header h1 { font-size: 18px; font-weight: 700; color: #f8fafc; }
+.header-brand { display: flex; align-items: baseline; gap: 8px; }
+
+.header-mark {
+  font-family: 'Manrope', sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+  color: #D4A84F;
+  letter-spacing: 2px;
+}
+
+.header-brand-text {
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  color: #4A6080;
+  letter-spacing: 0.3px;
+}
 
 .header-right { display: flex; align-items: center; gap: 10px; }
 
-.header-user { font-size: 13px; color: #94a3b8; }
+.header-user { font-size: 13px; color: #4A6080; }
 
 /* ── Buttons ── */
 .btn {
   padding: 8px 16px;
-  border-radius: 8px;
+  border-radius: 4px;
   font-size: 13px;
   font-weight: 600;
   transition: opacity 0.15s;
   border: none;
+  font-family: 'Inter', sans-serif;
+  letter-spacing: 0.2px;
 }
 .btn:hover { opacity: 0.85; }
 .btn-sm { padding: 6px 12px; font-size: 12px; }
-.btn-primary { background: #3b82f6; color: white; }
-.btn-secondary { background: #334155; color: #e2e8f0; }
-.btn-ghost { background: transparent; color: #94a3b8; border: 1px solid #334155; }
+.btn-primary { background: #2F6FED; color: white; }
+.btn-secondary { background: #1E3048; color: #cbd5e1; }
+.btn-ghost { background: transparent; color: #718096; border: 1px solid #1E3048; }
 .btn-success { background: #22c55e; color: white; }
 .btn-danger { background: #ef4444; color: white; }
 
 /* ── Home ── */
 .home {
-  max-width: 840px;
+  max-width: 860px;
   margin: 0 auto;
-  padding: 36px 20px;
+  padding: 40px 24px 80px;
   width: 100%;
 }
 
-.home-top {
+/* ── Exam Hero ── */
+.exam-hero {
+  background: #F4F1E8;
+  border-radius: 6px;
+  padding: 36px 40px;
   display: flex;
-  align-items: flex-start;
+  align-items: flex-end;
   justify-content: space-between;
-  gap: 16px;
-  margin-bottom: 32px;
+  gap: 24px;
+  margin-bottom: 28px;
   flex-wrap: wrap;
 }
 
-.home h2 { font-size: 26px; font-weight: 700; color: #f8fafc; margin-bottom: 4px; }
-.home-subtitle { color: #94a3b8; font-size: 14px; }
+.exam-hero-body { flex: 1; min-width: 200px; }
 
-.chapter-grid {
+.exam-hero-eyebrow {
+  display: block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #D4A84F;
+  margin-bottom: 10px;
+}
+
+.exam-hero-title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  color: #0D172A;
+  letter-spacing: -0.5px;
+  margin-bottom: 12px;
+  line-height: 1.1;
+}
+
+.exam-hero-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #4A6080;
+  margin-bottom: 12px;
+}
+
+.exam-hero-dot { color: #C4B89A; }
+
+.exam-hero-desc {
+  font-size: 14px;
+  color: #718096;
+  margin: 0;
+}
+
+.exam-hero-btn {
+  background: #0D172A;
+  color: #F4F1E8;
+  border: none;
+  border-radius: 4px;
+  padding: 14px 28px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s;
+  flex-shrink: 0;
+}
+.exam-hero-btn:hover { background: #162032; }
+.exam-hero-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* ── Stats Strip ── */
+.home-stats {
+  display: flex;
+  align-items: center;
+  border: 1px solid #1E3048;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+
+.stat-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18px 12px;
+  gap: 4px;
+}
+
+.stat-num {
+  font-family: 'Manrope', sans-serif;
+  font-size: 22px;
+  font-weight: 800;
+  color: #F4F1E8;
+  letter-spacing: -0.5px;
+}
+
+.stat-label {
+  font-size: 11px;
+  font-weight: 500;
+  color: #4A6080;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.stat-divider {
+  width: 1px;
+  height: 36px;
+  background: #1E3048;
+  flex-shrink: 0;
+}
+
+/* ── Chapter List ── */
+.chapter-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 4px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #1E3048;
+}
+
+.chapter-section-title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #4A6080;
+  margin: 0;
+}
+
+.chapter-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.chapter-row {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 14px;
+  grid-template-columns: 52px 1fr auto;
+  align-items: center;
+  gap: 20px;
+  padding: 22px 0;
+  border-bottom: 1px solid #1E3048;
+  transition: background 0.1s;
+}
+.chapter-row:last-child { border-bottom: none; }
+.chapter-row:hover { background: rgba(255,255,255,0.01); }
+
+.chapter-row-num {
+  font-family: 'Manrope', sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  color: #1E3048;
+  line-height: 1;
+  letter-spacing: -1px;
+  user-select: none;
 }
 
-.chapter-card {
-  background: #1e293b;
-  border: 1px solid #334155;
-  border-radius: 12px;
-  padding: 18px;
-  text-align: left;
-  transition: border-color 0.15s, transform 0.15s;
+.chapter-row-title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  color: #D8E4F0;
+  margin: 0 0 4px;
+  letter-spacing: -0.2px;
 }
-.chapter-card:hover { border-color: #3b82f6; transform: translateY(-2px); }
-.chapter-card h3 { font-size: 14px; font-weight: 600; color: #f1f5f9; margin-bottom: 3px; }
-.chapter-card p { font-size: 12px; color: #64748b; margin-bottom: 14px; }
-.chapter-card-actions { display: flex; gap: 8px; }
+
+.chapter-row-meta {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #4A6080;
+  margin: 0;
+}
+
+.chapter-row-actions {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+}
 
 /* ── Study / Quiz shared ── */
 .study-view, .quiz-view {
@@ -188,8 +363,9 @@
 }
 
 .study-title {
+  font-family: 'Manrope', sans-serif;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 700;
   color: #f1f5f9;
   flex: 1;
   min-width: 0;
@@ -205,16 +381,16 @@
 .progress-label { font-size: 13px; color: #64748b; }
 
 .progress-bar-wrap {
-  background: #1e293b;
-  border-radius: 99px;
-  height: 5px;
+  background: #1E3048;
+  border-radius: 2px;
+  height: 3px;
   margin-bottom: 20px;
   overflow: hidden;
 }
 .progress-bar-fill {
   height: 100%;
-  background: #3b82f6;
-  border-radius: 99px;
+  background: #2F6FED;
+  border-radius: 2px;
   transition: width 0.3s ease;
 }
 
@@ -581,23 +757,6 @@
   margin-top: 8px;
   font-size: 14px;
 }
-
-/* ── Exam Button (home screen) ── */
-.btn-exam {
-  width: 100%;
-  padding: 18px 24px;
-  font-size: 16px;
-  font-weight: 700;
-  background: linear-gradient(135deg, #1e3a5f, #2563eb);
-  color: #fff;
-  border: none;
-  border-radius: 14px;
-  cursor: pointer;
-  margin-bottom: 28px;
-  letter-spacing: 0.3px;
-}
-.btn-exam:hover { background: linear-gradient(135deg, #1e40af, #3b82f6); }
-.btn-exam:disabled { opacity: 0.5; cursor: not-allowed; }
 
 /* ── Exam Pre-start ── */
 .exam-prestart {
