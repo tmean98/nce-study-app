@@ -60,12 +60,15 @@ export default function App() {
   }, [])
 
   useEffect(() => {
-    if (user && !localStorage.getItem('nce_onboarded')) {
+    if (user && !localStorage.getItem(`nce_onboarded_${user.id}`)) {
       setShowWelcome(true)
     }
   }, [user])
 
   useEffect(() => {
+    // Always reset on user change so stale data from a previous session never bleeds through
+    setUserStats(null)
+    setChapterScores({})
     if (!supabase || !user) return
     async function fetchStats() {
       const { data: rows, error } = await supabase
@@ -161,7 +164,7 @@ export default function App() {
 
   return (
     <div className="app">
-      {showWelcome && <WelcomeModal onClose={() => setShowWelcome(false)} />}
+      {showWelcome && <WelcomeModal onClose={() => { localStorage.setItem(`nce_onboarded_${user.id}`, '1'); setShowWelcome(false) }} />}
       <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} />
 
       {view === 'flashcards' && data && (

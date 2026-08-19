@@ -70,7 +70,6 @@ export default function WelcomeModal({ onClose }) {
   const isLast = step === STEPS.length - 1
 
   function handleClose() {
-    localStorage.setItem('nce_onboarded', '1')
     onClose()
   }
 
