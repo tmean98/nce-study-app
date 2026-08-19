@@ -68,18 +68,18 @@
 
 .landing-mascot { display: flex; justify-content: center; }
 .landing-mascot-img {
-  width: 240px;
-  height: 240px;
-  object-fit: cover;
-  border-radius: 16px;
+  width: 220px;
+  height: auto;
+  border-radius: 12px;
+  display: block;
 }
 
 .sidebar-mascot { display: flex; justify-content: center; }
 .sidebar-mascot-img {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 12px;
+  width: 140px;
+  height: auto;
+  border-radius: 10px;
+  display: block;
 }
 
 .landing-features {
