@@ -375,6 +375,7 @@ function Header({ user, onSignOut, onHelp }) {
       <div className="header-right">
         <span className="header-user">{user.user_metadata?.display_name || user.email.split('@')[0]}</span>
         <button className="btn-help" onClick={onHelp} title="Platform guide">?</button>
+        <a className="btn btn-ghost btn-sm" href="mailto:thomas.meaney16@northwestu.edu" title="Contact Tommy">Contact</a>
         <button className="btn btn-ghost btn-sm" onClick={onSignOut}>Sign Out</button>
       </div>
     </header>
