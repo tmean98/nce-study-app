@@ -66,7 +66,7 @@
       "projective",
       "intelligence"
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "rationale": "“Forced choice” items are sometimes known as “recognition items.” This book is composed of forced choice/recognition items. On some tests this format is used to control for the “social desirability phenomenon” which asserts that the person puts the answer he or she feels is socially acceptable (i.e., the test provides alternatives that are all equal in terms of social desirability). The MMPI-2 (Minnesota Multiphasic Personality Inventory), for example, uses forced choices to create a “lie scale” composed of human frailties we all possess. This scale, therefore, ferrets out those individuals who tried to make themselves look good (i.e., the way they believe they “should” be)."
   },
   {
@@ -621,7 +621,7 @@
     "chapter": 8,
     "question": "The first intelligence test was created by",
     "options": [
-      "David Wechsler. 285",
+      "David Wechsler.",
       "J. P. Guilford.",
       "Francis Galton.",
       "Alfred Binet and Theodore Simon."
@@ -663,7 +663,7 @@
     "chapter": 8,
     "question": "The Binet stressed age-related tasks. Utilizing this method, a 9-year-old task would be one which",
     "options": [
-      "only a 10-year-old child could answer. (d)",
+      "only a 10-year-old child could answer.",
       "only an 8-year-old child could answer.",
       "50% of the 9-year-olds could answer correctly.",
       "75% of the 9-year-olds could answer correctly."
@@ -780,7 +780,7 @@
       "group tests always have a higher degree of reliability.",
       "individual IQ tests are not appropriate for school children."
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "rationale": "World War I provided the impetus for the group testing movement. Approximately two million men were tested using the Army Alpha for literates and the Army Beta for illiterates and those from other countries. School districts, government, and industry prefer tests which can be administered to many individuals simultaneously. The catch is that group tests are less accurate and have lower reliability."
   },
   {
@@ -845,7 +845,7 @@
     "chapter": 8,
     "question": "The word psychometric means",
     "options": [
-      "a form of measurement used by a neurologist. 291",
+      "a form of measurement used by a neurologist.",
       "any form of mental testing.",
       "a mental trait which cannot be measured.",
       "the test relies on a summated or linear rating scale."
@@ -929,7 +929,7 @@
     "chapter": 8,
     "question": "Both the Rorschach and the Thematic Apperception Test (TAT) are projective tests. The Rorschach uses 10 inkblot cards while the TAT uses",
     "options": [
-      "a dozen inkblot cards. 293",
+      "a dozen inkblot cards.",
       "verbal and performance IQ scales.",
       "pictures.",
       "incomplete sentences."
@@ -976,7 +976,7 @@
       "an eighth-grade male with an IQ of 136.",
       "a 46-year-old white male construction worker."
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "rationale": "Interest inventories work best with individuals who are of high school age or above inasmuch as interests are not extremely stable prior to that time. Interests become quite stable around age 25."
   },
   {
@@ -985,7 +985,7 @@
     "chapter": 8,
     "question": "One major criticism of interest inventories is that",
     "options": [
-      "they have far too many questions. (c)",
+      "they have far too many questions.",
       "they are most appropriate for very young children.",
       "they emphasize professional positions and minimize blue-collar jobs.",
       "they favor jobs that will require a bachelor’s degree or higher."
@@ -1242,7 +1242,7 @@
       "to give school children more standardized tests.",
       "to train pastoral counselors to do projective testing."
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "rationale": "But don’t take my word for it. Pick up any modern testing catalog and you might erroneously think you’ve picked up a computer software directory! And speaking of choice “c,” as a write this there seems to be a nationwide push to eliminate the number of standardized tests given."
   },
   {
@@ -1251,7 +1251,7 @@
     "chapter": 8,
     "question": "One future trend which seems contradictory is that some experts are pushing for",
     "options": [
-      "a greater reliance on tests while others want to rely on them less. (a)",
+      "a greater reliance on tests while others want to rely on them less.",
       "social workers to do most of the testing.",
       "psychiatrists to do most of the testing.",
       "counselors to ban all computer-assisted tests."

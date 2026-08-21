@@ -123,7 +123,7 @@ export default function App() {
 
   async function openView(ch, mode) {
     setLoading(true)
-    const res = await fetch(`/${ch.id}_${mode}.json`)
+    const res = await fetch(`/${ch.id}_${mode}.json?v=2`, { cache: 'no-store' })
     const json = await res.json()
     setData(json)
     setActiveChapter(ch)
@@ -134,7 +134,7 @@ export default function App() {
   async function openExam() {
     setLoading(true)
     const allData = await Promise.all(
-      EXAM_DOMAINS.map(({ chId }) => fetch(`/${chId}_quiz.json`).then(r => r.json()))
+      EXAM_DOMAINS.map(({ chId }) => fetch(`/${chId}_quiz.json?v=2`, { cache: 'no-store' }).then(r => r.json()))
     )
     const pool = []
     allData.forEach((questions, i) => {

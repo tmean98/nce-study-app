@@ -7,7 +7,7 @@
     "options": [
       "always conducted using a factor analysis.",
       "conducted using the chi-square.",
-      "the experiment, used to discover cause-and-effect relationships. 304",
+      "the experiment, used to discover cause-and-effect relationships.",
       "the quasi-experiment."
     ],
     "correct_index": 2,
@@ -19,7 +19,7 @@
     "chapter": 9,
     "question": "Experiments emphasize parsimony, which means",
     "options": [
-      "interpreting the results in the simplest way. 305",
+      "interpreting the results in the simplest way.",
       "interpreting the results in the most complex manner.",
       "interpreting the results using a correlation coefficient.",
       "interpreting the results using a clinical interview."
@@ -150,7 +150,7 @@
       "a and b.",
       "the organismic IV."
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "rationale": "The experimental group receives the IV, which in this case is the biofeedback training. An organismic variable is one the researcher cannot control yet exists, such as height, weight, or gender. To determine whether an organismic IV exists you simply ask yourself if there is an experimental variable being examined which you cannot manipulate. In most cases, when you are confronted with IV/DV identification questions, the IV will be of the “manipulated variety.”"
   },
   {
@@ -332,7 +332,7 @@
       "beta error.",
       "b and c."
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "rationale": "Questions like this can be very difficult. Be sure to utilize scratch paper to write down your thoughts if your exam allows you to do so! First, write down (or mentally picture) the null hypothesis regarding the experiment in question. In this case null would indicate that biofeedback did not raise board exam scores. This question tells you that the experimental results revealed that biofeedback did raise board scores, so you will reject the null hypothesis. The question then goes on to say that in reality the biofeedback did not really cause the results. Therefore, you have rejected null when it is true/applicable. This is the definition of a Type I or alpha error. Since the experimenter sets the alpha level, he or she is always cognizant of the probability of making a Type I error."
   },
   {
@@ -1041,7 +1041,7 @@
     "chapter": 9,
     "question": "The interval scale has numbers scaled at equal distances but has no absolute zero point. Most tests used in school fall into this category. You can add and subtract using interval scales but cannot multiply or divide. An example of this would be that",
     "options": [
-      "an IQ of 70 is 70 points below an IQ of 140, yet a counselor could not assert that a client with an IQ of 140 is twice as intelligent as a client with an IQ of 70. 333",
+      "an IQ of 70 is 70 points below an IQ of 140, yet a counselor could not assert that a client with an IQ of 140 is twice as intelligent as a client with an IQ of 70.",
       "a 20 lb weight is half as heavy as a 40 lb weight.",
       "a first-place runner is three times as fast as the third-place finisher.",
       "a baseball player with number 9 on his uniform can get 9 times more hits than player number 1."
@@ -1111,7 +1111,7 @@
     "chapter": 9,
     "question": "A researcher notes that a group of clients who are not receiving counseling, but are observed in a research study, are improving. Her hypothesis is that the attention she has given them has been curative. The best explanation of their improvement would be",
     "options": [
-      "the Hawthorne effect. 335",
+      "the Hawthorne effect.",
       "the Halo effect.",
       "the Rosenthal effect.",
       "a Type II error in the research."
@@ -1196,7 +1196,7 @@
     "question": "A researcher creates a new motoric test in which clients throw a baseball at a target 40 feet away. Each client is given 100 throws, and the mean on the test is 50. (In other words, out of 100 throws the mean number of times the client will hit the target is 50 times.) Sam took the test and hit the target just two times out of the 100 throws allowed. Jeff, on the other hand, hit the target an amazing 92 times out of 100 trials. Using the concept of statistical regression toward the mean the research would predict that",
     "options": [
       "Sam’s and Jeff’s scores will stay about the same if they take the test again.",
-      "Sam and Jeff will both score over 95 next time. 338",
+      "Sam and Jeff will both score over 95 next time.",
       "Sam’s score will increase while Jeff’s will go down.",
       "Sam will beat Jeff if they both are tested again."
     ],
@@ -1270,7 +1270,7 @@
       "ahistoric therapy.",
       "multiple treatment interference."
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "rationale": "Let choice “a” come as no surprise if it shows up on your exam. The Rosenthal/Experimenter effect often shows up wearing this name tag. The experimenter falls in love with his or her own hypothesis and the experiment becomes a self-fulfilling prophecy. Choice “b,” the correct answer, is used to control for the fact that the order of an experiment could impact upon its outcome. The solution is merely to change the order of the experimental factors. Choice “c,” “ahistoric therapy,” connotes any psychotherapeutic model that focuses on the here and now rather than the past. This of course has nothing to do with answering the question. Choice “d” warns us that if a subject receives more than one treatment, then it is often tough to discern which modality truly caused the improvements."
   },
   {

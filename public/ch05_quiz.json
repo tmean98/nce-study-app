@@ -136,7 +136,7 @@
       "morals; ethics",
       "logic; reality"
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "rationale": "The superego is more concerned with the ideal and personal aspirations than what is real. The superego is composed of values, morals, and ideals of parents, caretakers, and society. And oh yes, as for choice “c,” the id, ethical—with the possible exception of handling biological needs like hunger and thirst— never! The id is chaotic and has no sense of time."
   },
   {
@@ -192,7 +192,7 @@
       "Anna O.",
       "Daniel Paul Schreber."
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "rationale": "Little Albert was a famous case associated with the work of John Broadus Watson, who pioneered American behaviorism. In 1920, John Watson and his graduate student, who later became his wife, Rosalie Rayner conditioned a 9-month-old boy named Albert to be afraid of furry objects. First Albert was exposed to a white rat. Initially the child was not afraid of the rat: however, Watson and Rayner would strike a steel bar, which created a loud noise whenever the child would get near the animal. This created a conditioned (i.e., learned) fear in the child. This experiment has been used to demonstrate the behavioristic concept that fears are learned rather than the analytic concept that they are somehow the result of an unconscious process. Incidentally, rumor has it that Albert (who was used to prove that Pavlovian conditioning could instill a fear in humans) was never cured of his experimentally induced affliction. Horrors! Choices “a,” “c,” and “d” refer to landmark psychoanalytic cases, which are often cited in the literature. The 1880s case of Anna O. (actually a client named Berta Pappenheim) was considered the first psychoanalytic patient. Anna O. was a patient of Freud’s colleague Josef Breuer. She suffered from symptoms without an organic basis, which was termed hysteria. In hypnosis she would remember painful events, which she was unable to recall while awake. Talking about these traumatic events brought about relief and this became the talking cure or catharsis. Although Freud became disenchanted with hypnosis, his association with Breuer led him to his basic premise of psychoanalysis; namely, that techniques which could produce cathartic material were highly therapeutic. The case of Little Hans is often used to contrast behavior therapy (Little Albert) with psychoanalysis. It reflects the data in Freud’s 1909 paper, “An Analysis of a Phobia in a Five-Year-Old Boy,” in which this child’s fear of going into the streets and perhaps even having a horse bite him were explained using psychoanalytic constructs such as the Oedipus complex and castration anxiety. Thus, Little Hans reflects psychoanalytic explanations of behavior, while Little Albert is indicative of the behaviorist paradigm. Daniel Paul Schreber has been called the “most frequently quoted case in modern psychiatry.” In 1903, Schreber—after spending nine years in a mental hospital—wrote Memoirs of a Nervous Patient also titled Memoirs of My Nervous Illness. His family was rather wealthy and bought almost every copy in circulation. Nevertheless, Freud got his hands on one and in 1911 published Psychoanalytical Notes upon an Autobiographical Account of a Case of Paranoia. Schreber’s major delusion was that he would be transformed into a woman, become God’s mate, and produce a healthier race. Freud felt that Schreber might have been struggling with unconscious issues of homosexuality."
   },
   {
@@ -472,7 +472,7 @@
       "rationalization.",
       "displacement."
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "rationale": "Yes, by the time you’re finished wrestling with this set of questions you will definitely know your defense mechanisms! Sometimes introjection causes the person to accept an aggressor’s values. A prisoner of war might incorporate the value system of the enemy after a period of time."
   },
   {
@@ -482,7 +482,7 @@
     "question": "The client’s tendency to inhibit or fight against the therapeutic process is known as",
     "options": [
       "resistance.",
-      "sublimation. (a)",
+      "sublimation.",
       "projection.",
       "individuation."
     ],
@@ -906,7 +906,7 @@
       "a type of phobia.",
       "punishment."
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "rationale": "Okay, so you didn’t fall in love with my memory device for the last question. Never fear; here’s another way to go about it. Pavlov’s theory involves mainly “reflexes,” such as in the experiment where the dog salivates. The word reflex begins with an “r” and so does the word respondent. The bottom line: Pavlovian conditioning is respondent while Skinner’s is instrumental/operant. P.S. Please don’t read this if you get confused easily, but the term respondent is generally accredited to Skinner, although it applies to the theoretical notions of Pavlovian conditioning. 184. All reinforcers (a) a. are plastic tokens. b. tend to increase the probability that a behavior will occur. c. are secondary. d. do not raise behavior since negative reinforcement lowers behavior. I can’t say this too strongly: All reinforcers—yep, both positive and negative—raise the probability that an antecedent (prior) behavior will occur. In a situation where we have positive reinforcement, something is added following an operant (behavior). Now this is going to sound a little complicated, but here goes. It is possible to use positive reinforcers to reduce or eliminate an undesirable target behavior. Here’s how. Using a procedure known as “differential reinforcement of other behavior” (DRO), the counselor positively reinforces an individual for engaging in a healthy alternative behavior. The assumption is that as the alternative desirable behavior increases via reinforcement, the client will not display the inappropriate target behavior as frequently. In the case of negative reinforcement, something is taken away after the behavior occurs. As for the incorrect choices, a secondary reinforcer is a neutral stimulus, such as a plastic token, which becomes reinforcing by association. Thus, a plastic token could be exchanged for known reinforcers (like a trip to a major league baseball game for adolescent clients in a treatment center)."
   },
   {
@@ -1071,7 +1071,7 @@
     "options": [
       "instrumental conditioning; classical conditioning",
       "Pavlovian principles; Skinnerian principles",
-      "Skinnerian principles; Pavlovian principles (d)",
+      "Skinnerian principles; Pavlovian principles",
       "a and c"
     ],
     "correct_index": 3,
@@ -1308,7 +1308,7 @@
     "question": "A counselor discovered that a client became nervous and often experienced panic attacks when she would tense her frontalis muscle over her eyes. The counselor wanted direct muscle feedback and thus would rely on",
     "options": [
       "the Jacobson relaxation method.",
-      "GSR feedback. 157",
+      "GSR feedback.",
       "EMG feedback.",
       "a simple yet effective mood ring."
     ],
@@ -1659,7 +1659,7 @@
     "options": [
       "Ellis and Perls.",
       "Perls and Stampfl.",
-      "Yalom and May. 167",
+      "Yalom and May.",
       "Janov and Beck."
     ],
     "correct_index": 2,
@@ -1798,7 +1798,7 @@
     "question": "When the past is discussed in reality therapy, the focus is on",
     "options": [
       "failures.",
-      "irrational internal verbalizations. (d)",
+      "irrational internal verbalizations.",
       "transference issues.",
       "successful behaviors."
     ],
@@ -1854,7 +1854,7 @@
     "question": "Glasser suggested eight steps in the reality therapy process. The final step asserts",
     "options": [
       "that the client and counselor be persistent and never give up.",
-      "that some problems will not respond to any known plan of action. 171",
+      "that some problems will not respond to any known plan of action.",
       "that counselors should contract with the client for no more than five counseling sessions.",
       "that a client who does not respond to the first seven steps is most likely a borderline personality."
     ],
@@ -1984,7 +1984,7 @@
       "musturbation.",
       "concreteness."
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "rationale": "Bibliotherapy is the use of books or writings pertaining to self-improvement. A Guide to Rational Living, affectionately known as “the Guide,” is Ellis’s best-known work. The title of his 1988 work How to Stubbornly Refuse to Make Yourself Miserable about Anything—Yes, Anything! captures the essence of his theory. To state that Ellis is a prolific writer would be to put it mildly. He has authored or served as a co-author for 80 books and approximately 1,200 articles! Choice “c” uses the term musturbation, coined by Ellis. Musturbation occurs when a client uses too many shoulds, oughts, and musts in his or her thinking. Some exams may refer to this as “absolutist thinking.”"
   },
   {
@@ -2148,7 +2148,7 @@
     "question": "Berne suggested three ego states: the Parent, the Adult, and the Child (P-A-C). The Parent ego state is composed of values internalized from significant others in childhood. TA therapists speak of two functions in the Parent ego state, the",
     "options": [
       "Nurturing Parent and the Critical Parent.",
-      "Critical Parent and the Repressed Parent. 178",
+      "Critical Parent and the Repressed Parent.",
       "Reactive Parent and the Active Parent.",
       "Passive Parent and the Active Parent."
     ],
@@ -2219,7 +2219,7 @@
     "options": [
       "the man is stuck in the “I’m Not OK—You’re Not OK” life position.",
       "the Critical Parent is dominating.",
-      "the man is obviously an adult child of an alcoholic. 180",
+      "the man is obviously an adult child of an alcoholic.",
       "the man has moved from the persecutor, to the rescuer, to the victim role."
     ],
     "correct_index": 3,
@@ -2250,7 +2250,7 @@
       "For a game to occur, three people must be involved.",
       "Games always involve parallel vectors of communication."
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "rationale": "It is easy to remember that the higher the number the greater the hurt. For example, a second-degree game is more hurtful than a first-degree. In the first-degree game the hurt is innocuous; in the seconddegree game the hurt is more serious; while in third-degree games the hurt can be permanent or on occasion deadly. And, oh yes, as far as choice “d” is concerned: Some exams will refer to parallel vectors of communication as “complementary transactions.”"
   },
   {
@@ -2261,7 +2261,7 @@
     "options": [
       "rackets.",
       "life scripts.",
-      "the Little Professor. (b)",
+      "the Little Professor.",
       "an analysis of variance."
     ],
     "correct_index": 0,
@@ -2315,7 +2315,7 @@
     "chapter": 5,
     "question": "The acronym NLP is an abbreviation of",
     "options": [
-      "Bandler and Grinder’s neurolinguistic programming. 183",
+      "Bandler and Grinder’s neurolinguistic programming.",
       "new language programs for computer therapy.",
       "new language psychotherapy software.",
       "neurological psychotherapy."
@@ -2497,7 +2497,7 @@
     "chapter": 5,
     "question": "Most experts would agree that the peak period of competition between the various schools of counseling and therapy (e.g., gestalt, behavioristic, reality therapy, etc.) was during",
     "options": [
-      "the late 1970s. 188",
+      "the late 1970s.",
       "the late 1960s.",
       "the 1980s.",
       "the mid-1950s."
@@ -2637,7 +2637,7 @@
     "chapter": 5,
     "question": "Person-centered counseling would prove least effective with",
     "options": [
-      "a bright verbal male. 192",
+      "a bright verbal male.",
       "a bright verbal female.",
       "a graduate student who had a knowledge of phrenology.",
       "a client who is not very verbal."

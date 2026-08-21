@@ -24,7 +24,7 @@
       "CACREP, formed in 1981.",
       "APGA, formed in 1952."
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "rationale": "In 1982, the American Association for Counseling and Development (AACD), now the American Counseling Association (ACA), formed the National Board for Certified Counselors (NBCC). If you meet the educational/skill requirements and pass an exam (come on now you remember, probably the exam you are studying for this very minute!) you can use the title NCC—National Certified Counselor. This is a generic certification. The designation lasts for five years at which time the counselor must have 100 approved hours of continued professional development (e.g., workshops) or sit for the test again. (For some strange reason, I’m guessing you’ll choose the first option.) Other alphabet soup acronyms include choice “a,” Certified Clinical Mental Health Counselor; a specialty certification you might wish to snare by taking another exam(!). Choice “c,” the Council for the Accreditation of Counseling and Related Educational Programs, which is an ACA affiliate formed in 1981 that certifies counselor programs rather than individual counselors; and choice “d,” the major counseling organization, the American Personnel and Guidance Association, which later became the AACD and is now the ACA."
   },
   {
@@ -63,7 +63,7 @@
     "options": [
       "laws.",
       "universal principles which apply to all helpers.",
-      "standards of conduct imposed by the ACA and NBCC. 352",
+      "standards of conduct imposed by the ACA and NBCC.",
       "all of the above."
     ],
     "correct_index": 2,
@@ -80,7 +80,7 @@
       "diagnosis.",
       "research."
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "rationale": "Confidentiality implies that the counselor will not reveal anything about a client unless he or she is given specific authorization to do so. Some of the literature in the field refers to confidential material as “entrusted secrets.” What goes on in the counseling relationship remains private and not shared rather than being public. Helpers must, nevertheless, be aware that there are exceptions to this principle. The exceptions illuminate the fact that confidentiality is relative to the situation. When does confidentiality end? According to ACA ethical guidelines, counselors have an obligation to protect the confidentiality of the deceased and this should be stated clearly in your informed consent document given to the client at the beginning of treatment. Counseling Today Online once asked several ACA ethics task-force members about some issues related to this topic. Say an elderly person dies and said some nice things about surviving family members. Could you break confidentiality and tell them generally what the elderly person said? Yes! However, assume that a young man commits suicide and after his death his mother wanted to know if he hated her. The answer the experts give is that you would attempt to uphold what the son would have wanted based on documentation. If this is not clear (and very often it is not!) then it should be kept private. Can a counselor attend a funeral? You ask yourself whether it might be beneficial just as you would if you decided to attend a client’s wedding. If somebody approaches you at the funeral you can say that you knew the deceased professionally."
   },
   {
@@ -132,7 +132,7 @@
     "question": "An exception to confidentiality, or what is termed as relative confidentiality, could occur when a client is suicidal. Suicidal warning signs include",
     "options": [
       "repeatedly joking about killing one’s self.",
-      "giving away prized possessions after one has been depressed for an extended period of time. 355",
+      "giving away prized possessions after one has been depressed for an extended period of time.",
       "a previous suicide attempt and a very detailed suicide plan for the future.",
       "all of the above."
     ],
@@ -174,7 +174,7 @@
     "question": "In regard to state law and privileged communication, counselors must be aware that",
     "options": [
       "privileged communication exists in every state in the union for LPCs.",
-      "laws are unclear and may vary from state to state. 356",
+      "laws are unclear and may vary from state to state.",
       "there are no laws which govern this issue.",
       "state psychology laws are applicable in this respect."
     ],
@@ -439,7 +439,7 @@
     "chapter": 10,
     "question": "A client wants his records sent to a psychiatrist he is seeing. You should",
     "options": [
-      "advise against it based on current research. 363",
+      "advise against it based on current research.",
       "refuse to do so based on ethical guidelines.",
       "first have the client sign a dated release of information form that stipulates whether the information can be released once (or for what period of time it can be released) and then you can send the information.",
       "call the psychiatrist to discuss the case but explain that state law prohibits a counselor from sending anything in writing about the client."
@@ -469,7 +469,7 @@
     "options": [
       "a parent can see his or her daughter’s middle school record.",
       "an 18-year-old college student can view his or her own educational record.",
-      "a and b. 364",
+      "a and b.",
       "a and b are both illegal."
     ],
     "correct_index": 2,
@@ -747,7 +747,7 @@
     "chapter": 10,
     "question": "A colleague of yours who is not a certified counselor behaves in an unethical manner. The ethical thing for you to do is",
     "options": [
-      "ignore it; unfortunately you have no rights in this situation. 371",
+      "ignore it; unfortunately you have no rights in this situation.",
       "consult the school the person graduated from.",
       "attempt to rectify the condition via institutional channels, and if this fails report it to regulatory organizations.",
       "all of the above are considered ethical."
@@ -794,7 +794,7 @@
       "guidelines do not address this practice.",
       "NBCC and ACA actually encourage this method for private practitioners who wish to increase the number of clients they can assist."
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "rationale": "This is also a great way to get yourself fired from the agency!"
   },
   {
@@ -1084,7 +1084,7 @@
     "question": "You refer a client to Dr. Smith. Ethically, Dr. Smith",
     "options": [
       "may not pay you a referral fee for sending her the client.",
-      "may pay you a referral fee if you have a written contract with her. 379",
+      "may pay you a referral fee if you have a written contract with her.",
       "may pay you a referral fee if she has expertise in the client’s area of concern and you don’t and the client gives you written permission.",
       "can pay you a referral fee if, and only if, she is a psychiatrist."
     ],
@@ -1256,7 +1256,7 @@
       "Wilhelm Wundt, in 1879 in Leipzig, Germany.",
       "E. G. Williamson."
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "rationale": "Wundt was convinced that psychology could be accepted as a science if consciousness could be measured. Wundt’s school of thought is termed structuralism because his interest was in the “structure” of consciousness. German psychologists—and I’m certain you’ll find this humorous in terms of our emphasis today on pragmatic strategies—were convinced that Wundt’s theory was indeed pure science because it had no practical applications! Parsons, choice “a,” has been called the father of guidance. Some historians insist that the profession of counseling officially began when Parsons founded the Vocational Guidance Bureau of Boston and published the book Choosing a Vocation in 1909."
   },
   {
@@ -1267,7 +1267,7 @@
     "options": [
       "Workbook in Vocations by William Proctor, Glidden Ross Benefield, and Gilbert Wrenn.",
       "The Interpretation of Dreams by Sigmund Freud.",
-      "Behaviorism by John B.Watson. (c)",
+      "Behaviorism by John B.Watson.",
       "Counseling and Psychotherapy by Carl Ransom Rogers."
     ],
     "correct_index": 0,
