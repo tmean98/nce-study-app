@@ -320,6 +320,7 @@
 .btn-ghost { background: transparent; color: #718096; border: 1px solid #1E3048; }
 .btn-success { background: #22c55e; color: white; }
 .btn-danger { background: #ef4444; color: white; }
+.btn-missed { background: #7c3aed; color: white; }
 
 /* ── Home ── */
 .home {
@@ -1225,6 +1226,8 @@
   max-width: 400px;
 }
 .quiz-section-label-dim { color: #4A6080; }
+.quiz-section-label-missed { color: #a78bfa; }
+.quiz-missed-btn { width: 100%; max-width: 400px; }
 .quiz-section-divider {
   width: 100%;
   max-width: 400px;

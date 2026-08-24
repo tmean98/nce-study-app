@@ -7,15 +7,16 @@ import { useStarred } from '../lib/useStarred'
 const LETTERS = ['A', 'B', 'C', 'D', 'E']
 const SESSION_SIZES = [10, 20, 40]
 
-function buildPool(questions, size, masteredSet, mode, starredSet, starredOnly) {
+function buildPool(questions, size, masteredSet, mode, starredSet, starredOnly, missedIds) {
   let source = questions
   if (starredOnly) source = questions.filter(q => starredSet.has(q.id))
+  else if (mode === 'missed') source = questions.filter(q => missedIds?.has(q.id))
   else if (mode === 'unmastered') source = questions.filter(q => !masteredSet.has(q.id))
   const shuffled = [...source].sort(() => Math.random() - 0.5)
   return size === 'All' ? shuffled : shuffled.slice(0, Math.min(size, shuffled.length))
 }
 
-export default function QuizView({ questions, chapterName, chapterId, onBack, user, mastery, markMastered, addMissed, missedIds, masteredByChapter, checkAchievements, recordActivity }) {
+export default function QuizView({ questions, chapterName, chapterId, onBack, user, mastery, markMastered, addMissed, removeMissed, missedIds, masteredByChapter, checkAchievements, recordActivity }) {
   const [sessionSize, setSessionSize] = useState(null)
   const [sessionMode, setSessionMode] = useState('unmastered')
   const [pool, setPool] = useState([])
@@ -28,6 +29,7 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
   const [saved, setSaved] = useState(false)
   const [saving, setSaving] = useState(false)
   const [starredOnly, setStarredOnly] = useState(false)
+  const [missedOnly, setMissedOnly] = useState(false)
   const { starred, toggle } = useStarred()
 
   const masteredSet = mastery || new Set()
@@ -43,7 +45,7 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
   function startSession(size, mode) {
     setSessionSize(size)
     setSessionMode(mode)
-    setPool(buildPool(questions, size, masteredSet, mode, starred, starredOnly))
+    setPool(buildPool(questions, size, masteredSet, mode, starred, starredOnly, missedIds))
     setIndex(0); setSelected(null); setScore(0); setConsecutive(0); setDone(false); setSaved(false)
   }
 
@@ -55,6 +57,7 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
       const newConsecutive = consecutive + 1
       setConsecutive(newConsecutive)
       markMastered?.(q.id, chapterId)
+      if (missedIds?.has(q.id)) removeMissed?.(q.id, chapterId)
       // Compute post-answer mastery counts optimistically
       const wasAlreadyMastered = masteredSet.has(q.id)
       const totalMastered = Object.values(masteredByChapter || {}).reduce((s, n) => s + n, 0) + (wasAlreadyMastered ? 0 : 1)
@@ -104,12 +107,15 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
   function restart() {
     setSessionSize(null)
     setPool([])
+    setStarredOnly(false)
+    setMissedOnly(false)
     setIndex(0); setSelected(null); setScore(0); setDone(false); setSaved(false)
   }
 
   // ── Start screen ──────────────────────────────────────────────────────────
   if (!sessionSize) {
     const starredCount = questions.filter(q => starred.has(q.id)).length
+    const missedCount = questions.filter(q => missedIds?.has(q.id)).length
     const unmasteredSizes = SESSION_SIZES.filter(s => s < unmasteredCount)
 
     return (
@@ -134,6 +140,23 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
             </div>
           </div>
 
+          {/* Review missed */}
+          {missedCount > 0 && (
+            <>
+              <div className="quiz-section-divider" />
+              <p className="quiz-section-label quiz-section-label-missed">Review missed — {missedCount} question{missedCount !== 1 ? 's' : ''}</p>
+              <p className="quiz-session-note">
+                Questions you've answered incorrectly. Getting one right removes it from this list.
+              </p>
+              <button className="btn btn-missed quiz-size-btn quiz-missed-btn"
+                onClick={() => { setMissedOnly(true); setStarredOnly(false); startSession('All', 'missed') }}>
+                Review All {missedCount} Missed
+              </button>
+            </>
+          )}
+
+          <div className="quiz-section-divider" />
+
           {!allMastered ? (
             <>
               {/* Primary: unmastered */}
@@ -144,12 +167,12 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
               <div className="quiz-size-grid">
                 {unmasteredSizes.map(s => (
                   <button key={s} className="btn btn-secondary quiz-size-btn"
-                    onClick={() => { setStarredOnly(false); startSession(s, 'unmastered') }}>
+                    onClick={() => { setStarredOnly(false); setMissedOnly(false); startSession(s, 'unmastered') }}>
                     {s}
                   </button>
                 ))}
                 <button className="btn btn-secondary quiz-size-btn"
-                  onClick={() => { setStarredOnly(false); startSession('All', 'unmastered') }}>
+                  onClick={() => { setStarredOnly(false); setMissedOnly(false); startSession('All', 'unmastered') }}>
                   All {unmasteredCount}
                 </button>
               </div>
@@ -160,12 +183,12 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
               <div className="quiz-size-grid">
                 {SESSION_SIZES.map(s => (
                   <button key={s} className="btn btn-ghost quiz-size-btn"
-                    onClick={() => { setStarredOnly(false); startSession(s, 'all') }}>
+                    onClick={() => { setStarredOnly(false); setMissedOnly(false); startSession(s, 'all') }}>
                     {s}
                   </button>
                 ))}
                 <button className="btn btn-ghost quiz-size-btn"
-                  onClick={() => { setStarredOnly(false); startSession('All', 'all') }}>
+                  onClick={() => { setStarredOnly(false); setMissedOnly(false); startSession('All', 'all') }}>
                   All {questions.length}
                 </button>
               </div>
@@ -178,12 +201,12 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
               <div className="quiz-size-grid">
                 {SESSION_SIZES.map(s => (
                   <button key={s} className="btn btn-secondary quiz-size-btn"
-                    onClick={() => { setStarredOnly(false); startSession(s, 'all') }}>
+                    onClick={() => { setStarredOnly(false); setMissedOnly(false); startSession(s, 'all') }}>
                     {s}
                   </button>
                 ))}
                 <button className="btn btn-secondary quiz-size-btn"
-                  onClick={() => { setStarredOnly(false); startSession('All', 'all') }}>
+                  onClick={() => { setStarredOnly(false); setMissedOnly(false); startSession('All', 'all') }}>
                   All {questions.length}
                 </button>
               </div>
@@ -192,7 +215,7 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
 
           {starredCount > 0 && (
             <button className="btn btn-ghost quiz-starred-btn"
-              onClick={() => { setStarredOnly(true); startSession('All', 'all') }}>
+              onClick={() => { setStarredOnly(true); setMissedOnly(false); startSession('All', 'all') }}>
               ★ Starred only ({starredCount})
             </button>
           )}
@@ -233,7 +256,7 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
           {updatedMastered} / {questions.length} questions mastered in this chapter
         </p>
 
-        {supabase && user && !saved && !starredOnly && (
+        {supabase && user && !saved && !starredOnly && !missedOnly && (
           <div className="save-score-box">
             <p>Save to leaderboard as <strong>{user.user_metadata?.display_name || user.email.split('@')[0]}</strong>?</p>
             <button className="btn btn-success" onClick={saveScore} disabled={saving}>

@@ -55,5 +55,19 @@ export function useMissedFlashcards(userId) {
     }, { onConflict: 'user_id,question_id' })
   }, [userId])
 
-  return { missedByChapter, addMissed }
+  const removeMissed = useCallback(async (questionId, chapterId) => {
+    if (!supabase || !missedIdsRef.current.has(questionId)) return
+    missedIdsRef.current = new Set([...missedIdsRef.current].filter(id => id !== questionId))
+    setMissedByChapter(prev => ({
+      ...prev,
+      [chapterId]: (prev[chapterId] || []).filter(c => c.id !== questionId),
+    }))
+    await supabase
+      .from('missed_flashcards')
+      .delete()
+      .eq('user_id', userId)
+      .eq('question_id', questionId)
+  }, [userId])
+
+  return { missedByChapter, addMissed, removeMissed }
 }

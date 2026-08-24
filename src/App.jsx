@@ -55,7 +55,7 @@ export default function App() {
   const [chapterScores, setChapterScores] = useState({})
   const [showWelcome, setShowWelcome] = useState(false)
   const { mastered, masteredByChapter, markMastered } = useMastery(user?.id)
-  const { missedByChapter, addMissed } = useMissedFlashcards(user?.id)
+  const { missedByChapter, addMissed, removeMissed } = useMissedFlashcards(user?.id)
   const { earned: earnedAchievements, newlyEarned, dismissToast, check: checkAchievements } = useAchievements(user?.id)
   const { streak, recordActivity } = useStreaks(user?.id)
 
@@ -186,10 +186,10 @@ export default function App() {
       <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} onLeaderboard={() => setView('leaderboard')} />
 
       {view === 'flashcards' && data && (
-        <FlashcardView cards={data} missedCards={missedByChapter[activeChapter?.id] || []} chapterName={chapterLabel} onBack={goHome} />
+        <FlashcardView cards={data} chapterName={chapterLabel} onBack={goHome} />
       )}
       {view === 'quiz' && data && (
-        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} addMissed={addMissed} missedIds={new Set((missedByChapter[activeChapter.id] || []).map(c => c.id))} masteredByChapter={masteredByChapter} checkAchievements={checkAchievements} recordActivity={recordActivity} />
+        <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} addMissed={addMissed} removeMissed={removeMissed} missedIds={new Set((missedByChapter[activeChapter.id] || []).map(c => c.id))} masteredByChapter={masteredByChapter} checkAchievements={checkAchievements} recordActivity={recordActivity} />
       )}
       {view === 'exam' && data && (
         <ExamView questions={data} onBack={goHome} user={user} />
