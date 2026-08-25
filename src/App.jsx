@@ -341,9 +341,9 @@ export default function App() {
                               {complete ? '✓ Complete' : started ? `${chMastered} / ${chTotal} mastered` : 'Not started'}
                             </span>
                             <div className="chapter-card-actions">
-                              <button className="ch-btn ch-btn-ghost" onClick={() => openView(ch, 'flashcards')}>Cards</button>
+                              <button className="ch-btn ch-btn-ghost" onClick={() => openView(ch, 'flashcards')}>Flashcards</button>
                               <button className="ch-btn ch-btn-primary" onClick={() => openView(ch, 'quiz')}>
-                                {started ? 'Continue →' : 'Start →'}
+                                {started ? 'Continue →' : 'Start Quiz →'}
                               </button>
                             </div>
                           </div>
