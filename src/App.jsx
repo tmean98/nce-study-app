@@ -195,7 +195,7 @@ export default function App() {
         <ExamView questions={data} onBack={goHome} user={user} />
       )}
       {view === 'leaderboard' && (
-        <Leaderboard onBack={goHome} />
+        <Leaderboard onBack={goHome} user={user} />
       )}
       {view === 'home' && (
       <main className="home">

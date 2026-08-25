@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react'
+import { supabase } from '../lib/supabase'
 
 const LETTERS = ['A', 'B', 'C', 'D']
 const EXAM_DURATION = 4 * 60 * 60 // 14400 seconds
@@ -21,7 +22,7 @@ function formatTime(seconds) {
   return `${h}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`
 }
 
-export default function ExamView({ questions, onBack }) {
+export default function ExamView({ questions, onBack, user }) {
   const [started, setStarted] = useState(false)
   const [answers, setAnswers] = useState({})
   const [flagged, setFlagged] = useState(new Set())
@@ -31,6 +32,8 @@ export default function ExamView({ questions, onBack }) {
   const [confirmSubmit, setConfirmSubmit] = useState(false)
   const [confirmAbandon, setConfirmAbandon] = useState(false)
   const [showPalette, setShowPalette] = useState(false)
+  const [saved, setSaved] = useState(false)
+  const [saving, setSaving] = useState(false)
   const timeLeftRef = useRef(EXAM_DURATION)
 
   useEffect(() => {
@@ -129,6 +132,22 @@ export default function ExamView({ questions, onBack }) {
     const totalCorrect = questions.filter(q => answers[q.id] === q.correct_index).length
     const pct = Math.round((totalCorrect / questions.length) * 100)
 
+    async function saveScore() {
+      if (!supabase || !user || saved) return
+      setSaving(true)
+      await supabase.from('quiz_scores').insert({
+        user_id: user.id,
+        display_name: user.user_metadata?.display_name || user.email.split('@')[0],
+        chapter_id: 'exam',
+        chapter_name: 'Practice Exam',
+        score: totalCorrect,
+        total: questions.length,
+        percentage: pct,
+      })
+      setSaved(true)
+      setSaving(false)
+    }
+
     const domainResults = {}
     questions.forEach(q => {
       const label = DOMAIN_LABELS[q.domain] || q.domain
@@ -172,6 +191,16 @@ export default function ExamView({ questions, onBack }) {
             )
           })}
         </div>
+
+        {supabase && user && !saved && (
+          <div className="save-score-box">
+            <p>Save to leaderboard as <strong>{user.user_metadata?.display_name || user.email.split('@')[0]}</strong>?</p>
+            <button className="btn btn-success" onClick={saveScore} disabled={saving}>
+              {saving ? 'Saving…' : 'Save Score'}
+            </button>
+          </div>
+        )}
+        {saved && <p className="save-confirmed">Score saved!</p>}
 
         <button className="btn btn-secondary" onClick={onBack}>← Back to Home</button>
       </div>
