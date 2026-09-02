@@ -4,6 +4,94 @@
   min-height: 100vh;
 }
 
+/* ── Exam Countdown ── */
+.exam-countdown {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.exam-countdown-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.exam-countdown-eyebrow {
+  font-family: 'Manrope', sans-serif;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 2.5px;
+  color: #D4A84F;
+}
+
+.exam-countdown-date-label {
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 500;
+  color: #4A6080;
+}
+
+.exam-countdown-units {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.exam-countdown-unit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.exam-countdown-num {
+  font-family: 'Manrope', sans-serif;
+  font-weight: 800;
+  color: #F4F1E8;
+  line-height: 1;
+}
+
+.exam-countdown-unit-label {
+  font-family: 'Manrope', sans-serif;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  color: #4A6080;
+  text-transform: uppercase;
+}
+
+.exam-countdown-sep {
+  font-family: 'Manrope', sans-serif;
+  font-weight: 800;
+  color: #D4A84F;
+  margin-bottom: 12px;
+}
+
+/* Landing variant — fits inside the dark left panel */
+.exam-countdown--landing {
+  background: rgba(212, 168, 79, 0.07);
+  border: 1px solid rgba(212, 168, 79, 0.2);
+  border-radius: 10px;
+  padding: 16px 20px;
+}
+
+.exam-countdown--landing .exam-countdown-num {
+  font-size: 32px;
+}
+
+/* Dashboard variant — slim banner above exam hero */
+.exam-countdown--dashboard {
+  background: #0D172A;
+  border: 1px solid #1E3048;
+  border-radius: 10px;
+  padding: 14px 20px;
+}
+
+.exam-countdown--dashboard .exam-countdown-num {
+  font-size: 28px;
+}
+
 /* ── Landing Page ── */
 .landing {
   min-height: 100vh;

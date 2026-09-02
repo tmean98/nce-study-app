@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { supabase } from '../lib/supabase'
+import ExamCountdown from './ExamCountdown'
 
 function fakeEmail(username) {
   return `${username.toLowerCase().replace(/\s+/g, '_')}@nce-study-app.com`
@@ -61,6 +62,8 @@ export default function LandingPage() {
             Built for the Northwest University CMHC cohort of 2025 — your dedicated prep tool for the program qualifying exam.
           </p>
         </div>
+
+        <ExamCountdown variant="landing" />
 
         <div className="landing-mascot">
           <img src="/eagle-mascot.png" alt="NCE Study mascot" className="landing-mascot-img" />

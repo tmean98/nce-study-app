@@ -11,6 +11,7 @@ import { useMissedFlashcards } from './lib/useMissedFlashcards'
 import { useAchievements, ACHIEVEMENTS } from './lib/useAchievements'
 import { useStreaks } from './lib/useStreaks'
 import AchievementToast from './components/AchievementToast'
+import ExamCountdown from './components/ExamCountdown'
 import './App.css'
 
 const EXAM_DOMAINS = [
@@ -287,6 +288,8 @@ export default function App() {
 
           {/* ── Main Content ── */}
           <div className="home-main">
+
+            <ExamCountdown variant="dashboard" />
 
             {/* Exam Hero */}
             <div className="exam-hero">
