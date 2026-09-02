@@ -8,14 +8,15 @@ function getTimeLeft() {
   const days = Math.floor(diff / (1000 * 60 * 60 * 24))
   const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))
   const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60))
-  return { days, hours, minutes }
+  const seconds = Math.floor((diff % (1000 * 60)) / 1000)
+  return { days, hours, minutes, seconds }
 }
 
 export default function ExamCountdown({ variant = 'dashboard' }) {
   const [timeLeft, setTimeLeft] = useState(getTimeLeft)
 
   useEffect(() => {
-    const id = setInterval(() => setTimeLeft(getTimeLeft()), 60_000)
+    const id = setInterval(() => setTimeLeft(getTimeLeft()), 1000)
     return () => clearInterval(id)
   }, [])
 
@@ -42,7 +43,13 @@ export default function ExamCountdown({ variant = 'dashboard' }) {
           <span className="exam-countdown-num">{String(timeLeft.minutes).padStart(2, '0')}</span>
           <span className="exam-countdown-unit-label">min</span>
         </div>
+        <span className="exam-countdown-sep">:</span>
+        <div className="exam-countdown-unit">
+          <span className="exam-countdown-num exam-countdown-num--seconds">{String(timeLeft.seconds).padStart(2, '0')}</span>
+          <span className="exam-countdown-unit-label">sec</span>
+        </div>
       </div>
+      <p className="exam-countdown-tagline">⏱ The clock is ticking — make every second count.</p>
     </div>
   )
 }
