@@ -792,6 +792,19 @@
   letter-spacing: .07em;
   margin: 0;
 }
+.chapter-card-supp-badge {
+  display: inline-block;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #f59e0b;
+  background: rgba(245, 158, 11, 0.12);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  border-radius: 4px;
+  padding: 2px 6px;
+  margin-bottom: 4px;
+}
 
 .chapter-card-bar-wrap {
   background: #1E3048;
@@ -871,6 +884,8 @@
   flex: 1;
   display: flex;
   flex-direction: column;
+  overflow-y: auto;
+  min-height: 0;
 }
 
 .study-header {
@@ -1077,7 +1092,7 @@
 
 .quiz-q-number { font-size: 11px; color: #64748b; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
 
-.quiz-question-text { font-size: 17px; font-weight: 600; color: #f1f5f9; line-height: 1.5; }
+.quiz-question-text { font-size: 17px; font-weight: 600; color: #f1f5f9; line-height: 1.5; min-height: 1.5em; display: block; }
 
 .quiz-options { display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px; }
 

@@ -312,7 +312,9 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
             <button className="icon-btn flag-btn" onClick={() => setFlagged(q)} title="Flag this question">⚑</button>
           </div>
         </div>
-        <div className="quiz-question-text">{q.question}</div>
+        <div className="quiz-question-text">
+          {q.question || <span style={{ color: '#64748b', fontStyle: 'italic' }}>Question text missing — please flag this question.</span>}
+        </div>
       </div>
 
       <div className="quiz-options">
@@ -346,7 +348,7 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
         </div>
       )}
 
-      {flagged && <FlagModal item={flagged} type="question" onClose={() => setFlagged(null)} />}
+      {flagged && <FlagModal item={flagged} type="question" onClose={() => setFlagged(null)} userId={user?.id} />}
     </div>
   )
 }
