@@ -1833,44 +1833,49 @@
   line-height: 1.5;
 }
 
-.exam-sw-wrap {
-  width: 100%;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 12px;
+.domain-badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding: 1px 6px;
+  border-radius: 4px;
+  margin-left: 6px;
+  vertical-align: middle;
 }
-.exam-sw-section {
+.domain-badge-pass { background: #052e16; color: #4ade80; }
+.domain-badge-fail { background: #2d0a0a; color: #f87171; }
+
+.exam-nce-domain-ref {
+  width: 100%;
+  background: #0f172a;
+  border: 1px solid #1e293b;
   border-radius: 10px;
-  padding: 14px 16px;
+  padding: 16px 18px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
 }
-.exam-sw-strengths { background: #052e16; border: 1px solid #166534; }
-.exam-sw-weaknesses { background: #2d0a0a; border: 1px solid #7f1d1d; }
-.exam-sw-label {
-  font-size: 10px;
-  font-weight: 800;
-  letter-spacing: 1.5px;
-  text-transform: uppercase;
-  margin-bottom: 2px;
+.exam-nce-domain-ref p {
+  margin: 0;
+  font-size: 12px;
+  color: #64748b;
+  line-height: 1.5;
 }
-.exam-sw-strengths .exam-sw-label { color: #4ade80; }
-.exam-sw-weaknesses .exam-sw-label { color: #f87171; }
-.exam-sw-item {
+.exam-nce-domain-ref-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.exam-nce-domain-ref-row {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  gap: 8px;
   font-size: 12px;
-  color: #cbd5e1;
+  color: #94a3b8;
 }
-.exam-sw-pct { font-weight: 700; white-space: nowrap; }
-.exam-sw-pct-pass { color: #4ade80; }
-.exam-sw-pct-fail { color: #f87171; }
-
-@media (max-width: 480px) {
-  .exam-sw-wrap { grid-template-columns: 1fr; }
+.exam-nce-domain-ref-pct {
+  color: #475569;
+  font-weight: 600;
 }
 
 /* ── Admin ── */

@@ -198,49 +198,52 @@ export default function ExamView({ questions, onBack, user, isAdmin }) {
           <p>Passing typically requires <strong>56–67% correct</strong> (roughly 90–105 out of 160). Your score above reflects this method.</p>
         </div>
 
-        {(strengths.length > 0 || focusAreas.length > 0) && (
-          <div className="exam-sw-wrap">
-            {strengths.length > 0 && (
-              <div className="exam-sw-section exam-sw-strengths">
-                <div className="exam-sw-label">Strengths</div>
-                {strengths.map(d => (
-                  <div key={d.domain} className="exam-sw-item">
-                    <span>{d.domain}</span>
-                    <span className="exam-sw-pct exam-sw-pct-pass">{d.pct}%</span>
-                  </div>
-                ))}
-              </div>
-            )}
-            {focusAreas.length > 0 && (
-              <div className="exam-sw-section exam-sw-weaknesses">
-                <div className="exam-sw-label">Focus Areas</div>
-                {focusAreas.map(d => (
-                  <div key={d.domain} className="exam-sw-item">
-                    <span>{d.domain}</span>
-                    <span className="exam-sw-pct exam-sw-pct-fail">{d.pct}%</span>
-                  </div>
-                ))}
-              </div>
-            )}
-          </div>
-        )}
-
-        <h3 className="exam-domain-results-title">Results by Domain (scored questions only)</h3>
+        <h3 className="exam-domain-results-title">Performance by Domain</h3>
         <div className="exam-domain-results">
-          {sortedDomains.map(({ domain, correct, total, pct }) => (
-            <div key={domain} className="exam-domain-result-row">
-              <div className="exam-domain-result-name">{domain}</div>
-              <div className="exam-domain-result-bar-wrap">
-                <div
-                  className={`exam-domain-result-bar ${pct >= passingThreshold ? 'bar-pass' : 'bar-fail'}`}
-                  style={{ width: `${pct}%` }}
-                />
+          {sortedDomains.map(({ domain, correct, total, pct }) => {
+            const isStrength = pct >= 70
+            const isFocus = pct < passingThreshold
+            return (
+              <div key={domain} className="exam-domain-result-row">
+                <div className="exam-domain-result-name">
+                  {domain}
+                  {isStrength && <span className="domain-badge domain-badge-pass">Strength</span>}
+                  {isFocus && <span className="domain-badge domain-badge-fail">Focus</span>}
+                </div>
+                <div className="exam-domain-result-bar-wrap">
+                  <div
+                    className={`exam-domain-result-bar ${pct >= passingThreshold ? 'bar-pass' : 'bar-fail'}`}
+                    style={{ width: `${pct}%` }}
+                  />
+                </div>
+                <div className="exam-domain-result-score">
+                  {correct}/{total} <span className="exam-domain-pct">({pct}%)</span>
+                </div>
               </div>
-              <div className="exam-domain-result-score">
-                {correct}/{total} <span className="exam-domain-pct">({pct}%)</span>
+            )
+          })}
+        </div>
+
+        <div className="exam-nce-domain-ref">
+          <h4 className="exam-nce-explainer-title">Real NCE Domain Weighting</h4>
+          <p>On the actual NCE, questions are distributed across 8 CACREP domains. This simulation matches those proportions:</p>
+          <div className="exam-nce-domain-ref-grid">
+            {[
+              { name: 'Helping Relationships', pct: 26 },
+              { name: 'Assessment & Testing', pct: 13 },
+              { name: 'Human Growth & Development', pct: 12 },
+              { name: 'Professional Orientation & Ethics', pct: 12 },
+              { name: 'Social & Cultural Diversity', pct: 11 },
+              { name: 'Career Development', pct: 11 },
+              { name: 'Research & Program Evaluation', pct: 8 },
+              { name: 'Group Work', pct: 7 },
+            ].map(d => (
+              <div key={d.name} className="exam-nce-domain-ref-row">
+                <span>{d.name}</span>
+                <span className="exam-nce-domain-ref-pct">{d.pct}%</span>
               </div>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
 
         {supabase && user && !saved && (
