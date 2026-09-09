@@ -204,7 +204,7 @@ export default function App() {
         <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} addMissed={addMissed} removeMissed={removeMissed} missedIds={new Set((missedByChapter[activeChapter.id] || []).map(c => c.id))} masteredByChapter={masteredByChapter} checkAchievements={checkAchievements} recordActivity={recordActivity} />
       )}
       {view === 'exam' && data && (
-        <ExamView questions={data} onBack={goHome} user={user} />
+        <ExamView questions={data} onBack={goHome} user={user} isAdmin={isAdmin} />
       )}
       {view === 'leaderboard' && (
         <Leaderboard onBack={goHome} user={user} />

@@ -22,7 +22,7 @@ function formatTime(seconds) {
   return `${h}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`
 }
 
-export default function ExamView({ questions, onBack, user }) {
+export default function ExamView({ questions, onBack, user, isAdmin }) {
   const [started, setStarted] = useState(false)
   const [answers, setAnswers] = useState({})
   const [flagged, setFlagged] = useState(new Set())
@@ -274,9 +274,9 @@ export default function ExamView({ questions, onBack, user }) {
           <span className="exam-answered-count"> · {answeredCount} answered</span>
         </div>
         <div className="exam-header-right">
-          {import.meta.env.DEV && (
-            <button className="btn btn-ghost btn-sm exam-dev-btn" onClick={quickSubmit} title="Dev: auto-fill and submit">
-              ⚡ Dev Submit
+          {isAdmin && (
+            <button className="btn btn-ghost btn-sm exam-dev-btn" onClick={quickSubmit} title="Admin: auto-fill and submit">
+              ⚡ Quick Submit
             </button>
           )}
           <button className="btn btn-ghost btn-sm" onClick={() => setShowPalette(true)}>
