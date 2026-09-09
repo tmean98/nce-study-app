@@ -15,7 +15,7 @@ import ExamCountdown from './components/ExamCountdown'
 import AdminView from './components/AdminView'
 import './App.css'
 
-const ADMIN_EMAIL = 'tommymeaney@nce-study-app.com'
+const ADMIN_USERNAMES = ['tommymeaney']
 
 const EXAM_DOMAINS = [
   { chId: 'ch03', count: 24 },
@@ -159,8 +159,7 @@ export default function App() {
 
   function goHome() { setView('home'); setData(null); setActiveChapter(null) }
 
-  const isAdmin = user?.email === ADMIN_EMAIL
-  console.log('[admin check] user email:', user?.email, '| isAdmin:', isAdmin)
+  const isAdmin = ADMIN_USERNAMES.includes(user?.user_metadata?.display_name?.toLowerCase())
 
   const chapterLabel = activeChapter ? `${activeChapter.name}: ${activeChapter.title}` : ''
 
