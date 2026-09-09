@@ -1799,6 +1799,184 @@
 .exam-domain-result-score { color: #f1f5f9; font-weight: 600; text-align: right; }
 .exam-domain-pct { color: #64748b; font-weight: 400; }
 
+.exam-dev-btn { opacity: 0.5; font-size: 11px; }
+.exam-dev-btn:hover { opacity: 1; color: #facc15; }
+
+.exam-score-secondary {
+  font-size: 13px;
+  color: #475569;
+  margin: 0;
+  text-align: center;
+}
+
+.exam-nce-explainer {
+  width: 100%;
+  background: #0f172a;
+  border: 1px solid #1e3a5f;
+  border-radius: 10px;
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.exam-nce-explainer-title {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 700;
+  color: #D4A84F;
+  letter-spacing: 0.5px;
+}
+.exam-nce-explainer p {
+  margin: 0;
+  font-size: 13px;
+  color: #94a3b8;
+  line-height: 1.5;
+}
+
+.exam-sw-wrap {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.exam-sw-section {
+  border-radius: 10px;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.exam-sw-strengths { background: #052e16; border: 1px solid #166534; }
+.exam-sw-weaknesses { background: #2d0a0a; border: 1px solid #7f1d1d; }
+.exam-sw-label {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+}
+.exam-sw-strengths .exam-sw-label { color: #4ade80; }
+.exam-sw-weaknesses .exam-sw-label { color: #f87171; }
+.exam-sw-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: #cbd5e1;
+}
+.exam-sw-pct { font-weight: 700; white-space: nowrap; }
+.exam-sw-pct-pass { color: #4ade80; }
+.exam-sw-pct-fail { color: #f87171; }
+
+@media (max-width: 480px) {
+  .exam-sw-wrap { grid-template-columns: 1fr; }
+}
+
+/* ── Admin ── */
+.admin-nav-btn { color: #D4A84F; }
+
+.admin-view {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px 20px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.admin-loading {
+  text-align: center;
+  padding: 60px;
+  color: #64748b;
+}
+.admin-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.admin-title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 800;
+  color: #D4A84F;
+}
+.admin-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+}
+.admin-stat {
+  background: #0f172a;
+  border: 1px solid #1e293b;
+  border-radius: 10px;
+  padding: 16px;
+  text-align: center;
+}
+.admin-stat-num {
+  font-size: 28px;
+  font-weight: 900;
+  color: #f1f5f9;
+}
+.admin-stat-label {
+  font-size: 11px;
+  color: #64748b;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  margin-top: 4px;
+}
+.admin-tabs {
+  display: flex;
+  gap: 8px;
+  border-bottom: 1px solid #1e293b;
+  padding-bottom: 0;
+}
+.admin-tab {
+  background: none;
+  border: none;
+  color: #475569;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+}
+.admin-tab.active {
+  color: #f1f5f9;
+  border-bottom-color: #D4A84F;
+}
+.admin-table-wrap {
+  overflow-x: auto;
+}
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.admin-table th {
+  text-align: left;
+  padding: 10px 12px;
+  color: #64748b;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid #1e293b;
+}
+.admin-table td {
+  padding: 10px 12px;
+  color: #cbd5e1;
+  border-bottom: 1px solid #0f172a;
+}
+.admin-table tr:hover td { background: #0f172a; }
+.admin-user-name { color: #f1f5f9; font-weight: 600; }
+.admin-date { color: #475569; font-size: 12px; white-space: nowrap; }
+.admin-pass { color: #4ade80; font-weight: 700; }
+.admin-fail { color: #f87171; font-weight: 700; }
+
+@media (max-width: 600px) {
+  .admin-stats-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
 /* ── Help button ── */
 .btn-help {
   width: 26px;

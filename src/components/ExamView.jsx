@@ -76,6 +76,17 @@ export default function ExamView({ questions, onBack, user }) {
     else setSubmitted(true)
   }
 
+  function quickSubmit() {
+    const autoAnswers = {}
+    questions.forEach(q => {
+      autoAnswers[q.id] = answers[q.id] !== undefined
+        ? answers[q.id]
+        : Math.floor(Math.random() * q.options.length)
+    })
+    setAnswers(autoAnswers)
+    setSubmitted(true)
+  }
+
   // ── Pre-start screen ──────────────────────────────────────────────────────
   if (!started) {
     const domainCounts = {}
@@ -117,7 +128,7 @@ export default function ExamView({ questions, onBack, user }) {
         </div>
 
         <p className="exam-prestart-note">
-          You will not see correct/incorrect feedback until you submit. You can flag questions and navigate freely.
+          You will not see correct/incorrect feedback until you submit. You can flag questions and navigate freely. Like the real NCE, 40 of the 200 questions are unscored field test questions — you won't know which ones they are.
         </p>
         <button className="btn btn-primary exam-start-btn" onClick={() => setStarted(true)}>
           Begin Exam
@@ -129,8 +140,12 @@ export default function ExamView({ questions, onBack, user }) {
   // ── Results screen ────────────────────────────────────────────────────────
   if (submitted) {
     const timeSpent = EXAM_DURATION - timeLeft
-    const totalCorrect = questions.filter(q => answers[q.id] === q.correct_index).length
-    const pct = Math.round((totalCorrect / questions.length) * 100)
+    const scoredQuestions = questions.filter(q => !q.isFieldTest)
+    const totalScored = scoredQuestions.length
+    const totalCorrectScored = scoredQuestions.filter(q => answers[q.id] === q.correct_index).length
+    const totalCorrectAll = questions.filter(q => answers[q.id] === q.correct_index).length
+    const scoredPct = Math.round((totalCorrectScored / totalScored) * 100)
+    const passingThreshold = 56 // NCE passing range starts at ~56% (90/160)
 
     async function saveScore() {
       if (!supabase || !user || saved) return
@@ -140,56 +155,92 @@ export default function ExamView({ questions, onBack, user }) {
         display_name: user.user_metadata?.display_name || user.email.split('@')[0],
         chapter_id: 'exam',
         chapter_name: 'Practice Exam',
-        score: totalCorrect,
-        total: questions.length,
-        percentage: pct,
+        score: totalCorrectScored,
+        total: totalScored,
+        percentage: scoredPct,
       })
       setSaved(true)
       setSaving(false)
     }
 
     const domainResults = {}
-    questions.forEach(q => {
+    scoredQuestions.forEach(q => {
       const label = DOMAIN_LABELS[q.domain] || q.domain
       if (!domainResults[label]) domainResults[label] = { correct: 0, total: 0 }
       domainResults[label].total++
       if (answers[q.id] === q.correct_index) domainResults[label].correct++
     })
 
-    const passingThreshold = 70
+    const sortedDomains = Object.entries(domainResults)
+      .map(([domain, { correct, total }]) => ({ domain, correct, total, pct: Math.round((correct / total) * 100) }))
+      .sort((a, b) => b.pct - a.pct)
+
+    const strengths = sortedDomains.filter(d => d.pct >= 70)
+    const focusAreas = sortedDomains.filter(d => d.pct < passingThreshold)
 
     return (
       <div className="exam-results">
         <h2 className="exam-results-title">Exam Complete</h2>
-        <div className="exam-score-circle">
-          <div className="exam-score-num">{totalCorrect}</div>
-          <div className="exam-score-denom">/ {questions.length}</div>
-        </div>
-        <div className={`exam-score-pct ${pct >= passingThreshold ? 'pass' : 'fail'}`}>
-          {pct}% — {pct >= passingThreshold ? 'Passing' : 'Below Passing'}
-        </div>
-        <p className="exam-time-spent">Time used: {formatTime(timeSpent)}</p>
-        <p className="exam-passing-note">NCE passing is a scaled score; ~70% is a general benchmark</p>
 
-        <h3 className="exam-domain-results-title">Results by Domain</h3>
-        <div className="exam-domain-results">
-          {Object.entries(domainResults).map(([domain, { correct, total }]) => {
-            const dpct = Math.round((correct / total) * 100)
-            return (
-              <div key={domain} className="exam-domain-result-row">
-                <div className="exam-domain-result-name">{domain}</div>
-                <div className="exam-domain-result-bar-wrap">
-                  <div
-                    className={`exam-domain-result-bar ${dpct >= passingThreshold ? 'bar-pass' : 'bar-fail'}`}
-                    style={{ width: `${dpct}%` }}
-                  />
-                </div>
-                <div className="exam-domain-result-score">
-                  {correct}/{total} <span className="exam-domain-pct">({dpct}%)</span>
-                </div>
+        <div className="exam-score-circle" style={{ borderColor: scoredPct >= passingThreshold ? '#22c55e' : '#ef4444' }}>
+          <div className="exam-score-num">{totalCorrectScored}</div>
+          <div className="exam-score-denom">/ {totalScored} scored</div>
+        </div>
+        <div className={`exam-score-pct ${scoredPct >= passingThreshold ? 'pass' : 'fail'}`}>
+          {scoredPct}% — {scoredPct >= passingThreshold ? 'Likely Passing' : 'Below Passing Range'}
+        </div>
+        <p className="exam-score-secondary">{totalCorrectAll} / {questions.length} overall (includes field test questions)</p>
+        <p className="exam-time-spent">Time used: {formatTime(timeSpent)}</p>
+
+        <div className="exam-nce-explainer">
+          <h4 className="exam-nce-explainer-title">How NCE Scoring Works</h4>
+          <p>The real NCE has <strong>200 questions</strong>, but <strong>40 are unscored field test questions</strong> used to develop future exams — you won't know which ones they are. Only your performance on the <strong>160 scored questions</strong> counts.</p>
+          <p>Passing typically requires <strong>56–67% correct</strong> (roughly 90–105 out of 160). Your score above reflects this method.</p>
+        </div>
+
+        {(strengths.length > 0 || focusAreas.length > 0) && (
+          <div className="exam-sw-wrap">
+            {strengths.length > 0 && (
+              <div className="exam-sw-section exam-sw-strengths">
+                <div className="exam-sw-label">Strengths</div>
+                {strengths.map(d => (
+                  <div key={d.domain} className="exam-sw-item">
+                    <span>{d.domain}</span>
+                    <span className="exam-sw-pct exam-sw-pct-pass">{d.pct}%</span>
+                  </div>
+                ))}
               </div>
-            )
-          })}
+            )}
+            {focusAreas.length > 0 && (
+              <div className="exam-sw-section exam-sw-weaknesses">
+                <div className="exam-sw-label">Focus Areas</div>
+                {focusAreas.map(d => (
+                  <div key={d.domain} className="exam-sw-item">
+                    <span>{d.domain}</span>
+                    <span className="exam-sw-pct exam-sw-pct-fail">{d.pct}%</span>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+
+        <h3 className="exam-domain-results-title">Results by Domain (scored questions only)</h3>
+        <div className="exam-domain-results">
+          {sortedDomains.map(({ domain, correct, total, pct }) => (
+            <div key={domain} className="exam-domain-result-row">
+              <div className="exam-domain-result-name">{domain}</div>
+              <div className="exam-domain-result-bar-wrap">
+                <div
+                  className={`exam-domain-result-bar ${pct >= passingThreshold ? 'bar-pass' : 'bar-fail'}`}
+                  style={{ width: `${pct}%` }}
+                />
+              </div>
+              <div className="exam-domain-result-score">
+                {correct}/{total} <span className="exam-domain-pct">({pct}%)</span>
+              </div>
+            </div>
+          ))}
         </div>
 
         {supabase && user && !saved && (
@@ -223,6 +274,11 @@ export default function ExamView({ questions, onBack, user }) {
           <span className="exam-answered-count"> · {answeredCount} answered</span>
         </div>
         <div className="exam-header-right">
+          {import.meta.env.DEV && (
+            <button className="btn btn-ghost btn-sm exam-dev-btn" onClick={quickSubmit} title="Dev: auto-fill and submit">
+              ⚡ Dev Submit
+            </button>
+          )}
           <button className="btn btn-ghost btn-sm" onClick={() => setShowPalette(true)}>
             Grid
           </button>

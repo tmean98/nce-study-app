@@ -12,7 +12,10 @@ import { useAchievements, ACHIEVEMENTS } from './lib/useAchievements'
 import { useStreaks } from './lib/useStreaks'
 import AchievementToast from './components/AchievementToast'
 import ExamCountdown from './components/ExamCountdown'
+import AdminView from './components/AdminView'
 import './App.css'
+
+const ADMIN_EMAIL = 'tommymeaney@nce-study-app.com'
 
 const EXAM_DOMAINS = [
   { chId: 'ch03', count: 24 },
@@ -34,8 +37,8 @@ const CHAPTERS = [
   { id: 'ch08', name: 'Ch 8',  num: '08', title: 'Assessment & Testing',             questions: 100 },
   { id: 'ch09', name: 'Ch 9',  num: '09', title: 'Research & Program Evaluation',    questions: 100 },
   { id: 'ch10', name: 'Ch 10', num: '10', title: 'Professional Orientation & Ethics', questions: 100 },
-  { id: 'ch11', name: 'Ch 11', num: '11', title: 'Family Therapy, Career & Research', questions: 100 },
-  { id: 'ch12', name: 'Ch 12', num: '12', title: 'Neuro, CBT Waves, DBT, MI & ACT',  questions: 100 },
+  { id: 'ch11', name: 'Ch 11', num: '11', title: 'Family Therapy, Career & Research', questions: 100, supplementary: true },
+  { id: 'ch12', name: 'Ch 12', num: '12', title: 'Neuro, CBT Waves, DBT, MI & ACT',  questions: 100, supplementary: true },
 ]
 
 const QUOTES = [
@@ -143,12 +146,21 @@ export default function App() {
       const shuffled = [...questions].sort(() => Math.random() - 0.5)
       pool.push(...shuffled.slice(0, Math.min(count, shuffled.length)))
     })
-    setData(pool.sort(() => Math.random() - 0.5))
+    const shuffled = pool.sort(() => Math.random() - 0.5)
+    // Randomly designate 40 questions as unscored field test questions, just like the real NCE
+    const fieldTestIndices = new Set()
+    while (fieldTestIndices.size < Math.min(40, shuffled.length)) {
+      fieldTestIndices.add(Math.floor(Math.random() * shuffled.length))
+    }
+    setData(shuffled.map((q, i) => ({ ...q, isFieldTest: fieldTestIndices.has(i) })))
     setView('exam')
     setLoading(false)
   }
 
   function goHome() { setView('home'); setData(null); setActiveChapter(null) }
+
+  const isAdmin = user?.email === ADMIN_EMAIL
+  console.log('[admin check] user email:', user?.email, '| isAdmin:', isAdmin)
 
   const chapterLabel = activeChapter ? `${activeChapter.name}: ${activeChapter.title}` : ''
 
@@ -184,10 +196,10 @@ export default function App() {
           onDontShowAgain={() => { localStorage.setItem(`nce_onboarded_${user.id}`, 'dismissed'); setShowWelcome(false) }}
         />
       )}
-      <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} onLeaderboard={() => setView('leaderboard')} />
+      <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} onLeaderboard={() => setView('leaderboard')} onAdmin={isAdmin ? () => setView('admin') : null} />
 
       {view === 'flashcards' && data && (
-        <FlashcardView cards={data} chapterName={chapterLabel} onBack={goHome} />
+        <FlashcardView cards={data} chapterName={chapterLabel} onBack={goHome} userId={user?.id} />
       )}
       {view === 'quiz' && data && (
         <QuizView questions={data} chapterName={chapterLabel} chapterId={activeChapter.id} onBack={goHome} user={user} mastery={mastered} markMastered={markMastered} addMissed={addMissed} removeMissed={removeMissed} missedIds={new Set((missedByChapter[activeChapter.id] || []).map(c => c.id))} masteredByChapter={masteredByChapter} checkAchievements={checkAchievements} recordActivity={recordActivity} />
@@ -197,6 +209,9 @@ export default function App() {
       )}
       {view === 'leaderboard' && (
         <Leaderboard onBack={goHome} user={user} />
+      )}
+      {view === 'admin' && isAdmin && (
+        <AdminView onBack={goHome} />
       )}
       {view === 'home' && (
       <main className="home">
@@ -333,6 +348,9 @@ export default function App() {
                         <div className="chapter-card-numeral">{ch.num}</div>
                         <div className="chapter-card-body">
                           <p className="chapter-card-title">{ch.title}</p>
+                          {ch.supplementary && (
+                            <span className="chapter-card-supp-badge" title="Not part of the 8 CACREP NCE exam domains">SUPPLEMENTARY</span>
+                          )}
                           <p className="chapter-card-meta">{ch.questions} QUESTIONS · 50 FLASHCARDS</p>
                           {started && (
                             <div className="chapter-card-bar-wrap">
@@ -386,7 +404,7 @@ export default function App() {
   )
 }
 
-function Header({ user, onSignOut, onHelp, onLeaderboard }) {
+function Header({ user, onSignOut, onHelp, onLeaderboard, onAdmin }) {
   return (
     <header className="header">
       <div className="header-brand">
@@ -401,6 +419,7 @@ function Header({ user, onSignOut, onHelp, onLeaderboard }) {
         <button className="btn-help" onClick={onHelp} title="Platform guide">?</button>
         <a className="btn btn-ghost btn-sm" href="mailto:thomas.meaney16@northwestu.edu" title="Contact Tommy">Contact</a>
         <button className="btn btn-ghost btn-sm" onClick={onLeaderboard}>Leaderboard</button>
+        {onAdmin && <button className="btn btn-ghost btn-sm admin-nav-btn" onClick={onAdmin}>Admin</button>}
         <button className="btn btn-ghost btn-sm" onClick={onSignOut}>Sign Out</button>
       </div>
     </header>
