@@ -72,9 +72,8 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
 
   useEffect(() => {
     if (!done) return
-    checkAchievements?.('quiz_complete', { correct: score, total })
-    const masteredInChapter = questions.filter(q => masteredSet.has(q.id)).length
-    if (masteredInChapter === questions.length) {
+    checkAchievements?.('quiz_complete', { correct: score, total, masteredCount, chapterTotal: questions.length })
+    if (allMastered) {
       confetti({ particleCount: 220, spread: 80, origin: { y: 0.5 }, colors: ['#2F6FED', '#D4A84F', '#4ade80', '#f8fafc', '#a78bfa'] })
       setTimeout(() => confetti({ particleCount: 80, spread: 60, origin: { y: 0.4, x: 0.3 }, colors: ['#D4A84F', '#f8fafc'] }), 300)
     } else if (score === total && total > 0) {
