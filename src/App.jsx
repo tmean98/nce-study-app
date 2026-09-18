@@ -42,6 +42,37 @@ const CHAPTERS = [
   { id: 'ch12', name: 'Ch 12', num: '12', title: 'Neuro, CBT Waves, DBT, MI & ACT',  questions: 100, supplementary: true },
 ]
 
+const ROGERS_QUOTES = [
+  "You are unconditionally positively regarded.",
+  "I hear you. I see you. You know the answer to question 47.",
+  "Your worth is not determined by your scaled score.",
+  "The therapeutic relationship you have with this app is genuine and empathic.",
+  "You are the expert on your own studying experience.",
+  "I trust that you have the inner resources to pass this exam.",
+  "What I'm hearing is... you're going to crush it.",
+  "Your feelings about the NCE are valid. All of them.",
+  "Growth is not linear, but your score will be.",
+  "You don't need my approval, but you have it unconditionally.",
+  "It sounds like you're feeling anxious about tomorrow. That makes complete sense.",
+  "I'm not going to tell you what to do. But maybe study ch. 5.",
+  "You are a person of worth, dignity, and above-average test scores.",
+  "The fact that you're here right now tells me everything I need to know about you.",
+  "Congruence. Empathy. Unconditional positive regard. Also, know your theories.",
+]
+
+function getStressLevel() {
+  const examTime = new Date('2026-09-19T09:00:00').getTime()
+  const now = Date.now()
+  const hoursLeft = (examTime - now) / (1000 * 60 * 60)
+  if (hoursLeft <= 0) return { label: 'You Did It! Go Sleep.', emoji: '🎉', pct: 0, color: '#22c55e' }
+  if (hoursLeft < 2)  return { label: 'You Should Be Asleep', emoji: '💀', pct: 100, color: '#ef4444' }
+  if (hoursLeft < 6)  return { label: 'Full Carl Rogers Breakdown', emoji: '🫠', pct: 90, color: '#ef4444' }
+  if (hoursLeft < 12) return { label: 'Existential Dread', emoji: '😱', pct: 75, color: '#f97316' }
+  if (hoursLeft < 24) return { label: 'Getting Real', emoji: '😰', pct: 55, color: '#eab308' }
+  if (hoursLeft < 48) return { label: 'Mild Concern', emoji: '🤔', pct: 30, color: '#D4A84F' }
+  return { label: 'Totally Fine', emoji: '😌', pct: 10, color: '#22c55e' }
+}
+
 const QUOTES = [
   { text: "Excellence is the gradual result of always striving to do better.", author: "Pat Riley" },
   { text: "The secret of getting ahead is getting started.", author: "Mark Twain" },
@@ -60,6 +91,7 @@ export default function App() {
   const [chapterScores, setChapterScores] = useState({})
   const [showWelcome, setShowWelcome] = useState(false)
   const [miniExamMeta, setMiniExamMeta] = useState(null)
+  const [rogersIndex, setRogersIndex] = useState(() => Math.floor(Math.random() * ROGERS_QUOTES.length))
   const { mastered, masteredByChapter, markMastered } = useMastery(user?.id)
   const { missedByChapter, addMissed, removeMissed } = useMissedFlashcards(user?.id)
   const { earned: earnedAchievements, newlyEarned, dismissToast, check: checkAchievements } = useAchievements(user?.id)
@@ -345,6 +377,25 @@ export default function App() {
               </div>
             </div>
 
+            {/* Stress-o-meter */}
+            {(() => {
+              const stress = getStressLevel()
+              return (
+                <div className="sidebar-section">
+                  <p className="sidebar-label">STRESS-O-METER</p>
+                  <div className="stress-meter">
+                    <div className="stress-meter-top">
+                      <span className="stress-emoji">{stress.emoji}</span>
+                      <span className="stress-label">{stress.label}</span>
+                    </div>
+                    <div className="stress-bar-wrap">
+                      <div className="stress-bar-fill" style={{ width: `${stress.pct}%`, background: stress.color }} />
+                    </div>
+                  </div>
+                </div>
+              )
+            })()}
+
             {/* Continue Studying */}
             {userStats && recentChapter && (
               <div className="sidebar-section">
@@ -413,6 +464,18 @@ export default function App() {
                   <p className="mini-exam-inline-caption">Don't have time for the full exam?</p>
                 </div>
               </div>
+            </div>
+
+            {/* What Would Rogers Say */}
+            <div className="rogers-widget">
+              <div className="rogers-widget-header">
+                <span className="rogers-eyebrow">🛋️ What Would Rogers Say?</span>
+              </div>
+              <p className="rogers-quote">"{ROGERS_QUOTES[rogersIndex]}"</p>
+              <p className="rogers-attribution">— Carl Rogers (probably)</p>
+              <button className="rogers-btn" onClick={() => setRogersIndex(i => (i + 1) % ROGERS_QUOTES.length)}>
+                Another dose of UPR →
+              </button>
             </div>
 
             {/* Chapter Grid */}

@@ -468,6 +468,45 @@
 
 .sidebar-section { display: flex; flex-direction: column; gap: 10px; }
 
+/* ── Stress-o-meter ── */
+.stress-meter {
+  background: #0a1628;
+  border: 1px solid #1E3048;
+  border-radius: 6px;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.stress-meter-top {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.stress-emoji { font-size: 20px; }
+
+.stress-label {
+  font-family: 'Manrope', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #F4F1E8;
+}
+
+.stress-bar-wrap {
+  height: 5px;
+  background: #1E3048;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.stress-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.6s ease;
+}
+
 .sidebar-label {
   font-size: 10px;
   font-weight: 700;
@@ -727,6 +766,57 @@
 }
 .exam-hero-cta:hover { background: #C49A45; }
 .exam-hero-cta:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* ── Rogers Widget ── */
+.rogers-widget {
+  background: #0f1f35;
+  border: 1px solid #1E3048;
+  border-left: 3px solid #7B68EE;
+  border-radius: 6px;
+  padding: 20px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.rogers-eyebrow {
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #7B68EE;
+}
+
+.rogers-quote {
+  font-size: 15px;
+  color: #C8D8E8;
+  line-height: 1.6;
+  font-style: italic;
+  margin: 0;
+}
+
+.rogers-attribution {
+  font-size: 11px;
+  color: #4A6075;
+  margin: 0;
+}
+
+.rogers-btn {
+  align-self: flex-start;
+  background: transparent;
+  color: #7B68EE;
+  border: 1px solid #7B68EE;
+  border-radius: 4px;
+  padding: 7px 14px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+.rogers-btn:hover { background: #7B68EE; color: #fff; }
 
 /* ── Mini Exam inline (inside exam hero) ── */
 .exam-hero-actions {
