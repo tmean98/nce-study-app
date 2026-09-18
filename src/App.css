@@ -728,6 +728,309 @@
 .exam-hero-cta:hover { background: #C49A45; }
 .exam-hero-cta:disabled { opacity: 0.5; cursor: not-allowed; }
 
+/* ── Mini Exam Card (home page) ── */
+.mini-exam-hero {
+  background: #0D172A;
+  border: 1px solid #1E3048;
+  border-radius: 6px;
+  padding: 28px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.mini-exam-hero-body {
+  display: flex;
+  gap: 32px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.mini-exam-hero-info {
+  flex: 1;
+  min-width: 220px;
+}
+
+.mini-exam-eyebrow {
+  display: block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #D4A84F;
+  margin-bottom: 8px;
+}
+
+.mini-exam-title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  color: #F4F1E8;
+  letter-spacing: -0.5px;
+  margin: 0 0 10px;
+}
+
+.mini-exam-desc {
+  font-size: 13px;
+  color: #8A9BB0;
+  line-height: 1.6;
+  margin: 0 0 12px;
+  max-width: 380px;
+}
+
+.mini-exam-specs {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 11px;
+  font-weight: 600;
+  color: #6B7A8D;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.mini-spec-dot { color: #2A3E56; }
+
+.mini-exam-progress-block {
+  flex-shrink: 0;
+  min-width: 200px;
+  max-width: 240px;
+}
+
+.mini-progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 8px;
+}
+
+.mini-progress-label {
+  font-family: 'Manrope', sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #4A6075;
+}
+
+.mini-progress-nums {
+  font-family: 'Manrope', sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  color: #F4F1E8;
+  line-height: 1;
+}
+
+.mini-progress-total {
+  font-size: 13px;
+  font-weight: 600;
+  color: #4A6075;
+}
+
+.mini-progress-bar-wrap {
+  height: 5px;
+  background: #1E3048;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.mini-progress-bar-fill {
+  height: 100%;
+  background: #D4A84F;
+  border-radius: 3px;
+  transition: width 0.4s ease;
+  min-width: 2px;
+}
+
+.mini-progress-sub {
+  font-size: 11px;
+  color: #4A6075;
+  margin: 0;
+}
+
+.mini-exam-cta {
+  align-self: flex-start;
+  background: transparent;
+  color: #D4A84F;
+  border: 1.5px solid #D4A84F;
+  border-radius: 4px;
+  padding: 10px 22px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+.mini-exam-cta:hover { background: #D4A84F; color: #0D172A; }
+.mini-exam-cta:disabled { opacity: 0.4; cursor: not-allowed; }
+
+/* ── Mini Exam pre-start progress bar ── */
+.mini-exam-pre-eyebrow {
+  display: block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #D4A84F;
+  margin-bottom: 4px;
+}
+
+.mini-exam-reset-notice {
+  background: #1A3A2A;
+  border: 1px solid #22c55e;
+  border-radius: 4px;
+  padding: 10px 16px;
+  font-size: 13px;
+  color: #22c55e;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.mini-exam-pre-progress {
+  background: #F4F1E8;
+  border-radius: 6px;
+  padding: 16px 20px;
+  margin: 16px 0;
+}
+
+.mini-pre-progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 8px;
+}
+
+.mini-pre-progress-label {
+  font-family: 'Manrope', sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #718096;
+}
+
+.mini-pre-progress-nums {
+  font-family: 'Manrope', sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  color: #0D172A;
+}
+
+.mini-pre-progress-bar-wrap {
+  height: 6px;
+  background: #D4C9A8;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.mini-pre-progress-bar-fill {
+  height: 100%;
+  background: #D4A84F;
+  border-radius: 3px;
+  min-width: 2px;
+}
+
+.mini-pre-progress-sub {
+  font-size: 11px;
+  color: #718096;
+  margin: 0;
+}
+
+/* ── Mini Exam in-progress header ── */
+.mini-exam-header-left {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.mini-exam-header-label {
+  font-family: 'Manrope', sans-serif;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #4A6075;
+}
+
+.mini-exam-seen-chip {
+  font-family: 'Manrope', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #D4A84F;
+}
+
+/* ── Mini Exam results ── */
+.exam-score-pct.borderline { color: #D4A84F; }
+
+.mini-exam-seen-summary {
+  background: #F4F1E8;
+  border-radius: 6px;
+  padding: 16px 20px;
+  margin: 20px 0;
+}
+
+.mini-seen-label {
+  display: block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #718096;
+  margin-bottom: 4px;
+}
+
+.mini-seen-nums {
+  display: block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 22px;
+  font-weight: 800;
+  color: #0D172A;
+  margin-bottom: 8px;
+}
+
+.mini-seen-bar-wrap {
+  height: 6px;
+  background: #D4C9A8;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.mini-seen-bar-fill {
+  height: 100%;
+  background: #D4A84F;
+  border-radius: 3px;
+  min-width: 2px;
+}
+
+.mini-seen-sub {
+  font-size: 11px;
+  color: #718096;
+  margin: 0;
+}
+
+.mini-exam-result-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 24px;
+  flex-wrap: wrap;
+}
+
+.mini-exam-result-hint {
+  font-size: 11px;
+  color: #718096;
+  text-align: center;
+  margin-top: 8px;
+}
+
 /* ── Chapter Grid ── */
 .chapter-grid-header {
   display: flex;

@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import FlashcardView from './components/FlashcardView'
 import QuizView from './components/QuizView'
 import ExamView from './components/ExamView'
+import MiniExamView from './components/MiniExamView'
 import Leaderboard from './components/Leaderboard'
 import LandingPage from './components/LandingPage'
 import WelcomeModal from './components/WelcomeModal'
@@ -58,6 +59,7 @@ export default function App() {
   const [userStats, setUserStats] = useState(null)
   const [chapterScores, setChapterScores] = useState({})
   const [showWelcome, setShowWelcome] = useState(false)
+  const [miniExamMeta, setMiniExamMeta] = useState(null)
   const { mastered, masteredByChapter, markMastered } = useMastery(user?.id)
   const { missedByChapter, addMissed, removeMissed } = useMissedFlashcards(user?.id)
   const { earned: earnedAchievements, newlyEarned, dismissToast, check: checkAchievements } = useAchievements(user?.id)
@@ -157,7 +159,44 @@ export default function App() {
     setLoading(false)
   }
 
-  function goHome() { setView('home'); setData(null); setActiveChapter(null) }
+  async function openMiniExam() {
+    setLoading(true)
+    const allData = await Promise.all(
+      CHAPTERS.map(ch => fetch(`/${ch.id}_quiz.json?v=2`, { cache: 'no-store' }).then(r => r.json()))
+    )
+    const allQuestions = allData.flat()
+    const totalCount = allQuestions.length
+
+    const seenKey = `nce_mini_exam_seen_${user.id}`
+    let seenIds
+    try {
+      seenIds = new Set(JSON.parse(localStorage.getItem(seenKey) || '[]'))
+    } catch {
+      seenIds = new Set()
+    }
+
+    let unseen = allQuestions.filter(q => !seenIds.has(q.id))
+    let wasReset = false
+    if (unseen.length < 20) {
+      seenIds = new Set()
+      localStorage.setItem(seenKey, '[]')
+      unseen = allQuestions
+      wasReset = true
+    }
+
+    const shuffled = [...unseen].sort(() => Math.random() - 0.5)
+    const selected = shuffled.slice(0, 20)
+
+    selected.forEach(q => seenIds.add(q.id))
+    localStorage.setItem(seenKey, JSON.stringify([...seenIds]))
+
+    setMiniExamMeta({ seenCount: seenIds.size, totalCount, wasReset })
+    setData(selected)
+    setView('mini_exam')
+    setLoading(false)
+  }
+
+  function goHome() { setView('home'); setData(null); setActiveChapter(null); setMiniExamMeta(null) }
 
   const isAdmin = ADMIN_USERNAMES.includes(user?.user_metadata?.display_name?.toLowerCase())
 
@@ -205,6 +244,15 @@ export default function App() {
       )}
       {view === 'exam' && data && (
         <ExamView questions={data} onBack={goHome} user={user} isAdmin={isAdmin} />
+      )}
+      {view === 'mini_exam' && data && miniExamMeta && (
+        <MiniExamView
+          questions={data}
+          onBack={goHome}
+          seenCount={miniExamMeta.seenCount}
+          totalCount={miniExamMeta.totalCount}
+          wasReset={miniExamMeta.wasReset}
+        />
       )}
       {view === 'leaderboard' && (
         <Leaderboard onBack={goHome} user={user} />
@@ -328,6 +376,47 @@ export default function App() {
                 {loading ? 'LOADING…' : 'BEGIN EXAM →'}
               </button>
             </div>
+
+            {/* Mini Exam Card */}
+            {(() => {
+              let miniSeenCount = 0
+              try {
+                miniSeenCount = JSON.parse(localStorage.getItem(`nce_mini_exam_seen_${user.id}`) || '[]').length
+              } catch {}
+              const miniTotal = totalQuestions
+              const miniPct = Math.round((miniSeenCount / miniTotal) * 100)
+              return (
+                <div className="mini-exam-hero">
+                  <div className="mini-exam-hero-body">
+                    <div className="mini-exam-hero-info">
+                      <span className="mini-exam-eyebrow">⚡ Quick Practice</span>
+                      <h3 className="mini-exam-title">Mini Exam</h3>
+                      <p className="mini-exam-desc">Don't have time to sit through a whole exam? Take a 20-question set drawn from all domains — no timer, pause whenever you need.</p>
+                      <div className="mini-exam-specs">
+                        <span>20 Questions</span>
+                        <span className="mini-spec-dot">·</span>
+                        <span>All Domains</span>
+                        <span className="mini-spec-dot">·</span>
+                        <span>No Timer</span>
+                      </div>
+                    </div>
+                    <div className="mini-exam-progress-block">
+                      <div className="mini-progress-header">
+                        <span className="mini-progress-label">QUESTION PROGRESS</span>
+                        <span className="mini-progress-nums">{miniSeenCount}<span className="mini-progress-total"> / {miniTotal}</span></span>
+                      </div>
+                      <div className="mini-progress-bar-wrap">
+                        <div className="mini-progress-bar-fill" style={{ width: `${miniPct}%` }} />
+                      </div>
+                      <p className="mini-progress-sub">{miniTotal - miniSeenCount} questions remaining in cycle</p>
+                    </div>
+                  </div>
+                  <button className="mini-exam-cta" onClick={openMiniExam} disabled={loading}>
+                    {loading ? 'LOADING…' : 'START MINI EXAM →'}
+                  </button>
+                </div>
+              )
+            })()}
 
             {/* Chapter Grid */}
             <div>
