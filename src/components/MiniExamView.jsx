@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect, useRef } from 'react'
 
 const LETTERS = ['A', 'B', 'C', 'D']
 
@@ -21,7 +21,7 @@ const DOMAIN_LABELS = {
   'Neuro, CBT, DBT, MI & ACT': 'Neuro, CBT, DBT, MI & ACT',
 }
 
-export default function MiniExamView({ questions, onBack, seenCount, totalCount, wasReset }) {
+export default function MiniExamView({ questions, onBack, seenCount, totalCount, wasReset, addMissed }) {
   const [started, setStarted] = useState(false)
   const [answers, setAnswers] = useState({})
   const [currentIndex, setCurrentIndex] = useState(0)
@@ -29,6 +29,17 @@ export default function MiniExamView({ questions, onBack, seenCount, totalCount,
   const [confirmSubmit, setConfirmSubmit] = useState(false)
   const [confirmExit, setConfirmExit] = useState(false)
   const [showPalette, setShowPalette] = useState(false)
+  const [reviewMode, setReviewMode] = useState(false)
+  const [reviewIndex, setReviewIndex] = useState(0)
+  const addedMissedRef = useRef(false)
+
+  useEffect(() => {
+    if (!submitted || !addMissed || addedMissedRef.current) return
+    addedMissedRef.current = true
+    questions.filter(q => answers[q.id] !== q.correct_index).forEach(q => {
+      addMissed(q, `ch${String(q.chapter).padStart(2, '0')}`)
+    })
+  }, [submitted])
 
   const q = questions[currentIndex]
   const answeredCount = Object.keys(answers).length
@@ -106,6 +117,50 @@ export default function MiniExamView({ questions, onBack, seenCount, totalCount,
   if (submitted) {
     const totalCorrect = questions.filter(q => answers[q.id] === q.correct_index).length
     const pct = Math.round((totalCorrect / questions.length) * 100)
+    const missedQuestions = questions.filter(q => answers[q.id] !== q.correct_index)
+
+    // ── Review mode ───────────────────────────────────────────────────────────
+    if (reviewMode && missedQuestions.length > 0) {
+      const rq = missedQuestions[reviewIndex]
+      const userAnswer = answers[rq.id]
+      return (
+        <div className="exam-review">
+          <div className="exam-review-header">
+            <button className="btn btn-ghost btn-sm" onClick={() => setReviewMode(false)}>← Back to Results</button>
+            <span className="exam-review-counter">Missed {reviewIndex + 1} / {missedQuestions.length}</span>
+          </div>
+          <div className="quiz-question-box">
+            <div className="quiz-q-header">
+              <div className="quiz-q-number">Question {reviewIndex + 1}</div>
+              <span className="exam-review-domain">{DOMAIN_LABELS[rq.domain] || rq.domain}</span>
+            </div>
+            <div className="quiz-question-text">{rq.question}</div>
+          </div>
+          <div className="quiz-options">
+            {rq.options.map((opt, i) => {
+              let cls = 'quiz-option'
+              if (i === rq.correct_index) cls += userAnswer === i ? ' correct' : ' revealed-correct'
+              else if (i === userAnswer) cls += ' incorrect'
+              return (
+                <button key={i} className={cls} disabled>
+                  <span className="option-letter">{LETTERS[i]}</span>
+                  <span>{opt}</span>
+                </button>
+              )
+            })}
+          </div>
+          {rq.rationale && (
+            <div className="quiz-rationale">
+              <strong>Rationale:</strong> {rq.rationale}
+            </div>
+          )}
+          <div className="exam-review-nav">
+            <button className="btn btn-ghost" onClick={() => setReviewIndex(i => i - 1)} disabled={reviewIndex === 0}>← Prev</button>
+            <button className="btn btn-ghost" onClick={() => setReviewIndex(i => i + 1)} disabled={reviewIndex === missedQuestions.length - 1}>Next →</button>
+          </div>
+        </div>
+      )
+    }
 
     const domainResults = {}
     questions.forEach(q => {
@@ -162,9 +217,15 @@ export default function MiniExamView({ questions, onBack, seenCount, totalCount,
           </>
         )}
 
+        {missedQuestions.length > 0 && (
+          <button className="btn btn-primary" style={{ marginTop: '8px' }} onClick={() => { setReviewMode(true); setReviewIndex(0) }}>
+            Review {missedQuestions.length} Missed Question{missedQuestions.length !== 1 ? 's' : ''} →
+          </button>
+        )}
+
         <div className="mini-exam-result-actions">
           <button className="btn btn-secondary" onClick={onBack}>← Back to Home</button>
-          <button className="btn btn-primary" onClick={onBack}>
+          <button className="btn btn-ghost" onClick={onBack}>
             Start Another →
           </button>
         </div>

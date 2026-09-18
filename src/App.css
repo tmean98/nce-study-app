@@ -1941,6 +1941,45 @@
   justify-content: center;
 }
 
+/* ── Exam / Mini Exam Review Mode ── */
+.exam-review {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.exam-review-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.exam-review-counter {
+  font-family: 'Manrope', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #718096;
+  letter-spacing: 0.5px;
+}
+
+.exam-review-domain {
+  font-size: 11px;
+  font-weight: 600;
+  color: #D4A84F;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.exam-review-nav {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 8px;
+}
+
 /* ── Exam Results ── */
 .exam-results {
   max-width: 600px;

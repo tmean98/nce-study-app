@@ -22,7 +22,7 @@ function formatTime(seconds) {
   return `${h}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`
 }
 
-export default function ExamView({ questions, onBack, user, isAdmin }) {
+export default function ExamView({ questions, onBack, user, isAdmin, addMissed }) {
   const [started, setStarted] = useState(false)
   const [answers, setAnswers] = useState({})
   const [flagged, setFlagged] = useState(new Set())
@@ -34,7 +34,18 @@ export default function ExamView({ questions, onBack, user, isAdmin }) {
   const [showPalette, setShowPalette] = useState(false)
   const [saved, setSaved] = useState(false)
   const [saving, setSaving] = useState(false)
+  const [reviewMode, setReviewMode] = useState(false)
+  const [reviewIndex, setReviewIndex] = useState(0)
   const timeLeftRef = useRef(EXAM_DURATION)
+  const addedMissedRef = useRef(false)
+
+  useEffect(() => {
+    if (!submitted || !addMissed || addedMissedRef.current) return
+    addedMissedRef.current = true
+    questions.filter(q => !q.isFieldTest && answers[q.id] !== q.correct_index).forEach(q => {
+      addMissed(q, `ch${String(q.chapter).padStart(2, '0')}`)
+    })
+  }, [submitted])
 
   useEffect(() => {
     if (!started || submitted) return
@@ -175,8 +186,50 @@ export default function ExamView({ questions, onBack, user, isAdmin }) {
       .map(([domain, { correct, total }]) => ({ domain, correct, total, pct: Math.round((correct / total) * 100) }))
       .sort((a, b) => b.pct - a.pct)
 
-    const strengths = sortedDomains.filter(d => d.pct >= 70)
-    const focusAreas = sortedDomains.filter(d => d.pct < passingThreshold)
+    const missedQuestions = scoredQuestions.filter(q => answers[q.id] !== q.correct_index)
+
+    // ── Review mode ───────────────────────────────────────────────────────────
+    if (reviewMode && missedQuestions.length > 0) {
+      const rq = missedQuestions[reviewIndex]
+      const userAnswer = answers[rq.id]
+      return (
+        <div className="exam-review">
+          <div className="exam-review-header">
+            <button className="btn btn-ghost btn-sm" onClick={() => setReviewMode(false)}>← Back to Results</button>
+            <span className="exam-review-counter">Missed {reviewIndex + 1} / {missedQuestions.length}</span>
+          </div>
+          <div className="quiz-question-box">
+            <div className="quiz-q-header">
+              <div className="quiz-q-number">Question {reviewIndex + 1}</div>
+              <span className="exam-review-domain">{DOMAIN_LABELS[rq.domain] || rq.domain}</span>
+            </div>
+            <div className="quiz-question-text">{rq.question}</div>
+          </div>
+          <div className="quiz-options">
+            {rq.options.map((opt, i) => {
+              let cls = 'quiz-option'
+              if (i === rq.correct_index) cls += userAnswer === i ? ' correct' : ' revealed-correct'
+              else if (i === userAnswer) cls += ' incorrect'
+              return (
+                <button key={i} className={cls} disabled>
+                  <span className="option-letter">{LETTERS[i]}</span>
+                  <span>{opt}</span>
+                </button>
+              )
+            })}
+          </div>
+          {rq.rationale && (
+            <div className="quiz-rationale">
+              <strong>Rationale:</strong> {rq.rationale}
+            </div>
+          )}
+          <div className="exam-review-nav">
+            <button className="btn btn-ghost" onClick={() => setReviewIndex(i => i - 1)} disabled={reviewIndex === 0}>← Prev</button>
+            <button className="btn btn-ghost" onClick={() => setReviewIndex(i => i + 1)} disabled={reviewIndex === missedQuestions.length - 1}>Next →</button>
+          </div>
+        </div>
+      )
+    }
 
     return (
       <div className="exam-results">
@@ -256,6 +309,11 @@ export default function ExamView({ questions, onBack, user, isAdmin }) {
         )}
         {saved && <p className="save-confirmed">Score saved!</p>}
 
+        {missedQuestions.length > 0 && (
+          <button className="btn btn-primary" onClick={() => { setReviewMode(true); setReviewIndex(0) }}>
+            Review {missedQuestions.length} Missed Question{missedQuestions.length !== 1 ? 's' : ''} →
+          </button>
+        )}
         <button className="btn btn-secondary" onClick={onBack}>← Back to Home</button>
       </div>
     )
