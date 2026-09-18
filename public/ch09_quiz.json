@@ -137,7 +137,8 @@
       "control group with at least 60 subjects; experimental group with at least 60 subjects"
     ],
     "correct_index": 2,
-    "rationale": "The control group and the experimental group both have the same characteristics except that members of the control group will not have the experimental treatment applied to them. In this case, for example, the control group will not receive the biofeedback training. The control group does not receive the IV. The experimental group receives the IV. The basic presupposition is that the averages (or means) of the groups do not differ significantly at the beginning of the experiment. Choice “d” would also be a correct answer if it said 15 per group instead of 60. Remember that if you cannot randomly assign the subjects to the two groups then your exam will consider the research a quasiexperiment. Most experts suggest that you need at least 30 people to conduct a true experiment. Correlational research requires 30 subjects per variable while a survey should include at least 100 people."
+    "rationale": "The control group and the experimental group both have the same characteristics except that members of the control group will not have the experimental treatment applied to them. In this case, for example, the control group will not receive the biofeedback training. The control group does not receive the IV. The experimental group receives the IV. The basic presupposition is that the averages (or means) of the groups do not differ significantly at the beginning of the experiment. Choice “d” would also be a correct answer if it said 15 per group instead of 60. Remember that if you cannot randomly assign the subjects to the two groups then your exam will consider the research a quasiexperiment. Most experts suggest that you need at least 30 people to conduct a true experiment. Correlational research requires 30 subjects per variable while a survey should include at least 100 people.",
+    "context": "A professor of counselor education hypothesized that biofeedback training could reduce anxiety and improve the average score on written board exams. If this professor decides to conduct a formal experiment the IV will be the ________, and the DV will be the ________."
   },
   {
     "id": "ch09_q_711",
@@ -151,7 +152,8 @@
       "the organismic IV."
     ],
     "correct_index": 2,
-    "rationale": "The experimental group receives the IV, which in this case is the biofeedback training. An organismic variable is one the researcher cannot control yet exists, such as height, weight, or gender. To determine whether an organismic IV exists you simply ask yourself if there is an experimental variable being examined which you cannot manipulate. In most cases, when you are confronted with IV/DV identification questions, the IV will be of the “manipulated variety.”"
+    "rationale": "The experimental group receives the IV, which in this case is the biofeedback training. An organismic variable is one the researcher cannot control yet exists, such as height, weight, or gender. To determine whether an organismic IV exists you simply ask yourself if there is an experimental variable being examined which you cannot manipulate. In most cases, when you are confronted with IV/DV identification questions, the IV will be of the “manipulated variety.”",
+    "context": "A professor of counselor education hypothesized that biofeedback training could reduce anxiety and improve the average score on written board exams. If this professor decides to conduct a formal experiment the IV will be the ________, and the DV will be the ________."
   },
   {
     "id": "ch09_q_712",
@@ -179,7 +181,8 @@
       "meta-analysis is required."
     ],
     "correct_index": 2,
-    "rationale": "The null hypothesis asserts that the samples will not change (i.e., they will still be the same) even after the experimental variable is applied. Let me say that in a slightly different way: According to the null hypothesis the control group and the experimental group will not differ at the end of the experiment. The null hypothesis is simply that the IV does not affect the DV. Null means “nil” or “nothing.” Null is a statement of “no difference.” Choice “d” introduces the term meta-analysis, which is a study that analyzes the findings of numerous studies. Hence, a study of reality therapy that looked at the results of 20 reality therapy studies would be a meta-analysis."
+    "rationale": "The null hypothesis asserts that the samples will not change (i.e., they will still be the same) even after the experimental variable is applied. Let me say that in a slightly different way: According to the null hypothesis the control group and the experimental group will not differ at the end of the experiment. The null hypothesis is simply that the IV does not affect the DV. Null means “nil” or “nothing.” Null is a statement of “no difference.” Choice “d” introduces the term meta-analysis, which is a study that analyzes the findings of numerous studies. Hence, a study of reality therapy that looked at the results of 20 reality therapy studies would be a meta-analysis.",
+    "context": "A professor of counselor education hypothesized that biofeedback training could reduce anxiety and improve the average score on written board exams. If this professor decides to conduct a formal experiment the IV will be the ________, and the DV will be the ________."
   },
   {
     "id": "ch09_q_714",
@@ -193,7 +196,8 @@
       "the experiment has been confounded."
     ],
     "correct_index": 0,
-    "rationale": "An alternative hypothesis—which may be called the “affirmative hypothesis” on your exam—asserts that the IV has indeed caused a change."
+    "rationale": "An alternative hypothesis—which may be called the “affirmative hypothesis” on your exam—asserts that the IV has indeed caused a change.",
+    "context": "A professor of counselor education hypothesized that biofeedback training could reduce anxiety and improve the average score on written board exams. If this professor decides to conduct a formal experiment the IV will be the ________, and the DV will be the ________."
   },
   {
     "id": "ch09_q_715",
@@ -333,7 +337,8 @@
       "b and c."
     ],
     "correct_index": 0,
-    "rationale": "Questions like this can be very difficult. Be sure to utilize scratch paper to write down your thoughts if your exam allows you to do so! First, write down (or mentally picture) the null hypothesis regarding the experiment in question. In this case null would indicate that biofeedback did not raise board exam scores. This question tells you that the experimental results revealed that biofeedback did raise board scores, so you will reject the null hypothesis. The question then goes on to say that in reality the biofeedback did not really cause the results. Therefore, you have rejected null when it is true/applicable. This is the definition of a Type I or alpha error. Since the experimenter sets the alpha level, he or she is always cognizant of the probability of making a Type I error."
+    "rationale": "Questions like this can be very difficult. Be sure to utilize scratch paper to write down your thoughts if your exam allows you to do so! First, write down (or mentally picture) the null hypothesis regarding the experiment in question. In this case null would indicate that biofeedback did not raise board exam scores. This question tells you that the experimental results revealed that biofeedback did raise board scores, so you will reject the null hypothesis. The question then goes on to say that in reality the biofeedback did not really cause the results. Therefore, you have rejected null when it is true/applicable. This is the definition of a Type I or alpha error. Since the experimenter sets the alpha level, he or she is always cognizant of the probability of making a Type I error.",
+    "context": "A professor of counselor education hypothesized that biofeedback training could reduce anxiety and improve the average score on written board exams. If this professor decides to conduct a formal experiment the IV will be the ________, and the DV will be the ________."
   },
   {
     "id": "ch09_q_725",
@@ -389,7 +394,8 @@
       "ANOVA."
     ],
     "correct_index": 3,
-    "rationale": "This is a tough question. A one-way analysis of variance is used for testing one independent variable, while a two-way analysis of variance is used to test two independent variables. When a study has more than one DV the term multivariate analysis of variance (MANOVA) is utilized. The answer is choice “d” since the simple ANOVA or one-way analysis of variance is used when there is more than one level of a single IV, which in this case is the assertiveness training."
+    "rationale": "This is a tough question. A one-way analysis of variance is used for testing one independent variable, while a two-way analysis of variance is used to test two independent variables. When a study has more than one DV the term multivariate analysis of variance (MANOVA) is utilized. The answer is choice “d” since the simple ANOVA or one-way analysis of variance is used when there is more than one level of a single IV, which in this case is the assertiveness training.",
+    "context": "A counselor believes that clients who receive assertiveness training will ask more questions in counseling classes. An experimental group receives assertiveness training while a control group does not. In order to test for significant differences between the groups the counselor should utilize"
   },
   {
     "id": "ch09_q_729",
@@ -403,7 +409,8 @@
       "ANOVA."
     ],
     "correct_index": 2,
-    "rationale": "Two IVs requires a two-way ANOVA, three IVs, a three-way ANOVA, etc."
+    "rationale": "Two IVs requires a two-way ANOVA, three IVs, a three-way ANOVA, etc.",
+    "context": "The researcher in question 727 now attempts a more complex experiment. One group receives no assertiveness training, a second group receives four assertiveness training sessions, and a third receives six sessions. The statistic of choice would be the"
   },
   {
     "id": "ch09_q_730",
@@ -907,7 +914,8 @@
       "+ or -2 SD of the mean."
     ],
     "correct_index": 3,
-    "rationale": "Two SD would be IQs from 70 to 130 since 2 SD would be 30 IQ points. Please note that if everybody scored the same on the test then the SD would be zero. An SD, for example, of 1.8 has scores closer to the mean (i.e., not as spread out or scattered) than an SD of 2.8. The greater the SD, the greater is the spread."
+    "rationale": "Two SD would be IQs from 70 to 130 since 2 SD would be 30 IQ points. Please note that if everybody scored the same on the test then the SD would be zero. An SD, for example, of 1.8 has scores closer to the mean (i.e., not as spread out or scattered) than an SD of 2.8. The greater the SD, the greater is the spread.",
+    "context": "The variance is a measure of dispersion of scores around some measure of central tendency. The variance is the standard deviation squared. A popular IQ test has a standard deviation (SD) of 15. A counselor would expect that if the mean IQ score is 100, then"
   },
   {
     "id": "ch09_q_766",

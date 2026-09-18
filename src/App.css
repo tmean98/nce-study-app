@@ -1284,6 +1284,34 @@
 }
 .toolbar-btn.active { color: #facc15; border-color: #facc15; }
 
+/* ── Context box (for questions that reference a prior question) ── */
+.question-context-box {
+  background: #1a2a1a;
+  border: 1px solid #2d4a2d;
+  border-left: 3px solid #4a8c4a;
+  border-radius: 6px;
+  padding: 14px 16px;
+  margin-bottom: 4px;
+}
+
+.question-context-label {
+  display: block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #4a8c4a;
+  margin-bottom: 8px;
+}
+
+.question-context-text {
+  font-size: 14px;
+  color: #a8c8a8;
+  line-height: 1.6;
+  margin: 0;
+}
+
 /* ── Quiz ── */
 .quiz-question-box {
   background: #1e293b;

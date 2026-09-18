@@ -1005,7 +1005,8 @@
       "stimulus discrimination."
     ],
     "correct_index": 3,
-    "rationale": "Stimulus discrimination is nearly the opposite of stimulus generalization. Here the learning process is “fine tuned,” if you will, to respond only to a specific stimulus. In this example, the dog would be taught to salivate only when the department chairman sounds the horn in his vehicle. A piano key, a buzzer on a stove, or the original toy bell would not elicit (i.e., cause) the reaction. Stimulus discrimination is at times referred to as “stimulus differentiation” in some of the literature. Pica, choice “c”, is the tendency for humans to eat objects that are non food, non nutritive items, such as chewing on a pencil or lead paint (the latter of which can cause irreversible brain damage). Some people believe pica is a psychological difficulty while other experts insist it occurs due to a lack of minerals in the diet."
+    "rationale": "Stimulus discrimination is nearly the opposite of stimulus generalization. Here the learning process is “fine tuned,” if you will, to respond only to a specific stimulus. In this example, the dog would be taught to salivate only when the department chairman sounds the horn in his vehicle. A piano key, a buzzer on a stove, or the original toy bell would not elicit (i.e., cause) the reaction. Stimulus discrimination is at times referred to as “stimulus differentiation” in some of the literature. Pica, choice “c”, is the tendency for humans to eat objects that are non food, non nutritive items, such as chewing on a pencil or lead paint (the latter of which can cause irreversible brain damage). Some people believe pica is a psychological difficulty while other experts insist it occurs due to a lack of minerals in the diet.",
+    "context": "Several graduate students in counseling trained a poodle to salivate to a child’s toy horn using Pavlov’s classical conditioning paradigm. One day the department chairman was driving across campus and honked his horn. Much to the chagrin of the students, the poodle elicited a salivation response. What had happened?"
   },
   {
     "id": "ch05_q_274",
@@ -1019,7 +1020,8 @@
       "a covert process confounded the experiment."
     ],
     "correct_index": 0,
-    "rationale": "“Stop it, you’re driving this dog crazy” would be the correct response to this question. Pavlov termed this phenomenon “experimental neurosis.” When the differentiation process becomes too tough because the stimuli are almost identical, the dog will show signs of emotional disturbance. Reminder: On questions of this nature, some exams will refer to the CS as the NS, or “neutral stimulus,” and the UCS as the “reinforcing” or “charged stimulus.”"
+    "rationale": "“Stop it, you’re driving this dog crazy” would be the correct response to this question. Pavlov termed this phenomenon “experimental neurosis.” When the differentiation process becomes too tough because the stimuli are almost identical, the dog will show signs of emotional disturbance. Reminder: On questions of this nature, some exams will refer to the CS as the NS, or “neutral stimulus,” and the UCS as the “reinforcing” or “charged stimulus.”",
+    "context": "The department chairman found the poodle’s response (see question 272) to his automobile horn humorous. He thus instructed the graduate students to train the dog to salivate only to his car horn and not the original toy bell. Indeed the graduate students were able to perform this task. The poodle was now demonstrating 149"
   },
   {
     "id": "ch05_q_275",

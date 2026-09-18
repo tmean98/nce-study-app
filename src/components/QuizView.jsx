@@ -290,6 +290,13 @@ export default function QuizView({ questions, chapterName, chapterId, onBack, us
         <div className="progress-bar-fill" style={{ width: `${((index + 1) / total) * 100}%` }} />
       </div>
 
+      {q.context && (
+        <div className="question-context-box">
+          <span className="question-context-label">CONTEXT (referenced question)</span>
+          <p className="question-context-text">{q.context}</p>
+        </div>
+      )}
+
       <div className="quiz-question-box">
         <div className="quiz-q-header">
           <div className="quiz-q-number">

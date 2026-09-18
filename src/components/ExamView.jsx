@@ -198,6 +198,12 @@ export default function ExamView({ questions, onBack, user, isAdmin, addMissed }
             <button className="btn btn-ghost btn-sm" onClick={() => setReviewMode(false)}>← Back to Results</button>
             <span className="exam-review-counter">Missed {reviewIndex + 1} / {missedQuestions.length}</span>
           </div>
+          {rq.context && (
+            <div className="question-context-box">
+              <span className="question-context-label">CONTEXT (referenced question)</span>
+              <p className="question-context-text">{rq.context}</p>
+            </div>
+          )}
           <div className="quiz-question-box">
             <div className="quiz-q-header">
               <div className="quiz-q-number">Question {reviewIndex + 1}</div>
@@ -354,6 +360,13 @@ export default function ExamView({ questions, onBack, user, isAdmin, addMissed }
       </div>
 
       {/* Question */}
+      {q.context && (
+        <div className="question-context-box">
+          <span className="question-context-label">CONTEXT (referenced question)</span>
+          <p className="question-context-text">{q.context}</p>
+        </div>
+      )}
+
       <div className="quiz-question-box">
         <div className="quiz-q-header">
           <div className="quiz-q-number">Question {currentIndex + 1}</div>
