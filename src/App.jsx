@@ -372,51 +372,25 @@ export default function App() {
                 </div>
               </div>
               <p className="exam-hero-desc">Simulate the real thing. See where you stand.</p>
-              <button className="exam-hero-cta" onClick={openExam} disabled={loading}>
-                {loading ? 'LOADING…' : 'BEGIN EXAM →'}
-              </button>
-            </div>
-
-            {/* Mini Exam Card */}
-            {(() => {
-              let miniSeenCount = 0
-              try {
-                miniSeenCount = JSON.parse(localStorage.getItem(`nce_mini_exam_seen_${user.id}`) || '[]').length
-              } catch {}
-              const miniTotal = totalQuestions
-              const miniPct = Math.round((miniSeenCount / miniTotal) * 100)
-              return (
-                <div className="mini-exam-hero">
-                  <div className="mini-exam-hero-body">
-                    <div className="mini-exam-hero-info">
-                      <span className="mini-exam-eyebrow">⚡ Quick Practice</span>
-                      <h3 className="mini-exam-title">Mini Exam</h3>
-                      <p className="mini-exam-desc">Don't have time to sit through a whole exam? Take a 20-question set drawn from all domains — no timer, pause whenever you need.</p>
-                      <div className="mini-exam-specs">
-                        <span>20 Questions</span>
-                        <span className="mini-spec-dot">·</span>
-                        <span>All Domains</span>
-                        <span className="mini-spec-dot">·</span>
-                        <span>No Timer</span>
-                      </div>
-                    </div>
-                    <div className="mini-exam-progress-block">
-                      <div className="mini-progress-header">
-                        <span className="mini-progress-label">QUESTION PROGRESS</span>
-                        <span className="mini-progress-nums">{miniSeenCount}<span className="mini-progress-total"> / {miniTotal}</span></span>
-                      </div>
-                      <div className="mini-progress-bar-wrap">
-                        <div className="mini-progress-bar-fill" style={{ width: `${miniPct}%` }} />
-                      </div>
-                      <p className="mini-progress-sub">{miniTotal - miniSeenCount} questions remaining in cycle</p>
-                    </div>
-                  </div>
-                  <button className="mini-exam-cta" onClick={openMiniExam} disabled={loading}>
-                    {loading ? 'LOADING…' : 'START MINI EXAM →'}
+              <div className="exam-hero-actions">
+                <button className="exam-hero-cta" onClick={openExam} disabled={loading}>
+                  {loading ? 'LOADING…' : 'BEGIN EXAM →'}
+                </button>
+                <div className="mini-exam-inline">
+                  <button className="mini-exam-inline-btn" onClick={openMiniExam} disabled={loading}>
+                    ⚡ MINI EXAM
                   </button>
+                  {(() => {
+                    let miniSeenCount = 0
+                    try { miniSeenCount = JSON.parse(localStorage.getItem(`nce_mini_exam_seen_${user.id}`) || '[]').length } catch {}
+                    return (
+                      <span className="mini-exam-inline-progress">{miniSeenCount} / {totalQuestions} seen</span>
+                    )
+                  })()}
+                  <p className="mini-exam-inline-caption">Don't have time for the full exam?</p>
                 </div>
-              )
-            })()}
+              </div>
+            </div>
 
             {/* Chapter Grid */}
             <div>
