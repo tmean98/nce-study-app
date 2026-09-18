@@ -159,6 +159,23 @@ export default function App() {
     setLoading(false)
   }
 
+  const CONTEXT_QUESTION_IDS = new Set([
+    'ch05_q_273','ch05_q_274',
+    'ch09_q_710','ch09_q_711','ch09_q_713','ch09_q_714','ch09_q_724','ch09_q_728','ch09_q_729','ch09_q_765',
+    'ch11_q_943','ch12_q_1050','ch12_q_1092',
+  ])
+
+  async function openContextTest() {
+    setLoading(true)
+    const files = ['ch05', 'ch09', 'ch11', 'ch12']
+    const allData = await Promise.all(files.map(id => fetch(`/${id}_quiz.json?v=2`, { cache: 'no-store' }).then(r => r.json())))
+    const questions = allData.flat().filter(q => CONTEXT_QUESTION_IDS.has(q.id))
+    setData(questions)
+    setActiveChapter({ id: 'admin_context_test', name: 'Admin', title: 'Context Questions Test' })
+    setView('quiz')
+    setLoading(false)
+  }
+
   async function openMiniExam() {
     setLoading(true)
     const allData = await Promise.all(
@@ -377,6 +394,11 @@ export default function App() {
                 <button className="exam-hero-cta" onClick={openExam} disabled={loading}>
                   {loading ? 'LOADING…' : 'BEGIN EXAM →'}
                 </button>
+                {isAdmin && (
+                  <button className="btn btn-ghost btn-sm admin-context-test-btn" onClick={openContextTest} disabled={loading} title="Admin: preview all 13 context questions">
+                    🔬 Context Test
+                  </button>
+                )}
                 <div className="mini-exam-inline">
                   <button className="mini-exam-inline-btn" onClick={openMiniExam} disabled={loading}>
                     ⚡ MINI EXAM
