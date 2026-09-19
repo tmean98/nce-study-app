@@ -775,8 +775,26 @@
   border-radius: 6px;
   padding: 20px 24px;
   display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.rogers-img {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #7B68EE;
+  flex-shrink: 0;
+  align-self: center;
+}
+
+.rogers-content {
+  display: flex;
   flex-direction: column;
   gap: 10px;
+  flex: 1;
 }
 
 .rogers-eyebrow {

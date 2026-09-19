@@ -468,14 +468,15 @@ export default function App() {
 
             {/* What Would Rogers Say */}
             <div className="rogers-widget">
-              <div className="rogers-widget-header">
+              <img src="/rogers.png" alt="Carl Rogers" className="rogers-img" />
+              <div className="rogers-content">
                 <span className="rogers-eyebrow">🛋️ What Would Rogers Say?</span>
+                <p className="rogers-quote">"{ROGERS_QUOTES[rogersIndex]}"</p>
+                <p className="rogers-attribution">— Carl Rogers (probably)</p>
+                <button className="rogers-btn" onClick={() => setRogersIndex(i => (i + 1) % ROGERS_QUOTES.length)}>
+                  Another dose of UPR →
+                </button>
               </div>
-              <p className="rogers-quote">"{ROGERS_QUOTES[rogersIndex]}"</p>
-              <p className="rogers-attribution">— Carl Rogers (probably)</p>
-              <button className="rogers-btn" onClick={() => setRogersIndex(i => (i + 1) % ROGERS_QUOTES.length)}>
-                Another dose of UPR →
-              </button>
             </div>
 
             {/* Chapter Grid */}
