@@ -161,7 +161,7 @@ export default function App() {
 
   async function openView(ch, mode) {
     setLoading(true)
-    const res = await fetch(`/${ch.id}_${mode}.json?v=2`, { cache: 'no-store' })
+    const res = await fetch(`/${ch.id}_${mode}.json?v=3`, { cache: 'no-store' })
     const json = await res.json()
     setData(json)
     setActiveChapter(ch)
@@ -172,7 +172,7 @@ export default function App() {
   async function openExam() {
     setLoading(true)
     const allData = await Promise.all(
-      EXAM_DOMAINS.map(({ chId }) => fetch(`/${chId}_quiz.json?v=2`, { cache: 'no-store' }).then(r => r.json()))
+      EXAM_DOMAINS.map(({ chId }) => fetch(`/${chId}_quiz.json?v=3`, { cache: 'no-store' }).then(r => r.json()))
     )
     const pool = []
     allData.forEach((questions, i) => {
@@ -200,7 +200,7 @@ export default function App() {
   async function openContextTest() {
     setLoading(true)
     const files = ['ch05', 'ch09', 'ch11', 'ch12']
-    const allData = await Promise.all(files.map(id => fetch(`/${id}_quiz.json?v=2`, { cache: 'no-store' }).then(r => r.json())))
+    const allData = await Promise.all(files.map(id => fetch(`/${id}_quiz.json?v=3`, { cache: 'no-store' }).then(r => r.json())))
     const questions = allData.flat().filter(q => CONTEXT_QUESTION_IDS.has(q.id))
     setData(questions)
     setActiveChapter({ id: 'admin_context_test', name: 'Admin', title: 'Context Questions Test' })
@@ -211,7 +211,7 @@ export default function App() {
   async function openMiniExam() {
     setLoading(true)
     const allData = await Promise.all(
-      CHAPTERS.map(ch => fetch(`/${ch.id}_quiz.json?v=2`, { cache: 'no-store' }).then(r => r.json()))
+      CHAPTERS.map(ch => fetch(`/${ch.id}_quiz.json?v=3`, { cache: 'no-store' }).then(r => r.json()))
     )
     const allQuestions = allData.flat()
     const totalCount = allQuestions.length
