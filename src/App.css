@@ -18,7 +18,7 @@
 }
 
 .exam-countdown-eyebrow {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 10px;
   font-weight: 800;
   letter-spacing: 2.5px;
@@ -26,7 +26,7 @@
 }
 
 .exam-countdown-date-label {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 11px;
   font-weight: 500;
   color: #4A6080;
@@ -46,14 +46,14 @@
 }
 
 .exam-countdown-num {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-weight: 800;
   color: #F4F1E8;
   line-height: 1;
 }
 
 .exam-countdown-unit-label {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 9px;
   font-weight: 600;
   letter-spacing: 1.5px;
@@ -62,7 +62,7 @@
 }
 
 .exam-countdown-sep {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-weight: 800;
   color: #D4A84F;
   margin-bottom: 12px;
@@ -85,7 +85,7 @@
 }
 
 .exam-countdown-tagline {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 11px;
   font-weight: 600;
   color: #4A6080;
@@ -131,7 +131,7 @@
 }
 
 .landing-brand-name {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 13px;
   font-weight: 800;
   color: #D4A84F;
@@ -140,7 +140,7 @@
 }
 
 .landing-brand-sub {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 11px;
   font-weight: 500;
   color: #4A6080;
@@ -151,7 +151,7 @@
 .landing-headline { display: flex; flex-direction: column; gap: 16px; }
 
 .landing-title {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 48px;
   font-weight: 800;
   color: #F4F1E8;
@@ -200,7 +200,7 @@
 }
 
 .landing-feature-num {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 20px;
   font-weight: 800;
   color: #F4F1E8;
@@ -256,7 +256,7 @@
 .auth-card-header { display: flex; flex-direction: column; gap: 6px; }
 
 .auth-card-title {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 26px;
   font-weight: 800;
   color: #F4F1E8;
@@ -332,7 +332,7 @@
   color: #0D172A;
   border: none;
   border-radius: 4px;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 12px;
   font-weight: 800;
   letter-spacing: 1.5px;
@@ -385,7 +385,7 @@
 .header-brand { display: flex; align-items: center; gap: 8px; }
 
 .header-mark {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 13px;
   font-weight: 800;
   color: #D4A84F;
@@ -393,7 +393,7 @@
 }
 
 .header-brand-text {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 13px;
   font-weight: 500;
   color: #4A6080;
@@ -448,7 +448,7 @@
 }
 
 .greeting-eyebrow {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
@@ -458,7 +458,7 @@
 }
 
 .greeting-name {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 28px;
   font-weight: 800;
   color: #f8fafc;
@@ -488,7 +488,7 @@
 .stress-emoji { font-size: 20px; }
 
 .stress-label {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 12px;
   font-weight: 700;
   color: #F4F1E8;
@@ -530,7 +530,7 @@
 }
 
 .pstat-num {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 22px;
   font-weight: 800;
   color: #f8fafc;
@@ -553,7 +553,7 @@
 }
 
 .continue-card-title {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 13px;
   font-weight: 600;
   color: #D8E4F0;
@@ -612,7 +612,7 @@
 .home-quote::before {
   content: '"';
   display: block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 32px;
   font-weight: 800;
   color: #D4A84F;
@@ -673,7 +673,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 7px;
   font-weight: 800;
   letter-spacing: 2.5px;
@@ -686,7 +686,7 @@
 
 .exam-hero-eyebrow {
   display: block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
@@ -696,7 +696,7 @@
 }
 
 .exam-hero-title {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 52px;
   font-weight: 800;
   color: #0D172A;
@@ -722,7 +722,7 @@
 .exam-spec-icon { font-size: 14px; color: #718096; }
 
 .exam-spec-num {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 28px;
   font-weight: 800;
   color: #0D172A;
@@ -756,7 +756,7 @@
   border: none;
   border-radius: 4px;
   padding: 13px 28px;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 12px;
   font-weight: 800;
   letter-spacing: 1.5px;
@@ -797,7 +797,7 @@
 }
 
 .rogers-eyebrow {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 1.5px;
@@ -826,7 +826,7 @@
   border: 1px solid #7B68EE;
   border-radius: 4px;
   padding: 7px 14px;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.5px;
@@ -855,7 +855,7 @@
   border: 1.5px solid rgba(13,23,42,0.35);
   border-radius: 4px;
   padding: 13px 20px;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 11px;
   font-weight: 800;
   letter-spacing: 1.5px;
@@ -885,7 +885,7 @@
 /* ── Mini Exam pre-start progress bar ── */
 .mini-exam-pre-eyebrow {
   display: block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
@@ -920,7 +920,7 @@
 }
 
 .mini-pre-progress-label {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 1.5px;
@@ -929,7 +929,7 @@
 }
 
 .mini-pre-progress-nums {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 18px;
   font-weight: 800;
   color: #0D172A;
@@ -964,7 +964,7 @@
 }
 
 .mini-exam-header-label {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 9px;
   font-weight: 800;
   letter-spacing: 2px;
@@ -973,7 +973,7 @@
 }
 
 .mini-exam-seen-chip {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 12px;
   font-weight: 700;
   color: #D4A84F;
@@ -991,7 +991,7 @@
 
 .mini-seen-label {
   display: block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 1.5px;
@@ -1002,7 +1002,7 @@
 
 .mini-seen-nums {
   display: block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 22px;
   font-weight: 800;
   color: #0D172A;
@@ -1056,7 +1056,7 @@
 }
 
 .chapter-grid-label {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
@@ -1080,7 +1080,7 @@
 .chapter-card:hover { border-color: #2a3f5f; }
 .chapter-card-inner { display: flex; gap: 16px; align-items: flex-start; }
 .chapter-card-numeral {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 42px;
   font-weight: 800;
   color: #1a2d47;
@@ -1093,7 +1093,7 @@
 .chapter-card-body { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 6px; }
 
 .chapter-card-title {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 13px;
   font-weight: 700;
   color: #e2e8f0;
@@ -1214,7 +1214,7 @@
 }
 
 .study-title {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #f1f5f9;
@@ -1403,7 +1403,7 @@
 
 .question-context-label {
   display: block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 1.5px;
@@ -1805,7 +1805,7 @@
 }
 .achievement-toast-icon { font-size: 32px; flex-shrink: 0; }
 .achievement-toast-label { font-size: 10px; font-weight: 700; letter-spacing: .1em; color: #D4A84F; text-transform: uppercase; }
-.achievement-toast-title { font-size: 15px; font-weight: 800; color: #f8fafc; font-family: 'Manrope', sans-serif; }
+.achievement-toast-title { font-size: 15px; font-weight: 800; color: #f8fafc; font-family: 'Playfair Display', sans-serif; }
 .achievement-toast-desc  { font-size: 12px; color: #94a3b8; margin-top: 1px; }
 
 /* ── Quiz Start Screen ── */
@@ -2093,7 +2093,7 @@
 }
 
 .exam-review-counter {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 12px;
   font-weight: 700;
   color: #718096;
@@ -2448,7 +2448,7 @@
 }
 
 .wm-eyebrow {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
@@ -2458,7 +2458,7 @@
 }
 
 .wm-title {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 24px;
   font-weight: 800;
   color: #F4F1E8;
@@ -2486,7 +2486,7 @@
 }
 .wm-stat { display: flex; flex-direction: column; gap: 3px; }
 .wm-stat-num {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 20px;
   font-weight: 800;
   color: #F4F1E8;
@@ -2523,7 +2523,7 @@
   align-items: flex-start;
 }
 .wm-mode-num {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 13px;
   font-weight: 800;
   color: #D4A84F;
@@ -2531,7 +2531,7 @@
   padding-top: 1px;
 }
 .wm-mode-title {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #D8E4F0;
@@ -2579,7 +2579,7 @@
   border: none;
   border-radius: 4px;
   padding: 10px 22px;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 12px;
   font-weight: 800;
   letter-spacing: 1px;
