@@ -29,6 +29,16 @@ const EXAM_DOMAINS = [
   { chId: 'ch10', count: 24 },
 ]
 
+const CAF_CHAPTERS = [
+  { id: 'caf01', name: 'CAF Ch 1', num: '1', title: 'Child & Adolescent Development',    questions: 11 },
+  { id: 'caf02', name: 'CAF Ch 2', num: '2', title: 'Individual Counseling',             questions: 11 },
+  { id: 'caf03', name: 'CAF Ch 3', num: '3', title: 'Creative Arts Interventions',       questions: 11 },
+  { id: 'caf04', name: 'CAF Ch 4', num: '4', title: 'Play Therapy',                      questions: 11 },
+  { id: 'caf05', name: 'CAF Ch 5', num: '5', title: 'Solution-Focused Brief Counseling', questions: 11 },
+  { id: 'caf06', name: 'CAF Ch 6', num: '6', title: 'Reality Therapy / Choice Theory',   questions: 11 },
+  { id: 'caf07', name: 'CAF Ch 7', num: '7', title: 'REBT with Children & Adolescents',  questions: 10 },
+]
+
 const CHAPTERS = [
   { id: 'ch03', name: 'Ch 3',  num: '03', title: 'Human Growth & Development',       questions: 100 },
   { id: 'ch04', name: 'Ch 4',  num: '04', title: 'Social & Cultural Diversity',       questions: 100 },
@@ -169,6 +179,18 @@ export default function App() {
     setLoading(false)
   }
 
+  async function openCAFExam() {
+    setLoading(true)
+    const allData = await Promise.all(
+      CAF_CHAPTERS.map(ch => fetch(`/${ch.id}_quiz.json?v=3`, { cache: 'no-store' }).then(r => r.json()))
+    )
+    const shuffled = allData.flat().sort(() => Math.random() - 0.5)
+    setData(shuffled)
+    setActiveChapter({ id: 'caf_exam', name: 'CAF', title: 'Midterm Practice Exam' })
+    setView('caf_exam')
+    setLoading(false)
+  }
+
   async function openExam() {
     setLoading(true)
     const allData = await Promise.all(
@@ -293,6 +315,9 @@ export default function App() {
       )}
       {view === 'exam' && data && (
         <ExamView questions={data} onBack={goHome} user={user} isAdmin={isAdmin} addMissed={addMissed} />
+      )}
+      {view === 'caf_exam' && data && (
+        <ExamView questions={data} onBack={goHome} user={user} isAdmin={isAdmin} addMissed={addMissed} duration={90 * 60} />
       )}
       {view === 'mini_exam' && data && miniExamMeta && (
         <MiniExamView
@@ -514,6 +539,59 @@ export default function App() {
                               <button className="ch-btn ch-btn-ghost" onClick={() => openView(ch, 'flashcards')}>Flashcards</button>
                               <button className="ch-btn ch-btn-primary" onClick={() => openView(ch, 'quiz')}>
                                 {started ? 'Continue →' : 'Start Quiz →'}
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+
+            {/* CAF Module */}
+            <div>
+              <div className="chapter-grid-header">
+                <span className="chapter-grid-label">CAF MIDTERM — COUN 6103</span>
+                <button
+                  className="exam-hero-cta"
+                  style={{ fontSize: '0.75rem', padding: '8px 16px' }}
+                  onClick={openCAFExam}
+                  disabled={loading}
+                >
+                  {loading ? 'LOADING…' : '75-Q Midterm Practice →'}
+                </button>
+              </div>
+              <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '1rem' }}>
+                Ch. 1–7 · Vernon &amp; Schimmel · Exam Oct 8 · 90 min · Room 205
+              </p>
+              <div className="chapter-grid">
+                {CAF_CHAPTERS.map(ch => {
+                  const chMastered = masteredByChapter[ch.id] || 0
+                  const chTotal = ch.questions
+                  const chPct = Math.round((chMastered / chTotal) * 100)
+                  const complete = chMastered === chTotal
+                  const started = chMastered > 0
+                  return (
+                    <div key={ch.id} className={`chapter-card${complete ? ' chapter-card-complete' : ''}`}>
+                      <div className="chapter-card-inner">
+                        <div className="chapter-card-numeral">{ch.num}</div>
+                        <div className="chapter-card-body">
+                          <p className="chapter-card-title">{ch.title}</p>
+                          <p className="chapter-card-meta">{ch.questions} QUESTIONS</p>
+                          {started && (
+                            <div className="chapter-card-bar-wrap">
+                              <div className="chapter-card-bar" style={{ width: `${chPct}%`, background: complete ? '#22c55e' : undefined }} />
+                            </div>
+                          )}
+                          <div className="chapter-card-footer">
+                            <span className="chapter-card-score">
+                              {complete ? '✓ Complete' : started ? `${chMastered} / ${chTotal} mastered` : 'Not started'}
+                            </span>
+                            <div className="chapter-card-actions">
+                              <button className="ch-btn ch-btn-primary" onClick={() => openView(ch, 'quiz')}>
+                                {started ? 'Continue →' : 'Study →'}
                               </button>
                             </div>
                           </div>

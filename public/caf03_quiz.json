@@ -1,0 +1,200 @@
+[
+  {
+    "id": "caf03_q01",
+    "chapter": 3,
+    "topic": "Creative Arts — Overview",
+    "concept": "Six creative arts modalities",
+    "question": "Chapter 3 organizes creative arts interventions into six modalities. Which of the following correctly lists all six?",
+    "options": [
+      "Drawing, painting, sculpting, photography, music, and bibliotherapy",
+      "Play/games, therapeutic writing, music, visual arts, literature, and drama",
+      "Journaling, cinematherapy, role play, puppetry, art therapy, and dance",
+      "Sand tray, puppets, storytelling, poetry, drama, and music therapy"
+    ],
+    "correct_index": 1,
+    "rationale": "Vernon & Barry (2013) identify six modalities: play/games, therapeutic writing, music, visual arts, literature, and drama. Each has distinct techniques and applications, but they can be combined for greater effectiveness. (Vernon & Schimmel, Ch. 3, p. 76)",
+    "difficulty": "easy",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 3, p. 76"
+  },
+  {
+    "id": "caf03_q02",
+    "chapter": 3,
+    "topic": "Creative Arts — Overview",
+    "concept": "Play and games vs. play therapy",
+    "question": "A school counselor incorporates board games and movement activities into sessions with elementary students. Which distinction must the counselor keep in mind?",
+    "options": [
+      "Using games in counseling is equivalent to play therapy and requires APT certification",
+      "Using play and games in counseling is not the same as play therapy, which requires extensive specialized training and certification",
+      "Play-based approaches are only appropriate for children under age 6 and should not be used in schools",
+      "Games are categorized under drama, not play, in the creative arts framework"
+    ],
+    "correct_index": 1,
+    "rationale": "Chapter 3 explicitly distinguishes using play and games as counseling interventions from play therapy, which is a specialized approach requiring extensive training, supervision, and certification through the Association for Play Therapy. Counselors can use play activities without being play therapists. (Vernon & Schimmel, Ch. 3, p. 78)",
+    "difficulty": "moderate",
+    "questionType": "look-alike",
+    "source": "Vernon & Schimmel, Ch. 3, p. 78"
+  },
+  {
+    "id": "caf03_q03",
+    "chapter": 3,
+    "topic": "Creative Arts — Rationale",
+    "concept": "12 reasons for using creative arts",
+    "question": "According to Vernon and Barry (2013), creative arts are 'truly global' because they are:",
+    "options": [
+      "Evidence-based and recognized in every country's mental health system",
+      "Applicable to clients of all ages from infancy through late adulthood",
+      "Culturally responsive and transcend cultural boundaries, making them applicable across diverse populations",
+      "Available online, allowing counselors to implement them globally via telehealth"
+    ],
+    "correct_index": 2,
+    "rationale": "Gladding (2016) notes that creative arts are 'truly global' — they transcend cultural boundaries and can be adapted for use with diverse populations. This cultural responsiveness is one of the twelve reasons cited for using creative arts with children and adolescents. (Vernon & Schimmel, Ch. 3, p. 77)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 3, p. 77"
+  },
+  {
+    "id": "caf03_q04",
+    "chapter": 3,
+    "topic": "Creative Arts — Therapeutic Writing",
+    "concept": "Scriptotherapy",
+    "question": "The term 'scriptotherapy' refers to which of the following creative arts modalities?",
+    "options": [
+      "Using movie scripts in cinematherapy to facilitate catharsis",
+      "Therapeutic writing — including journaling, poetry, letter writing, and other written expression",
+      "Creating dramatic scripts for role play and puppet theater",
+      "Writing behavioral contracts as part of structured CBT-based counseling"
+    ],
+    "correct_index": 1,
+    "rationale": "Scriptotherapy is the term used to describe therapeutic writing as a counseling intervention. It includes structured and unstructured journaling, letter writing, reciprocal writing, poetry, limericks, word clusters, lifelines, and write-arounds. (Vernon & Schimmel, Ch. 3, p. 80)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 3, p. 80"
+  },
+  {
+    "id": "caf03_q05",
+    "chapter": 3,
+    "topic": "Creative Arts — Literature",
+    "concept": "Bibliotherapy stages",
+    "question": "According to Kelsch and Emry (as cited in Gladding, 2016), the four stages of the bibliotherapy process are:",
+    "options": [
+      "Rapport-building, exploration, insight, and termination",
+      "Identification, catharsis, insight, and universality",
+      "Engagement, expression, reflection, and integration",
+      "Assessment, selection, processing, and application"
+    ],
+    "correct_index": 1,
+    "rationale": "The four stages are: (1) identification — client identifies with characters/situation; (2) catharsis — emotional connection; (3) insight — applying the content to their own life; (4) universality — recognizing they are not alone and becoming more empathic. (Vernon & Schimmel, Ch. 3, p. 101)",
+    "difficulty": "challenging",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 3, p. 101"
+  },
+  {
+    "id": "caf03_q06",
+    "chapter": 3,
+    "topic": "Creative Arts — Literature",
+    "concept": "Content vs. personalization questions",
+    "question": "After a client reads a bibliotherapy selection, a counselor asks, 'When have you felt the way Maya felt in that story?' This is an example of which type of question?",
+    "options": [
+      "A content question assessing comprehension of the reading",
+      "A personalization question helping the client apply the content to their own life",
+      "A scaling question measuring the intensity of the client's emotional response",
+      "A miracle question helping the client envision an alternative future"
+    ],
+    "correct_index": 1,
+    "rationale": "Vernon describes two types of bibliotherapy questions: content questions (checking comprehension of the text) and personalization questions (helping clients connect the material to their own experiences). Asking 'When have you felt like Maya?' is a personalization question. (Vernon & Schimmel, Ch. 3, p. 101)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 3, p. 101"
+  },
+  {
+    "id": "caf03_q07",
+    "chapter": 3,
+    "topic": "Creative Arts — Visual Arts",
+    "concept": "Art therapy vs. visual arts in counseling",
+    "question": "A counselor asks a client to draw how their family spends time together. A colleague suggests this means the counselor is practicing art therapy. How should the counselor respond?",
+    "options": [
+      "The colleague is correct — any use of drawing in counseling constitutes art therapy",
+      "Using visual arts as an adjunct in counseling is distinct from art therapy, which is a specialized profession requiring training and credentialing",
+      "Art therapy and counseling overlap completely, so the distinction is irrelevant",
+      "Only licensed professional counselors may use visual arts in counseling without art therapy credentials"
+    ],
+    "correct_index": 1,
+    "rationale": "Chapter 3 explicitly distinguishes using visual arts as a counseling tool from art therapy, which is 'a specialized profession with training and credentialing and entails using art in a therapeutic way to facilitate self-expression' (Vick, 2003). Counselors can use art media without being art therapists. (Vernon & Schimmel, Ch. 3, p. 95)",
+    "difficulty": "moderate",
+    "questionType": "look-alike",
+    "source": "Vernon & Schimmel, Ch. 3, p. 95"
+  },
+  {
+    "id": "caf03_q08",
+    "chapter": 3,
+    "topic": "Creative Arts — Visual Arts",
+    "concept": "Competency Collage intervention",
+    "question": "The 'Competency Collage' visual arts intervention is most specifically designed for clients who:",
+    "options": [
+      "Struggle with social skills and need to practice cooperative group projects",
+      "Are prone to self-downing and need help recognizing and focusing on their own strengths",
+      "Have limited verbal capacity and benefit from nonverbal expression of traumatic experiences",
+      "Are in the concrete operational stage and need tangible representations of abstract concepts"
+    ],
+    "correct_index": 1,
+    "rationale": "The Competency Collage asks clients to find images or words representing their strengths, which they then assemble into a collage displayed somewhere they will see regularly. It is specifically designed for adolescents (and children) prone to self-criticism and self-downing. (Vernon & Schimmel, Ch. 3, p. 98)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 3, p. 98"
+  },
+  {
+    "id": "caf03_q09",
+    "chapter": 3,
+    "topic": "Creative Arts — Drama",
+    "concept": "Drama types and applications",
+    "question": "A counselor asks a 10-year-old to 'play the role of his mother' so the counselor can better understand the child's home environment. This technique is an example of:",
+    "options": [
+      "Bibliotherapy — using narrative to facilitate insight",
+      "Reverse role play — a drama technique used for assessment and perspective-taking",
+      "Tracking — describing behavior without interpretation",
+      "The Adlerian 'Act as If' strategy for behavior rehearsal"
+    ],
+    "correct_index": 1,
+    "rationale": "Reverse role play is a drama technique where the client plays someone else's role (e.g., a parent, teacher, or peer). It promotes perspective-taking, problem-solving, and empathy — and in assessment, it can reveal information about relationships and family dynamics. (Vernon & Schimmel, Ch. 3, p. 103)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 3, p. 103"
+  },
+  {
+    "id": "caf03_q10",
+    "chapter": 3,
+    "topic": "Creative Arts — Drama",
+    "concept": "Which Hat Will You Wear intervention",
+    "question": "The drama intervention 'Which Hat Will You Wear?' is designed primarily to help young adolescents:",
+    "options": [
+      "Practice emotional regulation by adopting calm, alternative emotional states",
+      "Explore different social roles (e.g., risk-taker, leader, follower) and consider the advantages and disadvantages of each",
+      "Develop empathy by taking the perspective of peers who are experiencing social difficulties",
+      "Rehearse appropriate classroom behavior through structured behavioral role play"
+    ],
+    "correct_index": 1,
+    "rationale": "In 'Which Hat Will You Wear?', adolescents in pairs each put on labeled hats (e.g., 'risk-taker', 'leader', 'follower') and argue the positive aspects of that role while their partner argues the negatives. An observer records both sides for group debriefing. It targets the developmentally relevant adolescent task of identity and role exploration. (Vernon & Schimmel, Ch. 3, p. 104)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 3, p. 104"
+  },
+  {
+    "id": "caf03_q11",
+    "chapter": 3,
+    "topic": "Creative Arts — Overview",
+    "concept": "Counselor burnout prevention",
+    "question": "Among the 12 reasons cited for using creative arts with children and adolescents, which reason specifically benefits the counselor rather than the client?",
+    "options": [
+      "Creative arts reduce client reluctance and defensiveness",
+      "Creative arts help anchor concepts in memory between sessions",
+      "Creative arts are more engaging for the counselor and help prevent burnout",
+      "Creative arts address auditory, visual, and kinesthetic learning styles"
+    ],
+    "correct_index": 2,
+    "rationale": "One of the twelve reasons for using creative arts listed by Vernon and Barry (2013) is that they are more engaging for the counselor, which helps prevent burnout. Most of the twelve reasons benefit the client, but counselor engagement and wellness is also an explicit rationale. (Vernon & Schimmel, Ch. 3, p. 78)",
+    "difficulty": "challenging",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 3, p. 78"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "caf07_q01",
+    "chapter": 7,
+    "topic": "REBT — Origins",
+    "concept": "Albert Ellis and REBT",
+    "question": "Rational Emotive Behavior Therapy (REBT) was developed by which theorist, and what is its central premise?",
+    "options": [
+      "Aaron Beck; cognitive distortions cause emotional disorders",
+      "Albert Ellis; irrational beliefs — not events themselves — are the primary cause of emotional disturbance",
+      "William Glasser; unmet needs drive all maladaptive behavior",
+      "Alfred Adler; mistaken goals and lifestyle convictions produce psychological problems"
+    ],
+    "correct_index": 1,
+    "rationale": "REBT was developed by Albert Ellis. Its central premise, captured in the ABC model, is that activating events (A) do not directly cause emotional consequences (C) — rather, our beliefs (B) about events determine our reactions. Irrational beliefs are the primary driver of emotional disturbance. (Vernon & Schimmel, Ch. 7)",
+    "difficulty": "easy",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 7"
+  },
+  {
+    "id": "caf07_q02",
+    "chapter": 7,
+    "topic": "REBT — ABC Model",
+    "concept": "The B in the ABC model",
+    "question": "In the REBT ABC model, A represents the activating event, C represents the emotional and behavioral consequences, and B represents:",
+    "options": [
+      "Behavior — what the client does in response to the activating event",
+      "Background — the developmental history that predisposes the client to disturbance",
+      "Beliefs — the rational or irrational thoughts the client holds about the activating event",
+      "Bodily sensations — the physiological responses triggered by the event"
+    ],
+    "correct_index": 2,
+    "rationale": "In the REBT ABC model, B stands for Beliefs — the client's rational or irrational evaluative cognitions about the activating event. Ellis emphasized that it is our beliefs about events (B), not the events themselves (A), that create disturbed emotional and behavioral consequences (C). (Vernon & Schimmel, Ch. 7)",
+    "difficulty": "easy",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 7"
+  },
+  {
+    "id": "caf07_q03",
+    "chapter": 7,
+    "topic": "REBT — Irrational Beliefs",
+    "concept": "Musturbation",
+    "question": "In REBT, the concept of 'musturbation' refers to:",
+    "options": [
+      "The tendency to catastrophize setbacks into catastrophic, life-ruining events",
+      "The rigid absolute demand that things must be a certain way (e.g., 'I must succeed or I am worthless')",
+      "The belief that one cannot tolerate any frustration or discomfort whatsoever",
+      "The tendency to rate one's entire self-worth based on a single failure"
+    ],
+    "correct_index": 1,
+    "rationale": "Ellis coined 'musturbation' to describe the irrational demand that reality must conform to our wishes — using absolute musts, shoulds, and oughts. Examples: 'I must be approved of by everyone,' 'Things must go the way I want,' 'Others must treat me fairly at all times.' (Vernon & Schimmel, Ch. 7)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 7"
+  },
+  {
+    "id": "caf07_q04",
+    "chapter": 7,
+    "topic": "REBT — Irrational Beliefs",
+    "concept": "Rational vs. irrational beliefs",
+    "question": "Which of the following BEST illustrates a rational belief (as opposed to an irrational one) in REBT?",
+    "options": [
+      "'I must get an A on this test, or I am a complete failure as a student and a person'",
+      "'It would be terrible if my friends don't invite me to the party — I couldn't stand it'",
+      "'I would prefer to be included, and if I'm not, it will be disappointing but not devastating'",
+      "'People who leave me out must be punished because they absolutely should not treat me that way'"
+    ],
+    "correct_index": 2,
+    "rationale": "Rational beliefs in REBT are characterized by preferences rather than demands, acknowledging that unwanted events are unfortunate but not catastrophic or unbearable. 'I would prefer to be included' is a flexible, reality-based evaluation. The other options reflect musturbation, catastrophizing, low frustration tolerance, and other-rating. (Vernon & Schimmel, Ch. 7)",
+    "difficulty": "moderate",
+    "questionType": "look-alike",
+    "source": "Vernon & Schimmel, Ch. 7"
+  },
+  {
+    "id": "caf07_q05",
+    "chapter": 7,
+    "topic": "REBT — Disputing",
+    "concept": "The D in the ABCDE model",
+    "question": "In the extended ABCDE model of REBT, 'D' represents disputing. A counselor using logical disputing would ask a client which type of question?",
+    "options": [
+      "'What happened before this belief formed?'",
+      "'Where is the evidence that this belief is true? Is it logical? Does it help you?'",
+      "'How does this belief make you feel in your body?'",
+      "'What would your best friend say to you right now about this situation?'"
+    ],
+    "correct_index": 1,
+    "rationale": "Disputing in REBT challenges irrational beliefs using three types of questions: logical ('Is this belief logical?'), empirical ('Where is the evidence?'), and pragmatic ('Does holding this belief help you?'). These challenges help clients replace irrational beliefs with more rational, flexible alternatives. (Vernon & Schimmel, Ch. 7)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 7"
+  },
+  {
+    "id": "caf07_q06",
+    "chapter": 7,
+    "topic": "REBT — Irrational Beliefs",
+    "concept": "Low frustration tolerance",
+    "question": "A 13-year-old tells a counselor: 'I can't stand it when things don't go my way. It's just too much for me to handle.' In REBT, this reflects which irrational belief pattern?",
+    "options": [
+      "Musturbation — demanding that things must go as planned",
+      "Catastrophizing — labeling events as terrible and awful",
+      "Low frustration tolerance (LFT) — the belief that one cannot cope with difficulty or discomfort",
+      "Global self-rating — judging one's entire worth based on a single negative event"
+    ],
+    "correct_index": 2,
+    "rationale": "Low frustration tolerance (LFT) is the irrational belief that one literally cannot bear discomfort, inconvenience, or frustration — phrases like 'I can't stand it' and 'it's too much to handle' are hallmarks. Ellis believed LFT is a primary cause of many psychological problems in children and adolescents. (Vernon & Schimmel, Ch. 7)",
+    "difficulty": "moderate",
+    "questionType": "vignette",
+    "source": "Vernon & Schimmel, Ch. 7"
+  },
+  {
+    "id": "caf07_q07",
+    "chapter": 7,
+    "topic": "REBT — Applications with Children",
+    "concept": "Developmental adaptations",
+    "question": "When teaching the ABC model to a 9-year-old, the counselor should MOST appropriately:",
+    "options": [
+      "Present the full ABCDE model in a structured lecture format to build cognitive sophistication",
+      "Avoid the ABC model entirely since concrete operational children cannot understand that beliefs drive feelings",
+      "Use concrete, developmentally appropriate language and creative activities (e.g., stories, puppets, games) to teach the connection between thoughts and feelings",
+      "Focus exclusively on behavioral change without addressing cognitions until formal operations emerge"
+    ],
+    "correct_index": 2,
+    "rationale": "REBT is applied with children using developmentally appropriate adaptations. Vernon (a key figure in REBT with children) has developed numerous creative, concrete activities to teach the thought-feeling-behavior connection. Children can understand simplified versions of the ABC model through stories, games, and metaphors. (Vernon & Schimmel, Ch. 7)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 7"
+  },
+  {
+    "id": "caf07_q08",
+    "chapter": 7,
+    "topic": "REBT — ABCDE Model",
+    "concept": "The E in the ABCDE model",
+    "question": "In the REBT ABCDE model, 'E' represents the effective new philosophy or new emotional effect that follows successful disputing. What is the key characteristic of this new 'E'?",
+    "options": [
+      "The client no longer experiences any negative emotions about the activating event",
+      "The client develops an absolute certainty that the feared event will not occur",
+      "The client replaces irrational demands with flexible preferences, experiencing appropriate rather than disturbed emotions",
+      "The client develops insight into the childhood origins of the irrational belief"
+    ],
+    "correct_index": 2,
+    "rationale": "After successful disputing (D), the client develops an effective new philosophy (E): replacing absolute musts with flexible preferences. This leads to appropriate negative emotions (e.g., disappointment instead of devastation, concern instead of panic) rather than the elimination of all negative feeling. (Vernon & Schimmel, Ch. 7)",
+    "difficulty": "moderate",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 7"
+  },
+  {
+    "id": "caf07_q09",
+    "chapter": 7,
+    "topic": "REBT — Irrational Beliefs",
+    "concept": "Global self-rating",
+    "question": "An adolescent fails a math test and concludes: 'I'm stupid. I'm just a total failure as a person.' In REBT, this reflects which type of irrational belief?",
+    "options": [
+      "Musturbation — demanding they must have passed the test",
+      "Low frustration tolerance — believing they cannot cope with the failure",
+      "Catastrophizing — viewing the failure as a terrible, unbearable event",
+      "Global self-rating — judging one's entire worth as a person based on a single failure"
+    ],
+    "correct_index": 3,
+    "rationale": "Global self-rating (also called 'damnation') occurs when a person evaluates their entire worth based on a specific failure or flaw. REBT challenges this by teaching unconditional self-acceptance: a person can evaluate specific behaviors as bad while maintaining the philosophical position that human beings cannot be globally rated. (Vernon & Schimmel, Ch. 7)",
+    "difficulty": "moderate",
+    "questionType": "vignette",
+    "source": "Vernon & Schimmel, Ch. 7"
+  },
+  {
+    "id": "caf07_q10",
+    "chapter": 7,
+    "topic": "REBT — Techniques",
+    "concept": "REBT techniques with adolescents",
+    "question": "A counselor working with a 15-year-old who believes 'Everyone must like me or I'm worthless' wants to dispute this belief. Which REBT technique would MOST directly challenge the irrational demand?",
+    "options": [
+      "Exception-finding — identifying times when the client felt acceptable despite not being universally liked",
+      "Reverse role play — having the counselor model the irrational belief while the client argues against it",
+      "Scaling — asking the client to rate how bad it would 'really' be if someone didn't like them",
+      "Self-disclosure — sharing the counselor's own experience of not being universally liked"
+    ],
+    "correct_index": 1,
+    "rationale": "Reverse role play is a powerful REBT disputing technique in which the counselor models the irrational belief (playing 'devil's advocate') while the client argues against it. In arguing against the belief, the client practices the logical disputations that eventually become internalized. It is particularly effective with adolescents. (Vernon & Schimmel, Ch. 7)",
+    "difficulty": "challenging",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 7"
+  }
+]

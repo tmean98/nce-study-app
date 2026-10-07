@@ -1,0 +1,200 @@
+[
+  {
+    "id": "caf01_q01",
+    "chapter": 1,
+    "topic": "Cognitive Development",
+    "concept": "Piaget's concrete operational stage",
+    "question": "A 9-year-old client can solve logic problems about physical objects but struggles to reason about purely hypothetical situations. According to Piaget, this child is in which stage of cognitive development?",
+    "options": [
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational",
+      "Sensorimotor"
+    ],
+    "correct_index": 1,
+    "rationale": "The concrete operational stage (ages ~7-11) is marked by logical thinking about tangible, real-world objects, but an inability to reason abstractly about hypothetical scenarios. That capacity emerges in formal operations. (Vernon & Schimmel, Ch. 1)",
+    "difficulty": "easy",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 1"
+  },
+  {
+    "id": "caf01_q02",
+    "chapter": 1,
+    "topic": "Psychosocial Development",
+    "concept": "Erikson's stage for middle childhood",
+    "question": "According to Erikson's theory, a child ages 6-12 who receives consistent encouragement from teachers and parents is most likely resolving which psychosocial stage successfully?",
+    "options": [
+      "Initiative vs. Guilt",
+      "Identity vs. Role Confusion",
+      "Industry vs. Inferiority",
+      "Autonomy vs. Shame and Doubt"
+    ],
+    "correct_index": 2,
+    "rationale": "Erikson's Industry vs. Inferiority stage (ages 6-12) centers on children developing a sense of competence through academic and social mastery. Encouragement from adults supports the 'industry' pole; repeated failure or criticism risks 'inferiority.' (Vernon & Schimmel, Ch. 1)",
+    "difficulty": "easy",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 1"
+  },
+  {
+    "id": "caf01_q03",
+    "chapter": 1,
+    "topic": "Ecological Theory",
+    "concept": "Bronfenbrenner's systems",
+    "question": "A counselor is working with an 11-year-old whose school culture, neighborhood norms, and family interactions all influence her development. Which theorist's framework best accounts for these multiple, nested environmental influences?",
+    "options": [
+      "Jean Piaget",
+      "Erik Erikson",
+      "Urie Bronfenbrenner",
+      "Lev Vygotsky"
+    ],
+    "correct_index": 2,
+    "rationale": "Bronfenbrenner's bioecological model describes development as shaped by nested systems: the microsystem (immediate settings), mesosystem (connections between settings), exosystem (indirect influences), and macrosystem (cultural values). This framework helps counselors consider the full environmental context. (Vernon & Schimmel, Ch. 1)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 1"
+  },
+  {
+    "id": "caf01_q04",
+    "chapter": 1,
+    "topic": "Cognitive Development",
+    "concept": "Zone of proximal development",
+    "question": "A counselor guides an 8-year-old through a problem-solving exercise the child cannot yet complete independently. This approach is most consistent with which concept?",
+    "options": [
+      "Piaget's schema accommodation",
+      "Vygotsky's zone of proximal development",
+      "Erikson's generativity principle",
+      "Bronfenbrenner's mesosystem"
+    ],
+    "correct_index": 1,
+    "rationale": "Vygotsky's zone of proximal development (ZPD) describes the gap between what a child can do independently and what they can accomplish with skilled guidance. Counselors who scaffold tasks within a child's ZPD promote cognitive growth. (Vernon & Schimmel, Ch. 1)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 1"
+  },
+  {
+    "id": "caf01_q05",
+    "chapter": 1,
+    "topic": "Adolescent Development",
+    "concept": "Identity vs. Role Confusion",
+    "question": "A 16-year-old client is exploring different career paths, experimenting with peer groups, and questioning the values she was raised with. According to Erikson, this behavior is most consistent with:",
+    "options": [
+      "Unsuccessful resolution of the Industry vs. Inferiority stage",
+      "The central developmental task of Identity vs. Role Confusion",
+      "Regression to preoperational thinking under stress",
+      "Formal operational egocentrism"
+    ],
+    "correct_index": 1,
+    "rationale": "Erikson's Identity vs. Role Confusion stage (adolescence) involves experimenting with roles, values, and relationships to develop a coherent sense of self. Exploration of careers, peer groups, and values is normative at this stage. (Vernon & Schimmel, Ch. 1)",
+    "difficulty": "easy",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 1"
+  },
+  {
+    "id": "caf01_q06",
+    "chapter": 1,
+    "topic": "Emotional Development",
+    "concept": "Young children's emotional understanding",
+    "question": "When working with a 5-year-old, a counselor should expect that the child's emotional vocabulary is most likely limited to which four basic emotions?",
+    "options": [
+      "Happiness, anxiety, guilt, and pride",
+      "Sad, mad, glad, and scared",
+      "Love, anger, jealousy, and shame",
+      "Happy, worried, embarrassed, and excited"
+    ],
+    "correct_index": 1,
+    "rationale": "Young children (ages 4-6) typically understand and can label the four basic emotions: sad, mad, glad, and scared. More complex emotions like jealousy, guilt, and pride emerge later as cognitive and social development progresses. (Vernon & Schimmel, Ch. 4, p. 117 — referenced in play therapy context; Ch. 1 developmental foundation)",
+    "difficulty": "easy",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 1 & Ch. 4"
+  },
+  {
+    "id": "caf01_q07",
+    "chapter": 1,
+    "topic": "Cognitive Development",
+    "concept": "Formal operational thinking in adolescents",
+    "question": "Which of the following is the BEST reason for a counselor to use more abstract, insight-oriented techniques with a 15-year-old than with an 8-year-old?",
+    "options": [
+      "Adolescents have shorter attention spans and need cognitively challenging tasks",
+      "Adolescents in formal operations can engage in hypothetical and abstract reasoning",
+      "Adolescents have completed Erikson's industry stage and no longer need concrete supports",
+      "Adolescents are inherently more motivated than children in counseling"
+    ],
+    "correct_index": 1,
+    "rationale": "Piaget's formal operational stage (emerges ~age 12+) allows adolescents to reason about hypothetical scenarios, consider multiple perspectives, and engage in abstract thinking — making more sophisticated cognitive interventions developmentally appropriate. (Vernon & Schimmel, Ch. 1)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 1"
+  },
+  {
+    "id": "caf01_q08",
+    "chapter": 1,
+    "topic": "Social Development",
+    "concept": "Peer influence in adolescence",
+    "question": "A counselor working with adolescents should be aware that peer relationships during this developmental period are significant because:",
+    "options": [
+      "Peer influence peaks at age 8 and declines during adolescence",
+      "Adolescents' sense of identity and belonging is heavily influenced by peer acceptance and peer norms",
+      "Adolescents prioritize parental opinions over peer opinions in most decisions",
+      "Peer relationships are only relevant to social development, not academic performance"
+    ],
+    "correct_index": 1,
+    "rationale": "Adolescence is characterized by heightened peer influence, as identity formation (Erikson) involves comparing oneself to peers, seeking belonging, and adopting peer norms. This has implications for risk behavior, self-esteem, and counseling goals. (Vernon & Schimmel, Ch. 1)",
+    "difficulty": "easy",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 1"
+  },
+  {
+    "id": "caf01_q09",
+    "chapter": 1,
+    "topic": "Cognitive Development",
+    "concept": "Preoperational characteristics",
+    "question": "A counselor working with a 4-year-old avoids using hypothetical 'what if' scenarios and instead uses puppets and play to explore feelings. This adaptation is most appropriate because preoperational children:",
+    "options": [
+      "Lack the emotional capacity to discuss their feelings in any format",
+      "Are egocentric and concrete thinkers who cannot yet engage in abstract reasoning",
+      "Have completed sensorimotor development and prefer structured activities",
+      "Are in the industry stage and respond best to skill-building tasks"
+    ],
+    "correct_index": 1,
+    "rationale": "Piaget's preoperational stage (ages 2-7) is characterized by egocentrism (difficulty taking others' perspectives) and concrete, symbolic thinking. Abstract hypothetical questions are developmentally inappropriate; play-based, concrete approaches are well-matched. (Vernon & Schimmel, Ch. 1)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 1"
+  },
+  {
+    "id": "caf01_q10",
+    "chapter": 1,
+    "topic": "Normal vs. Atypical Development",
+    "concept": "Developmental benchmarks",
+    "question": "When assessing whether a child's behavior is a clinical concern, a counselor's most important first step is to:",
+    "options": [
+      "Compare the behavior to DSM-5 diagnostic criteria immediately",
+      "Evaluate the behavior against age-appropriate developmental norms and expectations",
+      "Refer the child for neuropsychological testing before proceeding",
+      "Interview only the parents, since children lack reliable self-report"
+    ],
+    "correct_index": 1,
+    "rationale": "Before pathologizing behavior, counselors must assess it against developmental norms — what is typical for a child's age and stage. Many behaviors that appear concerning are normative at certain developmental stages. (Vernon & Schimmel, Ch. 1)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 1"
+  },
+  {
+    "id": "caf01_q11",
+    "chapter": 1,
+    "topic": "Psychosocial Development",
+    "concept": "Erikson's early childhood stage",
+    "question": "A 4-year-old is encouraged to initiate imaginative play and take on leadership roles in activities. Successfully navigating this developmental stage according to Erikson would result in which positive outcome?",
+    "options": [
+      "Industry — a sense of competence from academic achievement",
+      "Autonomy — freedom from shame and doubt about self-control",
+      "Initiative — a confident sense of purpose and capacity to act",
+      "Identity — a stable sense of personal values and direction"
+    ],
+    "correct_index": 2,
+    "rationale": "Erikson's Initiative vs. Guilt stage (ages 3-6) involves children learning to initiate activities and take on purposeful roles. Success yields a sense of initiative and purpose; excessive criticism produces guilt. (Vernon & Schimmel, Ch. 1)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 1"
+  }
+]

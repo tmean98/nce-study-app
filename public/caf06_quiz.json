@@ -1,0 +1,200 @@
+[
+  {
+    "id": "caf06_q01",
+    "chapter": 6,
+    "topic": "Reality Therapy — Origins",
+    "concept": "Glasser and Wubbolding",
+    "question": "Reality therapy was founded by William Glasser (1965). Robert Wubbolding developed which major practical framework used to implement reality therapy with clients?",
+    "options": [
+      "The ABCDE model for disputing irrational beliefs",
+      "The WDEP system for structuring reality therapy sessions",
+      "The SMIC model for ecological systems assessment",
+      "The REBT triangle for identifying the cognitive-behavioral cycle"
+    ],
+    "correct_index": 1,
+    "rationale": "Robert Wubbolding developed the WDEP system (Wants, Doing, Evaluation, Planning) as a practical framework for implementing Choice Theory and reality therapy in counseling sessions. Glasser founded reality therapy in 1965; Wubbolding is the contemporary author of this chapter's material. (Vernon & Schimmel, Ch. 6, p. 187)",
+    "difficulty": "easy",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 6, p. 187"
+  },
+  {
+    "id": "caf06_q02",
+    "chapter": 6,
+    "topic": "Choice Theory — Five Needs",
+    "concept": "Glasser's five basic needs",
+    "question": "According to Glasser's Choice Theory, which of the following correctly lists all five basic human needs?",
+    "options": [
+      "Safety, love, esteem, self-actualization, and belonging",
+      "Survival/self-preservation, belonging, power/inner control, freedom, and fun",
+      "Physiological, safety, belonging, esteem, and self-actualization",
+      "Survival, independence, mastery, purpose, and connection"
+    ],
+    "correct_index": 1,
+    "rationale": "Glasser's Choice Theory identifies five basic human needs: survival/self-preservation, belonging, power/inner control, freedom, and fun. All human behavior is motivated by the attempt to satisfy one or more of these needs. Note: this is distinct from Maslow's hierarchy, which includes esteem and self-actualization. (Vernon & Schimmel, Ch. 6, p. 191)",
+    "difficulty": "easy",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 6, p. 191"
+  },
+  {
+    "id": "caf06_q03",
+    "chapter": 6,
+    "topic": "Choice Theory — Total Behavior",
+    "concept": "Four components of total behavior",
+    "question": "Choice Theory holds that Total Behavior has four inseparable components. Which component is described as the 'handle of the suitcase' — the most directly accessible to conscious control?",
+    "options": [
+      "Physiological responses",
+      "Emotions/feelings",
+      "Cognitions and self-talk",
+      "Actions"
+    ],
+    "correct_index": 3,
+    "rationale": "Wubbolding uses the metaphor of a suitcase: the handle is attached at the action level, symbolizing that actions are the component most directly under conscious control. When clients change their actions, the other three components (physiology, emotions, cognitions) follow. (Vernon & Schimmel, Ch. 6, pp. 190, 207)",
+    "difficulty": "moderate",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 6, pp. 190, 207"
+  },
+  {
+    "id": "caf06_q04",
+    "chapter": 6,
+    "topic": "Choice Theory — Quality World",
+    "concept": "Quality World defined",
+    "question": "A counselor using Choice Theory asks a client, 'What does your ideal situation look like — exactly what do you want, in specific pictures?' The counselor is exploring which Choice Theory concept?",
+    "options": [
+      "The client's perceptual filter at the upper level",
+      "The client's total behavior repertoire",
+      "The client's Quality World — the inner world of specific desires, wants, and goals that connect needs to behavior",
+      "The client's perceived locus of control"
+    ],
+    "correct_index": 2,
+    "rationale": "The Quality World is each person's inner mental 'picture album' of specific people, things, beliefs, and situations they want — the specific representations of how they want their needs met. Counselors explore the Quality World to understand what clients most want from their lives. (Vernon & Schimmel, Ch. 6, pp. 192-193)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 6, pp. 192-193"
+  },
+  {
+    "id": "caf06_q05",
+    "chapter": 6,
+    "topic": "Reality Therapy — WDEP",
+    "concept": "Self-evaluation as cornerstone",
+    "question": "Wubbolding describes which component of the WDEP system as 'the major contribution of reality therapy to the counseling profession,' noting that no other theory places as much emphasis on this element?",
+    "options": [
+      "W — exploring wants and the quality world",
+      "D — examining current doing (total behavior)",
+      "E — facilitating client self-evaluation",
+      "P — developing a concrete plan of action"
+    ],
+    "correct_index": 2,
+    "rationale": "Wubbolding calls self-evaluation (the E in WDEP) the major contribution of reality therapy to the counseling profession. The central question — 'Is what you're doing helping or hurting you?' — is described as a cluster of interventions symbolized by this simple but profound inquiry. (Vernon & Schimmel, Ch. 6, p. 208)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 6, p. 208"
+  },
+  {
+    "id": "caf06_q06",
+    "chapter": 6,
+    "topic": "Reality Therapy — WDEP",
+    "concept": "SAMIC plan criteria",
+    "question": "In reality therapy, an effective plan of action is characterized by the SAMIC criteria. A client says, 'I'll try to be nicer.' A counselor applying SAMIC criteria would note that this plan is MOST problematic because it lacks which quality?",
+    "options": [
+      "Simple — the plan is too complex and needs to be uncomplicated",
+      "Attainable — the goal may not be realistically achievable given the client's skills",
+      "Measurable — 'I'll try' does not specify when or how the plan will be implemented and evaluated",
+      "Controlled by the planner — the plan depends on others changing first"
+    ],
+    "correct_index": 2,
+    "rationale": "SAMIC stands for Simple, Attainable, Measurable, Immediate, and Controlled by the planner. 'I'll try to be nicer' fails on Measurable — the plan gives no specific timeframe, frequency, or observable behavior by which the client (or counselor) can evaluate implementation. (Vernon & Schimmel, Ch. 6, p. 210)",
+    "difficulty": "challenging",
+    "questionType": "vignette",
+    "source": "Vernon & Schimmel, Ch. 6, p. 210"
+  },
+  {
+    "id": "caf06_q07",
+    "chapter": 6,
+    "topic": "Reality Therapy — Core Principles",
+    "concept": "Internal vs. external control",
+    "question": "A student tells a school counselor, 'My teacher makes me so angry — she controls how I feel.' A counselor applying Choice Theory principles would most appropriately help this student understand:",
+    "options": [
+      "That the teacher's behavior is objectively unreasonable and the student's anger is a normal response",
+      "That while external events influence us, we have more choices about our responses than we typically recognize — the focus is on what the student can control",
+      "That the anger is caused by an irrational belief that the teacher must treat the student fairly",
+      "That the student should avoid interacting with the teacher until the conflict is resolved"
+    ],
+    "correct_index": 1,
+    "rationale": "Choice Theory is based on an internal control system. It does not deny that external events occur, but shifts focus to the choices clients can make about their responses. Reality therapy helps clients move from a sense of victimhood to recognizing the choices available to them, without 'blaming the victim.' (Vernon & Schimmel, Ch. 6, pp. 190, 205-207)",
+    "difficulty": "moderate",
+    "questionType": "vignette",
+    "source": "Vernon & Schimmel, Ch. 6, pp. 190, 205-207"
+  },
+  {
+    "id": "caf06_q08",
+    "chapter": 6,
+    "topic": "Reality Therapy — WDEP",
+    "concept": "The W component",
+    "question": "In the WDEP system, the 'W' component involves exploring the client's wants, needs, and perceptions. A counselor implementing this component would MOST likely ask:",
+    "options": [
+      "'Is what you're doing helping you get what you want?'",
+      "'What would you like to take away from our conversation today?'",
+      "'What's your plan for approaching Ben differently this week?'",
+      "'If I were to observe you over the next few days, what would I see you doing?'"
+    ],
+    "correct_index": 1,
+    "rationale": "The W component explores what clients want from their lives, from others, from counseling, and how they perceive their situation. Asking 'What would you like to take away?' explores wants within the counseling context. The other options correspond to E (self-evaluation), P (planning), and D (doing). (Vernon & Schimmel, Ch. 6, p. 192)",
+    "difficulty": "challenging",
+    "questionType": "look-alike",
+    "source": "Vernon & Schimmel, Ch. 6, p. 192"
+  },
+  {
+    "id": "caf06_q09",
+    "chapter": 6,
+    "topic": "Reality Therapy — Applications",
+    "concept": "Reality therapy with parents and teachers",
+    "question": "Wubbolding recommends that counselors advise parents who are arguing with a child to ask the child which question instead?",
+    "options": [
+      "'Why are you behaving this way?'",
+      "'What do you want to have happen now?' or 'What is your choice now?'",
+      "'Is this behavior helping you or hurting you?'",
+      "'What plan do you have for solving this problem?'"
+    ],
+    "correct_index": 1,
+    "rationale": "Rather than arguing, lecturing, or blaming, Wubbolding suggests parents calmly ask 'What do you want to have happen now?' or 'What is your choice now?' These questions redirect the child toward internal control and needs, rather than escalating conflict. (Vernon & Schimmel, Ch. 6, p. 216)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 6, p. 216"
+  },
+  {
+    "id": "caf06_q10",
+    "chapter": 6,
+    "topic": "Reality Therapy — Groups",
+    "concept": "Reality therapy in group counseling",
+    "question": "When using reality therapy in a voluntary group (e.g., a grief group), the FIRST step in the group process is to:",
+    "options": [
+      "Facilitate participants' self-evaluation by asking if their current behaviors are helping or hurting",
+      "Help group participants describe their total behaviors — current actions, thoughts, and feelings",
+      "Help group participants define their goals for counseling, clarifying their quality worlds regarding desired outcomes",
+      "Formulate individualized plans that each participant commits to before the next session"
+    ],
+    "correct_index": 2,
+    "rationale": "In voluntary reality therapy groups, the first step is helping participants define what they want to gain from the group (W — quality world/desired outcomes). This parallels the individual WDEP process: W precedes D, which precedes E, which precedes P. (Vernon & Schimmel, Ch. 6, p. 216)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 6, p. 216"
+  },
+  {
+    "id": "caf06_q11",
+    "chapter": 6,
+    "topic": "Reality Therapy — Diversity",
+    "concept": "Universal needs / culturally specific quality world",
+    "question": "A counselor questions whether Choice Theory is applicable across diverse cultures. The textbook addresses this by explaining that:",
+    "options": [
+      "Choice Theory is primarily a Western model and has limited applicability with non-Western clients",
+      "The five basic needs are universal across cultures, but the specific Quality World pictures that represent those needs are shaped by individual cultural experience",
+      "Reality therapy's emphasis on personal responsibility may be inappropriate with clients from collectivist cultures",
+      "Counselors should modify the five basic needs based on each client's cultural background"
+    ],
+    "correct_index": 1,
+    "rationale": "Wubbolding argues that the five basic needs (survival, belonging, power, freedom, fun) are universal human motivators. However, the specific pictures in one's Quality World — the particular ways needs are expressed and satisfied — are shaped by cultural experience, traditions, and values. (Vernon & Schimmel, Ch. 6, p. 215)",
+    "difficulty": "challenging",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 6, p. 215"
+  }
+]

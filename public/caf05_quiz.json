@@ -1,0 +1,200 @@
+[
+  {
+    "id": "caf05_q01",
+    "chapter": 5,
+    "topic": "SFBC — Origins",
+    "concept": "Founders of SFBC",
+    "question": "Solution-Focused Brief Counseling (SFBC) was developed primarily by which theorists?",
+    "options": [
+      "Albert Ellis and Aaron Beck",
+      "Steve de Shazer and Insoo Kim Berg",
+      "William Glasser and Robert Wubbolding",
+      "Carl Rogers and Virginia Axline"
+    ],
+    "correct_index": 1,
+    "rationale": "SFBC was developed by Steve de Shazer and Insoo Kim Berg at the Brief Family Therapy Center in Milwaukee. Their work shifted the focus of therapy from problems and pathology to solutions and client strengths. (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "easy",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 5"
+  },
+  {
+    "id": "caf05_q02",
+    "chapter": 5,
+    "topic": "SFBC — Core Assumptions",
+    "concept": "Client as expert",
+    "question": "A foundational assumption of SFBC is that clients:",
+    "options": [
+      "Must understand the cause of their problems before meaningful change can occur",
+      "Already possess the resources and strengths needed to construct solutions",
+      "Are best helped by therapists who direct them toward specific behavioral goals",
+      "Require extensive problem exploration before solution-building can begin"
+    ],
+    "correct_index": 1,
+    "rationale": "A central SFBC assumption is that clients are competent and resourceful — they already have the strengths and past successes that can be built upon. The counselor's role is to help clients access and amplify these existing resources, not to provide expertise or insight about their problems. (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "easy",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 5"
+  },
+  {
+    "id": "caf05_q03",
+    "chapter": 5,
+    "topic": "SFBC — Techniques",
+    "concept": "The miracle question",
+    "question": "A counselor asks: 'Suppose tonight while you are sleeping a miracle happens, and the problem that brought you here is solved. When you wake up tomorrow, what would be different?' This is the SFBC miracle question. Its primary therapeutic purpose is to:",
+    "options": [
+      "Assess the severity of the problem by comparing current and ideal states",
+      "Help clients construct a detailed, concrete vision of the preferred future as a basis for goal-setting",
+      "Challenge irrational beliefs by exposing the unrealistic nature of the client's desires",
+      "Establish baseline data for measuring progress toward therapeutic goals"
+    ],
+    "correct_index": 1,
+    "rationale": "The miracle question helps clients envision what life would look like without the problem, generating a concrete, detailed description of the preferred future. This becomes the basis for goal-setting and identifies small steps the client might take toward that future right now. (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "moderate",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 5"
+  },
+  {
+    "id": "caf05_q04",
+    "chapter": 5,
+    "topic": "SFBC — Techniques",
+    "concept": "Exception questions",
+    "question": "In SFBC, a counselor asks a teenager: 'Tell me about a time recently when the fighting with your parents was a little less intense, or didn't happen at all.' This is an example of which SFBC technique?",
+    "options": [
+      "A scaling question measuring progress on a 1-10 scale",
+      "An exception question identifying times when the problem was absent or less severe",
+      "The formula first session task asking the client to notice positives",
+      "A coping question used when the client cannot identify any positives"
+    ],
+    "correct_index": 1,
+    "rationale": "Exception questions invite clients to identify times when the problem does not occur or is less severe. Exceptions reveal existing client competencies and successes that can be amplified and deliberately repeated. (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 5"
+  },
+  {
+    "id": "caf05_q05",
+    "chapter": 5,
+    "topic": "SFBC — Techniques",
+    "concept": "Scaling questions",
+    "question": "A counselor asks a 12-year-old: 'On a scale of 0-10, where 0 is the worst the problem has ever been and 10 is the day after the miracle, where would you say things are right now?' The counselor's FOLLOW-UP question would most likely be:",
+    "options": [
+      "'What would need to happen to move it to a 10?'",
+      "'What has kept you from reaching 10 yet?'",
+      "'What would need to be different for you to move just one point higher?'",
+      "'What does a 0 look like for you?'"
+    ],
+    "correct_index": 2,
+    "rationale": "After a client identifies their current position on the scale, the SFBC follow-up focuses on small, incremental movement ('What would one point higher look like?'). This grounds change in manageable steps rather than overwhelming leaps, and accesses the client's own definition of progress. (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "challenging",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 5"
+  },
+  {
+    "id": "caf05_q06",
+    "chapter": 5,
+    "topic": "SFBC — Techniques",
+    "concept": "Formula first session task",
+    "question": "At the end of the first SFBC session, a counselor says: 'Between now and next week, I'd like you to notice what's happening in your life that you'd like to keep happening.' This is the formula first session task. Its purpose is to:",
+    "options": [
+      "Assign behavioral homework to practice skills learned in the session",
+      "Direct the client's attention toward positives and existing strengths before the next session",
+      "Document baseline behavior for comparison with post-treatment outcomes",
+      "Help the client distinguish rational from irrational beliefs about their daily experiences"
+    ],
+    "correct_index": 1,
+    "rationale": "The formula first session task shifts the client's attention toward what is already working in their life — away from problem-saturated thinking. It primes the client to notice exceptions and strengths, setting the stage for exception-finding in future sessions. (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 5"
+  },
+  {
+    "id": "caf05_q07",
+    "chapter": 5,
+    "topic": "SFBC — Techniques",
+    "concept": "Coping questions",
+    "question": "A 13-year-old says, 'Things are never good. There are no times when the problem doesn't happen.' The SFBC counselor would MOST appropriately respond with:",
+    "options": [
+      "An exception question: 'Tell me about a recent time when it wasn't as bad'",
+      "A coping question: 'How have you managed to keep going despite how hard things have been?'",
+      "The miracle question: 'If things could be different tomorrow, what would that look like?'",
+      "A scaling question: 'On a scale of 0-10, how bad is it right now?'"
+    ],
+    "correct_index": 1,
+    "rationale": "When clients cannot identify any exceptions, coping questions are used: 'How have you managed to keep going?' or 'How have you kept things from getting worse?' These acknowledge the difficulty while revealing unrecognized strengths and resilience. (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "challenging",
+    "questionType": "vignette",
+    "source": "Vernon & Schimmel, Ch. 5"
+  },
+  {
+    "id": "caf05_q08",
+    "chapter": 5,
+    "topic": "SFBC — Goal Setting",
+    "concept": "Well-formed goals",
+    "question": "A client states: 'My goal is to stop being depressed.' In SFBC, the counselor would most appropriately redirect this goal by asking:",
+    "options": [
+      "'When did the depression begin, and what triggered it?'",
+      "'On a scale of 0-10, how depressed do you feel right now?'",
+      "'What will you be doing instead when you are no longer depressed?'",
+      "'What irrational belief is maintaining your depression?'"
+    ],
+    "correct_index": 2,
+    "rationale": "SFBC favors presence-of-something goals over absence-of-something goals. When a client states a goal in terms of stopping or not doing something, the SFBC counselor asks what they will be doing instead — creating a positive, concrete, behavioral vision of the preferred future. (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 5"
+  },
+  {
+    "id": "caf05_q09",
+    "chapter": 5,
+    "topic": "SFBC — Philosophy",
+    "concept": "Problem-focus vs. solution-focus",
+    "question": "Which statement BEST captures the SFBC philosophy about the relationship between understanding problems and creating solutions?",
+    "options": [
+      "Thorough problem analysis is a prerequisite for effective solution-building",
+      "The amount of time spent on problem exploration is directly proportional to therapeutic success",
+      "You don't need to fully understand a problem to solve it; solution construction can proceed independently of problem analysis",
+      "Problems and solutions share the same causal structure, so understanding one reveals the other"
+    ],
+    "correct_index": 2,
+    "rationale": "A core SFBC assumption is that understanding the problem is not necessary for constructing solutions. Clients and counselors can build solutions without extensive exploration of the problem's origins or maintaining factors. This is what makes SFBC 'brief.' (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "moderate",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 5"
+  },
+  {
+    "id": "caf05_q10",
+    "chapter": 5,
+    "topic": "SFBC — Techniques",
+    "concept": "Compliments in SFBC",
+    "question": "A counselor says to a 14-year-old: 'Despite how overwhelming things have been at home, you've continued to show up to school every day and turn in your assignments. That takes real determination.' This is an example of which SFBC technique?",
+    "options": [
+      "Normalizing — reassuring the client that their behavior is common",
+      "Reframing — casting the client's behavior in a positive light to shift perspective",
+      "A compliment — affirming specific client strengths and behaviors as part of the message",
+      "An exception question — identifying a time when the problem was less severe"
+    ],
+    "correct_index": 2,
+    "rationale": "Compliments are a deliberate SFBC technique used to affirm client strengths, resources, and positive behaviors that may have gone unnoticed. They are part of the structured message given at the end of an SFBC session and help reinforce the solution-building process. (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 5"
+  },
+  {
+    "id": "caf05_q11",
+    "chapter": 5,
+    "topic": "SFBC — Application with Children",
+    "concept": "SFBC adaptations for young clients",
+    "question": "When applying SFBC with younger children, counselors should adapt the miracle question because:",
+    "options": [
+      "Children cannot engage in future-oriented thinking until formal operations emerge",
+      "Children lack the capacity to identify their own strengths and exceptions",
+      "Abstract, hypothetical framing may be developmentally inappropriate; concrete, play-based, and creative adaptations help children access preferred-future thinking",
+      "The miracle question is contraindicated for children under age 12 due to magical thinking"
+    ],
+    "correct_index": 2,
+    "rationale": "SFBC techniques require developmental adaptation for children. The miracle question can be adapted using concrete language, drawing, or play (e.g., 'Draw a picture of what things would look like if everything was better'). Children's concrete thinking means that overly abstract hypothetical framings may not land effectively. (Vernon & Schimmel, Ch. 5)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 5"
+  }
+]

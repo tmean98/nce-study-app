@@ -1,0 +1,200 @@
+[
+  {
+    "id": "caf02_q01",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Developmental adaptations",
+    "question": "When selecting counseling techniques for a 9-year-old versus a 16-year-old, the primary developmental principle guiding the choice is:",
+    "options": [
+      "Adolescents require more directive, structured interventions because they resist open-ended work",
+      "Younger children in concrete operations benefit from activity-based approaches; adolescents in formal operations can engage more abstractly",
+      "Younger children require more verbal processing while adolescents benefit from creative arts",
+      "Age differences are less important than the presenting problem when selecting techniques"
+    ],
+    "correct_index": 1,
+    "rationale": "Piaget's stages directly inform technique selection: concrete operational children (ages 7-11) think logically about tangible things and benefit from hands-on, activity-based work. Formal operational adolescents (12+) can engage in abstract reasoning and insight-oriented approaches. (Vernon & Schimmel, Ch. 2)",
+    "difficulty": "moderate",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 2"
+  },
+  {
+    "id": "caf02_q02",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Client reluctance in young clients",
+    "question": "A 10-year-old arrives for counseling and says 'I don't have any problems. My mom made me come.' The counselor's BEST initial response is to:",
+    "options": [
+      "Explain the presenting concern as described by the parent and begin exploring it",
+      "Acknowledge the child's feelings about being required to attend and allow the child to define what, if anything, they want to work on",
+      "End the session early since the child is not motivated and refer back to the parent",
+      "Use structured assessment tools to identify the 'real' presenting problem the child is unaware of"
+    ],
+    "correct_index": 1,
+    "rationale": "Children and adolescents are typically referred by adults and may not see themselves as having problems. Beginning by acknowledging the child's perspective and validating their feelings about mandatory attendance builds rapport and respects their autonomy — a prerequisite for therapeutic engagement. (Vernon & Schimmel, Ch. 2)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 2"
+  },
+  {
+    "id": "caf02_q03",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Language adaptation for children",
+    "question": "A counselor asks a 6-year-old 'How did that make you feel?' and the child looks confused. The counselor's language is problematic because:",
+    "options": [
+      "The counselor should never ask children directly about feelings",
+      "The phrase 'make you feel' implies external causation and uses abstract emotional language beyond the child's developmental level",
+      "Children under age 8 cannot understand questions about emotions in any format",
+      "Open-ended questions are inappropriate with children; only yes/no questions should be used"
+    ],
+    "correct_index": 1,
+    "rationale": "The phrase 'makes you feel' implies someone else causes the child's feelings, which is conceptually problematic from both developmental and therapeutic perspectives. Play therapists learn to say 'You feel...' instead. Additionally, counselors must match language to the child's developmental level, using simple, concrete words. (Vernon & Schimmel, Ch. 2 & Ch. 4, p. 117)",
+    "difficulty": "challenging",
+    "questionType": "look-alike",
+    "source": "Vernon & Schimmel, Ch. 2 & Ch. 4"
+  },
+  {
+    "id": "caf02_q04",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Setting up the counseling environment",
+    "question": "When setting up a counseling space for work with elementary-age children, which of the following is most important?",
+    "options": [
+      "A formal desk-and-chair arrangement that mirrors a professional adult counseling office",
+      "An environment that includes age-appropriate materials and communicates safety and acceptance",
+      "Minimal materials to reduce distraction during verbal processing",
+      "A structured classroom layout to reinforce the academic context of school counseling"
+    ],
+    "correct_index": 1,
+    "rationale": "The physical environment communicates the counselor's approach to young clients. An age-appropriate space stocked with materials (art supplies, games, sand tray) communicates that the child's mode of expression is welcome, reducing anxiety and facilitating engagement. (Vernon & Schimmel, Ch. 2)",
+    "difficulty": "easy",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 2"
+  },
+  {
+    "id": "caf02_q05",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Informed consent with minors",
+    "question": "A school counselor begins working with a 12-year-old student. Regarding informed consent and confidentiality, the counselor should:",
+    "options": [
+      "Obtain only the student's assent since minors cannot legally consent",
+      "Explain confidentiality and its limits to the student, obtain parental consent as required, while preserving appropriate confidentiality of session content",
+      "Inform the student that all session content will be shared with parents regularly",
+      "Avoid discussing confidentiality to prevent the student from self-censoring"
+    ],
+    "correct_index": 1,
+    "rationale": "Counselors working with minors must navigate the dual obligations of parental consent (a legal requirement for minors) and the child's right to appropriate confidentiality. Explaining the limits of confidentiality (duty to warn, abuse reporting) at the outset builds trust and is ethically required. (Vernon & Schimmel, Ch. 2)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 2"
+  },
+  {
+    "id": "caf02_q06",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Involving parents and guardians",
+    "question": "A counselor is seeing a 9-year-old for anxiety. The parents want to know everything that was said in sessions. Which response reflects best practice?",
+    "options": [
+      "Share all session content with parents to maintain a collaborative treatment team",
+      "Refuse all communication with parents to protect the child's confidentiality absolutely",
+      "Involve parents as partners in treatment while maintaining appropriate confidentiality of session content, sharing general progress without disclosing private disclosures",
+      "Involve parents only at termination when a progress summary is provided"
+    ],
+    "correct_index": 2,
+    "rationale": "Parents are important partners in counseling children — they can reinforce progress and provide context. Best practice involves collaborating with parents about goals and general progress while protecting the therapeutic relationship through appropriate confidentiality. (Vernon & Schimmel, Ch. 2)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 2"
+  },
+  {
+    "id": "caf02_q07",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Rapport-building with young clients",
+    "question": "Which of the following strategies is MOST effective for building rapport with a shy, reluctant 7-year-old in an initial session?",
+    "options": [
+      "Beginning with a structured intake interview to gather comprehensive background information",
+      "Asking direct questions about the presenting concern to demonstrate counselor competence",
+      "Inviting the child to explore available materials or engage in play, following the child's lead",
+      "Beginning with relaxation exercises to reduce the child's physiological anxiety"
+    ],
+    "correct_index": 2,
+    "rationale": "Play is the natural language of childhood. Inviting a child to explore materials and following their lead communicates safety, reduces defensiveness, and begins relationship-building without the pressure of direct questions about the presenting problem. (Vernon & Schimmel, Ch. 2)",
+    "difficulty": "easy",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 2"
+  },
+  {
+    "id": "caf02_q08",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Assessment with children",
+    "question": "A counselor asks a child to draw a picture about what is bothering them and then discusses it together. This approach to problem assessment is especially appropriate because:",
+    "options": [
+      "Drawings are legally admissible evidence and therefore more reliable than verbal reports",
+      "Children who lack verbal facility can express concerns through creative means, but counselors must discuss the drawing with the child rather than interpreting it themselves",
+      "Visual art assessment always provides more accurate data than clinical interviewing",
+      "Drawing tasks eliminate the risk of leading questions that contaminate the assessment"
+    ],
+    "correct_index": 1,
+    "rationale": "Creative arts facilitate expression for children who lack verbal capacity. However, counselors must discuss the artwork with the child rather than interpreting it unilaterally — a caution illustrated in Ch. 3 when a counselor wrongly assumed a violent drawing reflected family conflict when the child was depicting a movie. (Vernon & Schimmel, Ch. 2 & Ch. 3, p. 97)",
+    "difficulty": "challenging",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 2 & Ch. 3"
+  },
+  {
+    "id": "caf02_q09",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Termination with young clients",
+    "question": "Compared to adults, termination with children and adolescents requires particular attention because:",
+    "options": [
+      "Children and adolescents rarely develop attachment to counselors, making termination straightforward",
+      "The therapeutic relationship may be the most consistent and trusting relationship some young clients have experienced, making endings emotionally significant",
+      "Termination with minors requires parental permission and a formal discharge plan submitted to the school",
+      "Children are more resilient and recover more quickly from loss than adults"
+    ],
+    "correct_index": 1,
+    "rationale": "For some young clients, the counseling relationship is uniquely consistent and safe. Abrupt or unacknowledged terminations can recapitulate experiences of abandonment or loss. Planned, graduated termination that honors the relationship is best practice with young clients. (Vernon & Schimmel, Ch. 2)",
+    "difficulty": "moderate",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 2"
+  },
+  {
+    "id": "caf02_q10",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Working with resistant adolescents",
+    "question": "A 14-year-old court-mandated to counseling says, 'This is pointless. Nothing you say will help.' The counselor's MOST effective response demonstrates:",
+    "options": [
+      "Confrontation — challenging the adolescent's resistance as a defense mechanism",
+      "Empathic acknowledgment of the adolescent's skepticism while expressing genuine interest in their perspective",
+      "Redirection — introducing a structured activity to bypass the resistance",
+      "Limit-setting — explaining the consequences of continued non-participation"
+    ],
+    "correct_index": 1,
+    "rationale": "With resistant adolescents, the counselor's first task is to meet them where they are. Acknowledging their skepticism validates their experience without capitulating to it, and expressing genuine curiosity builds the conditions for eventual engagement. (Vernon & Schimmel, Ch. 2)",
+    "difficulty": "moderate",
+    "questionType": "vignette",
+    "source": "Vernon & Schimmel, Ch. 2"
+  },
+  {
+    "id": "caf02_q11",
+    "chapter": 2,
+    "topic": "Individual Counseling",
+    "concept": "Cultural considerations",
+    "question": "A counselor working with a child from a collectivist cultural background should be aware that:",
+    "options": [
+      "Individual goal-setting is universally preferred across cultures and should be implemented regardless of background",
+      "Some cultural values emphasize family and community interdependence over individual achievement, which may influence the child's counseling goals and family involvement preferences",
+      "Collectivist-oriented children require directive approaches because they are less comfortable making independent decisions",
+      "Cultural background is irrelevant when the presenting problem is primarily behavioral"
+    ],
+    "correct_index": 1,
+    "rationale": "Counselors must practice cultural humility and recognize that values like interdependence, deference to family, and collectivist identity may shape what therapeutic goals are meaningful and how clients engage in the process. One-size-fits-all individual approaches may not align with all cultural worldviews. (Vernon & Schimmel, Ch. 2)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 2"
+  }
+]

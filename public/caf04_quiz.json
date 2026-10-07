@@ -1,0 +1,200 @@
+[
+  {
+    "id": "caf04_q01",
+    "chapter": 4,
+    "topic": "Play Therapy — Overview",
+    "concept": "APT definition of play therapy",
+    "question": "The Association for Play Therapy (2017) defines play therapy as 'the systematic use of a theoretical model to establish an interpersonal process wherein trained play therapists use the therapeutic powers of play to help clients prevent or resolve psychosocial difficulties.' The primary age range for which play therapy is MOST appropriate is:",
+    "options": [
+      "Birth to age 5 only, because older children can engage in verbal counseling",
+      "Ages 3 to 12, though it can be effective with adolescents as well",
+      "Ages 6 to 16 specifically, based on APT certification requirements",
+      "Any age across the lifespan without restriction"
+    ],
+    "correct_index": 1,
+    "rationale": "The textbook states play therapy is primarily appropriate for ages 3-12 and is most appropriate for children under 12. However, play approaches can also be adapted for and effective with adolescents. (Vernon & Schimmel, Ch. 4, p. 112)",
+    "difficulty": "easy",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 4, p. 112"
+  },
+  {
+    "id": "caf04_q02",
+    "chapter": 4,
+    "topic": "Play Therapy — Therapeutic Powers",
+    "concept": "20 therapeutic powers of play",
+    "question": "Schaefer and Drewes (2014) identified 20 therapeutic powers of play. Which of the following is included in that framework?",
+    "options": [
+      "Psychoeducation, behavioral activation, and cognitive restructuring",
+      "Catharsis, abreaction, stress inoculation, self-esteem, and social competence",
+      "Tracking, limit-setting, returning responsibility, and using the child's metaphor",
+      "WDEP, self-evaluation, and quality world exploration"
+    ],
+    "correct_index": 1,
+    "rationale": "Schaefer and Drewes (2014) identified 20 therapeutic powers of play including self-expression, access to the unconscious, direct and indirect teaching, catharsis, abreaction, positive emotions, counterconditioning fears, stress inoculation, stress management, therapeutic relationship, attachment, social competence, empathy, creative problem-solving, resiliency, moral development, accelerated psychological development, self-regulation, and self-esteem. (Vernon & Schimmel, Ch. 4, p. 113)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 4, p. 113"
+  },
+  {
+    "id": "caf04_q03",
+    "chapter": 4,
+    "topic": "Play Therapy — Space and Materials",
+    "concept": "Ideal play therapy room",
+    "question": "According to Landreth (2012), the ideal play therapy space is approximately:",
+    "options": [
+      "50-100 square feet, with soft lighting and soundproofing",
+      "150-200 square feet (12×15 feet), with washable walls and vinyl flooring",
+      "300-400 square feet with dedicated storage and a private bathroom suite",
+      "Any available office space adapted with portable play materials"
+    ],
+    "correct_index": 1,
+    "rationale": "Landreth (2012) specifies that the ideal play therapy room is 12×15 feet (150-200 sq ft) with washable walls, vinyl flooring, multiple shelves, a small sink, marker board, small bathroom, acoustical ceiling tiles, and a one-way mirror. These features support both therapeutic work and observation. (Vernon & Schimmel, Ch. 4, p. 114)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 4, p. 114"
+  },
+  {
+    "id": "caf04_q04",
+    "chapter": 4,
+    "topic": "Play Therapy — Basic Skills",
+    "concept": "Tracking",
+    "question": "A play therapist observes a child pushing a toy car and says, 'You're moving that along.' The therapist deliberately avoids saying 'You're driving the car.' This is an example of which play therapy skill, and why is the vague language intentional?",
+    "options": [
+      "Restating content — to confirm the therapist heard the child correctly",
+      "Tracking — using vague pronouns so the child can project their own meaning onto objects without being corrected",
+      "Reflecting feelings — using indirect language to reduce defensiveness",
+      "Returning responsibility — allowing the child to define their own play without therapist direction"
+    ],
+    "correct_index": 1,
+    "rationale": "Tracking describes behavior without labeling specific objects, using vague pronouns ('this,' 'that,' 'it'). This allows the child to project their own meaning — the car may represent something other than a car in the child's symbolic world. Labeling it 'a car' imposes the therapist's interpretation. (Vernon & Schimmel, Ch. 4, p. 116)",
+    "difficulty": "challenging",
+    "questionType": "look-alike",
+    "source": "Vernon & Schimmel, Ch. 4, p. 116"
+  },
+  {
+    "id": "caf04_q05",
+    "chapter": 4,
+    "topic": "Play Therapy — Basic Skills",
+    "concept": "Returning responsibility",
+    "question": "A child in play therapy says, 'I don't know how to make this work. Can you fix it?' The therapist responds, 'I think you know how to figure that out.' This response illustrates which basic play therapy skill?",
+    "options": [
+      "Limit-setting — redirecting the child away from dependency behaviors",
+      "Tracking — describing the child's behavior without interpretation",
+      "Returning responsibility to the child — a skill designed to increase self-reliance and confidence",
+      "Using the child's metaphor — maintaining the child's symbolic frame"
+    ],
+    "correct_index": 2,
+    "rationale": "Returning responsibility to the child (Kottman, 2011) communicates belief in the child's capacity to solve problems, fostering self-reliance and confidence. The direct form ('I think you know how to...') contrasts with indirect approaches that are more subtle. (Vernon & Schimmel, Ch. 4, pp. 116-117)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 4, pp. 116-117"
+  },
+  {
+    "id": "caf04_q06",
+    "chapter": 4,
+    "topic": "Play Therapy — Limit-Setting",
+    "concept": "Landreth's 4-step limit-setting method",
+    "question": "According to Landreth's 4-step limit-setting method, what is the FIRST step when a child begins to throw sand at the therapist?",
+    "options": [
+      "State the limit nonjudgmentally: 'Sand stays in the sandbox'",
+      "Reflect the child's wishes and feelings: 'You're feeling like throwing the sand'",
+      "Redirect to appropriate behavior: 'You can throw the soft ball instead'",
+      "Help the child express anger about the limit being set"
+    ],
+    "correct_index": 1,
+    "rationale": "Landreth's 4-step method begins by reflecting the child's wishes and feelings first (step 1), before stating the limit nonjudgmentally (step 2), redirecting to appropriate behavior (step 3), and helping the child express anger at the limit (step 4). This sequence respects the child's emotional experience before imposing the boundary. (Vernon & Schimmel, Ch. 4, p. 118)",
+    "difficulty": "challenging",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 4, p. 118"
+  },
+  {
+    "id": "caf04_q07",
+    "chapter": 4,
+    "topic": "Play Therapy — Child-Centered",
+    "concept": "Axline's 8 principles of CCPT",
+    "question": "Virginia Axline (1969) developed child-centered play therapy by applying Carl Rogers' client-centered principles. Which of the following is NOT one of Axline's eight principles for practitioners?",
+    "options": [
+      "The therapist must be totally accepting of the child and have no desire for the child to change",
+      "The therapist must develop and maintain a permissive environment",
+      "The therapist must set only those limits essential for connecting the play therapy to reality",
+      "The therapist must guide the child toward insight by interpreting the symbolic content of play"
+    ],
+    "correct_index": 3,
+    "rationale": "Axline's eight principles include building rapport, accepting the child, permissive environment, attending to feelings, respecting the child's problem-solving capacity, following the child's lead, patience, and minimal limit-setting. Interpretation of symbolic content is a directive technique that CCPT explicitly avoids — therapists in CCPT avoid skills that lead the child, such as interpretation and therapeutic metaphors. (Vernon & Schimmel, Ch. 4, pp. 130-131)",
+    "difficulty": "challenging",
+    "questionType": "look-alike",
+    "source": "Vernon & Schimmel, Ch. 4, pp. 130-131"
+  },
+  {
+    "id": "caf04_q08",
+    "chapter": 4,
+    "topic": "Play Therapy — Adlerian",
+    "concept": "Adlerian play therapy four phases",
+    "question": "Kottman (2011) describes Adlerian play therapy as progressing through four phases. In which phase does the counselor help the child gain insight into their lifestyle through metaphors, stories, role-playing, and metacommunication?",
+    "options": [
+      "Phase 1 — building an egalitarian relationship",
+      "Phase 2 — understanding the child's lifestyle",
+      "Phase 3 — helping the child gain insight into their lifestyle",
+      "Phase 4 — reorientation and reeducation"
+    ],
+    "correct_index": 2,
+    "rationale": "In Phase 3 of Adlerian play therapy, the counselor helps the child gain insight into their lifestyle (personality traits, self-concept, relationships with others) using metaphors, stories, artwork, sand trays, role-playing, and metacommunication. Phase 2 involves understanding the lifestyle; Phase 3 shifts to promoting insight about it. (Vernon & Schimmel, Ch. 4, p. 133)",
+    "difficulty": "challenging",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 4, p. 133"
+  },
+  {
+    "id": "caf04_q09",
+    "chapter": 4,
+    "topic": "Play Therapy — CBPT",
+    "concept": "Cognitive-behavioral play therapy",
+    "question": "Cognitive-behavioral play therapy (CBPT), developed by Susan Knell (1993), is described as 'problem focused' rather than 'client focused.' What does this distinction mean?",
+    "options": [
+      "CBPT prioritizes the counselor's assessment of the problem over the child's self-report",
+      "CBPT examines the child's thoughts, feelings, and environment in relation to a specific presenting problem rather than centering the overall client experience",
+      "CBPT focuses exclusively on behavioral change and ignores cognitive and emotional factors",
+      "CBPT uses manualized, prescriptive protocols that do not adapt to individual client needs"
+    ],
+    "correct_index": 1,
+    "rationale": "Knell (2009) specifies that CBPT is problem-focused rather than client-focused — the counselor examines the child's thoughts, feelings, fantasies, and environment specifically in relation to the presenting problem. This contrasts with nondirective approaches like CCPT that follow the child's overall self-directed process. (Vernon & Schimmel, Ch. 4, p. 134)",
+    "difficulty": "challenging",
+    "questionType": "concept-recognition",
+    "source": "Vernon & Schimmel, Ch. 4, p. 134"
+  },
+  {
+    "id": "caf04_q10",
+    "chapter": 4,
+    "topic": "Play Therapy — Theraplay",
+    "concept": "Theraplay four dimensions",
+    "question": "Theraplay (Jernberg & Booth, 1999) is built around four therapeutic dimensions modeled on healthy parent-child interaction. Which of the following correctly identifies all four?",
+    "options": [
+      "Trust, play, exploration, and nurture",
+      "Attachment, engagement, structure, and challenge",
+      "Structure, challenge, engagement, and nurture",
+      "Safety, engagement, play, and reflection"
+    ],
+    "correct_index": 2,
+    "rationale": "Theraplay's four dimensions are: structure (safety, clear beginnings/endings), challenge (age-appropriate risk to build mastery), engagement (playful, spontaneous interaction showing the world is fun), and nurture (soothing, calming, meeting early emotional needs). These model healthy parent-child attunement. (Vernon & Schimmel, Ch. 4, p. 136)",
+    "difficulty": "moderate",
+    "questionType": "recall",
+    "source": "Vernon & Schimmel, Ch. 4, p. 136"
+  },
+  {
+    "id": "caf04_q11",
+    "chapter": 4,
+    "topic": "Play Therapy — Multicultural",
+    "concept": "Cultural considerations in play therapy",
+    "question": "To provide culturally competent play therapy services, a counselor setting up a playroom should:",
+    "options": [
+      "Use only neutral, culturally unspecific materials to avoid implying cultural assumptions",
+      "Select toys based primarily on the cultural background of the current caseload",
+      "Include toys, books, and sand tray miniatures representing diverse cultures, ethnicities, genders, and religions to communicate that the playroom is welcoming to all children",
+      "Remove materials that could reinforce cultural stereotypes and replace them with abstract, symbolic materials"
+    ],
+    "correct_index": 2,
+    "rationale": "Chang, Ritter, and Hays (2005) recommend that culturally competent play therapists include toys representing a variety of cultures. The setup of the playroom conveys a message to children — diversity in materials signals that all children are recognized and welcome. Counselors must avoid toys that rely on stereotypes while ensuring diverse representation. (Vernon & Schimmel, Ch. 4, p. 138)",
+    "difficulty": "moderate",
+    "questionType": "application",
+    "source": "Vernon & Schimmel, Ch. 4, p. 138"
+  }
+]

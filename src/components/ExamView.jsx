@@ -22,12 +22,13 @@ function formatTime(seconds) {
   return `${h}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`
 }
 
-export default function ExamView({ questions, onBack, user, isAdmin, addMissed }) {
+export default function ExamView({ questions, onBack, user, isAdmin, addMissed, duration }) {
+  const examDuration = duration ?? EXAM_DURATION
   const [started, setStarted] = useState(false)
   const [answers, setAnswers] = useState({})
   const [flagged, setFlagged] = useState(new Set())
   const [currentIndex, setCurrentIndex] = useState(0)
-  const [timeLeft, setTimeLeft] = useState(EXAM_DURATION)
+  const [timeLeft, setTimeLeft] = useState(examDuration)
   const [submitted, setSubmitted] = useState(false)
   const [confirmSubmit, setConfirmSubmit] = useState(false)
   const [confirmAbandon, setConfirmAbandon] = useState(false)
@@ -36,7 +37,7 @@ export default function ExamView({ questions, onBack, user, isAdmin, addMissed }
   const [saving, setSaving] = useState(false)
   const [reviewMode, setReviewMode] = useState(false)
   const [reviewIndex, setReviewIndex] = useState(0)
-  const timeLeftRef = useRef(EXAM_DURATION)
+  const timeLeftRef = useRef(examDuration)
   const addedMissedRef = useRef(false)
 
   useEffect(() => {
