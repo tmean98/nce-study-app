@@ -359,22 +359,21 @@ export default function App() {
         }}>
           <div style={{ maxWidth: '900px', margin: '0 auto' }}>
 
-            {/* Eagle + greeting row */}
-            <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem', marginBottom: '2rem' }}>
-              <img
-                src="/eagle-mascot.png"
-                alt="Eagle mascot"
-                style={{ width: '72px', height: '72px', objectFit: 'contain', filter: 'drop-shadow(0 0 12px rgba(212,168,79,0.35))' }}
-              />
-              <div>
-                <p style={{ fontSize: '0.7rem', letterSpacing: '0.14em', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>WELCOME BACK, {displayName.toUpperCase()}</p>
-                <h1 style={{ fontSize: '2rem', fontWeight: 700, lineHeight: 1.1 }}>Your Study Modules</h1>
+            {/* Hero row: text left, eagle right */}
+            <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', gap: '2rem', marginBottom: '2.5rem' }}>
+              <div style={{ flex: 1 }}>
+                <p style={{ fontSize: '0.7rem', letterSpacing: '0.14em', color: 'var(--text-muted)', marginBottom: '0.4rem' }}>WELCOME BACK, {displayName.toUpperCase()}</p>
+                <h1 style={{ fontSize: '2.4rem', fontWeight: 700, lineHeight: 1.1, marginBottom: '1rem' }}>Your Study Modules</h1>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+                  <p style={{ color: 'var(--text-muted)', fontSize: '0.95rem', fontStyle: 'italic' }}>"{MODULE_TAGLINES[taglineIndex]}"</p>
+                  <button onClick={() => setTaglineIndex(i => (i + 1) % MODULE_TAGLINES.length)} style={{ background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', fontSize: '0.75rem', padding: '2px 6px', opacity: 0.6 }} title="Another one">↻</button>
+                </div>
               </div>
-            </div>
-
-            <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '3rem' }}>
-              <p style={{ color: 'var(--text-muted)', fontSize: '0.95rem', fontStyle: 'italic' }}>"{MODULE_TAGLINES[taglineIndex]}"</p>
-              <button onClick={() => setTaglineIndex(i => (i + 1) % MODULE_TAGLINES.length)} style={{ background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', fontSize: '0.75rem', padding: '2px 6px', opacity: 0.6 }} title="Another one">↻</button>
+              <img
+                src="/eagle-study-buddy.png"
+                alt="Eagle study buddy"
+                style={{ width: '200px', flexShrink: 0, filter: 'drop-shadow(0 4px 24px rgba(212,168,79,0.25))' }}
+              />
             </div>
 
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))', gap: '1.5rem' }}>
