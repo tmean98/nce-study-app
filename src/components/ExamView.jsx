@@ -22,7 +22,7 @@ function formatTime(seconds) {
   return `${h}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`
 }
 
-export default function ExamView({ questions, onBack, user, isAdmin, addMissed, duration }) {
+export default function ExamView({ questions, onBack, user, isAdmin, addMissed, duration, examTitle, nceMode = true }) {
   const examDuration = duration ?? EXAM_DURATION
   const [started, setStarted] = useState(false)
   const [answers, setAnswers] = useState({})
@@ -109,27 +109,27 @@ export default function ExamView({ questions, onBack, user, isAdmin, addMissed, 
     return (
       <div className="exam-prestart">
         <button className="btn btn-ghost" onClick={onBack}>← Back</button>
-        <h2 className="exam-prestart-title">NCE Practice Exam</h2>
-        <p className="exam-prestart-subtitle">Simulated full-length exam · CACREP-weighted</p>
+        <h2 className="exam-prestart-title">{examTitle || (nceMode ? 'NCE Practice Exam' : 'Practice Exam')}</h2>
+        <p className="exam-prestart-subtitle">{nceMode ? 'Simulated full-length exam · CACREP-weighted' : 'Full-length practice · No feedback until submission'}</p>
 
         <div className="exam-info-grid">
           <div className="exam-info-card">
-            <div className="exam-info-num">200</div>
+            <div className="exam-info-num">{questions.length}</div>
             <div className="exam-info-label">Questions</div>
           </div>
           <div className="exam-info-card">
-            <div className="exam-info-num">4:00</div>
-            <div className="exam-info-label">Hours</div>
+            <div className="exam-info-num">{`${Math.floor(examDuration / 3600)}:${String(Math.floor((examDuration % 3600) / 60)).padStart(2, '0')}`}</div>
+            <div className="exam-info-label">{examDuration < 3600 ? 'Minutes' : 'Hours'}</div>
           </div>
           <div className="exam-info-card">
-            <div className="exam-info-num">8</div>
-            <div className="exam-info-label">CACREP Domains</div>
+            <div className="exam-info-num">{Object.keys(domainCounts).length}</div>
+            <div className="exam-info-label">{nceMode ? 'CACREP Domains' : 'Chapters'}</div>
           </div>
         </div>
 
         <div className="exam-domain-table">
           <div className="exam-domain-header">
-            <span>Domain</span><span>Questions</span>
+            <span>{nceMode ? 'Domain' : 'Chapter'}</span><span>Questions</span>
           </div>
           {Object.entries(domainCounts).map(([domain, count]) => (
             <div key={domain} className="exam-domain-row">
@@ -140,7 +140,10 @@ export default function ExamView({ questions, onBack, user, isAdmin, addMissed, 
         </div>
 
         <p className="exam-prestart-note">
-          You will not see correct/incorrect feedback until you submit. You can flag questions and navigate freely. Like the real NCE, 40 of the 200 questions are unscored field test questions — you won't know which ones they are.
+          {nceMode
+            ? 'You will not see correct/incorrect feedback until you submit. You can flag questions and navigate freely. Like the real NCE, 40 of the 200 questions are unscored field test questions — you won\'t know which ones they are.'
+            : 'You will not see correct/incorrect feedback until you submit. You can flag questions and navigate freely.'
+          }
         </p>
         <button className="btn btn-primary exam-start-btn" onClick={() => setStarted(true)}>
           Begin Exam
@@ -249,16 +252,18 @@ export default function ExamView({ questions, onBack, user, isAdmin, addMissed, 
         <div className={`exam-score-pct ${scoredPct >= passingThreshold ? 'pass' : 'fail'}`}>
           {scoredPct}% — {scoredPct >= passingThreshold ? 'Likely Passing' : 'Below Passing Range'}
         </div>
-        <p className="exam-score-secondary">{totalCorrectAll} / {questions.length} overall (includes field test questions)</p>
+        {nceMode && <p className="exam-score-secondary">{totalCorrectAll} / {questions.length} overall (includes field test questions)</p>}
         <p className="exam-time-spent">Time used: {formatTime(timeSpent)}</p>
 
-        <div className="exam-nce-explainer">
-          <h4 className="exam-nce-explainer-title">How NCE Scoring Works</h4>
-          <p>The real NCE has <strong>200 questions</strong>, but <strong>40 are unscored field test questions</strong> used to develop future exams — you won't know which ones they are. Only your performance on the <strong>160 scored questions</strong> counts.</p>
-          <p>Passing typically requires <strong>56–67% correct</strong> (roughly 90–105 out of 160). Your score above reflects this method.</p>
-        </div>
+        {nceMode && (
+          <div className="exam-nce-explainer">
+            <h4 className="exam-nce-explainer-title">How NCE Scoring Works</h4>
+            <p>The real NCE has <strong>200 questions</strong>, but <strong>40 are unscored field test questions</strong> used to develop future exams — you won't know which ones they are. Only your performance on the <strong>160 scored questions</strong> counts.</p>
+            <p>Passing typically requires <strong>56–67% correct</strong> (roughly 90–105 out of 160). Your score above reflects this method.</p>
+          </div>
+        )}
 
-        <h3 className="exam-domain-results-title">Performance by Domain</h3>
+        <h3 className="exam-domain-results-title">Performance by {nceMode ? 'Domain' : 'Chapter'}</h3>
         <div className="exam-domain-results">
           {sortedDomains.map(({ domain, correct, total, pct }) => {
             const isStrength = pct >= 70

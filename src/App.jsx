@@ -331,7 +331,7 @@ export default function App() {
         <ExamView questions={data} onBack={goHome} user={user} isAdmin={isAdmin} addMissed={addMissed} />
       )}
       {view === 'caf_exam' && data && (
-        <ExamView questions={data} onBack={goHome} user={user} isAdmin={isAdmin} addMissed={addMissed} duration={90 * 60} />
+        <ExamView questions={data} onBack={goHome} user={user} isAdmin={isAdmin} addMissed={addMissed} duration={90 * 60} nceMode={false} examTitle="CAF Midterm Practice Exam" />
       )}
       {view === 'mini_exam' && data && miniExamMeta && (
         <MiniExamView
