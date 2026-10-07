@@ -351,30 +351,65 @@ export default function App() {
       )}
 
       {view === 'modules' && (
-        <main style={{ minHeight: '100vh', padding: '3rem 1.5rem' }}>
+        <main style={{
+          minHeight: '100vh',
+          padding: '3rem 1.5rem',
+          backgroundImage: 'radial-gradient(circle, rgba(255,255,255,0.04) 1px, transparent 1px)',
+          backgroundSize: '28px 28px',
+        }}>
           <div style={{ maxWidth: '900px', margin: '0 auto' }}>
-            <p style={{ fontSize: '0.7rem', letterSpacing: '0.14em', color: 'var(--text-muted)', marginBottom: '0.3rem' }}>WELCOME BACK, {displayName.toUpperCase()}</p>
-            <h1 style={{ fontSize: '2rem', fontWeight: 700, marginBottom: '0.5rem' }}>Your Study Modules</h1>
+
+            {/* Eagle + greeting row */}
+            <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem', marginBottom: '2rem' }}>
+              <img
+                src="/eagle-mascot.png"
+                alt="Eagle mascot"
+                style={{ width: '72px', height: '72px', objectFit: 'contain', filter: 'drop-shadow(0 0 12px rgba(212,168,79,0.35))' }}
+              />
+              <div>
+                <p style={{ fontSize: '0.7rem', letterSpacing: '0.14em', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>WELCOME BACK, {displayName.toUpperCase()}</p>
+                <h1 style={{ fontSize: '2rem', fontWeight: 700, lineHeight: 1.1 }}>Your Study Modules</h1>
+              </div>
+            </div>
+
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '3rem' }}>
               <p style={{ color: 'var(--text-muted)', fontSize: '0.95rem', fontStyle: 'italic' }}>"{MODULE_TAGLINES[taglineIndex]}"</p>
               <button onClick={() => setTaglineIndex(i => (i + 1) % MODULE_TAGLINES.length)} style={{ background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', fontSize: '0.75rem', padding: '2px 6px', opacity: 0.6 }} title="Another one">↻</button>
             </div>
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))', gap: '1.5rem' }}>
 
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))', gap: '1.5rem' }}>
               {[
                 {
-                  emoji: '📋',
                   tag: 'EXAM PREP',
                   title: 'NCE Qualifying Exam',
                   desc: '8 CACREP domains · 200 practice questions · 4-hour timed exam',
                   action: () => setView('home'),
+                  accentColor: '#D4A84F',
+                  glowColor: 'rgba(212,168,79,0.18)',
+                  icon: (
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                      <rect x="4" y="6" width="24" height="20" rx="3" stroke="#D4A84F" strokeWidth="1.6" fill="none"/>
+                      <path d="M10 13h12M10 17h8M10 21h5" stroke="#D4A84F" strokeWidth="1.4" strokeLinecap="round"/>
+                      <path d="M16 2l2.5 3.5H13.5L16 2Z" fill="#D4A84F"/>
+                    </svg>
+                  ),
                 },
                 {
-                  emoji: '👧',
                   tag: 'COUN 6103 · MIDTERM OCT 8',
                   title: 'Child, Adolescent & Family',
                   desc: 'Ch. 1–7 · Vernon & Schimmel · 76 questions · 90-min exam',
                   action: () => setView('caf'),
+                  accentColor: '#5eadd4',
+                  glowColor: 'rgba(94,173,212,0.18)',
+                  icon: (
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                      <circle cx="16" cy="9" r="4" stroke="#5eadd4" strokeWidth="1.6" fill="none"/>
+                      <circle cx="7" cy="13" r="3" stroke="#5eadd4" strokeWidth="1.4" fill="none"/>
+                      <circle cx="25" cy="13" r="3" stroke="#5eadd4" strokeWidth="1.4" fill="none"/>
+                      <path d="M10 26c0-3.3 2.7-6 6-6s6 2.7 6 6" stroke="#5eadd4" strokeWidth="1.6" strokeLinecap="round" fill="none"/>
+                      <path d="M4 28c0-2.2 1.3-4 3-4.5M28 28c0-2.2-1.3-4-3-4.5" stroke="#5eadd4" strokeWidth="1.3" strokeLinecap="round" fill="none"/>
+                    </svg>
+                  ),
                 },
               ].map(mod => (
                 <div
@@ -382,29 +417,31 @@ export default function App() {
                   onClick={mod.action}
                   style={{
                     background: 'var(--card-bg, #0f1829)',
-                    border: '1px solid var(--border, rgba(255,255,255,0.08))',
+                    border: '1px solid rgba(255,255,255,0.07)',
+                    borderTop: `3px solid ${mod.accentColor}`,
                     borderRadius: '16px',
                     padding: '2rem',
                     cursor: 'pointer',
-                    transition: 'border-color 0.15s, transform 0.15s',
+                    transition: 'box-shadow 0.2s, transform 0.15s',
                     display: 'flex',
                     flexDirection: 'column',
                     gap: '0.6rem',
+                    boxShadow: `0 0 0 0 ${mod.glowColor}`,
                   }}
-                  onMouseEnter={e => { e.currentTarget.style.borderColor = 'var(--accent, #D4A84F)'; e.currentTarget.style.transform = 'translateY(-2px)' }}
-                  onMouseLeave={e => { e.currentTarget.style.borderColor = 'var(--border, rgba(255,255,255,0.08))'; e.currentTarget.style.transform = 'translateY(0)' }}
+                  onMouseEnter={e => { e.currentTarget.style.boxShadow = `0 8px 32px ${mod.glowColor}`; e.currentTarget.style.transform = 'translateY(-3px)' }}
+                  onMouseLeave={e => { e.currentTarget.style.boxShadow = '0 0 0 0 transparent'; e.currentTarget.style.transform = 'translateY(0)' }}
                 >
-                  <div style={{ fontSize: '2.2rem', lineHeight: 1, marginBottom: '0.4rem' }}>{mod.emoji}</div>
-                  <p style={{ fontSize: '0.65rem', letterSpacing: '0.12em', color: 'var(--accent, #D4A84F)', fontWeight: 600 }}>{mod.tag}</p>
+                  <div style={{ marginBottom: '0.4rem' }}>{mod.icon}</div>
+                  <p style={{ fontSize: '0.65rem', letterSpacing: '0.12em', color: mod.accentColor, fontWeight: 600 }}>{mod.tag}</p>
                   <p style={{ fontWeight: 700, fontSize: '1.15rem', lineHeight: 1.3 }}>{mod.title}</p>
                   <p style={{ fontSize: '0.82rem', color: 'var(--text-muted)', lineHeight: 1.5, flexGrow: 1 }}>{mod.desc}</p>
                   <div style={{ marginTop: '1rem' }}>
-                    <span style={{ fontSize: '0.82rem', fontWeight: 600, color: 'var(--accent, #D4A84F)' }}>Open Module →</span>
+                    <span style={{ fontSize: '0.82rem', fontWeight: 600, color: mod.accentColor }}>Open Module →</span>
                   </div>
                 </div>
               ))}
-
             </div>
+
           </div>
         </main>
       )}
