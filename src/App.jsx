@@ -337,34 +337,55 @@ export default function App() {
       )}
 
       {view === 'modules' && (
-        <main className="home">
-          <div style={{ maxWidth: '860px', margin: '0 auto', padding: '2rem 1.5rem' }}>
-            <p style={{ fontSize: '0.75rem', letterSpacing: '0.12em', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>WELCOME BACK, {displayName.toUpperCase()}</p>
-            <h2 style={{ fontSize: '1.6rem', fontWeight: 700, marginBottom: '0.5rem' }}>Your Study Modules</h2>
-            <p style={{ color: 'var(--text-muted)', marginBottom: '2rem', fontSize: '0.9rem' }}>Select a module to start studying.</p>
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.25rem' }}>
+        <main style={{ minHeight: '100vh', padding: '3rem 1.5rem' }}>
+          <div style={{ maxWidth: '900px', margin: '0 auto' }}>
+            <p style={{ fontSize: '0.7rem', letterSpacing: '0.14em', color: 'var(--text-muted)', marginBottom: '0.3rem' }}>WELCOME BACK, {displayName.toUpperCase()}</p>
+            <h1 style={{ fontSize: '2rem', fontWeight: 700, marginBottom: '0.4rem' }}>Your Study Modules</h1>
+            <p style={{ color: 'var(--text-muted)', marginBottom: '3rem', fontSize: '0.9rem' }}>Select a course to study.</p>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))', gap: '1.5rem' }}>
 
-              {/* NCE Module */}
-              <div className="chapter-card" style={{ cursor: 'default' }}>
-                <div className="chapter-card-inner" style={{ padding: '1.5rem' }}>
-                  <div style={{ fontSize: '2rem', marginBottom: '0.75rem' }}>📋</div>
-                  <p style={{ fontSize: '0.7rem', letterSpacing: '0.1em', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>EXAM PREP</p>
-                  <p style={{ fontWeight: 700, fontSize: '1.1rem', marginBottom: '0.4rem' }}>NCE Qualifying Exam</p>
-                  <p style={{ fontSize: '0.82rem', color: 'var(--text-muted)', marginBottom: '1.25rem' }}>200 questions · 8 CACREP domains · 4-hour timed practice exam</p>
-                  <button className="ch-btn ch-btn-primary" style={{ width: '100%' }} onClick={() => setView('home')}>Open Module →</button>
+              {[
+                {
+                  emoji: '📋',
+                  tag: 'EXAM PREP',
+                  title: 'NCE Qualifying Exam',
+                  desc: '8 CACREP domains · 200 practice questions · 4-hour timed exam',
+                  action: () => setView('home'),
+                },
+                {
+                  emoji: '👧',
+                  tag: 'COUN 6103 · MIDTERM OCT 8',
+                  title: 'Child, Adolescent & Family',
+                  desc: 'Ch. 1–7 · Vernon & Schimmel · 76 questions · 90-min exam',
+                  action: () => setView('caf'),
+                },
+              ].map(mod => (
+                <div
+                  key={mod.title}
+                  onClick={mod.action}
+                  style={{
+                    background: 'var(--card-bg, #0f1829)',
+                    border: '1px solid var(--border, rgba(255,255,255,0.08))',
+                    borderRadius: '16px',
+                    padding: '2rem',
+                    cursor: 'pointer',
+                    transition: 'border-color 0.15s, transform 0.15s',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    gap: '0.6rem',
+                  }}
+                  onMouseEnter={e => { e.currentTarget.style.borderColor = 'var(--accent, #D4A84F)'; e.currentTarget.style.transform = 'translateY(-2px)' }}
+                  onMouseLeave={e => { e.currentTarget.style.borderColor = 'var(--border, rgba(255,255,255,0.08))'; e.currentTarget.style.transform = 'translateY(0)' }}
+                >
+                  <div style={{ fontSize: '2.2rem', lineHeight: 1, marginBottom: '0.4rem' }}>{mod.emoji}</div>
+                  <p style={{ fontSize: '0.65rem', letterSpacing: '0.12em', color: 'var(--accent, #D4A84F)', fontWeight: 600 }}>{mod.tag}</p>
+                  <p style={{ fontWeight: 700, fontSize: '1.15rem', lineHeight: 1.3 }}>{mod.title}</p>
+                  <p style={{ fontSize: '0.82rem', color: 'var(--text-muted)', lineHeight: 1.5, flexGrow: 1 }}>{mod.desc}</p>
+                  <div style={{ marginTop: '1rem' }}>
+                    <span style={{ fontSize: '0.82rem', fontWeight: 600, color: 'var(--accent, #D4A84F)' }}>Open Module →</span>
+                  </div>
                 </div>
-              </div>
-
-              {/* CAF Module */}
-              <div className="chapter-card" style={{ cursor: 'default' }}>
-                <div className="chapter-card-inner" style={{ padding: '1.5rem' }}>
-                  <div style={{ fontSize: '2rem', marginBottom: '0.75rem' }}>👶</div>
-                  <p style={{ fontSize: '0.7rem', letterSpacing: '0.1em', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>COUN 6103 · MIDTERM OCT 8</p>
-                  <p style={{ fontWeight: 700, fontSize: '1.1rem', marginBottom: '0.4rem' }}>Child, Adolescent & Family</p>
-                  <p style={{ fontSize: '0.82rem', color: 'var(--text-muted)', marginBottom: '1.25rem' }}>76 questions · 7 chapters · Vernon &amp; Schimmel · 90-min practice exam</p>
-                  <button className="ch-btn ch-btn-primary" style={{ width: '100%' }} onClick={() => setView('caf')}>Open Module →</button>
-                </div>
-              </div>
+              ))}
 
             </div>
           </div>
