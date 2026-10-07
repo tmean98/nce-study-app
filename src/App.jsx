@@ -83,6 +83,19 @@ function getStressLevel() {
   return { label: 'Totally Fine', emoji: '😌', pct: 10, color: '#22c55e' }
 }
 
+const MODULE_TAGLINES = [
+  "Study smarter. Counsel better.",
+  "Your clients deserve a counselor who did the readings.",
+  "Midterms are temporary. Licensure is forever.",
+  "One flashcard closer to that degree.",
+  "You didn't come this far to only come this far.",
+  "The NCE won't pass itself.",
+  "Somewhere, Albert Ellis is disputing your excuse not to study.",
+  "Pro tip: know the material before Room 205.",
+  "Carl Rogers believes in you unconditionally. Now believe in yourself.",
+  "What would your future clients want you to do right now?",
+]
+
 const QUOTES = [
   { text: "Excellence is the gradual result of always striving to do better.", author: "Pat Riley" },
   { text: "The secret of getting ahead is getting started.", author: "Mark Twain" },
@@ -102,6 +115,7 @@ export default function App() {
   const [showWelcome, setShowWelcome] = useState(false)
   const [miniExamMeta, setMiniExamMeta] = useState(null)
   const [rogersIndex, setRogersIndex] = useState(() => Math.floor(Math.random() * ROGERS_QUOTES.length))
+  const [taglineIndex, setTaglineIndex] = useState(() => Math.floor(Math.random() * MODULE_TAGLINES.length))
   const { mastered, masteredByChapter, markMastered } = useMastery(user?.id)
   const { missedByChapter, addMissed, removeMissed } = useMissedFlashcards(user?.id)
   const { earned: earnedAchievements, newlyEarned, dismissToast, check: checkAchievements } = useAchievements(user?.id)
@@ -305,7 +319,7 @@ export default function App() {
           onDontShowAgain={() => { localStorage.setItem(`nce_onboarded_${user.id}`, 'dismissed'); setShowWelcome(false) }}
         />
       )}
-      <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} onLeaderboard={() => setView('leaderboard')} onAdmin={isAdmin ? () => setView('admin') : null} />
+      <Header user={user} onSignOut={() => supabase?.auth.signOut()} onHelp={() => setShowWelcome(true)} onLeaderboard={() => setView('leaderboard')} onAdmin={isAdmin ? () => setView('admin') : null} onHome={goHome} />
 
       {view === 'flashcards' && data && (
         <FlashcardView cards={data} chapterName={chapterLabel} onBack={goHome} userId={user?.id} />
@@ -340,8 +354,11 @@ export default function App() {
         <main style={{ minHeight: '100vh', padding: '3rem 1.5rem' }}>
           <div style={{ maxWidth: '900px', margin: '0 auto' }}>
             <p style={{ fontSize: '0.7rem', letterSpacing: '0.14em', color: 'var(--text-muted)', marginBottom: '0.3rem' }}>WELCOME BACK, {displayName.toUpperCase()}</p>
-            <h1 style={{ fontSize: '2rem', fontWeight: 700, marginBottom: '0.4rem' }}>Your Study Modules</h1>
-            <p style={{ color: 'var(--text-muted)', marginBottom: '3rem', fontSize: '0.9rem' }}>Select a course to study.</p>
+            <h1 style={{ fontSize: '2rem', fontWeight: 700, marginBottom: '0.5rem' }}>Your Study Modules</h1>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '3rem' }}>
+              <p style={{ color: 'var(--text-muted)', fontSize: '0.95rem', fontStyle: 'italic' }}>"{MODULE_TAGLINES[taglineIndex]}"</p>
+              <button onClick={() => setTaglineIndex(i => (i + 1) % MODULE_TAGLINES.length)} style={{ background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', fontSize: '0.75rem', padding: '2px 6px', opacity: 0.6 }} title="Another one">↻</button>
+            </div>
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))', gap: '1.5rem' }}>
 
               {[
@@ -691,10 +708,10 @@ export default function App() {
   )
 }
 
-function Header({ user, onSignOut, onHelp, onLeaderboard, onAdmin }) {
+function Header({ user, onSignOut, onHelp, onLeaderboard, onAdmin, onHome }) {
   return (
     <header className="header">
-      <div className="header-brand">
+      <div className="header-brand" onClick={onHome} style={{ cursor: 'pointer' }}>
         <svg width="20" height="22" viewBox="0 0 20 22" fill="none">
           <path d="M10 1L2 4.5V10.5C2 15.1 5.4 19.4 10 21C14.6 19.4 18 15.1 18 10.5V4.5L10 1Z" stroke="#D4A84F" strokeWidth="1.5" fill="none"/>
           <path d="M7 11L9 13L13 9" stroke="#D4A84F" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
