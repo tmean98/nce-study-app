@@ -92,7 +92,7 @@ const QUOTES = [
 const quote = QUOTES[Math.floor(Date.now() / 86400000) % QUOTES.length]
 
 export default function App() {
-  const [view, setView] = useState('home')
+  const [view, setView] = useState('modules')
   const [activeChapter, setActiveChapter] = useState(null)
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
@@ -267,7 +267,7 @@ export default function App() {
     setLoading(false)
   }
 
-  function goHome() { setView('home'); setData(null); setActiveChapter(null); setMiniExamMeta(null) }
+  function goHome() { setView('modules'); setData(null); setActiveChapter(null); setMiniExamMeta(null) }
 
   const isAdmin = ADMIN_USERNAMES.includes(user?.user_metadata?.display_name?.toLowerCase())
 
@@ -335,8 +335,100 @@ export default function App() {
       {view === 'admin' && isAdmin && (
         <AdminView onBack={goHome} />
       )}
+
+      {view === 'modules' && (
+        <main className="home">
+          <div style={{ maxWidth: '860px', margin: '0 auto', padding: '2rem 1.5rem' }}>
+            <p style={{ fontSize: '0.75rem', letterSpacing: '0.12em', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>WELCOME BACK, {displayName.toUpperCase()}</p>
+            <h2 style={{ fontSize: '1.6rem', fontWeight: 700, marginBottom: '0.5rem' }}>Your Study Modules</h2>
+            <p style={{ color: 'var(--text-muted)', marginBottom: '2rem', fontSize: '0.9rem' }}>Select a module to start studying.</p>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.25rem' }}>
+
+              {/* NCE Module */}
+              <div className="chapter-card" style={{ cursor: 'default' }}>
+                <div className="chapter-card-inner" style={{ padding: '1.5rem' }}>
+                  <div style={{ fontSize: '2rem', marginBottom: '0.75rem' }}>📋</div>
+                  <p style={{ fontSize: '0.7rem', letterSpacing: '0.1em', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>EXAM PREP</p>
+                  <p style={{ fontWeight: 700, fontSize: '1.1rem', marginBottom: '0.4rem' }}>NCE Qualifying Exam</p>
+                  <p style={{ fontSize: '0.82rem', color: 'var(--text-muted)', marginBottom: '1.25rem' }}>200 questions · 8 CACREP domains · 4-hour timed practice exam</p>
+                  <button className="ch-btn ch-btn-primary" style={{ width: '100%' }} onClick={() => setView('home')}>Open Module →</button>
+                </div>
+              </div>
+
+              {/* CAF Module */}
+              <div className="chapter-card" style={{ cursor: 'default' }}>
+                <div className="chapter-card-inner" style={{ padding: '1.5rem' }}>
+                  <div style={{ fontSize: '2rem', marginBottom: '0.75rem' }}>👶</div>
+                  <p style={{ fontSize: '0.7rem', letterSpacing: '0.1em', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>COUN 6103 · MIDTERM OCT 8</p>
+                  <p style={{ fontWeight: 700, fontSize: '1.1rem', marginBottom: '0.4rem' }}>Child, Adolescent & Family</p>
+                  <p style={{ fontSize: '0.82rem', color: 'var(--text-muted)', marginBottom: '1.25rem' }}>76 questions · 7 chapters · Vernon &amp; Schimmel · 90-min practice exam</p>
+                  <button className="ch-btn ch-btn-primary" style={{ width: '100%' }} onClick={() => setView('caf')}>Open Module →</button>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </main>
+      )}
+
+      {view === 'caf' && (
+        <main className="home">
+          <div style={{ maxWidth: '960px', margin: '0 auto', padding: '2rem 1.5rem' }}>
+            <button className="ch-btn ch-btn-ghost" style={{ marginBottom: '1.5rem' }} onClick={goHome}>← All Modules</button>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '1rem', marginBottom: '0.5rem' }}>
+              <div>
+                <p style={{ fontSize: '0.7rem', letterSpacing: '0.1em', color: 'var(--text-muted)' }}>COUN 6103 · MIDTERM OCT 8 · ROOM 205 · 90 MIN</p>
+                <h2 style={{ fontSize: '1.5rem', fontWeight: 700 }}>Child, Adolescent &amp; Family Counseling</h2>
+              </div>
+              <button className="exam-hero-cta" style={{ fontSize: '0.78rem', padding: '10px 20px' }} onClick={openCAFExam} disabled={loading}>
+                {loading ? 'LOADING…' : '75-Q Midterm Practice Exam →'}
+              </button>
+            </div>
+            <p style={{ fontSize: '0.82rem', color: 'var(--text-muted)', marginBottom: '2rem' }}>Vernon &amp; Schimmel — Chapters 1–7</p>
+            <div className="chapter-grid">
+              {CAF_CHAPTERS.map(ch => {
+                const chMastered = masteredByChapter[ch.id] || 0
+                const chTotal = ch.questions
+                const chPct = Math.round((chMastered / chTotal) * 100)
+                const complete = chMastered === chTotal
+                const started = chMastered > 0
+                return (
+                  <div key={ch.id} className={`chapter-card${complete ? ' chapter-card-complete' : ''}`}>
+                    <div className="chapter-card-inner">
+                      <div className="chapter-card-numeral">{ch.num}</div>
+                      <div className="chapter-card-body">
+                        <p className="chapter-card-title">{ch.title}</p>
+                        <p className="chapter-card-meta">{ch.questions} QUESTIONS</p>
+                        {started && (
+                          <div className="chapter-card-bar-wrap">
+                            <div className="chapter-card-bar" style={{ width: `${chPct}%`, background: complete ? '#22c55e' : undefined }} />
+                          </div>
+                        )}
+                        <div className="chapter-card-footer">
+                          <span className="chapter-card-score">
+                            {complete ? '✓ Complete' : started ? `${chMastered} / ${chTotal} mastered` : 'Not started'}
+                          </span>
+                          <div className="chapter-card-actions">
+                            <button className="ch-btn ch-btn-primary" onClick={() => openView(ch, 'quiz')}>
+                              {started ? 'Continue →' : 'Study →'}
+                            </button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+        </main>
+      )}
+
       {view === 'home' && (
       <main className="home">
+        <div style={{ padding: '0.75rem 1.5rem 0' }}>
+          <button className="ch-btn ch-btn-ghost" onClick={goHome}>← All Modules</button>
+        </div>
         <div className="home-layout">
 
           {/* ── Sidebar ── */}
@@ -550,59 +642,6 @@ export default function App() {
               </div>
             </div>
 
-            {/* CAF Module */}
-            <div>
-              <div className="chapter-grid-header">
-                <span className="chapter-grid-label">CAF MIDTERM — COUN 6103</span>
-                <button
-                  className="exam-hero-cta"
-                  style={{ fontSize: '0.75rem', padding: '8px 16px' }}
-                  onClick={openCAFExam}
-                  disabled={loading}
-                >
-                  {loading ? 'LOADING…' : '75-Q Midterm Practice →'}
-                </button>
-              </div>
-              <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '1rem' }}>
-                Ch. 1–7 · Vernon &amp; Schimmel · Exam Oct 8 · 90 min · Room 205
-              </p>
-              <div className="chapter-grid">
-                {CAF_CHAPTERS.map(ch => {
-                  const chMastered = masteredByChapter[ch.id] || 0
-                  const chTotal = ch.questions
-                  const chPct = Math.round((chMastered / chTotal) * 100)
-                  const complete = chMastered === chTotal
-                  const started = chMastered > 0
-                  return (
-                    <div key={ch.id} className={`chapter-card${complete ? ' chapter-card-complete' : ''}`}>
-                      <div className="chapter-card-inner">
-                        <div className="chapter-card-numeral">{ch.num}</div>
-                        <div className="chapter-card-body">
-                          <p className="chapter-card-title">{ch.title}</p>
-                          <p className="chapter-card-meta">{ch.questions} QUESTIONS</p>
-                          {started && (
-                            <div className="chapter-card-bar-wrap">
-                              <div className="chapter-card-bar" style={{ width: `${chPct}%`, background: complete ? '#22c55e' : undefined }} />
-                            </div>
-                          )}
-                          <div className="chapter-card-footer">
-                            <span className="chapter-card-score">
-                              {complete ? '✓ Complete' : started ? `${chMastered} / ${chTotal} mastered` : 'Not started'}
-                            </span>
-                            <div className="chapter-card-actions">
-                              <button className="ch-btn ch-btn-primary" onClick={() => openView(ch, 'quiz')}>
-                                {started ? 'Continue →' : 'Study →'}
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  )
-                })}
-              </div>
-            </div>
-
             {/* Achievements */}
             <div>
               <div className="chapter-grid-header">
@@ -639,7 +678,7 @@ function Header({ user, onSignOut, onHelp, onLeaderboard, onAdmin }) {
           <path d="M10 1L2 4.5V10.5C2 15.1 5.4 19.4 10 21C14.6 19.4 18 15.1 18 10.5V4.5L10 1Z" stroke="#D4A84F" strokeWidth="1.5" fill="none"/>
           <path d="M7 11L9 13L13 9" stroke="#D4A84F" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
         </svg>
-        <span className="header-mark">NCE STUDY</span>
+        <span className="header-mark">CMHC 25 STUDY</span>
       </div>
       <div className="header-right">
         <span className="header-user">{user.user_metadata?.display_name || user.email.split('@')[0]}</span>
